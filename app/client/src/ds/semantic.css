@@ -1,0 +1,279 @@
+/* ═══════════════════════════════════════════════════════════════════════
+   SEMANTIC TIER — interface roles, phase 6
+
+   The layer that was missing. `--sc-*` (brand.css) holds SkillCase's raw
+   values; `--colors-*` (fig-tokens.css) holds the imported Untitled UI ramp;
+   neither says what a colour is FOR. This file does, and it is the only tier
+   components should reference.
+
+   ── Why a new `--ui-*` prefix rather than extending `--sc-*`
+   brand.css already carries a short "Semantic aliases" block, transcribed
+   from Figma. Three of its entries contradict the shipping app:
+
+     --sc-action-primary : var(--sc-green-600)   #019035  ← Figma
+     AppButton primary   : #edb843 on #002856             ← shipping code
+
+   Per D-001 the code wins, but per D-005 we do not silently rewrite a token
+   because another value looks better. So the Figma-derived aliases are left
+   untouched and flagged for a human (see decisions.md, open question 8);
+   the canonical roles live here under a prefix that cannot collide.
+
+   ── Sourcing
+   Every value below was read off the shipping app, not chosen. Where the
+   product is inconsistent, BOTH values are tokenised and named for what they
+   are, rather than averaged into one — a semantic tier that hides a
+   divergence is worse than the literals it replaced.
+   ═══════════════════════════════════════════════════════════════════════ */
+:root{
+
+/* ── Surface ─────────────────────────────────────────────────────────── */
+--ui-surface-page:#ffffff;
+--ui-surface-card:#ffffff;
+--ui-surface-sunken:rgba(0,0,0,.05);   /* the black/5 wash behind result cards */
+--ui-surface-subtle:#f8fafc;
+--ui-surface-muted:#f1f5f9;
+--ui-surface-inverse:#002856;          /* navy chrome: header, tab bar, dark panels */
+--ui-surface-inverse-alt:#083262;
+--ui-surface-info:#dbeafe;             /* the blue icon well on list rows */
+--ui-scrim:rgba(0,0,0,.6);
+
+/* ── Text ────────────────────────────────────────────────────────────── */
+/* ── Text ─────────────────────────────────────────────────────────────────
+   The product ships TWO body inks and the choice between them is the one place
+   where "follow the code" needed a tie-breaker, because the code disagrees
+   with itself:
+
+     #181d27  A1, A2 and B1 flashcard · grammar · listening · chapter select ·
+              back navigation. ALSO `--sc-ink-900` in brand.css, i.e. the Figma
+              kit's body text.
+     #0f172a  `text-slate-900` on the B1 exam and read-listen surfaces only.
+
+   #181d27 wins: it is the value the app and Figma AGREE on, and it covers more
+   of the product. #0f172a is kept as `--ui-text-body-alt` rather than deleted,
+   because those surfaces really do render it — the divergence is recorded, not
+   averaged away (D-027). */
+--ui-text-primary:#082f49;             /* sky-950 — ASSESSMENT ink. Exam workspaces and
+                                          results use `text-sky-950` for every heading:
+                                          "Question 01 of 05", block titles, the results
+                                          greeting, review headings, the score readout,
+                                          the timer pill. Also BottomTabBar's active tab.
+                                          Consumed by ScoreRing and ExamTimerPill — both
+                                          exam components, which is why this role is the
+                                          assessment ink and not a general heading colour.
+                                          Briefly set to #002856 in the phase-7 checkpoint;
+                                          that was wrong for its only two consumers. */
+--ui-text-body:#181d27;                /* ink-900 — row titles, labels, question text */
+--ui-text-body-alt:#0f172a;            /* slate-900 — the B1 exam / read-listen surfaces */
+--ui-text-secondary:#414651;           /* ink-700 — supporting copy. Both the app
+                                          (`text-[#414651]`) and Figma
+                                          (`--sc-ink-700`) use this; #64748b
+                                          (slate-500) was a Tailwind stand-in. */
+--ui-text-muted:#535862;               /* ink-600 — section labels, exam type */
+--ui-text-faint:#94a3b8;               /* slate-400 — counts, chevrons */
+--ui-text-inverse:#ffffff;
+--ui-text-brand:#002856;
+
+/* ── Exam context ────────────────────────────────────────────────
+   The fourth colour context, alongside the shell (navy), Guided German
+   (blue-950 on blue) and content (slate). Exam surfaces pair sky-950 headings
+   with a blue-950 primary CTA — read off all four workspaces and results. */
+--ui-exam-cta-bg:#172554;              /* blue-950 — `bg-blue-950` on every exam CTA */
+--ui-exam-cta-hover:#1e3a8a;
+--ui-exam-review-bg:#002856;           /* the Review Answers button is navy, not blue-950 */
+--ui-exam-panel:rgba(0,0,0,.05);       /* the black/5 results well */
+--ui-exam-track:#e4e4e7;               /* zinc-100 unfilled block segment */
+
+/* ── Learning context (Guided German) ────────────────────────────────────
+   Guided German is a distinct colour context, not a variation of the shell:
+   a `from-blue-100 to-sky-100` page under blue-950 ink, where the app shell is
+   navy chrome under #002856. Tokenised so the two can never again be flattened
+   into one navy — see D-024b, and D-024 for the error that made this explicit. */
+--ui-learn-ink:#172554;                /* blue-950 — lesson headings, body, control text */
+--ui-learn-ink-alt:#1e3a8a;            /* blue-900 — CTA gradient stop, 80px audio border */
+--ui-learn-surface:linear-gradient(180deg,#dbeafe,#e0f2fe); /* @kind color */
+--ui-learn-cta:linear-gradient(90deg,#1e3a8a,#172554); /* @kind color */
+
+/* ── Border ──────────────────────────────────────────────────────────── */
+--ui-border-default:#e4e4e7;           /* zinc-200 — the card and row stroke */
+--ui-border-subtle:rgba(0,0,0,.05);
+--ui-border-muted:#d4d4d8;             /* zinc-300 — secondary button, tracks */
+--ui-border-strong:#002856;            /* selected / hovered on content surfaces */
+
+/* ── Action ──────────────────────────────────────────────────────────── */
+/* Gold is the primary CTA and navy is its ink — the inverse of what the
+   Figma-derived --sc-action-primary claims. Shipping evidence: AppButton. */
+--ui-action-primary-bg:#edb843;
+--ui-action-primary-fg:#002856;
+--ui-action-primary-hover:#d4a53c;
+--ui-action-primary-active:#c48b0e;
+--ui-action-dark-bg:#002856;           /* the navy CTA on exam and lesson screens */
+--ui-action-dark-fg:#ffffff;
+--ui-action-dark-hover:#003d83;
+--ui-action-dark-active:#001d40;
+--ui-action-secondary-bg:#ffffff;
+--ui-action-secondary-fg:#083262;
+--ui-action-busy-bg:#3b82f6;           /* the pulsing submit state, 5 production files */
+
+/* ── Feedback ────────────────────────────────────────────────────────── */
+--ui-success-fg:#15803d;
+--ui-success-fill:#16a34a;
+--ui-success-surface:rgba(21,128,61,.1);
+--ui-success-border:rgba(21,128,61,.2);
+
+--ui-warning-fg:#f97316;
+--ui-warning-fill:#fcd34d;
+--ui-warning-surface:rgba(254,243,199,.6);
+--ui-warning-border:rgba(251,146,60,.2);
+--ui-warning-ink:#92400e;
+
+--ui-danger-fg:#ef4444;
+--ui-danger-fill:#ef4444;
+--ui-danger-surface:#fee2e2;
+--ui-danger-border:rgba(239,68,68,.2);
+--ui-danger-ink:#b91c1c;
+
+--ui-neutral-fg:#737373;
+--ui-neutral-surface:rgba(163,163,163,.2);
+--ui-neutral-border:rgba(212,212,212,.3);
+
+/* ── Progress ────────────────────────────────────────────────────────── */
+--ui-track:#f4f4f5;                    /* zinc-100 — unfilled block segments */
+--ui-track-alt:#e4e4e7;
+--ui-track-ring:#d4d4d8;               /* the ScoreRing groove */
+--ui-progress-fill:#fcd34d;            /* amber — lesson and exam progress */
+--ui-progress-fill-done:#019035;       /* green — completed chapters */
+
+/* ── State ───────────────────────────────────────────────────────────── */
+/* Two opacities ship for what looks like one idea. They are tokenised
+   separately and named for their cause, because they may be a real
+   distinction (a rate limit is temporary; an eligibility gate is not).
+   See defects.md, P3 "Lock opacity". */
+--ui-opacity-disabled:.6; /* @kind other */              /* usage-limit lock — ExamSelect, PaperSelect */
+--ui-opacity-locked:.5; /* @kind other */                /* eligibility gate — ChapterSelectTemplate */
+--ui-opacity-dimmed:.6; /* @kind other */                /* review options that were not chosen */
+
+/* ── Focus (phase 7 — decided, validated) ────────────────────────────── */
+/* Production strips outlines on every button (`outline-none`, ~40 instances)
+   but DOES establish one focus treatment: text inputs use
+   `focus:ring-2 focus:ring-blue-600`. So the product has a focus idea for
+   fields and none for controls. That is the evidence this was built from.
+
+   A DUAL ring, because measurement rules out a single colour. Contrast of a
+   candidate ring against the four surfaces a focused control actually sits on:
+
+                        white   gold CTA  navy CTA  dark page
+     brand blue #1E76F3  4.25     2.34      3.44      3.87   ← fails on gold
+     blue-600  #2563EB   5.17     2.84      2.83      3.18   ← fails on gold+navy
+
+   No single hue clears 3:1 everywhere. A white inner ring plus a navy outer
+   ring does, because the pair is self-covering — on any surface at least one
+   of the two reaches 3:1, and the two always contrast with each other (14.6):
+
+                        white   gold CTA  navy CTA  sunken
+     navy outer         14.60    8.02      1.00     13.05
+     white inner         1.00    1.82     14.60      1.12   ← carries the navy case
+
+   Dark theme swaps the outer to gold: 7.99 on the dark page (#002856) and 7.04
+   on the dark card (#083262). Its inner 2px is the page navy itself, acting as
+   a gap that separates the control from the gold — an offset, not a ring.
+   A navy outer would vanish there. */
+--ui-focus-ring:0 0 0 2px #ffffff,0 0 0 4px #002856;
+
+/* ── Motion ──────────────────────────────────────────────────────────── */
+--ui-dur-instant:120ms; /* @kind other */
+--ui-dur-base:200ms; /* @kind other */
+--ui-dur-slow:500ms; /* @kind other */                   /* the ScoreRing / MetricBar fill */
+--ui-ease-standard:cubic-bezier(.4,0,.2,1); /* @kind other */
+--ui-ease-out:cubic-bezier(0,0,.2,1); /* @kind other */
+}
+
+/* Dark theme: the 205 dark declarations in fig-tokens.css override Untitled UI
+   names only, so nothing SkillCase-side was themed before this file existed.
+   Only the roles with observed dark treatment are overridden — inventing the
+   rest would be guessing at a theme the product has not designed.
+
+   The two dark surfaces are the app's OWN navies (--sc-navy-900 / --sc-navy-700,
+   the header and dark-panel fills) rather than mixed values. An earlier pass
+   used #0b1f3d / #0f2547, which exist in neither the app nor Figma; they read
+   as a foreign navy and were removed. */
+:root[data-theme="dark"],.dark{
+--ui-surface-page:#002856;
+--ui-surface-card:#083262;
+--ui-surface-sunken:rgba(255,255,255,.06);
+--ui-text-primary:#e6edf7;
+--ui-text-body:#e6edf7;
+--ui-text-secondary:#9fb0c9;
+--ui-text-faint:#6b7f9c;
+--ui-border-default:rgba(255,255,255,.12);
+--ui-border-subtle:rgba(255,255,255,.07);
+--ui-track:rgba(255,255,255,.1);
+--ui-focus-ring:0 0 0 2px #002856,0 0 0 4px #edb843;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════
+   AA-CORRECTED ALTERNATES — proposed, not applied
+
+   Three roles reproduce production faithfully and fail WCAG AA. They are NOT
+   changed here: doing so would alter the app's appearance on the strength of
+   a ratio, which is a product call (D-005). Each measured alternate below is
+   the smallest darkening that clears 4.5:1 on BOTH white and the sunken wash,
+   so approving a fix is a one-line swap rather than a colour exercise.
+
+     role              ships    ratio          alternate  white / wash
+     text-faint        #94a3b8  2.56 / 2.29    #646e7c    5.17 / 4.62
+     warning-fg        #f97316  2.80 / 2.51    #b25210    5.11 / 4.57
+     danger-fg         #ef4444  3.76 / 3.37    #c73939    5.16 / 4.61
+
+   See guidelines/accessibility.html and defects.md.
+   ═══════════════════════════════════════════════════════════════════════ */
+:root{
+--ui-text-faint-aa:#646e7c;
+--ui-warning-fg-aa:#b25210;
+--ui-danger-fg-aa:#c73939;
+}
+
+/* ── Target size ─────────────────────────────────────────────────────── */
+/* 44px is the platform minimum this product should meet; the app's own
+   AppButton md/lg already clear it and sm does not (36px). Tokenised so the
+   rule is checkable rather than remembered. One token only: a "comfortable"
+   48px was removed in the phase-7 checkpoint because nothing in production
+   establishes a second target tier — it was a plausible number, not a reading. */
+:root{
+--ui-target-min:44px; /* @kind spacing */
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════
+   REDUCED MOTION — phase 7
+
+   Justified by evidence, not by checklist: the app ships six keyframe
+   animations (app.css), AppButton's `sc-btn-pulse` busy state, spinner
+   `animate-spin` on every loading control, and the ScoreRing / MetricBar
+   500ms fills. None of them respects a motion preference today.
+
+   Transitions are shortened rather than removed — a 0ms transition can make
+   a state change imperceptible, which is its own accessibility problem.
+   Looping decorative animation is stopped outright; that is the class of
+   motion the preference exists for.
+
+   ── Essential motion carve-out (added at the phase-7 checkpoint)
+   Validating the blanket rule against real components exposed a regression it
+   introduced: AudioTapButton's waveform bars loop ONLY while audio plays, and
+   are the sole indication that it is playing. Stopping them removes state
+   feedback rather than decoration, which the preference is not meant to do.
+   Motion that carries state — not attention — opts out with
+   `data-motion-essential`. Applied deliberately and rarely; the attention
+   rings on the same component do NOT carry it. */
+@media (prefers-reduced-motion: reduce){
+  :root{
+    --ui-dur-instant:1ms; /* @kind other */
+    --ui-dur-base:1ms; /* @kind other */
+    --ui-dur-slow:1ms; /* @kind other */
+  }
+  *:not([data-motion-essential]),*::before,*::after{
+    animation-duration:.01ms !important;
+    animation-iteration-count:1 !important;
+    transition-duration:.01ms !important;
+    scroll-behavior:auto !important;
+  }
+}

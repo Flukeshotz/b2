@@ -1,0 +1,4 @@
+/* Standalone shell. The A1 app paints a dark journey background behind its
+   frame; B2 is a white, adult surface and must not inherit that. */
+html, body { margin: 0; background: #0b1d33; }
+#frame.frame { background: #fff; }

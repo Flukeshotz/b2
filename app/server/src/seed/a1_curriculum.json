@@ -1,0 +1,9137 @@
+[
+ {
+  "id": "a1l1",
+  "icon": "☕",
+  "title": "Order a drink",
+  "capability": "You can order a drink and say thank you.",
+  "proof": "Kaffee, bitte.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Kaffee",
+      "coffee",
+      "☕"
+     ],
+     [
+      "Wasser",
+      "water",
+      "💧"
+     ],
+     [
+      "bitte",
+      "please",
+      "🙏"
+     ],
+     [
+      "danke",
+      "thank you",
+      "🤝"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to order a drink."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Kaffee</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wasser</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "soundmatch",
+      "from": [
+       0,
+       1
+      ],
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Kaffee</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Kaffee",
+      "coffee",
+      "☕"
+     ],
+     [
+      "Wasser",
+      "water",
+      "💧"
+     ],
+     [
+      "bitte",
+      "please",
+      "🙏"
+     ],
+     [
+      "danke",
+      "thank you",
+      "🤝"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>bitte</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>danke</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>thank you</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Bitte means two things.",
+      "body": "Please. And also you're welcome."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Kaffee",
+      "coffee",
+      "☕"
+     ],
+     [
+      "Wasser",
+      "water",
+      "💧"
+     ],
+     [
+      "bitte",
+      "please",
+      "🙏"
+     ],
+     [
+      "danke",
+      "thank you",
+      "🤝"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Kaffee",
+       "bitte"
+      ],
+      "en": "Coffee, please.",
+      "hard": true,
+      "extra": [
+       "Wasser",
+       "danke"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Kaffee, bitte.",
+      "en": "Coffee, please."
+     },
+     {
+      "t": "translate",
+      "de": "Wasser, bitte.",
+      "en": [
+       "Water",
+       "please"
+      ],
+      "extra": [
+       "coffee"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Kaffee, bitte.",
+        "en": "Coffee, please."
+       },
+       {
+        "de": "Wasser, bitte.",
+        "en": "Water, please."
+       },
+       {
+        "de": "Danke!",
+        "en": "Thanks!"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Barista",
+      "avatar": "☕",
+      "goal": "Order a drink, then say thanks.",
+      "turns": [
+       {
+        "them": "Hallo, {name}! Kaffee oder Wasser?",
+        "en": "Hi, {name}! Coffee or water?",
+        "opts": [
+         {
+          "de": "Kaffee, bitte.",
+          "en": "Coffee, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Klar. Hier, bitte!",
+        "en": "Sure. Here you go!",
+        "opts": [
+         {
+          "de": "Danke!",
+          "en": "Thanks!",
+          "ok": true
+         },
+         {
+          "de": "Wasser, bitte.",
+          "en": "Water, please."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l2",
+  "icon": "👋",
+  "title": "Say hello",
+  "capability": "You can greet anyone, at any time of day.",
+  "proof": "Guten Morgen!",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Hallo",
+      "hello",
+      "👋"
+     ],
+     [
+      "Tschüss",
+      "bye",
+      "🖐️"
+     ],
+     [
+      "Guten Tag",
+      "good day",
+      "🤝"
+     ],
+     [
+      "Guten Morgen",
+      "good morning",
+      "🌅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to greet anyone."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Hallo</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Tschüss</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>hello</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ],
+      "visual": true
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Hallo",
+      "hello",
+      "👋"
+     ],
+     [
+      "Tschüss",
+      "bye",
+      "🖐️"
+     ],
+     [
+      "Guten Tag",
+      "good day",
+      "🤝"
+     ],
+     [
+      "Guten Morgen",
+      "good morning",
+      "🌅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Guten Tag</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Guten Morgen</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "What Time Is It?",
+      "scene": "🌅",
+      "sceneCaption": "9:00 AM",
+      "q": "Which greeting fits <b>the morning</b>?",
+      "from": [
+       3,
+       2
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>good day</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Guten does all the work.",
+      "body": "Guten Tag, Guten Morgen. Same first word every time. Learn the pattern once, not each greeting from scratch."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Hallo",
+      "hello",
+      "👋"
+     ],
+     [
+      "Tschüss",
+      "bye",
+      "🖐️"
+     ],
+     [
+      "Guten Tag",
+      "good day",
+      "🤝"
+     ],
+     [
+      "Guten Morgen",
+      "good morning",
+      "🌅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Guten",
+       "Morgen"
+      ],
+      "en": "Good morning.",
+      "hard": true,
+      "extra": [
+       "Hallo",
+       "Tschüss"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Guten Morgen!",
+      "en": "Good morning!"
+     },
+     {
+      "t": "translate",
+      "de": "Tschüss!",
+      "en": [
+       "Bye"
+      ],
+      "extra": [
+       "hello"
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Colleague",
+      "avatar": "🧑‍⚕️",
+      "goal": "Greet him in the morning, then say bye when he leaves.",
+      "turns": [
+       {
+        "them": "Guten Morgen!",
+        "en": "Good morning!",
+        "opts": [
+         {
+          "de": "Guten Morgen!",
+          "en": "Good morning!",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Ich muss los. Tschüss!",
+        "en": "I've got to go. Bye!",
+        "opts": [
+         {
+          "de": "Tschüss!",
+          "en": "Bye!",
+          "ok": true
+         },
+         {
+          "de": "Guten Tag!",
+          "en": "Good day!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l3",
+  "icon": "🙋",
+  "title": "Introduce yourself",
+  "capability": "You can introduce yourself and ask their name right back.",
+  "proof": "Ich heiße Priya. Und du?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "ich",
+      "I",
+      "🙋"
+     ],
+     [
+      "heiße",
+      "am called",
+      "✍️"
+     ],
+     [
+      "und",
+      "and",
+      "➕"
+     ],
+     [
+      "du",
+      "you (casual)",
+      "👉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to introduce yourself."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>ich</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>heiße</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>I</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "ich",
+      "I",
+      "🙋"
+     ],
+     [
+      "heiße",
+      "am called",
+      "✍️"
+     ],
+     [
+      "und",
+      "and",
+      "➕"
+     ],
+     [
+      "du",
+      "you (casual)",
+      "👉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>und</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>du</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>and</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "heiße",
+       "Priya"
+      ],
+      "en": "I'm Priya.",
+      "extra": [
+       "und"
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "\"Und du?\" needs no translating.",
+      "body": "It already is the English."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "ich",
+      "I",
+      "🙋"
+     ],
+     [
+      "heiße",
+      "am called",
+      "✍️"
+     ],
+     [
+      "und",
+      "and",
+      "➕"
+     ],
+     [
+      "du",
+      "you (casual)",
+      "👉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "translate",
+      "de": "Und du?",
+      "en": [
+       "And",
+       "you"
+      ],
+      "extra": [
+       "I",
+       "am called"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Ich heiße Priya. Und du?",
+      "en": "Now say it yourself, the way you'll actually say it."
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Anna",
+      "avatar": "🧕",
+      "goal": "She goes first. Give your name right back.",
+      "turns": [
+       {
+        "them": "Hallo! Ich heiße Anna. Und du?",
+        "en": "Hi! I'm Anna. And you?",
+        "opts": [
+         {
+          "de": "Ich heiße Priya.",
+          "en": "I'm Priya.",
+          "ok": true
+         },
+         {
+          "de": "Und du?",
+          "en": "And you?"
+         }
+        ]
+       },
+       {
+        "them": "Guten Tag, Priya!",
+        "en": "Good day, Priya!",
+        "opts": [
+         {
+          "de": "Guten Tag!",
+          "en": "Good day!",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l4",
+  "icon": "💶",
+  "title": "Ask the price",
+  "capability": "You can ask what something costs, and understand the answer.",
+  "proof": "Was kostet der Kaffee?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Was",
+      "what",
+      "❓"
+     ],
+     [
+      "kostet",
+      "costs",
+      "🏷️"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🪙"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💎"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask what something costs."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Was</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>kostet</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>what</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Kostet already sounds like \"costs\".",
+      "body": "German and English are cousins. Spot the resemblance and you'll guess more words than you memorize."
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Was",
+      "what",
+      "❓"
+     ],
+     [
+      "kostet",
+      "costs",
+      "🏷️"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🪙"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💎"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>billig</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>teuer</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>expensive</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Der means 'the'.",
+      "body": "Was kostet der Kaffee? -- der just points at 'the coffee'. You'll see it in front of lots of things."
+     },
+     {
+      "t": "oddoneout",
+      "q": "Three of these are <b>greetings</b>. Which one isn't?",
+      "items": [
+       [
+        "Hallo",
+        "hello",
+        "👋"
+       ],
+       [
+        "Guten Tag",
+        "good day",
+        "🤝"
+       ],
+       [
+        "Tschüss",
+        "bye",
+        "🖐️"
+       ],
+       [
+        "kostet",
+        "costs",
+        "🏷️"
+       ]
+      ],
+      "oddIdx": 3
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Was",
+      "what",
+      "❓"
+     ],
+     [
+      "kostet",
+      "costs",
+      "🏷️"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🪙"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💎"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Price Tag Flip",
+      "scene": "🏷️",
+      "sceneCaption": "Kaffee · ??",
+      "revealCaption": "Kaffee · 2€",
+      "q": "Ask first. Then say what you honestly think.",
+      "from": [
+       2,
+       3
+      ],
+      "flip": true,
+      "free": true,
+      "askLabel": "Was kostet der Kaffee?",
+      "askAudio": "Was kostet der Kaffee?"
+     },
+     {
+      "t": "build",
+      "de": [
+       "Was",
+       "kostet",
+       "der",
+       "Kaffee"
+      ],
+      "en": "What does the coffee cost?",
+      "extra": [
+       "billig"
+      ],
+      "hard": true
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Seller",
+      "avatar": "🧑‍🍳",
+      "goal": "Ask the price, then say what you honestly think of it.",
+      "turns": [
+       {
+        "them": "Guten Tag!",
+        "en": "Good day!",
+        "opts": [
+         {
+          "de": "Was kostet der Kaffee?",
+          "en": "What does the coffee cost?",
+          "ok": true
+         },
+         {
+          "de": "Kaffee, bitte.",
+          "en": "Coffee, please."
+         }
+        ]
+       },
+       {
+        "them": "Zwei Euro.",
+        "en": "Two euros.",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Billig!",
+          "en": "Cheap!"
+         },
+         {
+          "de": "Teuer!",
+          "en": "Expensive!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l5",
+  "icon": "🍽️",
+  "title": "Eat out",
+  "capability": "You can order food, react to how good it is, and ask for the bill.",
+  "proof": "Die Rechnung, bitte.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Speisekarte",
+      "menu",
+      "📋"
+     ],
+     [
+      "Essen",
+      "food",
+      "🍽️"
+     ],
+     [
+      "Rechnung",
+      "bill",
+      "🧾"
+     ],
+     [
+      "lecker",
+      "tasty",
+      "😋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to order food and ask for the bill."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Speisekarte</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Essen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Essen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 0,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Speisekarte = Speise + Karte.",
+      "body": "Food-card. Spot the pieces, guess the rest."
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Speisekarte",
+      "menu",
+      "📋"
+     ],
+     [
+      "Essen",
+      "food",
+      "🍽️"
+     ],
+     [
+      "Rechnung",
+      "bill",
+      "🧾"
+     ],
+     [
+      "lecker",
+      "tasty",
+      "😋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Rechnung</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>lecker</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Taste Reaction",
+      "scene": "🍜",
+      "sceneCaption": "you take a bite…",
+      "q": "How is it?",
+      "from": [
+       3
+      ],
+      "free": true
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Rechnung</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Die is another way to say 'the'.",
+      "body": "You saw der with der Kaffee -- die Rechnung uses die instead. Same word, 'the', just changes with the noun."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Speisekarte",
+      "menu",
+      "📋"
+     ],
+     [
+      "Essen",
+      "food",
+      "🍽️"
+     ],
+     [
+      "Rechnung",
+      "bill",
+      "🧾"
+     ],
+     [
+      "lecker",
+      "tasty",
+      "😋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Die",
+       "Rechnung",
+       "bitte"
+      ],
+      "en": "The bill, please.",
+      "extra": [
+       "Speisekarte"
+      ],
+      "hard": true
+     },
+     {
+      "t": "speak",
+      "de": "Lecker!",
+      "en": "Tasty!"
+     },
+     {
+      "t": "translate",
+      "de": "Lecker!",
+      "en": [
+       "Tasty"
+      ],
+      "extra": [
+       "menu",
+       "food"
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Waiter",
+      "avatar": "🧑‍🍳",
+      "goal": "Say thanks for the menu, react to the food, then ask for the bill.",
+      "turns": [
+       {
+        "them": "Hallo! Die Speisekarte.",
+        "en": "Hi! The menu.",
+        "opts": [
+         {
+          "de": "Danke!",
+          "en": "Thanks!",
+          "ok": true
+         },
+         {
+          "de": "Lecker!",
+          "en": "Tasty!"
+         }
+        ]
+       },
+       {
+        "them": "Ihr Essen!",
+        "en": "Your food!",
+        "opts": [
+         {
+          "de": "Lecker!",
+          "en": "Tasty!",
+          "ok": true
+         },
+         {
+          "de": "Die Speisekarte, bitte.",
+          "en": "The menu, please."
+         }
+        ]
+       },
+       {
+        "them": "Freut mich!",
+        "en": "Glad to hear it!",
+        "opts": [
+         {
+          "de": "Die Rechnung, bitte.",
+          "en": "The bill, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l6",
+  "icon": "🔢",
+  "title": "Count to five",
+  "capability": "You can count to five.",
+  "proof": "Eins, zwei, drei, vier, fünf.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "eins",
+      "one",
+      "1️⃣"
+     ],
+     [
+      "zwei",
+      "two",
+      "2️⃣"
+     ],
+     [
+      "drei",
+      "three",
+      "3️⃣"
+     ],
+     [
+      "vier",
+      "four",
+      "4️⃣"
+     ],
+     [
+      "fünf",
+      "five",
+      "5️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to count to five."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>eins</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwei</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwei</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 0,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ],
+      "visual": true
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "eins",
+      "one",
+      "1️⃣"
+     ],
+     [
+      "zwei",
+      "two",
+      "2️⃣"
+     ],
+     [
+      "drei",
+      "three",
+      "3️⃣"
+     ],
+     [
+      "vier",
+      "four",
+      "4️⃣"
+     ],
+     [
+      "fünf",
+      "five",
+      "5️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>drei</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>vier</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 4
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>fünf</b>?",
+      "from": [
+       4,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>vier</b>?",
+      "from": [
+       3,
+       4,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "eins",
+       "zwei",
+       "drei"
+      ],
+      "en": "One, two, three.",
+      "extra": [
+       "vier",
+       "fünf"
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Vier sounds like \"four\" if you squint.",
+      "body": "Some German and English number words are secretly related. Listen for it as you count."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "eins",
+      "one",
+      "1️⃣"
+     ],
+     [
+      "zwei",
+      "two",
+      "2️⃣"
+     ],
+     [
+      "drei",
+      "three",
+      "3️⃣"
+     ],
+     [
+      "vier",
+      "four",
+      "4️⃣"
+     ],
+     [
+      "fünf",
+      "five",
+      "5️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Count What You See",
+      "scene": "🥐🥐🥐",
+      "sceneCaption": "how many?",
+      "q": "How many croissants?",
+      "from": [
+       2,
+       1,
+       3
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Eins, zwei, drei, vier, fünf.",
+      "en": "One, two, three, four, five."
+     },
+     {
+      "t": "translate",
+      "de": "Drei, vier, fünf.",
+      "en": [
+       "Three",
+       "four",
+       "five"
+      ],
+      "extra": [
+       "one",
+       "two"
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Colleague",
+      "avatar": "🧑‍⚕️",
+      "goal": "Finish the count.",
+      "turns": [
+       {
+        "them": "Pause! Eins, zwei, drei…",
+        "en": "Break! One, two, three…",
+        "opts": [
+         {
+          "de": "vier",
+          "en": "four",
+          "ok": true
+         },
+         {
+          "de": "eins",
+          "en": "one"
+         }
+        ]
+       },
+       {
+        "them": "Fünf! Fertig.",
+        "en": "Five! Done.",
+        "opts": [
+         {
+          "de": "Fünf!",
+          "en": "Five!",
+          "ok": true
+         },
+         {
+          "de": "Eins!",
+          "en": "One!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l7",
+  "icon": "🤝",
+  "title": "Ask someone's name, formally",
+  "capability": "You can ask a stranger's name, and know when \"du\" would be rude.",
+  "proof": "Wie heißen Sie?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Wie",
+      "how / what",
+      "❓"
+     ],
+     [
+      "heißen",
+      "are called",
+      "✍️"
+     ],
+     [
+      "Sie",
+      "you (formal)",
+      "🎩"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask a stranger's name."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wie</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>heißen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>are called</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 0,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Wie",
+      "how / what",
+      "❓"
+     ],
+     [
+      "heißen",
+      "are called",
+      "✍️"
+     ],
+     [
+      "Sie",
+      "you (formal)",
+      "🎩"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Sie</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>you</b> (formal)?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Wie",
+       "heißen",
+       "Sie"
+      ],
+      "en": "What is your name?",
+      "hard": true
+     },
+     {
+      "t": "hack",
+      "title": "Sie always gets a capital letter.",
+      "body": "Even mid-sentence. That capital S is your visual cue you're being formal."
+     },
+     {
+      "t": "oddoneout",
+      "q": "Three of these are <b>numbers</b>. Which one isn't?",
+      "items": [
+       [
+        "eins",
+        "one",
+        "1️⃣"
+       ],
+       [
+        "zwei",
+        "two",
+        "2️⃣"
+       ],
+       [
+        "drei",
+        "three",
+        "3️⃣"
+       ],
+       [
+        "Sie",
+        "you (formal)",
+        "🎩"
+       ]
+      ],
+      "oddIdx": 3
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Wie",
+      "how / what",
+      "❓"
+     ],
+     [
+      "heißen",
+      "are called",
+      "✍️"
+     ],
+     [
+      "Sie",
+      "you (formal)",
+      "🎩"
+     ],
+     [
+      "du",
+      "you (casual)",
+      "👉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Formal or Casual?",
+      "scene": "🧑‍💼",
+      "sceneCaption": "your new supervisor",
+      "q": "Which one do you use with your <b>boss</b>?",
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Formal or Casual?",
+      "scene": "🧑‍🤝‍🧑",
+      "sceneCaption": "a friend from your building",
+      "q": "Which one do you use with a <b>friend</b>?",
+      "from": [
+       3,
+       2
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Wie heißen Sie?",
+      "en": "What is your name?"
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Julia",
+      "avatar": "🧑‍⚕️",
+      "goal": "Ask her name formally, then give yours.",
+      "turns": [
+       {
+        "them": "Hallo! Ich bin neu hier.",
+        "en": "Hello! I am new here.",
+        "opts": [
+         {
+          "de": "Wie heißen Sie?",
+          "en": "What is your name?",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Ich heiße Julia.",
+        "en": "My name is Julia.",
+        "opts": [
+         {
+          "de": "Ich heiße Priya.",
+          "en": "I'm Priya.",
+          "ok": true
+         },
+         {
+          "de": "Und du?",
+          "en": "And you?"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l8",
+  "icon": "🔟",
+  "title": "Count to ten",
+  "capability": "You can count to ten.",
+  "proof": "Sechs, sieben, acht, neun, zehn.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "sechs",
+      "six",
+      "6️⃣"
+     ],
+     [
+      "sieben",
+      "seven",
+      "7️⃣"
+     ],
+     [
+      "acht",
+      "eight",
+      "8️⃣"
+     ],
+     [
+      "neun",
+      "nine",
+      "9️⃣"
+     ],
+     [
+      "zehn",
+      "ten",
+      "🔟"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to count to ten."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>sechs</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>sieben</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>sieben</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 0,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ],
+      "visual": true
+     },
+     {
+      "t": "hack",
+      "title": "Sechs and \"six\" are the same word.",
+      "body": "Different clothes, same word. German numbers borrow from the same family English does."
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "sechs",
+      "six",
+      "6️⃣"
+     ],
+     [
+      "sieben",
+      "seven",
+      "7️⃣"
+     ],
+     [
+      "acht",
+      "eight",
+      "8️⃣"
+     ],
+     [
+      "neun",
+      "nine",
+      "9️⃣"
+     ],
+     [
+      "zehn",
+      "ten",
+      "🔟"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>acht</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>neun</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 4
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zehn</b>?",
+      "from": [
+       4,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>neun</b>?",
+      "from": [
+       3,
+       4,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "sieben",
+       "acht",
+       "neun"
+      ],
+      "en": "Seven, eight, nine.",
+      "extra": [
+       "sechs",
+       "zehn"
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "sechs",
+      "six",
+      "6️⃣"
+     ],
+     [
+      "sieben",
+      "seven",
+      "7️⃣"
+     ],
+     [
+      "acht",
+      "eight",
+      "8️⃣"
+     ],
+     [
+      "neun",
+      "nine",
+      "9️⃣"
+     ],
+     [
+      "zehn",
+      "ten",
+      "🔟"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "t": "translate",
+      "de": "Acht, neun, zehn.",
+      "en": [
+       "Eight",
+       "nine",
+       "ten"
+      ],
+      "extra": [
+       "six",
+       "seven"
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Colleague",
+      "avatar": "🧑‍⚕️",
+      "goal": "Finish the count.",
+      "turns": [
+       {
+        "them": "Fast fertig… sechs, sieben, acht…",
+        "en": "Almost done… six, seven, eight…",
+        "opts": [
+         {
+          "de": "neun",
+          "en": "nine",
+          "ok": true
+         },
+         {
+          "de": "sechs",
+          "en": "six"
+         }
+        ]
+       },
+       {
+        "them": "Zehn! Danke!",
+        "en": "Ten! Thanks!",
+        "opts": [
+         {
+          "de": "Zehn!",
+          "en": "Ten!",
+          "ok": true
+         },
+         {
+          "de": "Bitte!",
+          "en": "You're welcome!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l9",
+  "icon": "📱",
+  "title": "Give your phone number",
+  "capability": "You can give a phone number, and take one too.",
+  "proof": "Meine Telefonnummer ist null sechs zwei drei.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "meine",
+      "my",
+      "🙋"
+     ],
+     [
+      "Telefonnummer",
+      "phone number",
+      "📱"
+     ],
+     [
+      "ist",
+      "is",
+      "🟰"
+     ],
+     [
+      "null",
+      "zero",
+      "0️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to give your phone number."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>meine</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Telefonnummer</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>my</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "meine",
+      "my",
+      "🙋"
+     ],
+     [
+      "Telefonnummer",
+      "phone number",
+      "📱"
+     ],
+     [
+      "ist",
+      "is",
+      "🟰"
+     ],
+     [
+      "null",
+      "zero",
+      "0️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>ist</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>null</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>is</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Meine",
+       "Telefonnummer",
+       "ist",
+       "null"
+      ],
+      "en": "My phone number is 0…",
+      "hard": true,
+      "extra": []
+     },
+     {
+      "t": "hack",
+      "title": "Telefonnummer = Telefon + Nummer.",
+      "body": "You already knew both halves."
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "meine",
+      "my",
+      "🙋"
+     ],
+     [
+      "Telefonnummer",
+      "phone number",
+      "📱"
+     ],
+     [
+      "ist",
+      "is",
+      "🟰"
+     ],
+     [
+      "null",
+      "zero",
+      "0️⃣"
+     ],
+     [
+      "sechs",
+      "six",
+      "6️⃣"
+     ],
+     [
+      "zwei",
+      "two",
+      "2️⃣"
+     ],
+     [
+      "drei",
+      "three",
+      "3️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "keypad",
+      "en": "Dial it out: meine Telefonnummer ist null sechs zwei drei.",
+      "target": [
+       0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ],
+      "keys": [
+       0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     },
+     {
+      "t": "translate",
+      "de": "Meine Telefonnummer.",
+      "en": [
+       "My",
+       "phone",
+       "number"
+      ],
+      "extra": [
+       "phone number"
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Front desk",
+      "avatar": "🏥",
+      "goal": "Give your number.",
+      "turns": [
+       {
+        "them": "Guten Tag! Wie heißen Sie?",
+        "en": "Good day! What is your name?",
+        "opts": [
+         {
+          "de": "Ich heiße Priya.",
+          "en": "I'm Priya.",
+          "ok": true
+         },
+         {
+          "de": "Meine Telefonnummer.",
+          "en": "My phone number."
+         }
+        ]
+       },
+       {
+        "them": "Und Ihre Nummer?",
+        "en": "And your number?",
+        "opts": [
+         {
+          "de": "Meine Telefonnummer ist null sechs zwei drei.",
+          "en": "My phone number is 0623.",
+          "ok": true
+         },
+         {
+          "de": "Ich heiße Priya.",
+          "en": "I'm Priya."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l10",
+  "icon": "2️⃣0️⃣",
+  "title": "Count to twenty",
+  "capability": "You can count to twenty, using a trick instead of more memorizing.",
+  "proof": "Elf, zwölf, dreizehn, vierzehn, fünfzehn, zwanzig.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "elf",
+      "eleven",
+      "1️⃣1️⃣"
+     ],
+     [
+      "zwölf",
+      "twelve",
+      "1️⃣2️⃣"
+     ],
+     [
+      "zwanzig",
+      "twenty",
+      "2️⃣0️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to count to twenty."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>elf</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwölf</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwölf</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 0,
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "elf",
+      "eleven",
+      "1️⃣1️⃣"
+     ],
+     [
+      "zwölf",
+      "twelve",
+      "1️⃣2️⃣"
+     ],
+     [
+      "zwanzig",
+      "twenty",
+      "2️⃣0️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwanzig</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zwanzig</b>?",
+      "from": [
+       2,
+       0,
+       1
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Elf and zwölf break the rule on purpose.",
+      "body": "Only two numbers in the whole system don't fuse. Learn these two exceptions and every number after 12 follows the pattern you already know."
+     },
+     {
+      "t": "oddoneout",
+      "q": "Three of these are <b>numbers</b>. Which one isn't?",
+      "items": [
+       [
+        "elf",
+        "eleven",
+        "1️⃣1️⃣"
+       ],
+       [
+        "zwölf",
+        "twelve",
+        "1️⃣2️⃣"
+       ],
+       [
+        "zwanzig",
+        "twenty",
+        "2️⃣0️⃣"
+       ],
+       [
+        "Kaffee",
+        "coffee",
+        "☕"
+       ]
+      ],
+      "oddIdx": 3
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "elf",
+      "eleven",
+      "1️⃣1️⃣"
+     ],
+     [
+      "zwölf",
+      "twelve",
+      "1️⃣2️⃣"
+     ],
+     [
+      "zwanzig",
+      "twenty",
+      "2️⃣0️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "drei",
+       "zehn"
+      ],
+      "en": "Thirteen.",
+      "fuse": true,
+      "extra": [
+       "elf",
+       "zwölf"
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "vier",
+       "zehn"
+      ],
+      "en": "Fourteen.",
+      "fuse": true,
+      "extra": [
+       "elf",
+       "zwölf"
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "fünf",
+       "zehn"
+      ],
+      "en": "Fifteen.",
+      "fuse": true,
+      "hard": true,
+      "extra": [
+       "elf",
+       "zwölf"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Elf, zwölf, dreizehn, vierzehn, fünfzehn, zwanzig.",
+      "en": "Eleven, twelve, thirteen, fourteen, fifteen, twenty."
+     },
+     {
+      "t": "translate",
+      "de": "Elf, zwölf, zwanzig.",
+      "en": [
+       "Eleven",
+       "twelve",
+       "twenty"
+      ],
+      "extra": []
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Colleague",
+      "avatar": "🧑‍⚕️",
+      "goal": "Confirm the number.",
+      "turns": [
+       {
+        "them": "Fast da! Vierzehn?",
+        "en": "Almost there! Fourteen?",
+        "opts": [
+         {
+          "de": "Vierzehn!",
+          "en": "Fourteen!",
+          "ok": true
+         },
+         {
+          "de": "Dreizehn!",
+          "en": "Thirteen!"
+         }
+        ]
+       },
+       {
+        "them": "Genau! Zwanzig?",
+        "en": "Exactly! Twenty?",
+        "opts": [
+         {
+          "de": "Zwanzig!",
+          "en": "Twenty!",
+          "ok": true
+         },
+         {
+          "de": "Zwölf!",
+          "en": "Twelve!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l11",
+  "icon": "🥖",
+  "title": "Buy bread",
+  "capability": "You can buy bread or cake, and ask for a piece.",
+  "proof": "Ein Stück Kuchen, bitte.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Brot",
+      "bread",
+      "🍞"
+     ],
+     [
+      "Kuchen",
+      "cake",
+      "🍰"
+     ],
+     [
+      "möchte",
+      "would like",
+      "🙋"
+     ],
+     [
+      "Stück",
+      "piece",
+      "✂️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to buy bread."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Brot</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Kuchen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Brot",
+      "bread",
+      "🍞"
+     ],
+     [
+      "Kuchen",
+      "cake",
+      "🍰"
+     ],
+     [
+      "möchte",
+      "would like",
+      "🙋"
+     ],
+     [
+      "Stück",
+      "piece",
+      "✂️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>möchte</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Stück</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>would like</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Möchte already means 'would like'.",
+      "body": "Ich möchte ein Stück Kuchen. Use it any time you want something, politely."
+     },
+     {
+      "t": "hack",
+      "title": "Ein means 'a' or 'an'.",
+      "body": "Ein Stück Kuchen -- a piece of cake. You'll see it change to eine with some words later; for now just know it means 'a'."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: a piece of cake.",
+      "target": [
+       3,
+       1
+      ],
+      "keys": [
+       3,
+       1,
+       0,
+       2
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Brot",
+      "bread",
+      "🍞"
+     ],
+     [
+      "Kuchen",
+      "cake",
+      "🍰"
+     ],
+     [
+      "möchte",
+      "would like",
+      "🙋"
+     ],
+     [
+      "Stück",
+      "piece",
+      "✂️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ein",
+       "Stück",
+       "Kuchen",
+       "bitte"
+      ],
+      "en": "A piece of cake, please.",
+      "extra": [
+       "Brot",
+       "möchte"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Ein Stück Kuchen, bitte.",
+      "en": "A piece of cake, please."
+     },
+     {
+      "t": "translate",
+      "de": "Ich möchte Brot.",
+      "en": [
+       "I",
+       "would",
+       "like",
+       "bread"
+      ],
+      "extra": [
+       "cake",
+       "would like"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ein Brot, bitte.",
+        "en": "Bread, please."
+       },
+       {
+        "de": "Ein Stück Kuchen, bitte.",
+        "en": "A piece of cake, please."
+       },
+       {
+        "de": "Ich möchte Brot.",
+        "en": "I would like bread."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Bäckerin",
+      "avatar": "🥐",
+      "goal": "Buy something from the bakery.",
+      "turns": [
+       {
+        "them": "Guten Tag! Was möchten Sie?",
+        "en": "Hello! What would you like?",
+        "opts": [
+         {
+          "de": "Ein Brot, bitte.",
+          "en": "Bread, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Und sonst noch etwas?",
+        "en": "Anything else?",
+        "opts": [
+         {
+          "de": "Ein Stück Kuchen, bitte.",
+          "en": "A piece of cake, please.",
+          "ok": true
+         },
+         {
+          "de": "Kaffee, bitte.",
+          "en": "Coffee, please."
+         }
+        ],
+        "mode": "choice"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l12",
+  "icon": "🧀",
+  "title": "Ask if they have it",
+  "capability": "You can ask a shop if they have milk or cheese.",
+  "proof": "Haben Sie noch Milch?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Milch",
+      "milk",
+      "🥛"
+     ],
+     [
+      "Käse",
+      "cheese",
+      "🧀"
+     ],
+     [
+      "Haben Sie",
+      "do you have",
+      "🛒"
+     ],
+     [
+      "noch",
+      "also / more",
+      "➕"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask a shop what they have."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Milch</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Käse</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Milch",
+      "milk",
+      "🥛"
+     ],
+     [
+      "Käse",
+      "cheese",
+      "🧀"
+     ],
+     [
+      "Haben Sie",
+      "do you have",
+      "🛒"
+     ],
+     [
+      "noch",
+      "also / more",
+      "➕"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Haben Sie</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>noch</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>do you have</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Haben Sie is one chunk.",
+      "body": "It always means 'do you have,' asked politely. Use it as one piece, not two."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       2,
+       0
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Milch",
+      "milk",
+      "🥛"
+     ],
+     [
+      "Käse",
+      "cheese",
+      "🧀"
+     ],
+     [
+      "Haben Sie",
+      "do you have",
+      "🛒"
+     ],
+     [
+      "noch",
+      "also / more",
+      "➕"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Haben Sie",
+       "Käse?"
+      ],
+      "en": "Do you have cheese?",
+      "extra": [
+       "Milch"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Haben Sie noch Milch?",
+      "en": "Do you still have milk?"
+     },
+     {
+      "t": "translate",
+      "de": "Haben Sie Käse?",
+      "en": [
+       "Do",
+       "you",
+       "have",
+       "cheese"
+      ],
+      "extra": [
+       "milk",
+       "do you have"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Haben Sie Milch?",
+        "en": "Do you have milk?"
+       },
+       {
+        "de": "Haben Sie Käse?",
+        "en": "Do you have cheese?"
+       },
+       {
+        "de": "Haben Sie noch Milch?",
+        "en": "Do you still have milk?"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Ladenbesitzer",
+      "avatar": "🏪",
+      "goal": "Ask the shop what they have.",
+      "turns": [
+       {
+        "them": "Guten Tag! Was brauchen Sie?",
+        "en": "Hello! What do you need?",
+        "opts": [
+         {
+          "de": "Haben Sie Milch?",
+          "en": "Do you have milk?",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Ja, hier. Sonst noch etwas?",
+        "en": "Yes, here. Anything else?",
+        "opts": [
+         {
+          "de": "Haben Sie Käse?",
+          "en": "Do you have cheese?",
+          "ok": true
+         },
+         {
+          "de": "Ein Brot, bitte.",
+          "en": "Bread, please."
+         }
+        ],
+        "mode": "choice"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l13",
+  "icon": "🥩",
+  "title": "Buy meat and sausage",
+  "capability": "You can ask for fresh meat or sausage, by weight.",
+  "proof": "Ist die Wurst frisch?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Fleisch",
+      "meat",
+      "🥩"
+     ],
+     [
+      "Wurst",
+      "sausage",
+      "🌭"
+     ],
+     [
+      "Gramm",
+      "gram",
+      "⚖️"
+     ],
+     [
+      "frisch",
+      "fresh",
+      "✨"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to buy meat and sausage."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Fleisch</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wurst</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Fleisch",
+      "meat",
+      "🥩"
+     ],
+     [
+      "Wurst",
+      "sausage",
+      "🌭"
+     ],
+     [
+      "Gramm",
+      "gram",
+      "⚖️"
+     ],
+     [
+      "frisch",
+      "fresh",
+      "✨"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Gramm</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>frisch</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>fresh</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Frisch never changes.",
+      "body": "Ist das Fleisch frisch? Frisch stays frisch, no matter what it describes."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Fleisch",
+      "meat",
+      "🥩"
+     ],
+     [
+      "Wurst",
+      "sausage",
+      "🌭"
+     ],
+     [
+      "Gramm",
+      "gram",
+      "⚖️"
+     ],
+     [
+      "frisch",
+      "fresh",
+      "✨"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Wurst,",
+       "bitte"
+      ],
+      "en": "Sausage, please.",
+      "extra": [
+       "Fleisch"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Ist die Wurst frisch?",
+      "en": "Is the sausage fresh?"
+     },
+     {
+      "t": "translate",
+      "de": "Ist die Wurst frisch?",
+      "en": [
+       "Is",
+       "the",
+       "sausage",
+       "fresh"
+      ],
+      "extra": [
+       "meat",
+       "gram"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Fleisch, bitte.",
+        "en": "Meat, please."
+       },
+       {
+        "de": "Wurst, bitte.",
+        "en": "Sausage, please."
+       },
+       {
+        "de": "Ist die Wurst frisch?",
+        "en": "Is the sausage fresh?"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Metzger",
+      "avatar": "🥩",
+      "goal": "Buy fresh meat or sausage.",
+      "turns": [
+       {
+        "them": "Guten Tag! Was möchten Sie?",
+        "en": "Hello! What would you like?",
+        "opts": [
+         {
+          "de": "Wurst, bitte.",
+          "en": "Sausage, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Klar. Sonst noch etwas?",
+        "en": "Sure. Anything else?",
+        "opts": [
+         {
+          "de": "Ist die Wurst frisch?",
+          "en": "Is the sausage fresh?",
+          "ok": true
+         },
+         {
+          "de": "Haben Sie Milch?",
+          "en": "Do you have milk?"
+         }
+        ],
+        "mode": "choice"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l14",
+  "icon": "💰",
+  "title": "Ask about the price",
+  "capability": "You can ask for more or less of something, and say if it costs too much.",
+  "proof": "Mehr, bitte.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "mehr",
+      "more",
+      "➕"
+     ],
+     [
+      "weniger",
+      "less",
+      "➖"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💰"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🏷️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask for more or less."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>mehr</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>weniger</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "mehr",
+      "more",
+      "➕"
+     ],
+     [
+      "weniger",
+      "less",
+      "➖"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💰"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🏷️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>teuer</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>billig</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>expensive</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Teuer and billig are opposites.",
+      "body": "Das ist teuer. Das ist billig. Same sentence shape, opposite meaning."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "mehr",
+      "more",
+      "➕"
+     ],
+     [
+      "weniger",
+      "less",
+      "➖"
+     ],
+     [
+      "teuer",
+      "expensive",
+      "💰"
+     ],
+     [
+      "billig",
+      "cheap",
+      "🏷️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Mehr,",
+       "bitte"
+      ],
+      "en": "More, please.",
+      "extra": [
+       "weniger"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Das ist zu teuer.",
+      "en": "That's too expensive."
+     },
+     {
+      "t": "translate",
+      "de": "Ist das billig?",
+      "en": [
+       "Is",
+       "that",
+       "cheap"
+      ],
+      "extra": [
+       "more",
+       "less"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Das ist teuer.",
+        "en": "That's expensive."
+       },
+       {
+        "de": "Das ist billig.",
+        "en": "That's cheap."
+       },
+       {
+        "de": "Mehr, bitte.",
+        "en": "More, please."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Verkäuferin",
+      "avatar": "💶",
+      "goal": "Say something is too expensive and ask for less.",
+      "turns": [
+       {
+        "them": "Das kostet zehn Euro.",
+        "en": "That costs ten euros.",
+        "opts": [
+         {
+          "de": "Das ist teuer!",
+          "en": "That's expensive!",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ],
+        "mode": "choice"
+       },
+       {
+        "them": "Möchten Sie weniger?",
+        "en": "Would you like less?",
+        "opts": [
+         {
+          "de": "Ja, weniger, bitte.",
+          "en": "Yes, less, please.",
+          "ok": true
+         },
+         {
+          "de": "Mehr, bitte.",
+          "en": "More, please."
+         }
+        ],
+        "mode": "choice"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l15",
+  "icon": "🍎",
+  "title": "Buy fruit and vegetables",
+  "capability": "You can ask for fruit or vegetables, and say how much you need.",
+  "proof": "Wie viel Tomate, bitte?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Apfel",
+      "apple",
+      "🍎"
+     ],
+     [
+      "Tomate",
+      "tomato",
+      "🍅"
+     ],
+     [
+      "Wie viel",
+      "how much",
+      "❓"
+     ],
+     [
+      "genug",
+      "enough",
+      "✅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to buy fruit and vegetables."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Apfel</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Tomate</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Apfel",
+      "apple",
+      "🍎"
+     ],
+     [
+      "Tomate",
+      "tomato",
+      "🍅"
+     ],
+     [
+      "Wie viel",
+      "how much",
+      "❓"
+     ],
+     [
+      "genug",
+      "enough",
+      "✅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wie viel</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>genug</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>how much</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Wie viel is one chunk.",
+      "body": "It always asks for an amount, together, not two separate words."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: Wie viel Tomate.",
+      "target": [
+       2,
+       1
+      ],
+      "keys": [
+       2,
+       1,
+       0,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Apfel",
+      "apple",
+      "🍎"
+     ],
+     [
+      "Tomate",
+      "tomato",
+      "🍅"
+     ],
+     [
+      "Wie viel",
+      "how much",
+      "❓"
+     ],
+     [
+      "genug",
+      "enough",
+      "✅"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Apfel,",
+       "bitte"
+      ],
+      "en": "Apple, please.",
+      "extra": [
+       "Tomate",
+       "Wie viel"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Wie viel Tomate, bitte?",
+      "en": "How much tomato, please?"
+     },
+     {
+      "t": "translate",
+      "de": "Ist das genug?",
+      "en": [
+       "Is",
+       "that",
+       "enough"
+      ],
+      "extra": [
+       "apple",
+       "tomato"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Apfel, bitte.",
+        "en": "Apple, please."
+       },
+       {
+        "de": "Tomate, bitte.",
+        "en": "Tomato, please."
+       },
+       {
+        "de": "Ist das genug?",
+        "en": "Is that enough?"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Marktfrau",
+      "avatar": "🥬",
+      "goal": "Ask for fruit or vegetables, and say if it's enough.",
+      "turns": [
+       {
+        "them": "Guten Tag! Was möchten Sie?",
+        "en": "Hello! What would you like?",
+        "opts": [
+         {
+          "de": "Apfel, bitte.",
+          "en": "Apple, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Hier, drei Äpfel.",
+        "en": "Here, three apples.",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ist das genug?",
+          "en": "Is that enough?"
+         },
+         {
+          "de": "Wie viel, bitte?",
+          "en": "How much, please?"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l16",
+  "icon": "🍓",
+  "title": "Ask if they have strawberries",
+  "capability": "You can ask if a market has something, using a new way to ask.",
+  "proof": "Gibt es Erdbeeren?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Erdbeere",
+      "strawberry",
+      "🍓"
+     ],
+     [
+      "Zitrone",
+      "lemon",
+      "🍋"
+     ],
+     [
+      "Gibt es",
+      "is there",
+      "❓"
+     ],
+     [
+      "vielleicht",
+      "maybe",
+      "🤷"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask if something is there."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Erdbeere</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Zitrone</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Erdbeere",
+      "strawberry",
+      "🍓"
+     ],
+     [
+      "Zitrone",
+      "lemon",
+      "🍋"
+     ],
+     [
+      "Gibt es",
+      "is there",
+      "❓"
+     ],
+     [
+      "vielleicht",
+      "maybe",
+      "🤷"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Gibt es</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>vielleicht</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>is there</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Gibt es is another way to ask.",
+      "body": "Haben Sie and Gibt es both ask if something's available. Gibt es works without saying 'you'."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: is there strawberry?",
+      "target": [
+       2,
+       0
+      ],
+      "keys": [
+       2,
+       0,
+       1,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Erdbeere",
+      "strawberry",
+      "🍓"
+     ],
+     [
+      "Zitrone",
+      "lemon",
+      "🍋"
+     ],
+     [
+      "Gibt es",
+      "is there",
+      "❓"
+     ],
+     [
+      "vielleicht",
+      "maybe",
+      "🤷"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Zitrone,",
+       "bitte"
+      ],
+      "en": "Lemon, please.",
+      "extra": [
+       "Erdbeere",
+       "Gibt es"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Gibt es Erdbeeren?",
+      "en": "Are there strawberries?"
+     },
+     {
+      "t": "translate",
+      "de": "Vielleicht Zitronen?",
+      "en": [
+       "Maybe",
+       "lemons"
+      ],
+      "extra": [
+       "strawberry",
+       "lemon"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Gibt es Erdbeeren?",
+        "en": "Are there strawberries?"
+       },
+       {
+        "de": "Zitrone, bitte.",
+        "en": "Lemon, please."
+       },
+       {
+        "de": "Vielleicht.",
+        "en": "Maybe."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Marktfrau",
+      "avatar": "🍓",
+      "goal": "Ask if the market has strawberries.",
+      "turns": [
+       {
+        "them": "Hallo! Was suchen Sie?",
+        "en": "Hello! What are you looking for?",
+        "opts": [
+         {
+          "de": "Gibt es Erdbeeren?",
+          "en": "Are there strawberries?",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Erdbeeren? Die sind heute leider aus. Aber ich habe frische Zitronen.",
+        "en": "Strawberries? Sorry, those are out today. But I have fresh lemons.",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Zitronen, bitte.",
+          "en": "Lemons, please."
+         },
+         {
+          "de": "Ok, danke.",
+          "en": "Ok, thanks."
+         }
+        ]
+       },
+       {
+        "them": "Gut! Sonst noch etwas?",
+        "en": "Good! Anything else?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, das ist alles.",
+          "en": "Yes, that's everything."
+         },
+         {
+          "de": "Nein, ich möchte auch Äpfel.",
+          "en": "No, I'd also like apples."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l17",
+  "icon": "👅",
+  "title": "Say what you'd like to try",
+  "capability": "You can say you'd like to try something, and point out which one.",
+  "proof": "Ich probiere das hier.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "probieren",
+      "to try",
+      "👅"
+     ],
+     [
+      "gern",
+      "gladly",
+      "😊"
+     ],
+     [
+      "das hier",
+      "this one",
+      "👉"
+     ],
+     [
+      "das da",
+      "that one",
+      "👈"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to say what you'd like to try."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>probieren</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>gern</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "probieren",
+      "to try",
+      "👅"
+     ],
+     [
+      "gern",
+      "gladly",
+      "😊"
+     ],
+     [
+      "das hier",
+      "this one",
+      "👉"
+     ],
+     [
+      "das da",
+      "that one",
+      "👈"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>das hier</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>das da</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>this one</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Das hier and das da point.",
+      "body": "Das hier means this one, close to you. Das da means that one, further away."
+     },
+     {
+      "t": "hack",
+      "title": "Probieren becomes probiere for 'I'.",
+      "body": "Drop the -en, add nothing: probieren -> ich probiere. Most verbs work this way for 'I'."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "probieren",
+      "to try",
+      "👅"
+     ],
+     [
+      "gern",
+      "gladly",
+      "😊"
+     ],
+     [
+      "das hier",
+      "this one",
+      "👉"
+     ],
+     [
+      "das da",
+      "that one",
+      "👈"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "probiere",
+       "gern."
+      ],
+      "en": "I'd gladly try it.",
+      "extra": [
+       "probieren",
+       "das hier"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Ich probiere das hier.",
+      "en": "I'll try this one."
+     },
+     {
+      "t": "translate",
+      "de": "Das da, bitte.",
+      "en": [
+       "That",
+       "one,",
+       "please"
+      ],
+      "extra": [
+       "to try",
+       "gladly"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Das hier, bitte.",
+        "en": "This one, please."
+       },
+       {
+        "de": "Das da, bitte.",
+        "en": "That one, please."
+       },
+       {
+        "de": "Ich probiere gern.",
+        "en": "I'd gladly try it."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Marktfrau",
+      "avatar": "👅",
+      "goal": "Say you'd like to try something.",
+      "turns": [
+       {
+        "them": "Möchten Sie probieren?",
+        "en": "Would you like to try some?",
+        "opts": [
+         {
+          "de": "Ja, gern!",
+          "en": "Yes, gladly!",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Hier, bitte. Das hier oder das da?",
+        "en": "Here you go. This one or that one?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Das hier.",
+          "en": "This one."
+         },
+         {
+          "de": "Das da.",
+          "en": "That one."
+         }
+        ]
+       },
+       {
+        "them": "Und? Schmeckt es Ihnen?",
+        "en": "So? Do you like it?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, sehr gut!",
+          "en": "Yes, very good!"
+         },
+         {
+          "de": "Es ist ok.",
+          "en": "It's ok."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l18",
+  "icon": "🧾",
+  "title": "Pay for it",
+  "capability": "You can pay for what you bought, by cash or by card.",
+  "proof": "Ich bezahle bar.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "bezahlen",
+      "to pay",
+      "🧾"
+     ],
+     [
+      "zusammen",
+      "altogether",
+      "➕"
+     ],
+     [
+      "bar",
+      "cash",
+      "💵"
+     ],
+     [
+      "Karte",
+      "card",
+      "💳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to pay for it."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>bezahlen</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>zusammen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "bezahlen",
+      "to pay",
+      "🧾"
+     ],
+     [
+      "zusammen",
+      "altogether",
+      "➕"
+     ],
+     [
+      "bar",
+      "cash",
+      "💵"
+     ],
+     [
+      "Karte",
+      "card",
+      "💳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>bar</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Karte</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>cash</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Zusammen means all of it, at once.",
+      "body": "Bezahlen Sie zusammen? Paying for everything as one, not item by item."
+     },
+     {
+      "t": "hack",
+      "title": "Bezahlen becomes bezahle for 'I'.",
+      "body": "Same drop-the-en pattern as probieren: bezahlen -> ich bezahle."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: pay all together.",
+      "target": [
+       0,
+       1
+      ],
+      "keys": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "bezahlen",
+      "to pay",
+      "🧾"
+     ],
+     [
+      "zusammen",
+      "altogether",
+      "➕"
+     ],
+     [
+      "bar",
+      "cash",
+      "💵"
+     ],
+     [
+      "Karte",
+      "card",
+      "💳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "bezahle",
+       "bar."
+      ],
+      "en": "I'll pay cash.",
+      "extra": [
+       "bezahlen",
+       "zusammen"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Bezahlen Sie zusammen?",
+      "en": "Are you paying all together?"
+     },
+     {
+      "t": "translate",
+      "de": "Mit Karte, bitte.",
+      "en": [
+       "With",
+       "card,",
+       "please"
+      ],
+      "extra": [
+       "to pay",
+       "altogether"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ich bezahle bar.",
+        "en": "I'll pay cash."
+       },
+       {
+        "de": "Mit Karte, bitte.",
+        "en": "With card, please."
+       },
+       {
+        "de": "Zusammen, bitte.",
+        "en": "Altogether, please."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kassiererin",
+      "avatar": "🧾",
+      "goal": "Say how you'll pay.",
+      "turns": [
+       {
+        "them": "Das macht zehn Euro. Bar oder Karte?",
+        "en": "That's ten euros. Cash or card?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bar, bitte.",
+          "en": "Cash, please."
+         },
+         {
+          "de": "Mit Karte, bitte.",
+          "en": "With card, please."
+         }
+        ]
+       },
+       {
+        "them": "Danke! Alles zusammen?",
+        "en": "Thanks! All together?",
+        "opts": [
+         {
+          "de": "Ja, zusammen.",
+          "en": "Yes, altogether.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Gut. Brauchen Sie eine Tüte?",
+        "en": "Good. Do you need a bag?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, bitte.",
+          "en": "Yes, please."
+         },
+         {
+          "de": "Nein, danke.",
+          "en": "No, thanks."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l19",
+  "icon": "🛍️",
+  "title": "Ask for a bag",
+  "capability": "You can ask for a bag, and say if you need an extra one.",
+  "proof": "Brauchen Sie eine Tüte?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Tüte",
+      "bag",
+      "🛍️"
+     ],
+     [
+      "brauchen",
+      "to need",
+      "❗"
+     ],
+     [
+      "extra",
+      "extra",
+      "➕"
+     ],
+     [
+      "klein",
+      "small",
+      "🤏"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask for a bag."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Tüte</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>brauchen</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Tüte",
+      "bag",
+      "🛍️"
+     ],
+     [
+      "brauchen",
+      "to need",
+      "❗"
+     ],
+     [
+      "extra",
+      "extra",
+      "➕"
+     ],
+     [
+      "klein",
+      "small",
+      "🤏"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>extra</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>klein</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>extra</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Brauchen is a plain, useful verb.",
+      "body": "Ich brauche... I need... Use it for almost anything you're asking for."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: Ich brauche eine Tüte.",
+      "target": [
+       1,
+       0
+      ],
+      "keys": [
+       1,
+       0,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Tüte",
+      "bag",
+      "🛍️"
+     ],
+     [
+      "brauchen",
+      "to need",
+      "❗"
+     ],
+     [
+      "extra",
+      "extra",
+      "➕"
+     ],
+     [
+      "klein",
+      "small",
+      "🤏"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Eine",
+       "Tüte,",
+       "bitte"
+      ],
+      "en": "A bag, please.",
+      "extra": [
+       "brauchen",
+       "extra"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Brauchen Sie eine Tüte?",
+      "en": "Do you need a bag?"
+     },
+     {
+      "t": "translate",
+      "de": "Ich brauche eine kleine Tüte.",
+      "en": [
+       "I",
+       "need",
+       "a",
+       "small",
+       "bag"
+      ],
+      "extra": [
+       "to need",
+       "extra"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Eine Tüte, bitte.",
+        "en": "A bag, please."
+       },
+       {
+        "de": "Ich brauche extra.",
+        "en": "I need extra."
+       },
+       {
+        "de": "Eine kleine Tüte.",
+        "en": "A small bag."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Marktfrau",
+      "avatar": "🛍️",
+      "goal": "Ask for a bag.",
+      "turns": [
+       {
+        "them": "Brauchen Sie eine Tüte?",
+        "en": "Do you need a bag?",
+        "opts": [
+         {
+          "de": "Ja, bitte.",
+          "en": "Yes, please.",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Klein oder extra groß?",
+        "en": "Small or extra large?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Klein, bitte.",
+          "en": "Small, please."
+         },
+         {
+          "de": "Extra, bitte.",
+          "en": "Extra, please."
+         }
+        ]
+       },
+       {
+        "them": "Ist das alles, oder brauchen Sie noch etwas?",
+        "en": "Is that everything, or do you still need something?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, das ist alles.",
+          "en": "Yes, that's everything."
+         },
+         {
+          "de": "Nein, ich brauche noch Brot.",
+          "en": "No, I still need bread."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l20",
+  "icon": "🎉",
+  "title": "Finish your shopping day",
+  "capability": "You can say you're all done, and say a warm goodbye.",
+  "proof": "Alles fertig, bis bald!",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Alles",
+      "everything",
+      "🎉"
+     ],
+     [
+      "fertig",
+      "finished",
+      "✅"
+     ],
+     [
+      "super",
+      "great",
+      "👍"
+     ],
+     [
+      "bis bald",
+      "see you soon",
+      "👋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to finish up and say goodbye."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Alles</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>fertig</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Alles",
+      "everything",
+      "🎉"
+     ],
+     [
+      "fertig",
+      "finished",
+      "✅"
+     ],
+     [
+      "super",
+      "great",
+      "👍"
+     ],
+     [
+      "bis bald",
+      "see you soon",
+      "👋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>super</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>bis bald</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>great</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Bis bald is a warm goodbye.",
+      "body": "Not just tschüss. Bis bald means see you soon, said kindly."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Alles",
+      "everything",
+      "🎉"
+     ],
+     [
+      "fertig",
+      "finished",
+      "✅"
+     ],
+     [
+      "super",
+      "great",
+      "👍"
+     ],
+     [
+      "bis bald",
+      "see you soon",
+      "👋"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Alles",
+       "fertig!"
+      ],
+      "en": "All done!",
+      "extra": [
+       "super",
+       "bis bald"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Super, danke! Bis bald.",
+      "en": "Great, thanks! See you soon."
+     },
+     {
+      "t": "translate",
+      "de": "Alles fertig, bis bald!",
+      "en": [
+       "Everything's",
+       "done,",
+       "see",
+       "you",
+       "soon"
+      ],
+      "extra": [
+       "everything",
+       "finished"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Alles fertig!",
+        "en": "All done!"
+       },
+       {
+        "de": "Super, danke!",
+        "en": "Great, thanks!"
+       },
+       {
+        "de": "Bis bald!",
+        "en": "See you soon!"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Marktfrau",
+      "avatar": "👋",
+      "goal": "Say you're done and say goodbye warmly.",
+      "turns": [
+       {
+        "them": "Alles gut?",
+        "en": "Everything good?",
+        "opts": [
+         {
+          "de": "Ja, super!",
+          "en": "Yes, great!",
+          "ok": true
+         },
+         {
+          "de": "Wie viel?",
+          "en": "How much?"
+         }
+        ]
+       },
+       {
+        "them": "Danke schön! Bis bald!",
+        "en": "Thank you! See you soon!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis bald!",
+          "en": "See you soon!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Gern! Kommen Sie bald wieder.",
+        "en": "Gladly! Come back soon.",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, bis bald!",
+          "en": "Yes, see you soon!"
+         },
+         {
+          "de": "Danke, tschüss!",
+          "en": "Thanks, bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l21",
+  "icon": "🕐",
+  "title": "Ask what time it is",
+  "capability": "You can ask what time it is and tell the time using numbers you already know.",
+  "proof": "Es ist drei Uhr.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Wie spät",
+      "what time",
+      "⏰"
+     ],
+     [
+      "Uhr",
+      "o'clock",
+      "🕐"
+     ],
+     [
+      "jetzt",
+      "now",
+      "👉"
+     ],
+     [
+      "später",
+      "later",
+      "⏳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask what time it is."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wie spät</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Uhr</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Wie spät",
+      "what time",
+      "⏰"
+     ],
+     [
+      "Uhr",
+      "o'clock",
+      "🕐"
+     ],
+     [
+      "jetzt",
+      "now",
+      "👉"
+     ],
+     [
+      "später",
+      "later",
+      "⏳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>jetzt</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>später</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>now</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Es ist + a number + Uhr tells the time.",
+      "body": "Wie spät ist es? Es ist drei Uhr. Just put the number you already know before Uhr."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Wie spät",
+      "what time",
+      "⏰"
+     ],
+     [
+      "Uhr",
+      "o'clock",
+      "🕐"
+     ],
+     [
+      "jetzt",
+      "now",
+      "👉"
+     ],
+     [
+      "später",
+      "later",
+      "⏳"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Es",
+       "ist",
+       "zehn",
+       "Uhr."
+      ],
+      "en": "It's ten o'clock.",
+      "extra": [
+       "Wie spät",
+       "jetzt"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Wie spät ist es?",
+      "en": "What time is it?"
+     },
+     {
+      "t": "translate",
+      "de": "Es ist zwölf Uhr.",
+      "en": [
+       "It's",
+       "twelve",
+       "o'clock"
+      ],
+      "extra": [
+       "what time",
+       "now"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Wie spät ist es?",
+        "en": "What time is it?"
+       },
+       {
+        "de": "Es ist fünf Uhr.",
+        "en": "It's five o'clock."
+       },
+       {
+        "de": "Bis später!",
+        "en": "See you later!"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation. You check your watch: it's 3:00."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🕐",
+      "goal": "Your watch says 3:00. Tell her.",
+      "turns": [
+       {
+        "them": "Entschuldigung!",
+        "en": "Excuse me!",
+        "opts": [
+         {
+          "de": "Ja, bitte?",
+          "en": "Yes?",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Wie spät ist es?",
+        "en": "What time is it?",
+        "mode": "production",
+        "answer": [
+         "Es",
+         "ist",
+         "drei",
+         "Uhr."
+        ],
+        "decoys": [
+         "vier",
+         "fünf"
+        ],
+        "answerEn": "It's three o'clock.",
+        "ack": "Ah, danke!",
+        "ackEn": "Ah, thanks!"
+       },
+       {
+        "them": "Ich muss jetzt los. Bis später!",
+        "en": "I have to go now. See you later!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis später!",
+          "en": "See you later!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l22",
+  "icon": "📅",
+  "title": "Talk about your schedule",
+  "capability": "You can say when your appointment is.",
+  "proof": "Ich habe heute einen Termin.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Termin",
+      "appointment",
+      "🩺"
+     ],
+     [
+      "heute",
+      "today",
+      "📆"
+     ],
+     [
+      "morgen",
+      "tomorrow",
+      "🌅"
+     ],
+     [
+      "um",
+      "at",
+      "🕐"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to talk about your schedule."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Termin</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>heute</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Termin",
+      "appointment",
+      "🩺"
+     ],
+     [
+      "heute",
+      "today",
+      "📆"
+     ],
+     [
+      "morgen",
+      "tomorrow",
+      "🌅"
+     ],
+     [
+      "um",
+      "at",
+      "🕐"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>morgen</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>um</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>tomorrow</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Um goes right before the time.",
+      "body": "Ich habe einen Termin um drei Uhr. Um plus a number plus Uhr says exactly when."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: Termin heute.",
+      "target": [
+       0,
+       1
+      ],
+      "keys": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Termin",
+      "appointment",
+      "🩺"
+     ],
+     [
+      "heute",
+      "today",
+      "📆"
+     ],
+     [
+      "morgen",
+      "tomorrow",
+      "🌅"
+     ],
+     [
+      "um",
+      "at",
+      "🕐"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "habe",
+       "heute",
+       "einen",
+       "Termin."
+      ],
+      "en": "I have an appointment today.",
+      "extra": [
+       "morgen",
+       "um"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Haben Sie morgen einen Termin?",
+      "en": "Do you have an appointment tomorrow?"
+     },
+     {
+      "t": "translate",
+      "de": "Ich habe einen Termin um drei Uhr.",
+      "en": [
+       "I",
+       "have",
+       "an",
+       "appointment",
+       "at",
+       "three",
+       "o'clock"
+      ],
+      "extra": [
+       "today",
+       "tomorrow"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ich habe heute einen Termin.",
+        "en": "I have an appointment today."
+       },
+       {
+        "de": "Haben Sie morgen einen Termin?",
+        "en": "Do you have an appointment tomorrow?"
+       },
+       {
+        "de": "Um drei Uhr.",
+        "en": "At three o'clock."
+       }
+      ]
+     },
+     {
+      "t": "voicenote",
+      "sentence": "Ich habe jetzt einen Termin, bis später!",
+      "sentenceEn": "I have an appointment now, see you later!",
+      "context": "Maya texts you right before she runs into a meeting.",
+      "w": 0,
+      "from": [
+       0,
+       2
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Empfangsdame",
+      "avatar": "📅",
+      "goal": "Say when your appointment is.",
+      "turns": [
+       {
+        "them": "Guten Tag! Haben Sie einen Termin?",
+        "en": "Hello! Do you have an appointment?",
+        "opts": [
+         {
+          "de": "Ja, um drei Uhr.",
+          "en": "Yes, at three o'clock.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Gut. Ist heute oder morgen richtig?",
+        "en": "Good. Is today or tomorrow right?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Heute.",
+          "en": "Today."
+         },
+         {
+          "de": "Morgen.",
+          "en": "Tomorrow."
+         }
+        ]
+       },
+       {
+        "them": "Perfekt, bis später!",
+        "en": "Perfect, see you later!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis später!",
+          "en": "See you later!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l23",
+  "icon": "🗓️",
+  "title": "Ask when your appointment is",
+  "capability": "You can ask when your appointment is.",
+  "proof": "Wann ist der Termin?",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Wann",
+      "when",
+      "❓"
+     ],
+     [
+      "Woche",
+      "week",
+      "🗓️"
+     ],
+     [
+      "nächste",
+      "next",
+      "⏭️"
+     ],
+     [
+      "voll",
+      "full",
+      "🔴"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask when your appointment is."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wann</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Woche</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Wann",
+      "when",
+      "❓"
+     ],
+     [
+      "Woche",
+      "week",
+      "🗓️"
+     ],
+     [
+      "nächste",
+      "next",
+      "⏭️"
+     ],
+     [
+      "voll",
+      "full",
+      "🔴"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>nächste</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>voll</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>next</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Nächste means 'next.'",
+      "body": "Nächste Woche. Nächste plus a time word says 'next ___.'"
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: next week.",
+      "target": [
+       2,
+       1
+      ],
+      "keys": [
+       2,
+       1,
+       0,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Wann",
+      "when",
+      "❓"
+     ],
+     [
+      "Woche",
+      "week",
+      "🗓️"
+     ],
+     [
+      "nächste",
+      "next",
+      "⏭️"
+     ],
+     [
+      "voll",
+      "full",
+      "🔴"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Der",
+       "Termin",
+       "ist",
+       "nächste",
+       "Woche."
+      ],
+      "en": "The appointment is next week.",
+      "extra": [
+       "Wann",
+       "voll"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Wann ist Ihr Termin?",
+      "en": "When is your appointment?"
+     },
+     {
+      "t": "translate",
+      "de": "Wann ist der Termin?",
+      "en": [
+       "When",
+       "is",
+       "the",
+       "appointment?"
+      ],
+      "extra": [
+       "week",
+       "full"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Wann ist Ihr Termin?",
+        "en": "When is your appointment?"
+       },
+       {
+        "de": "Der Termin ist nächste Woche.",
+        "en": "The appointment is next week."
+       },
+       {
+        "de": "Heute ist voll.",
+        "en": "Today is full."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Empfangsdame",
+      "avatar": "🗓️",
+      "goal": "Ask when your appointment is.",
+      "turns": [
+       {
+        "them": "Guten Tag! Wann ist Ihr Termin?",
+        "en": "Hello! When is your appointment?",
+        "opts": [
+         {
+          "de": "Er ist heute.",
+          "en": "It's today.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Oh, heute ist leider voll. Passt nächste Woche?",
+        "en": "Oh, today is unfortunately full. Does next week work?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, nächste Woche.",
+          "en": "Yes, next week."
+         },
+         {
+          "de": "Nein, danke.",
+          "en": "No, thanks."
+         }
+        ]
+       },
+       {
+        "them": "Alles klar, bis später!",
+        "en": "Alright, see you later!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis später!",
+          "en": "See you later!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l24",
+  "icon": "🩺",
+  "title": "Say which day you have a shift",
+  "capability": "You can say which day you have a shift.",
+  "proof": "Ich habe am Montag Schicht.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Montag",
+      "Monday",
+      "1️⃣"
+     ],
+     [
+      "Freitag",
+      "Friday",
+      "5️⃣"
+     ],
+     [
+      "Schicht",
+      "shift",
+      "🩺"
+     ],
+     [
+      "am",
+      "on",
+      "📌"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to say which day you work."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Montag</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Freitag</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Montag",
+      "Monday",
+      "1️⃣"
+     ],
+     [
+      "Freitag",
+      "Friday",
+      "5️⃣"
+     ],
+     [
+      "Schicht",
+      "shift",
+      "🩺"
+     ],
+     [
+      "am",
+      "on",
+      "📌"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Schicht</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>am</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>shift</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Am goes right before the day.",
+      "body": "Ich habe am Montag Schicht. Am plus a day tells you when."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Montag",
+      "Monday",
+      "1️⃣"
+     ],
+     [
+      "Freitag",
+      "Friday",
+      "5️⃣"
+     ],
+     [
+      "Schicht",
+      "shift",
+      "🩺"
+     ],
+     [
+      "am",
+      "on",
+      "📌"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "habe",
+       "am",
+       "Montag",
+       "Schicht."
+      ],
+      "en": "I have a shift on Monday.",
+      "extra": [
+       "Freitag",
+       "Wann"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Haben Sie am Freitag eine Schicht?",
+      "en": "Do you have a shift on Friday?"
+     },
+     {
+      "t": "translate",
+      "de": "Ich habe am Montag Schicht.",
+      "en": [
+       "I",
+       "have",
+       "a",
+       "shift",
+       "on",
+       "Monday."
+      ],
+      "extra": [
+       "Friday",
+       "when"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Haben Sie eine Schicht?",
+        "en": "Do you have a shift?"
+       },
+       {
+        "de": "Ich habe am Montag Schicht.",
+        "en": "I have a shift on Monday."
+       },
+       {
+        "de": "Bis Montag!",
+        "en": "See you Monday!"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation. Your schedule: a shift on Monday, not Friday this week."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🩺",
+      "goal": "Your shift is Monday, not Friday. Tell her.",
+      "turns": [
+       {
+        "them": "Hallo! Haben Sie heute eine Schicht?",
+        "en": "Hello! Do you have a shift today?",
+        "opts": [
+         {
+          "de": "Nein, heute nicht.",
+          "en": "No, not today.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Wann dann?",
+        "en": "When then?",
+        "mode": "production",
+        "answer": [
+         "Am",
+         "Montag."
+        ],
+        "decoys": [
+         "Freitag",
+         "Schicht"
+        ],
+        "answerEn": "On Monday.",
+        "ack": "Ah, verstanden!",
+        "ackEn": "Ah, understood!"
+       },
+       {
+        "them": "Gut, bis Montag dann!",
+        "en": "Good, see you Monday then!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis Montag!",
+          "en": "See you Monday!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l25",
+  "icon": "🩺",
+  "title": "Name the rest of the week",
+  "capability": "You can name the other days of the week.",
+  "proof": "Ich habe am Dienstag Schicht.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Dienstag",
+      "Tuesday",
+      "2️⃣"
+     ],
+     [
+      "Mittwoch",
+      "Wednesday",
+      "3️⃣"
+     ],
+     [
+      "Donnerstag",
+      "Thursday",
+      "4️⃣"
+     ],
+     [
+      "Samstag",
+      "Saturday",
+      "6️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn the rest of the week."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Dienstag</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Mittwoch</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Dienstag",
+      "Tuesday",
+      "2️⃣"
+     ],
+     [
+      "Mittwoch",
+      "Wednesday",
+      "3️⃣"
+     ],
+     [
+      "Donnerstag",
+      "Thursday",
+      "4️⃣"
+     ],
+     [
+      "Samstag",
+      "Saturday",
+      "6️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Donnerstag</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Samstag</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>Thursday</b>?",
+      "from": [
+       2,
+       3,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 3,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "German weekdays hide a number.",
+      "body": "Montag is day 1, Dienstag is day 2, Mittwoch is day 3. The names follow the week's own order."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Dienstag",
+      "Tuesday",
+      "2️⃣"
+     ],
+     [
+      "Mittwoch",
+      "Wednesday",
+      "3️⃣"
+     ],
+     [
+      "Donnerstag",
+      "Thursday",
+      "4️⃣"
+     ],
+     [
+      "Samstag",
+      "Saturday",
+      "6️⃣"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "habe",
+       "am",
+       "Dienstag",
+       "Schicht."
+      ],
+      "en": "I have a shift on Tuesday.",
+      "extra": [
+       "Mittwoch",
+       "Donnerstag"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Haben Sie am Mittwoch eine Schicht?",
+      "en": "Do you have a shift on Wednesday?"
+     },
+     {
+      "t": "translate",
+      "de": "Ich habe am Samstag Schicht.",
+      "en": [
+       "I",
+       "have",
+       "a",
+       "shift",
+       "on",
+       "Saturday."
+      ],
+      "extra": [
+       "Tuesday",
+       "Wednesday"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Haben Sie am Dienstag Schicht?",
+        "en": "Do you have a shift on Tuesday?"
+       },
+       {
+        "de": "Ich habe am Mittwoch Schicht.",
+        "en": "I have a shift on Wednesday."
+       },
+       {
+        "de": "Ich habe am Donnerstag Schicht.",
+        "en": "I have a shift on Thursday."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Your colleague wants your whole week."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🩺",
+      "goal": "Say which other days you work.",
+      "turns": [
+       {
+        "them": "Arbeiten Sie am Dienstag?",
+        "en": "Do you work on Tuesday?",
+        "opts": [
+         {
+          "de": "Ja, ich habe am Dienstag Schicht.",
+          "en": "Yes, I have a shift on Tuesday.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Und am Mittwoch?",
+        "en": "And on Wednesday?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Ja, auch.",
+          "en": "Yes, also."
+         },
+         {
+          "de": "Nein, danke.",
+          "en": "No, thanks."
+         }
+        ]
+       },
+       {
+        "them": "Gut, bis Dienstag dann!",
+        "en": "Good, see you Tuesday then!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis Dienstag!",
+          "en": "See you Tuesday!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l26",
+  "icon": "🏖️",
+  "title": "Say you're free on Sunday",
+  "capability": "You can say Sunday is your day off, and talk about the weekend.",
+  "proof": "Ich habe am Sonntag frei.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Sonntag",
+      "Sunday",
+      "7️⃣"
+     ],
+     [
+      "frei",
+      "free / off",
+      "🏖️"
+     ],
+     [
+      "arbeiten",
+      "to work",
+      "💼"
+     ],
+     [
+      "Wochenende",
+      "weekend",
+      "🎉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to say you're free."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Sonntag</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>frei</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Sonntag",
+      "Sunday",
+      "7️⃣"
+     ],
+     [
+      "frei",
+      "free / off",
+      "🏖️"
+     ],
+     [
+      "arbeiten",
+      "to work",
+      "💼"
+     ],
+     [
+      "Wochenende",
+      "weekend",
+      "🎉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>arbeiten</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wochenende</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>weekend</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "One sentence, all seven days.",
+      "body": "Maya Does My Duty, Feels Super Sleepy. Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag -- the first letters spell it out."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: I have Sunday off.",
+      "target": [
+       0,
+       1
+      ],
+      "keys": [
+       0,
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Sonntag",
+      "Sunday",
+      "7️⃣"
+     ],
+     [
+      "frei",
+      "free / off",
+      "🏖️"
+     ],
+     [
+      "arbeiten",
+      "to work",
+      "💼"
+     ],
+     [
+      "Wochenende",
+      "weekend",
+      "🎉"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "habe",
+       "am",
+       "Sonntag",
+       "frei."
+      ],
+      "en": "I have Sunday off.",
+      "extra": [
+       "arbeiten",
+       "Wochenende"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Arbeiten Sie am Wochenende?",
+      "en": "Do you work on the weekend?"
+     },
+     {
+      "t": "translate",
+      "de": "Ich arbeite nicht am Sonntag.",
+      "en": [
+       "I",
+       "don't",
+       "work",
+       "on",
+       "Sunday."
+      ],
+      "extra": [
+       "weekend",
+       "free"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ich habe am Sonntag frei.",
+        "en": "I have Sunday off."
+       },
+       {
+        "de": "Arbeiten Sie am Wochenende?",
+        "en": "Do you work on the weekend?"
+       },
+       {
+        "de": "Ich arbeite nicht am Sonntag.",
+        "en": "I don't work on Sunday."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation. Your day off this week: Sunday."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🏖️",
+      "goal": "Your day off is Sunday. Tell her.",
+      "turns": [
+       {
+        "them": "Arbeiten Sie am Wochenende?",
+        "en": "Do you work on the weekend?",
+        "opts": [
+         {
+          "de": "Nein, ich habe frei.",
+          "en": "No, I have off.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Wann genau haben Sie frei?",
+        "en": "When exactly are you off?",
+        "mode": "production",
+        "answer": [
+         "Am",
+         "Sonntag."
+        ],
+        "decoys": [
+         "Montag",
+         "Freitag"
+        ],
+        "answerEn": "On Sunday.",
+        "ack": "Ah, verstanden!",
+        "ackEn": "Ah, understood!"
+       },
+       {
+        "them": "Schönes Wochenende dann!",
+        "en": "Have a nice weekend then!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Danke, Ihnen auch!",
+          "en": "Thanks, you too!"
+         },
+         {
+          "de": "Bis Montag!",
+          "en": "See you Monday!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l27",
+  "icon": "🌅",
+  "title": "Say your shift type and hours",
+  "capability": "You can say if you have an early or late shift, and when it runs.",
+  "proof": "Ich habe Fruehschicht, von sieben bis fuenfzehn Uhr.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Frühschicht",
+      "early shift",
+      "🌅"
+     ],
+     [
+      "Spätschicht",
+      "late shift",
+      "🌇"
+     ],
+     [
+      "von",
+      "from",
+      "➡️"
+     ],
+     [
+      "bis",
+      "until",
+      "🏁"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to say your shift type."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Frühschicht</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Spätschicht</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Frühschicht",
+      "early shift",
+      "🌅"
+     ],
+     [
+      "Spätschicht",
+      "late shift",
+      "🌇"
+     ],
+     [
+      "von",
+      "from",
+      "➡️"
+     ],
+     [
+      "bis",
+      "until",
+      "🏁"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>von</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>bis</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>until</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Von...bis... frames any time range.",
+      "body": "Von sieben bis fuenfzehn Uhr -- from seven to fifteen (3pm). Works for shifts, opening hours, anything with a start and an end."
+     },
+     {
+      "t": "keypad",
+      "en": "Dial out: from...to...",
+      "target": [
+       2,
+       3
+      ],
+      "keys": [
+       2,
+       3,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Frühschicht",
+      "early shift",
+      "🌅"
+     ],
+     [
+      "Spätschicht",
+      "late shift",
+      "🌇"
+     ],
+     [
+      "von",
+      "from",
+      "➡️"
+     ],
+     [
+      "bis",
+      "until",
+      "🏁"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ich",
+       "habe",
+       "Frühschicht."
+      ],
+      "en": "I have the early shift.",
+      "extra": [
+       "Spätschicht",
+       "von"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Haben Sie Spätschicht?",
+      "en": "Do you have the late shift?"
+     },
+     {
+      "t": "translate",
+      "de": "Meine Schicht ist von sieben bis fünfzehn Uhr.",
+      "en": [
+       "My",
+       "shift",
+       "is",
+       "from",
+       "seven",
+       "to",
+       "fifteen."
+      ],
+      "extra": [
+       "early shift",
+       "late shift"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ich habe Frühschicht.",
+        "en": "I have the early shift."
+       },
+       {
+        "de": "Haben Sie Spätschicht?",
+        "en": "Do you have the late shift?"
+       },
+       {
+        "de": "Meine Schicht ist von sieben bis fünfzehn Uhr.",
+        "en": "My shift is from seven to fifteen."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🌅",
+      "goal": "Say your shift type and hours.",
+      "turns": [
+       {
+        "them": "Haben Sie heute Frühschicht?",
+        "en": "Do you have the early shift today?",
+        "opts": [
+         {
+          "de": "Ja, Frühschicht.",
+          "en": "Yes, early shift.",
+          "ok": true
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       },
+       {
+        "them": "Und bis wann?",
+        "en": "And until when?",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Von sieben bis fünfzehn Uhr.",
+          "en": "From seven to fifteen."
+         },
+         {
+          "de": "Ich weiß nicht.",
+          "en": "I don't know."
+         }
+        ]
+       },
+       {
+        "them": "Gut, bis dann!",
+        "en": "Good, see you then!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis dann!",
+          "en": "See you then!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l28",
+  "icon": "⏱️",
+  "title": "Say how long your shift lasts",
+  "capability": "You can ask how long something takes, and answer approximately in hours.",
+  "proof": "Ungefähr acht Stunden.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Wie lange",
+      "how long",
+      "⏱️"
+     ],
+     [
+      "dauert",
+      "lasts",
+      "⏳"
+     ],
+     [
+      "Stunden",
+      "hours",
+      "🕐"
+     ],
+     [
+      "ungefähr",
+      "approximately",
+      "〰️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to ask how long something takes."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Wie lange</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>dauert</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Wie lange",
+      "how long",
+      "⏱️"
+     ],
+     [
+      "dauert",
+      "lasts",
+      "⏳"
+     ],
+     [
+      "Stunden",
+      "hours",
+      "🕐"
+     ],
+     [
+      "ungefähr",
+      "approximately",
+      "〰️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Stunden</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>ungefähr</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>approximately</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 2,
+      "from": [
+       2,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Wie lange...dauert...? asks about duration.",
+      "body": "Wie lange dauert die Schicht? -- how long does the shift last? Swap Schicht for anything: a break, a bus ride, a meeting."
+     },
+     {
+      "t": "race",
+      "en": "Tap them in order, before Maya gets there.",
+      "from": [
+       0,
+       1,
+       3,
+       2
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Wie lange",
+      "how long",
+      "⏱️"
+     ],
+     [
+      "dauert",
+      "lasts",
+      "⏳"
+     ],
+     [
+      "Stunden",
+      "hours",
+      "🕐"
+     ],
+     [
+      "ungefähr",
+      "approximately",
+      "〰️"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Wie",
+       "lange",
+       "dauert",
+       "die",
+       "Schicht?"
+      ],
+      "en": "How long does the shift last?",
+      "extra": [
+       "ungefähr",
+       "Stunden"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Die Schicht dauert acht Stunden.",
+      "en": "The shift lasts eight hours."
+     },
+     {
+      "t": "translate",
+      "de": "Ungefähr acht Stunden.",
+      "en": [
+       "About",
+       "eight",
+       "hours."
+      ],
+      "extra": [
+       "how long",
+       "lasts"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Wie lange dauert die Schicht?",
+        "en": "How long does the shift last?"
+       },
+       {
+        "de": "Die Schicht dauert acht Stunden.",
+        "en": "The shift lasts eight hours."
+       },
+       {
+        "de": "Ungefähr acht Stunden.",
+        "en": "About eight hours."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation. Your shift today: about eight hours."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "⏱️",
+      "goal": "Your shift is about eight hours. Tell her.",
+      "turns": [
+       {
+        "them": "Wie lange dauert Ihre Schicht heute?",
+        "en": "How long does your shift last today?",
+        "mode": "production",
+        "answer": [
+         "Ungefähr",
+         "acht",
+         "Stunden."
+        ],
+        "decoys": [
+         "sechs",
+         "zehn"
+        ],
+        "answerEn": "About eight hours.",
+        "ack": "Ah, ok, verstanden!",
+        "ackEn": "Ah, ok, understood!"
+       },
+       {
+        "them": "Dann bis später!",
+        "en": "See you later then!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis später!",
+          "en": "See you later!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l29",
+  "icon": "🚦",
+  "title": "Say you're running late",
+  "capability": "You can apologize for running late, say how many minutes, and give traffic as the reason.",
+  "proof": "Entschuldigung, zehn Minuten Verspätung.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "Entschuldigung",
+      "sorry / excuse me",
+      "😅"
+     ],
+     [
+      "Verspätung",
+      "delay / lateness",
+      "🐌"
+     ],
+     [
+      "Minuten",
+      "minutes",
+      "⏲️"
+     ],
+     [
+      "Stau",
+      "traffic jam",
+      "🚦"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to say you're running late."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Entschuldigung</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Verspätung</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "Entschuldigung",
+      "sorry / excuse me",
+      "😅"
+     ],
+     [
+      "Verspätung",
+      "delay / lateness",
+      "🐌"
+     ],
+     [
+      "Minuten",
+      "minutes",
+      "⏲️"
+     ],
+     [
+      "Stau",
+      "traffic jam",
+      "🚦"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Minuten</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>Stau</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>traffic jam</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       1,
+       3
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Stau! can be a whole sentence.",
+      "body": "Germans often just say the reason alone -- Stau! explains everything. No need for a full sentence."
+     },
+     {
+      "t": "scenetap",
+      "eyebrow": "Running Late",
+      "scene": "🚗",
+      "sceneCaption": "you're stuck in traffic...",
+      "q": "What do you text your colleague?",
+      "from": [
+       3
+      ],
+      "free": true
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "Entschuldigung",
+      "sorry / excuse me",
+      "😅"
+     ],
+     [
+      "Verspätung",
+      "delay / lateness",
+      "🐌"
+     ],
+     [
+      "Minuten",
+      "minutes",
+      "⏲️"
+     ],
+     [
+      "Stau",
+      "traffic jam",
+      "🚦"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Entschuldigung,",
+       "zehn",
+       "Minuten",
+       "Verspätung."
+      ],
+      "en": "Sorry, ten minutes late.",
+      "extra": [
+       "Stau",
+       "fünf"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Entschuldigung, Stau!",
+      "en": "Sorry, traffic!"
+     },
+     {
+      "t": "translate",
+      "de": "Fünf Minuten Verspätung.",
+      "en": [
+       "Five",
+       "minutes",
+       "late."
+      ],
+      "extra": [
+       "sorry",
+       "traffic jam"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Entschuldigung, Stau!",
+        "en": "Sorry, traffic!"
+       },
+       {
+        "de": "Zehn Minuten Verspätung.",
+        "en": "Ten minutes late."
+       },
+       {
+        "de": "Entschuldigung, zehn Minuten Verspätung.",
+        "en": "Sorry, ten minutes late."
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "🚦",
+      "goal": "Apologize and say how many minutes late you are.",
+      "turns": [
+       {
+        "them": "Guten Morgen! Wo sind Sie?",
+        "en": "Good morning! Where are you?",
+        "opts": [
+         {
+          "de": "Entschuldigung, Stau!",
+          "en": "Sorry, traffic!",
+          "ok": true
+         },
+         {
+          "de": "Danke!",
+          "en": "Thanks!"
+         }
+        ]
+       },
+       {
+        "them": "Wie viele Minuten?",
+        "en": "How many minutes?",
+        "opts": [
+         {
+          "de": "Zehn Minuten Verspätung.",
+          "en": "Ten minutes late.",
+          "ok": true
+         },
+         {
+          "de": "Zehn Uhr.",
+          "en": "Ten o'clock."
+         }
+        ]
+       },
+       {
+        "them": "Kein Problem, bis gleich!",
+        "en": "No problem, see you soon!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis gleich!",
+          "en": "See you soon!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a1l30",
+  "icon": "✅",
+  "title": "Confirm or correct what you heard",
+  "capability": "You can confirm if something is right, correct it if it's wrong, and say you understood.",
+  "proof": "Genau, das ist richtig.",
+  "subs": [
+   {
+    "key": "learn1",
+    "label": "Learn",
+    "teaches": [
+     [
+      "genau",
+      "exactly",
+      "✅"
+     ],
+     [
+      "richtig",
+      "right / correct",
+      "👍"
+     ],
+     [
+      "falsch",
+      "wrong",
+      "❌"
+     ],
+     [
+      "verstanden",
+      "understood",
+      "💡"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn how to confirm or correct something."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 0
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>genau</b>?",
+      "from": [
+       0,
+       1
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 1
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>richtig</b>?",
+      "from": [
+       1,
+       0
+      ]
+     },
+     {
+      "t": "match",
+      "ws": [
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   {
+    "key": "learn2",
+    "label": "Learn More",
+    "teaches": [
+     [
+      "genau",
+      "exactly",
+      "✅"
+     ],
+     [
+      "richtig",
+      "right / correct",
+      "👍"
+     ],
+     [
+      "falsch",
+      "wrong",
+      "❌"
+     ],
+     [
+      "verstanden",
+      "understood",
+      "💡"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Let's learn two more words."
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 2
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>falsch</b>?",
+      "from": [
+       2,
+       1,
+       0
+      ]
+     },
+     {
+      "t": "teach",
+      "w": 3
+     },
+     {
+      "t": "pick",
+      "q": "Which one is <b>verstanden</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "pick",
+      "q": "Which one means <b>wrong</b>?",
+      "from": [
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "t": "listen",
+      "w": 1,
+      "from": [
+       1,
+       2
+      ]
+     },
+     {
+      "t": "hack",
+      "title": "Richtig and falsch are opposites.",
+      "body": "Ist das richtig? -- Nein, das ist falsch. One word flips the whole answer."
+     },
+     {
+      "t": "soundmatch",
+      "w": 2,
+      "from": [
+       1,
+       2
+      ]
+     }
+    ]
+   },
+   {
+    "key": "apply",
+    "label": "Apply",
+    "teaches": [
+     [
+      "genau",
+      "exactly",
+      "✅"
+     ],
+     [
+      "richtig",
+      "right / correct",
+      "👍"
+     ],
+     [
+      "falsch",
+      "wrong",
+      "❌"
+     ],
+     [
+      "verstanden",
+      "understood",
+      "💡"
+     ]
+    ],
+    "steps": [
+     {
+      "t": "story",
+      "lines": [
+       "Now put it all together."
+      ]
+     },
+     {
+      "t": "build",
+      "de": [
+       "Ist",
+       "das",
+       "richtig?"
+      ],
+      "en": "Is that correct?",
+      "extra": [
+       "falsch",
+       "genau"
+      ]
+     },
+     {
+      "t": "speak",
+      "de": "Nein, das ist falsch.",
+      "en": "No, that's wrong."
+     },
+     {
+      "t": "translate",
+      "de": "Genau, verstanden!",
+      "en": [
+       "Exactly,",
+       "understood!"
+      ],
+      "extra": [
+       "right",
+       "wrong"
+      ]
+     },
+     {
+      "t": "speakcards",
+      "cards": [
+       {
+        "de": "Ist das richtig?",
+        "en": "Is that correct?"
+       },
+       {
+        "de": "Nein, das ist falsch.",
+        "en": "No, that's wrong."
+       },
+       {
+        "de": "Genau, verstanden!",
+        "en": "Exactly, understood!"
+       }
+      ]
+     },
+     {
+      "t": "story",
+      "lines": [
+       "Now, a real conversation."
+      ]
+     },
+     {
+      "t": "chat",
+      "who": "Kollegin",
+      "avatar": "✅",
+      "goal": "Confirm what your colleague says about your schedule.",
+      "turns": [
+       {
+        "them": "Sie haben also Frühschicht, richtig?",
+        "en": "So you have the early shift, right?",
+        "opts": [
+         {
+          "de": "Ja, genau.",
+          "en": "Yes, exactly.",
+          "ok": true
+         },
+         {
+          "de": "Nein danke.",
+          "en": "No thanks."
+         }
+        ]
+       },
+       {
+        "them": "Und die Schicht ist von sieben bis fünfzehn Uhr, oder?",
+        "en": "And the shift is from seven to fifteen, right?",
+        "opts": [
+         {
+          "de": "Ja, das ist richtig.",
+          "en": "Yes, that's correct.",
+          "ok": true
+         },
+         {
+          "de": "Nein, das ist falsch.",
+          "en": "No, that's wrong."
+         }
+        ]
+       },
+       {
+        "them": "Perfekt, verstanden!",
+        "en": "Perfect, understood!",
+        "mode": "choice",
+        "opts": [
+         {
+          "de": "Bis dann!",
+          "en": "See you then!"
+         },
+         {
+          "de": "Tschüss!",
+          "en": "Bye!"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Skillcase B2 — Content Review</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<style>
+  :root { --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --bg:#f9fafb; --card:#fff;
+          --accent:#1e76f3; --ok:#059669; --bad:#dc2626; --warn:#b45309; }
+  * { box-sizing: border-box; }
+  body { margin:0; font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif;
+         color: var(--ink); background: var(--bg); }
+  header { background:#0f172a; color:#fff; padding:14px 20px; display:flex; align-items:center;
+           justify-content:space-between; gap:16px; }
+  header h1 { font-size:16px; margin:0; font-weight:600; }
+  header .sub { color:#94a3b8; font-size:12px; }
+  #tokenGate { max-width:420px; margin:80px auto; background:var(--card); border:1px solid var(--line);
+               border-radius:12px; padding:28px; }
+  #tokenGate h2 { margin:0 0 8px; font-size:16px; }
+  #tokenGate p { color:var(--muted); font-size:13px; margin:0 0 16px; }
+  input, select, textarea { font: inherit; border:1px solid var(--line); border-radius:6px; padding:8px 10px;
+                             width:100%; background:#fff; color:var(--ink); }
+  textarea { resize:vertical; min-height:60px; }
+  button { font: inherit; font-weight:600; border:0; border-radius:6px; padding:9px 14px;
+           cursor:pointer; background:var(--accent); color:#fff; }
+  button.ghost { background:#fff; color:var(--ink); border:1px solid var(--line); }
+  button.danger { background:var(--warn); }
+  button:disabled { opacity:.5; cursor:not-allowed; }
+  button.small { padding:5px 10px; font-size:12px; }
+  #app { display:none; }
+  .layout { display:flex; height:calc(100vh - 56px); }
+  #sidebar { width:340px; border-right:1px solid var(--line); overflow-y:auto; background:var(--card); flex-shrink:0; }
+  #sidebar .filters { padding:12px; border-bottom:1px solid var(--line); display:flex; gap:8px; }
+  #sidebar .filters select { font-size:12px; padding:6px 8px; }
+  .paper-row { padding:12px 14px; border-bottom:1px solid var(--line); cursor:pointer; }
+  .paper-row:hover { background:#f3f4f6; }
+  .paper-row.active { background:#eff6ff; border-left:3px solid var(--accent); }
+  .paper-row .id { font-weight:600; font-size:13px; }
+  .paper-row .meta { color:var(--muted); font-size:11.5px; margin-top:2px; }
+  .status-pill { display:inline-block; padding:1px 7px; border-radius:999px; font-size:10px; font-weight:700;
+                 text-transform:uppercase; letter-spacing:.02em; }
+  .status-DRAFT { background:#f3f4f6; color:#6b7280; }
+  .status-AUTO_QA_PASS { background:#eff6ff; color:#1e76f3; }
+  .status-SME_REVIEWED { background:#ecfdf5; color:var(--ok); }
+  .status-SME_CHANGES_REQUIRED { background:#fef2f2; color:var(--bad); }
+  .status-PRODUCTION { background:#f5f3ff; color:#7c3aed; }
+  #main { flex:1; overflow-y:auto; padding:24px 32px; }
+  .empty-state { color:var(--muted); text-align:center; margin-top:80px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:18px 20px; margin-bottom:16px; }
+  .card h3 { margin:0 0 12px; font-size:14px; }
+  .field { margin-bottom:10px; }
+  .field label { display:block; font-size:11.5px; color:var(--muted); margin-bottom:4px; font-weight:600;
+                 text-transform:uppercase; letter-spacing:.02em; }
+  .row2 { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+  .row3 { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; }
+  .section-block { border-top:2px solid var(--line); padding-top:14px; margin-top:14px; }
+  .section-block h4 { margin:0 0 4px; font-size:13px; }
+  .section-block .passage-note { color:var(--muted); font-size:12px; margin-bottom:10px; }
+  .item-card { border:1px solid var(--line); border-radius:8px; padding:14px; margin-bottom:10px; background:#fcfcfd; }
+  .item-head { display:flex; justify-content:space-between; align-items:baseline; margin-bottom:8px; }
+  .item-head .tag { font-size:11px; color:var(--muted); font-weight:600; }
+  .save-msg { font-size:12px; margin-left:10px; }
+  .save-msg.ok { color:var(--ok); }
+  .save-msg.bad { color:var(--bad); }
+  .review-history { font-size:12px; color:var(--muted); }
+  .review-history li { margin-bottom:4px; }
+  details summary { cursor:pointer; font-size:12px; color:var(--muted); }
+</style>
+</head>
+<body>
+
+<div id="tokenGate">
+  <h2>Skillcase B2 — Content Review</h2>
+  <p>Internal tool. Enter the review token your engineer gave you.</p>
+  <div class="field"><input id="tokenInput" type="password" placeholder="Review token" /></div>
+  <button id="tokenSubmit" style="width:100%">Continue</button>
+  <p id="tokenError" style="color:var(--bad); font-size:12px; margin-top:8px; display:none;"></p>
+</div>
+
+<div id="app">
+  <header>
+    <div>
+      <h1>Skillcase B2 — Content Review</h1>
+      <div class="sub">Verify, correct, and mark content as reviewed.</div>
+    </div>
+    <button class="ghost small" id="logoutBtn">Change token</button>
+  </header>
+  <div class="layout">
+    <div id="sidebar">
+      <div class="filters">
+        <select id="filterBoard"><option value="">All boards</option></select>
+        <select id="filterStatus"><option value="">All statuses</option></select>
+      </div>
+      <div id="paperList"></div>
+    </div>
+    <div id="main">
+      <div class="empty-state">Select a paper on the left to review its content.</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const API = "/api/review";
+let TOKEN = localStorage.getItem("review_token") || "";
+let META = null;
+let CURRENT_PAPER = null;
+
+async function api(path, opts = {}) {
+  const res = await fetch(API + path, {
+    ...opts,
+    headers: { "Content-Type": "application/json", "x-review-token": TOKEN, ...(opts.headers || {}) },
+  });
+  if (res.status === 401) { showGate("Token rejected. Try again."); throw new Error("unauthorized"); }
+  const body = await res.json().catch(() => ({}));
+  if (!res.ok) throw Object.assign(new Error(body.error || "request_failed"), { body });
+  return body;
+}
+
+function showGate(err) {
+  document.getElementById("app").style.display = "none";
+  document.getElementById("tokenGate").style.display = "block";
+  const e = document.getElementById("tokenError");
+  if (err) { e.textContent = err; e.style.display = "block"; } else { e.style.display = "none"; }
+}
+function showApp() {
+  document.getElementById("tokenGate").style.display = "none";
+  document.getElementById("app").style.display = "block";
+}
+
+document.getElementById("tokenSubmit").onclick = async () => {
+  TOKEN = document.getElementById("tokenInput").value.trim();
+  try {
+    await api("/meta");
+    localStorage.setItem("review_token", TOKEN);
+    boot();
+  } catch { showGate("Token rejected. Try again."); }
+};
+document.getElementById("logoutBtn").onclick = () => {
+  localStorage.removeItem("review_token"); TOKEN = ""; showGate();
+};
+
+async function boot() {
+  showApp();
+  META = await api("/meta");
+  const bSel = document.getElementById("filterBoard");
+  ["goethe", "telc", "telc_pflege", "osd", "custom"].forEach(b => {
+    const o = document.createElement("option"); o.value = b; o.textContent = b; bSel.appendChild(o);
+  });
+  const sSel = document.getElementById("filterStatus");
+  META.reviewStatus.forEach(s => {
+    const o = document.createElement("option"); o.value = s; o.textContent = s; sSel.appendChild(o);
+  });
+  bSel.onchange = loadPapers; sSel.onchange = loadPapers;
+  loadPapers();
+}
+
+async function loadPapers() {
+  const board = document.getElementById("filterBoard").value;
+  const status = document.getElementById("filterStatus").value;
+  const qs = new URLSearchParams();
+  if (board) qs.set("board", board);
+  if (status) qs.set("status", status);
+  const papers = await api("/papers?" + qs.toString());
+  const list = document.getElementById("paperList");
+  list.innerHTML = "";
+  papers.forEach(p => {
+    const row = document.createElement("div");
+    row.className = "paper-row" + (CURRENT_PAPER === p.id ? " active" : "");
+    row.innerHTML = `<div class="id">${p.id}</div>
+      <div class="meta"><span class="status-pill status-${p.review_status}">${p.review_status}</span>
+      &nbsp;${p.board} · ${p.section_count} sections · ${p.item_count} items</div>`;
+    row.onclick = () => openPaper(p.id);
+    list.appendChild(row);
+  });
+  if (!papers.length) list.innerHTML = '<div class="empty-state" style="margin-top:24px;">No papers match this filter.</div>';
+}
+
+function optionLabel(letter) { return letter; }
+
+function itemEditorHtml(item) {
+  const t = item.item_type;
+  let answerBlock = "";
+  if (t === "MCQ") {
+    answerBlock = `
+      <div class="field"><label>Options (one per line)</label>
+        <textarea data-field="options" rows="${Math.max(2, (item.options||[]).length)}">${(item.options||[]).join("\n")}</textarea></div>
+      <div class="field"><label>Correct answer (0-based index)</label>
+        <input data-field="answer" type="number" min="0" value="${item.answer ?? ""}" /></div>`;
+  } else if (t === "MULTI_SELECT") {
+    const opts = item.options || item.payload?.options || [];
+    const correct = (item.answer_payload?.correct || []).join(",");
+    answerBlock = `
+      <div class="field"><label>Options (one per line)</label>
+        <textarea data-field="options" rows="${Math.max(2, opts.length)}">${opts.join("\n")}</textarea></div>
+      <div class="field"><label>Correct indices (comma-separated, 0-based)</label>
+        <input data-field="correct" value="${correct}" /></div>`;
+  } else if (t === "TRUE_FALSE") {
+    const val = item.answer_payload?.value;
+    answerBlock = `
+      <div class="field"><label>Correct answer</label>
+        <select data-field="tfvalue">
+          <option value="true" ${val === true ? "selected" : ""}>Richtig</option>
+          <option value="false" ${val === false ? "selected" : ""}>Falsch</option>
+        </select></div>`;
+  } else if (t === "LONG_TEXT" || t === "SPOKEN_RESPONSE") {
+    answerBlock = `<div class="field"><label>Payload (not directly editable here)</label>
+      <textarea disabled rows="2">${JSON.stringify(item.payload || {})}</textarea></div>`;
+  } else {
+    answerBlock = `<div class="field"><label>Payload / answer (not directly editable here — flag in notes if wrong)</label>
+      <textarea disabled rows="2">${JSON.stringify({ options: item.options, answer: item.answer, answer_payload: item.answer_payload, payload: item.payload })}</textarea></div>`;
+  }
+
+  const capOptions = META.capabilities.map(c =>
+    `<option value="${c.id}" ${item.capability === c.id ? "selected" : ""}>${c.label}</option>`).join("");
+  const diffOptions = META.difficulty.map(d =>
+    `<option value="${d}" ${item.difficulty === d ? "selected" : ""}>${d}</option>`).join("");
+
+  return `
+    <div class="item-card" data-item-id="${item.id}">
+      <div class="item-head">
+        <span class="tag">#${item.item_no} · ${t} · ${item.scoring_mode}</span>
+        <span class="tag">skill: ${item.skill || "—"}</span>
+      </div>
+      <div class="field"><label>Stem</label><textarea data-field="stem" rows="2">${item.stem || ""}</textarea></div>
+      ${answerBlock}
+      <div class="field"><label>Rationale</label><textarea data-field="rationale" rows="2">${item.rationale || ""}</textarea></div>
+      <div class="row2">
+        <div class="field"><label>Capability</label><select data-field="capability">${capOptions}</select></div>
+        <div class="field"><label>Difficulty</label><select data-field="difficulty">${diffOptions}</select></div>
+      </div>
+      <button class="small" onclick="saveItem(${item.id})">Save item</button>
+      <span class="save-msg" id="msg-item-${item.id}"></span>
+    </div>`;
+}
+
+async function saveItem(id) {
+  const card = document.querySelector(`[data-item-id="${id}"]`);
+  const get = (f) => card.querySelector(`[data-field="${f}"]`);
+  const patch = {
+    stem: get("stem").value,
+    rationale: get("rationale").value,
+    capability: get("capability").value,
+    difficulty: get("difficulty").value,
+  };
+  if (get("options")) patch.options = get("options").value.split("\n").map(s => s.trim()).filter(Boolean);
+  if (get("answer")) patch.answer = Number(get("answer").value);
+  if (get("correct")) patch.answer_payload = { correct: get("correct").value.split(",").map(s => Number(s.trim())).filter(n => !Number.isNaN(n)) };
+  if (get("tfvalue")) patch.answer_payload = { value: get("tfvalue").value === "true" };
+
+  const msg = document.getElementById(`msg-item-${id}`);
+  try {
+    await api(`/items/${id}`, { method: "PATCH", body: JSON.stringify(patch) });
+    msg.className = "save-msg ok"; msg.textContent = "Saved.";
+  } catch (e) {
+    msg.className = "save-msg bad";
+    msg.textContent = (e.body?.problems || [e.message]).join("; ");
+  }
+  setTimeout(() => { msg.textContent = ""; }, 6000);
+}
+
+async function savePaperMeta() {
+  const get = (f) => document.getElementById("meta-" + f).value;
+  const msg = document.getElementById("msg-paper-meta");
+  try {
+    await api(`/papers/${CURRENT_PAPER}`, { method: "PATCH", body: JSON.stringify({
+      title: get("title"), source: get("source"), alignment: get("alignment"),
+      minutes: Number(get("minutes")), difficulty: get("difficulty"),
+    }) });
+    msg.className = "save-msg ok"; msg.textContent = "Saved.";
+  } catch (e) {
+    msg.className = "save-msg bad"; msg.textContent = (e.body?.problems || [e.message]).join("; ");
+  }
+  setTimeout(() => { msg.textContent = ""; }, 6000);
+}
+
+async function submitReview() {
+  const reviewer = document.getElementById("reviewReviewer").value.trim();
+  const outcome = document.getElementById("reviewOutcome").value;
+  const notes = document.getElementById("reviewNotes").value;
+  const msg = document.getElementById("msg-review");
+  if (!reviewer) { msg.className = "save-msg bad"; msg.textContent = "Your name is required."; return; }
+  try {
+    await api(`/papers/${CURRENT_PAPER}/review`, { method: "POST", body: JSON.stringify({ reviewer, outcome, notes }) });
+    msg.className = "save-msg ok"; msg.textContent = "Review recorded.";
+    openPaper(CURRENT_PAPER);
+    loadPapers();
+  } catch (e) {
+    msg.className = "save-msg bad"; msg.textContent = (e.body?.problems || [e.message]).join("; ");
+  }
+}
+
+async function openPaper(id) {
+  CURRENT_PAPER = id;
+  loadPapers();
+  const data = await api(`/papers/${id}`);
+  const { paper, sections, reviews } = data;
+
+  const statusOptions = META.reviewStatus.map(s => `<option value="${s}">${s}</option>`).join("");
+  const sourceTypeOptions = META.sourceTypes.map(s =>
+    `<option value="${s}" ${paper.source_type === s ? "selected" : ""}>${s}</option>`).join("");
+
+  let html = `
+    <div class="card">
+      <h3>${paper.id} <span class="status-pill status-${paper.review_status}">${paper.review_status}</span></h3>
+      <div class="row3">
+        <div class="field"><label>Title</label><input id="meta-title" value="${(paper.title||"").replace(/"/g,'&quot;')}" /></div>
+        <div class="field"><label>Alignment</label>
+          <select id="meta-alignment">
+            ${["licensed_official","exam_format_practice","exam_aligned","original"].map(a =>
+              `<option value="${a}" ${paper.alignment===a?"selected":""}>${a}</option>`).join("")}
+          </select></div>
+        <div class="field"><label>Difficulty</label>
+          <select id="meta-difficulty">${META.difficulty.map(d=>`<option value="${d}" ${paper.difficulty===d?"selected":""}>${d}</option>`).join("")}</select></div>
+      </div>
+      <div class="row2">
+        <div class="field"><label>Source note</label><input id="meta-source" value="${(paper.source||"").replace(/"/g,'&quot;')}" /></div>
+        <div class="field"><label>Minutes</label><input id="meta-minutes" type="number" value="${paper.minutes||""}" /></div>
+      </div>
+      <div class="field"><label>Source type (read-only here — provenance shape is enforced on save)</label>
+        <input value="${paper.source_type||""}" disabled /></div>
+      <button class="small" onclick="savePaperMeta()">Save paper details</button>
+      <span class="save-msg" id="msg-paper-meta"></span>
+    </div>`;
+
+  sections.forEach(s => {
+    html += `<div class="card"><div class="section-block">
+      <h4>Section: ${s.title || s.module} <span class="tag">(${s.skill || s.module}, ${s.items.length} items)</span></h4>
+      ${s.passage ? `<details><summary>Passage / transcript (click to view)</summary>
+        <div class="passage-note" style="white-space:pre-wrap; margin-top:8px;">${(s.passage||"").replace(/</g,"&lt;")}</div></details>` : ""}
+      ${s.items.map(itemEditorHtml).join("")}
+    </div></div>`;
+  });
+
+  html += `
+    <div class="card">
+      <h3>Record a review</h3>
+      <div class="row3">
+        <div class="field"><label>Your name</label><input id="reviewReviewer" placeholder="e.g. Frau Weber" /></div>
+        <div class="field"><label>Outcome</label><select id="reviewOutcome">${statusOptions}</select></div>
+        <div></div>
+      </div>
+      <div class="field"><label>Notes</label><textarea id="reviewNotes" rows="2" placeholder="What did you check? What needs fixing?"></textarea></div>
+      <button onclick="submitReview()">Submit review</button>
+      <span class="save-msg" id="msg-review"></span>
+      ${reviews.length ? `<div style="margin-top:14px;"><b style="font-size:12px;">Review history</b>
+        <ul class="review-history">${reviews.map(r => `<li>${r.outcome} — ${r.reviewer}, ${new Date(r.reviewed_at).toLocaleString()}${r.notes ? " — " + r.notes : ""}</li>`).join("")}</ul></div>` : ""}
+    </div>`;
+
+  document.getElementById("main").innerHTML = html;
+  document.getElementById("reviewOutcome").value = "SME_REVIEWED";
+}
+
+if (TOKEN) boot().catch(() => showGate());
+else showGate();
+</script>
+</body>
+</html>

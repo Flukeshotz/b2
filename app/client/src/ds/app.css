@@ -1,0 +1,99 @@
+/* ══════════════════════════════════════════════════════════════════════
+   SKILLCASE APP TOKENS — the production truth.
+   Transcribed verbatim from SkillCase-Frontend/src/index.css (v1.2.6).
+   This is the layer the shipping app actually renders against; it wins over
+   tokens/brand.css (design-file derived) and tokens/fig-tokens.css (the
+   imported Untitled UI variable library) wherever they disagree.
+   Stack context: React 19 + Vite + Tailwind v4 + Capacitor (Android),
+   lucide-react + MUI icons, framer-motion for transitions.
+   ══════════════════════════════════════════════════════════════════════ */
+:root{
+/* ── Primary (navy) ─────────────────────────────────────────────── */
+--color-primary:#002856;
+--color-primary-light:#003d83;
+--color-primary-muted:#89a1bd;
+
+/* ── Accent (gold) ─────────────────────────────────────────────── */
+--color-accent:#edb843;
+--color-accent-light:#ffebbe;
+--color-accent-dark:#c48b0e;
+
+/* ── Backgrounds ───────────────────────────────────────────────── */
+--color-bg-primary:#ffffff;
+--color-bg-secondary:#fafafa;
+--color-bg-tertiary:#f0f0f0;
+--color-bg-muted:#f5f5f5;
+--color-bg-disabled:#e5e5e5;
+
+/* ── Text ──────────────────────────────────────────────────────── */
+--color-text-primary:#181d27;
+--color-text-secondary:#414651;
+--color-text-tertiary:#535862;
+--color-text-muted:#717680;
+--color-text-on-dark:#ffffff;
+--color-text-on-dark-muted:#89a1bd;
+
+/* ── Status ────────────────────────────────────────────────────── */
+--color-success:#019035;
+--color-success-light:#cdf5db;
+--color-warning:#eaaa08;
+
+/* ── Borders ───────────────────────────────────────────────────── */
+--color-border-primary:#d5d7da;
+--color-border-secondary:#e9eaeb;
+--color-border-light:#efefef;
+--color-border-dark:rgba(0,0,0,0.08);
+
+/* ── Type ──────────────────────────────────────────────────────── */
+--font-family:'Poppins',sans-serif;
+
+/* ── Shadows ───────────────────────────────────────────────────── */
+--shadow-xs:0px 1px 2px 0px rgba(10,13,18,0.05);
+--shadow-sm:0px 1px 2px 0px rgba(10,13,18,0.06),0px 1px 3px 0px rgba(10,13,18,0.1);
+--shadow-md:2px 2px 16px 0px rgba(0,0,0,0.1);
+--shadow-lg:0px 2px 2px -1px rgba(10,13,18,0.04),0px 4px 6px -2px rgba(10,13,18,0.03),0px 12px 16px -4px rgba(10,13,18,0.08);
+
+/* ── Screen chrome (measured from the Figma home frame 2513:10746) ── */
+--app-frame-w:375px;   /* @kind spacing */
+--app-frame-h:844px;   /* @kind spacing */
+--app-statusbar-h:44px;/* @kind spacing */
+--app-header-h:72px;   /* @kind spacing */
+--app-moderail-h:52px; /* @kind spacing */
+--app-tabbar-h:88px;   /* @kind spacing */
+--app-gutter:16px;     /* @kind spacing */
+--app-card-w:107.667px; /* @kind spacing */
+--app-card-h:148px;    /* @kind spacing */
+--app-radius-card:8px;
+--app-radius-media:6px;
+--app-radius-panel:12px;
+--app-radius-pill:200px;
+--app-radius-badge:40px;
+--app-header-grad:linear-gradient(-73.132deg,#1e5ca2 0%,#083262 100%); /* @kind color */
+--app-ring-grad:linear-gradient(269.697deg,#083262 1.43%,#1066c8 97%); /* @kind color */
+--app-tabbar-shadow:0px -1px 58px 0px rgba(0,0,0,0.08);
+--app-navy-header:#083262; /* header/status fill on the app shell — one step lighter than --color-primary */
+}
+
+/* ── Base (from the app's index.css) ───────────────────────────── */
+.sc-app{font-family:var(--font-family);background:var(--color-bg-primary);color:var(--color-text-primary);-webkit-overflow-scrolling:touch}
+
+/* ── Utility classes the app defines and components rely on ────── */
+.gpu-layer{transform:translate3d(0,0,0);will-change:transform;backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.card-shadow{box-shadow:var(--shadow-md)}
+.perspective-1000{perspective:1000px}
+.transform-style-3d{transform-style:preserve-3d}
+.backface-hidden{backface-visibility:hidden;-webkit-backface-visibility:hidden}
+.rotate-y-180{transform:rotateY(180deg)}
+.safe-bottom-pad{padding-bottom:max(env(safe-area-inset-bottom,0px),2rem)}
+.lg-screen-height{height:100vh}
+@supports (height:100dvh){.lg-screen-height{height:100dvh}}
+
+/* ── Motion (verbatim keyframes from the app) ─────────────────── */
+@keyframes fadeIn{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.animate-fade{animation:fadeIn .5s ease-in-out}
+@keyframes lgFloatingFadeIn{from{opacity:0;transform:translateX(-50%) translateY(4px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+.animate-fadeIn{animation:lgFloatingFadeIn .3s ease-out forwards}
+@keyframes newsLangSwap{from{opacity:0;transform:translateY(8px) scale(.99)}to{opacity:1;transform:translateY(0) scale(1)}}
+.animate-news-lang-swap{animation:newsLangSwap 220ms ease-out}
+@keyframes newsHintBump{0%{transform:translateX(-50%) translateY(0)}35%{transform:translateX(-50%) translateY(-6px)}100%{transform:translateX(-50%) translateY(0)}}
+.animate-news-hint-bump{animation:newsHintBump 900ms ease-in-out infinite}

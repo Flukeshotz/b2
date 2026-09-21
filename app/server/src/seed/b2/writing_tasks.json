@@ -1,0 +1,378 @@
+{
+  "_comment": [
+    "WRITING TASK BANK — exported from the live database, not authored here.",
+    "",
+    "Nine tasks. Two of them (s01_vier_tage_woche, t01_sprachkurs_anfrage) also",
+    "have an INSERT in seed_b2.js; the other seven existed ONLY in one local",
+    "Postgres until this file. That included g04_homeoffice_thread, which the",
+    "writing loop demo runs on, and p01_aufnahmebericht_kremer, the only task a",
+    "teacher has ever marked.",
+    "",
+    "Do NOT hand-edit. The content_points carry detector regexes the",
+    "content-point checker depends on; changing one by hand changes scoring.",
+    "Edit the database and re-export.",
+    "",
+    "PROVENANCE OF THIS EXPORT: pulled through GET /api/b2/tasks, which returns",
+    "b2_tasks rows verbatim, because the shell running the export could not open",
+    "a socket to Postgres. Verified byte-identical to the API response by",
+    "checksum after writing. Two fields are therefore ABSENT rather than",
+    "invented, because that endpoint does not select them:",
+    "  - b2_tasks.source        (the per-task provenance note)",
+    "  - the rubric definition  (dimensions, scale_max, subtest_weight,",
+    "                            pass_mark, borderline_low/high)",
+    "`rubric` below carries only what the API exposes and is enough to re-link a",
+    "task to an existing rubric row. Re-run tools/export_b2_tasks.js against the",
+    "database to capture the missing fields.",
+    "",
+    "`review` is 'unreviewed' on every task. No teacher sign-off is recorded for",
+    "any of this German. Exporting it did not review it."
+  ],
+  "exported_at": "2026-09-12",
+  "export_via": "api",
+  "tasks": [
+    {
+      "id": "g02_homeoffice",
+      "rubric": {
+        "board": "goethe",
+        "module": "schreiben",
+        "task_type": "forumsbeitrag",
+        "provisional": false
+      },
+      "prompt_de": "Sie haben online einen Artikel über Homeoffice gelesen. Unter dem Artikel finden Sie folgenden Kommentar:\n\n„Homeoffice ist nur etwas für Menschen, die nicht gerne mit anderen zusammenarbeiten. Wer wirklich Karriere machen will, muss im Büro sein.\"\n\nSchreiben Sie einen Forumsbeitrag von ca. 180 Wörtern. Gehen Sie dabei auf folgende Punkte ein:\n1. Ihre eigene Meinung zum Homeoffice.\n2. Ein Argument, das für Ihre Position spricht.\n3. Ein Gegenargument und Ihre Reaktion darauf.\n4. Ein Vorschlag, wie Arbeitgeber damit umgehen sollten.",
+      "content_points": [
+        {
+          "id": "meinung",
+          "detector": "(meiner meinung nach|ich finde|ich denke|ich glaube|ich bin (der (meinung|ansicht)|daf(ü|ue)r|dagegen)|aus meiner sicht|meines erachtens)",
+          "label_de": "Eigene Meinung"
+        },
+        {
+          "id": "argument",
+          "detector": "(ein (wichtiges )?argument|zum einen|einerseits|erstens|dafür spricht|ein vorteil|der vorteil)",
+          "label_de": "Ein Argument dafür"
+        },
+        {
+          "id": "gegen",
+          "detector": "(andererseits|zwar|allerdings|kritiker|man k(ö|oe)nnte einwenden|dagegen spricht|ein nachteil|nat(ü|ue)rlich stimmt es)",
+          "label_de": "Gegenargument und Reaktion"
+        },
+        {
+          "id": "vorschlag",
+          "detector": "(ich schlage vor|man sollte|w(ä|ae)re es sinnvoll|mein vorschlag|sollte man|k(ö|oe)nnte man)",
+          "label_de": "Vorschlag"
+        }
+      ],
+      "target_words": 180,
+      "review": "unreviewed"
+    },
+    {
+      "id": "g03_oepnv",
+      "rubric": {
+        "board": "goethe",
+        "module": "schreiben",
+        "task_type": "forumsbeitrag",
+        "provisional": false
+      },
+      "prompt_de": "In einem Online-Forum wird über kostenlosen öffentlichen Nahverkehr diskutiert. Ein Nutzer schreibt:\n\n„Wenn Bus und Bahn nichts kosten, benutzt sie jeder — und niemand fährt mehr Auto. Das sollte überall eingeführt werden.\"\n\nSchreiben Sie einen Forumsbeitrag von ca. 180 Wörtern. Gehen Sie dabei auf folgende Punkte ein:\n1. Ihre eigene Meinung dazu.\n2. Ein Argument, das für Ihre Position spricht.\n3. Ein Gegenargument und Ihre Reaktion darauf.\n4. Ein Vorschlag, wie man das finanzieren könnte.",
+      "content_points": [
+        {
+          "id": "meinung",
+          "detector": "(meiner meinung nach|ich finde|ich denke|ich glaube|ich bin (der (meinung|ansicht)|daf(ü|ue)r|dagegen)|aus meiner sicht|meines erachtens)",
+          "label_de": "Eigene Meinung"
+        },
+        {
+          "id": "argument",
+          "detector": "(ein (wichtiges )?argument|zum einen|einerseits|erstens|dafür spricht|ein vorteil|der vorteil|umwelt|klima)",
+          "label_de": "Ein Argument dafür"
+        },
+        {
+          "id": "gegen",
+          "detector": "(andererseits|zwar|allerdings|kritiker|man k(ö|oe)nnte einwenden|dagegen spricht|ein nachteil|teuer)",
+          "label_de": "Gegenargument und Reaktion"
+        },
+        {
+          "id": "vorschlag",
+          "detector": "(finanzier|steuer|abgabe|ich schlage vor|man sollte|w(ä|ae)re es sinnvoll|mein vorschlag)",
+          "label_de": "Vorschlag zur Finanzierung"
+        }
+      ],
+      "target_words": 180,
+      "review": "unreviewed"
+    },
+    {
+      "id": "g04_homeoffice_thread",
+      "rubric": {
+        "board": "goethe",
+        "module": "schreiben",
+        "task_type": "forumsbeitrag",
+        "provisional": false
+      },
+      "prompt_de": "Sie haben den Thread „Homeoffice: zwei Tage im Büro — Pflicht oder Unsinn?\" gelesen. Schreiben Sie einen eigenen Beitrag von ca. 180 Wörtern.\n\nGehen Sie dabei auf folgende Punkte ein:\n1. Was Sie selbst von einer festen Anwesenheitspflicht halten.\n2. Eine Begründung für Ihre Position.\n3. Nehmen Sie eine Person aus dem Thread beim Namen und sagen Sie, wo Sie ihr zustimmen und wo nicht.\n4. Ein Beispiel aus Ihrem eigenen Arbeitsalltag.",
+      "content_points": [
+        {
+          "id": "meinung",
+          "any": [
+            "(meiner meinung nach|meines erachtens|aus meiner sicht|f(ü|ue)r mich (spricht|ist|w(ä|ae)re)|ich pers(ö|oe)nlich)",
+            "\\bich\\b[\\s\\S]{0,80}?\\b(finde|denke|glaube|halte|meine|neige|sehe|befürworte|bef(ü|ue)rworte|lehne|pl(ä|ae)diere|bin daf(ü|ue)r|bin dagegen)\\b",
+            "\\b(finde|denke|glaube|halte|meine|neige|sehe|lehne)\\b[\\s\\S]{0,60}?\\bich\\b",
+            "(ist|sind|w(ä|ae)re|w(ä|ae)ren|halte|scheint|bleibt)[\\s\\S]{0,60}?(?:^|[^\\wäöüß])(falsch|richtig|sinnvoll|unsinnig|(ü|ue)berfl(ü|ue)ssig|problematisch|der falsche weg|nicht zeitgem(ä|ae)ß|verfehlt|unn(ö|oe)tig)\\b",
+            "\\b(falsche[rnms]? weg|halte ich (wenig|nichts) von|halte wenig davon)\\b",
+            "\\b(sollte|sollten|m(ü|ue)sste|d(ü|ue)rfte)\\b[\\s\\S]{0,60}?\\b(nicht|kein|keine|gar nicht|niemals)\\b",
+            "\\bich\\b[\\s\\S]{0,60}?\\bw(ü|ue)rde\\b[\\s\\S]{0,60}?\\b(nicht|kein|keine|niemals)\\b",
+            "\\bw(ü|ue)rde ich\\b[\\s\\S]{0,60}?\\b(nicht|kein|keine)\\b",
+            "(?:^|[^\\wäöüß])((ü|ue)berzeug\\w+|leuchte[nt]?\\w*)\\b[\\s\\S]{0,40}?\\b(mich|mir)\\b[\\s\\S]{0,30}?\\bnicht\\b",
+            "\\bich bin (klar |eindeutig |ganz )?(daf(ü|ue)r|dagegen)\\b",
+            "\\bich bin (klar |eindeutig |ganz |grunds(ä|ae)tzlich )?(f(ü|ue)r|gegen)\\s+\\w+"
+          ],
+          "none": [
+            "\\b(kerstin|kerstin_m|tobi|tobi_87|reinhardt|nadja)\\w*\\b[\\s\\S]{0,60}?\\b(schreibt|schrieb|sagt|sagte|meint|meinte|findet|begr(ü|ue)ndet|nennt|argumentiert|behauptet)\\b",
+            "\\b(viele|manche|einige|die meisten|alle|man)\\b[\\s\\S]{0,40}?\\b(denken|denkt|finden|findet|glauben|glaubt|meinen|meint|sagen|sagt)\\b"
+          ],
+          "anchors": [
+            "\\b(homeoffice|anwesenheitspflicht|b(ü|ue)rotag|b(ü|ue)ro|pr(ä|ae)senz|regel|regelung|pflicht|vorschrift|absprache|team|anfahrt|arbeit|zusammenarbeit|vertrauen|kontrolle)",
+            "\\b(ich|mir|mich|mein|meine|meinem|meiner|wir|uns|unser|unsere)\\b"
+          ],
+          "label_de": "Ihre eigene Position"
+        },
+        {
+          "id": "begruendung",
+          "any": [
+            "\\b(weil|denn|da\\s+\\w+\\s+\\w+)\\b",
+            "\\b(deshalb|deswegen|daher|folglich|somit|mithin|entsprechend|dementsprechend|infolgedessen|aus diesem grund)\\b",
+            "\\b(wegen|aufgrund|angesichts|dank|infolge)\\s+\\w+",
+            "\\b(liegt (vor allem |haupts(ä|ae)chlich )?daran|der (wichtigste |eigentliche )?(grund|punkt) daf(ü|ue)r|das hat den grund)\\b"
+          ],
+          "none": [
+            "\\b(kerstin|kerstin_m|tobi|tobi_87|reinhardt|nadja)\\w*\\b[\\s\\S]{0,60}?\\b(schreibt|schrieb|sagt|sagte|meint|meinte|findet|begr(ü|ue)ndet|nennt|argumentiert|behauptet)\\b",
+            "\\b(viele|manche|einige|die meisten|alle|man)\\b[\\s\\S]{0,40}?\\b(denken|denkt|finden|findet|glauben|glaubt|meinen|meint|sagen|sagt)\\b",
+            "\\b(mein|meine|unser|unsere)[nrms]?\\s+(nachbar\\w+|schwester|bruder|mutter|vater|kind\\w*|freund\\w+)\\b"
+          ],
+          "anchors": [
+            "\\b(homeoffice|anwesenheitspflicht|b(ü|ue)rotag|b(ü|ue)ro|pr(ä|ae)senz|regel|regelung|pflicht|vorschrift|absprache|team|anfahrt|arbeit|zusammenarbeit|vertrauen|kontrolle)",
+            "\\b(ich|mir|mich|mein|meine|meinem|meiner|wir|uns|unser|unsere)\\b"
+          ],
+          "label_de": "Eine Begründung"
+        },
+        {
+          "id": "bezug",
+          "any": [
+            "\\b(kerstin|kerstin_m|tobi|tobi_87|reinhardt|nadja)\\w*\\b[\\s\\S]{0,90}?(?:^|[^\\wäöüß])(stimme|zustimmen|recht|widerspreche|(ü|ue)berzeugt|teile|einleuchtend|leuchtet|trifft|beschreibt|punkt|halte|finde|sehe)\\b",
+            "\\b(stimme|zustimmen|recht|widerspreche|teile)\\b[\\s\\S]{0,90}?\\b(kerstin|tobi|reinhardt|nadja)\\w*\\b",
+            "@\\s*[A-ZÄÖÜ]",
+            "\\b(der teamleiter|die person|der beitrag|der kommentar|der vorredner)\\b[\\s\\S]{0,60}?\\b(im thread|oben|hier)\\b",
+            "\\b(im thread|hier im forum)\\b[\\s\\S]{0,80}?\\b(stimme|recht|beschreibt|schreibt)\\b",
+            "\\b(die|der|dem|den|das) (aussage|behauptung|argument|einwand|satz|punkt|vorschlag|gedanke)\\b[\\s\\S]{0,120}?(?:^|[^\\wäöüß])(halte|finde|(ü|ue)berzeugt|stimme|stimmt|teile|zeigt|zu\\b)",
+            "\\bwas\\b[\\s\\S]{0,60}?\\b(schreibt|sagt|meint|nennt)\\b[\\s\\S]{0,40}?\\b(halte|finde|sehe|stimme|teile)\\b"
+          ],
+          "none": [
+            "\\b(mein|meine|unser|unsere)[nrms]?\\s+(kolleg\\w+|chef\\w+|freund\\w+|nachbar\\w+)\\s+\\w+",
+            "\\w+@\\w+\\.\\w+"
+          ],
+          "window": 2,
+          "anchors": [],
+          "label_de": "Bezug auf eine Person aus dem Thread"
+        },
+        {
+          "id": "beispiel",
+          "any": [
+            "\\b(zum beispiel|beispielsweise|ein beispiel)\\b",
+            "(\\b(ich|wir|mein|meine|unser|unsere)\\b[\\s\\S]{0,90}?)?\\b(vorletzte|letzte|vergangene)[nrms]?\\s+(woche|monat|jahr|jahre|sommer|winter)\\b",
+            "\\b(im|seit|ab)\\s+(januar|februar|m(ä|ae)rz|april|mai|juni|juli|august|september|oktober|november|dezember)\\b",
+            "\\b(neulich|damals|k(ü|ue)rzlich|vor kurzem|als ich|als wir)\\b",
+            "\\b(bei uns|in meinem team|in meiner abteilung|in unserem betrieb|in meiner firma)\\b[\\s\\S]{0,120}?\\b(\\d+|ein halbes|anderthalb|zwei|drei|vier|f(ü|ue)nf|sechs|zw(ö|oe)lf)\\b"
+          ],
+          "none": [
+            "^\\W*(letztendlich|grunds(ä|ae)tzlich|im grunde|generell|allgemein|insgesamt)\\b",
+            "\\b(viele|die meisten|man)\\b[\\s\\S]{0,40}?\\b(arbeiten|arbeitet|machen|macht|nutzen|nutzt)\\b"
+          ],
+          "anchors": [],
+          "label_de": "Ein Beispiel aus Ihrem Alltag"
+        }
+      ],
+      "target_words": 180,
+      "review": "unreviewed"
+    },
+    {
+      "id": "p01_aufnahmebericht_kremer",
+      "rubric": {
+        "board": "telc_pflege",
+        "module": "schreiben",
+        "task_type": "aufnahmebericht",
+        "provisional": false
+      },
+      "prompt_de": "Frau Elisabeth Kremer, 78 Jahre, wurde heute um 14:30 Uhr nach einem Sturz in der eigenen Wohnung aufgenommen. Verdacht auf Oberschenkelhalsfraktur rechts.\n\n  Vorerkrankungen: Diabetes mellitus Typ 2, Bluthochdruck\n  Medikamente: Metformin 850 mg, morgens und abends\n  Allergien: Penicillin\n  Mobilität: vor dem Sturz mit Rollator, aktuell bettlägerig\n  Orientierung: wach, zeitlich leicht desorientiert\n  Angehörige: Tochter, Frau Sabine Kremer, Tel. 0221 4455678\n\n  Schreiben Sie einen Aufnahmebericht für die Pflegedokumentation. Verwenden Sie alle Informationen aus der Tabelle.",
+      "content_points": [],
+      "target_words": 120,
+      "review": "unreviewed"
+    },
+    {
+      "id": "s01_vier_tage_woche",
+      "rubric": {
+        "board": "goethe",
+        "module": "schreiben",
+        "task_type": "forumsbeitrag",
+        "provisional": false
+      },
+      "prompt_de": "Sie haben online die Diskussion über die Vier-Tage-Woche gelesen. Schreiben Sie einen Forumsbeitrag von ca. 150 Wörtern. Gehen Sie dabei auf folgende Punkte ein: 1. Ihre eigene Meinung zur Vier-Tage-Woche. 2. Ein Argument, das für Ihre Position spricht. 3. Ein Gegenargument und Ihre Reaktion darauf. 4. Ein Vorschlag, wie eine Umsetzung gelingen könnte.",
+      "content_points": [
+        {
+          "id": "meinung",
+          "detector": "(meiner meinung nach|ich finde|ich denke|ich glaube|ich bin (der (meinung|ansicht)|dafür|dagegen)|aus meiner sicht|meines erachtens|ich halte)",
+          "label_de": "Eigene Meinung"
+        },
+        {
+          "id": "argument",
+          "detector": "(zum einen|erstens|ein (wichtiges )?argument|spricht daf(ü|ue)r|ein vorteil|studien|zeigen|belegen|zum beispiel|beispielsweise)",
+          "label_de": "Argument dafür"
+        },
+        {
+          "id": "gegenarg",
+          "detector": "(allerdings|jedoch|andererseits|kritiker|einwand|einwenden|zwar|dennoch|trotzdem|gegner|manche (leute )?sagen)",
+          "label_de": "Gegenargument + Reaktion"
+        },
+        {
+          "id": "vorschlag",
+          "detector": "(vorschlag|ich schlage vor|sollte man|k(ö|oe)nnte man|m(ü|ue)sste man|lie(ß|ss)e sich|w(ä|ae)re es sinnvoll|denkbar w(ä|ae)re|man sollte|man k(ö|oe)nnte)",
+          "label_de": "Vorschlag"
+        }
+      ],
+      "target_words": 150,
+      "review": "unreviewed"
+    },
+    {
+      "id": "t01_sprachkurs_anfrage",
+      "rubric": {
+        "board": "telc",
+        "module": "schreiben",
+        "task_type": "halbformelle_email",
+        "provisional": false
+      },
+      "prompt_de": "Sie haben im Internet folgende Anzeige gelesen:\n\n„Sprachschule Rheinbogen — Intensivkurse Deutsch B2/C1. Kleine Gruppen (max. 8 Personen), Abend- und Wochenendkurse, Prüfungsvorbereitung inklusive. Weitere Auskünfte per E-Mail.\"\n\nSchreiben Sie eine E-Mail an die Sprachschule (mindestens 150 Wörter). Gehen Sie auf alle vier Leitpunkte ein:\n1. Grund für Ihr Schreiben\n2. Ihre bisherigen Deutschkenntnisse\n3. Eine Frage zu den Kurszeiten\n4. Bitte um Informationen zu den Kosten\n\nVergessen Sie Anrede und Grußformel nicht.",
+      "content_points": [
+        {
+          "id": "grund",
+          "detector": "(ich schreibe|ich habe (ihre|die) anzeige|ich interessiere mich|mit interesse|bezug nehmend|ich beziehe mich)",
+          "label_de": "Grund für Ihr Schreiben"
+        },
+        {
+          "id": "vorkenntnis",
+          "detector": "(ich habe .{0,40}(erfahrung|kenntnisse|gelernt|besucht)|seit .{0,20}(jahr|monat)|zurzeit lerne|ich verf(ü|ue)ge)",
+          "label_de": "Ihre Vorkenntnisse"
+        },
+        {
+          "id": "frage",
+          "detector": "(k(ö|oe)nnten sie|w(ä|ae)re es m(ö|oe)glich|ich m(ö|oe)chte (gerne )?wissen|d(ü|ue)rfte ich fragen|meine frage|\\?)",
+          "label_de": "Ihre Frage zum Angebot"
+        },
+        {
+          "id": "bitte",
+          "detector": "(ich bitte sie|(ü|ue)ber eine (kurze )?antwort|ich w(ü|ue)rde mich freuen|senden sie mir|teilen sie mir mit|informationen)",
+          "label_de": "Bitte um Information"
+        }
+      ],
+      "target_words": 150,
+      "review": "unreviewed"
+    },
+    {
+      "id": "t02_aupair_info",
+      "rubric": {
+        "board": "telc",
+        "module": "schreiben",
+        "task_type": "halbformelle_email",
+        "provisional": false
+      },
+      "prompt_de": "Lesen Sie folgende Anzeige:\n\nInternationale Au-pair Vermittlung\nVermittlung und Beratung deutscher Au-pair-Bewerber in die USA, nach Europa und Australien.\nVermittlung, Beratung und Betreuung internationaler Au-pairs nach Deutschland. \nErreichbar während des gesamten Aufenthaltes über eine gebührenfreie Au-pair-Hotline an 365 Tagen rund um die Uhr \nInternetagentur mit ausführlicher Homepage, Fotogalerie, günstigen Preisen und freundlich supernettem Team. \nAu-pair-Reise-Angebote \nwww.aupairsglobal.com Bahnhofstr.101, 65185 Wiesbaden \n0611 / 9988776  \nAu-pair=junge Frauen oder Männer wohnen ein Jahr lang in einer Familie in einem anderen Land und helfen im Haushalt und bei der Kinderbetreuung.\n\nSie haben die oben stehende Anzeige gelesen und interessieren sich für eine Au-pair-\nStelle in Deutschland. Schreiben Sie einen Brief an die Agentur und bitten Sie um\nweitere Informationen. Schreiben Sie keine Bewerbung. \nBehandeln Sie darin entweder \na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl. \nAufenthaltsformalitäten? \nDeutsche Sprache?\nRechte und Pflichten? \nFreizeitaktivitäten? \nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse des Empfängers, Datum, Betreffzeile, Anrede und Schlussformel. \nSchreiben Sie wenigstens 150 Wörter.",
+      "content_points": [
+        {
+          "id": "formalitaeten",
+          "detector": "(visum|aufenthalt|formalit(ä|ae)t|genehmigung|anmeldung|papiere|dokument)",
+          "label_de": "Aufenthaltsformalitäten"
+        },
+        {
+          "id": "sprache",
+          "detector": "(sprachkurs|deutschkurs|deutsch lernen|sprachkenntnis|niveau)",
+          "label_de": "Deutsche Sprache"
+        },
+        {
+          "id": "rechte",
+          "detector": "(rechte|pflichten|arbeitszeit|urlaub|vertrag|taschengeld|versicherung)",
+          "label_de": "Rechte und Pflichten"
+        },
+        {
+          "id": "freizeit",
+          "detector": "(freizeit|frei(e|en) tag|hobby|sport|ausflug|verein)",
+          "label_de": "Freizeitaktivitäten"
+        }
+      ],
+      "target_words": 150,
+      "review": "unreviewed"
+    },
+    {
+      "id": "t03_aupair_beschwerde",
+      "rubric": {
+        "board": "telc",
+        "module": "schreiben",
+        "task_type": "halbformelle_email",
+        "provisional": false
+      },
+      "prompt_de": "Sie hatten aufgrund der folgenden Werbeanzeige über Schultz & Partner eine Au-pair-Stelle in Deutschland angetreten und sind nun sehr enttäuscht.\n\nHerzlich Willkommen in Deutschland! \nMöchten Sie gerne als Au-pair nach Deutschland?\nDann finden Sie hier alle Infos und jede Hilfe, die Sie dafür brauchen. \nBei uns finden Sie Beratung, Vermittlung und Betreuung, günstige Konditionen, langjährige Erfahrung und einen super-guten Service. \nAu-pair-Agentur Schultz & Partner\nRegenstr. 101 \n90451 Nürnberg\nTel.: 0911 / 5544223 \nFax: 0911 / 5544224\nE-Mail: au-pair-schultz@web.de\n\nSie haben etwa ein Vierteljahr bei einer Gastfamilie in Deutschland verbracht. Sie sind mit Ihrer Situation sehr unzufrieden. Auch Ihre Betreuung durch die Agentur entspricht in keiner Weise den Vertragsbedingungen. \nSchreiben Sie einen Brief an die Au-pair-Agentur, in dem Sie sich über Ihre Situation beschweren. \nBehandeln Sie darin entweder\na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl.\nIhre Situation in der Gastfamilie\nIhre Erwartungen\nBetreuung durch die Agentur\nLösungsvorschlag\nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse der Agentur, Datum, Betreffzeile, Anrede und Schlussformel. Schreiben Sie mindestens 150 Wörter.",
+      "content_points": [
+        {
+          "id": "situation",
+          "detector": "(gastfamilie|situation|bei der familie|meine aufgaben|arbeite)",
+          "label_de": "Ihre Situation in der Gastfamilie"
+        },
+        {
+          "id": "erwartungen",
+          "detector": "(erwartet|erwartung|versprochen|gehofft|gedacht, dass)",
+          "label_de": "Ihre Erwartungen"
+        },
+        {
+          "id": "betreuung",
+          "detector": "(agentur|betreuung|ansprechpartner|niemand .{0,20}erreich|keine hilfe)",
+          "label_de": "Betreuung durch die Agentur"
+        },
+        {
+          "id": "loesung",
+          "detector": "(vorschlag|schlage vor|l(ö|oe)sung|bitte ich sie|erwarte ich|w(ü|ue)rde ich vorschlagen)",
+          "label_de": "Lösungsvorschlag"
+        }
+      ],
+      "target_words": 150,
+      "review": "unreviewed"
+    },
+    {
+      "id": "t04_praktikum_bewerbung",
+      "rubric": {
+        "board": "telc",
+        "module": "schreiben",
+        "task_type": "halbformelle_email",
+        "provisional": false
+      },
+      "prompt_de": "Sie möchten zum Kennenlernen Ihres zukünftigen Berufs ein Praktikum machen. Sie finden in einer Zeitschrift folgende Anzeige:\n\nVertriebspraktikant m./w. gesucht ab sofort \nHelfen Sie uns in unserem Geschäft im Verkauf. Eine spätere Ausbildung zum/r IT-Systemkaufmann/-frau ist das Ziel. \nIhr Profil:\nInteresse an elektronischer Datenverarbeitung \nidealerweise Vorkenntnisse in Betriebswirtschaftslehre/kaufmännischer Beruf und Informatik\t\nFlexibilität und Mobilität\nLeistungsbereitschaft und Kommunikationsfähigkeit (Teamwork/Kundenkontakt)\nBitte hier bewerben: \nComputer-Spezialist \nOdenwaldstraße 5, 53119 Bonn\n\nSchreiben Sie einen Bewerbungsbrief. Gehen Sie darin auf die Anzeige ein. \nBehandeln Sie entweder \na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl. \nIhre fachliche Kompetenz\nIhre persönlichen Eigenschaften\nWas Sie von einem Praktikum in dieser Firma erwarten\nDetails der Arbeit (Beginn, Anzahl der Stunden, Arbeitszeit usw.) \nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse des Empfängers, Datum, Betreffzeile, Anrede und Schlussformel. \nSchreiben Sie wenigstens 150 Wörter.",
+      "content_points": [
+        {
+          "id": "kompetenz",
+          "detector": "(kenntnis|erfahrung|studiere|ausbildung|informatik|edv|betriebswirtschaft)",
+          "label_de": "Ihre fachliche Kompetenz"
+        },
+        {
+          "id": "eigenschaften",
+          "detector": "(teamf(ä|ae)hig|zuverl(ä|ae)ssig|flexibel|kommunikativ|motiviert|lernbereit|belastbar)",
+          "label_de": "Ihre persönlichen Eigenschaften"
+        },
+        {
+          "id": "erwartung",
+          "detector": "(erhoffe|erwarte|m(ö|oe)chte ich lernen|einblick|kennenlernen)",
+          "label_de": "Was Sie erwarten"
+        },
+        {
+          "id": "details",
+          "detector": "(ab (sofort|dem)|beginn|stunden|arbeitszeit|monat|woche|teilzeit|vollzeit)",
+          "label_de": "Details der Arbeit"
+        }
+      ],
+      "target_words": 150,
+      "review": "unreviewed"
+    }
+  ]
+}

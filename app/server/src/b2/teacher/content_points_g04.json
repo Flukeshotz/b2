@@ -1,0 +1,566 @@
+{
+  "_comment": "ADVERSARIAL SET for the four Leitpunkte of g04_homeoffice_thread. Every `de` string was written to represent what a competent B2 learner plausibly writes, NOT to pass or fail any particular detector. `expect` is the semantic judgement a teacher would make: does this text address that Leitpunkt? Cases are grouped by the trap they set. HELD-OUT cases (held_out: true) were written after the rules were finished and scored exactly once, without tuning — the tuned score is overfit by construction and only the held-out score is evidence.",
+  "task_id": "g04_homeoffice_thread",
+  "cases": [
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "canonical",
+      "de": "Meiner Meinung nach ist eine feste Anwesenheitspflicht der falsche Weg."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "inversion",
+      "de": "Eine feste Anwesenheitspflicht halte ich für den falschen Weg."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "inversion",
+      "de": "Von einer festen Anwesenheitspflicht halte ich wenig."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "paraphrase",
+      "de": "Ich bin klar gegen eine Anwesenheitspflicht, die von oben festgelegt wird."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "paraphrase",
+      "de": "Für mich spricht wenig dafür, feste Bürotage vorzuschreiben."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "modal_stance",
+      "de": "Anwesenheitspflicht sollte es meines Erachtens gar nicht erst geben."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "evaluative_adjective",
+      "de": "Eine starre Regelung ist aus meiner Sicht nicht sinnvoll."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "short_valid",
+      "de": "Ich bin dagegen."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "hedged_stance",
+      "de": "Ich neige dazu, feste Bürotage für überflüssig zu halten."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Kerstin_M schreibt, sie finde die Regelung schwierig, und ich glaube ihr das sofort."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Viele Kolleginnen denken, dass Homeoffice bequemer ist als das Büro."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "pure_report",
+      "de": "In vielen Firmen gilt seit dem Frühjahr wieder eine Anwesenheitspflicht von zwei Tagen."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "canonical",
+      "de": "Ich bin dagegen, weil zu Hause niemand alle zehn Minuten hereinkommt."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "denn",
+      "de": "Feste Bürotage bringen wenig, denn die Zusammenarbeit hängt nicht am Ort."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "adverbial",
+      "de": "Im Büro werde ich ständig unterbrochen. Deshalb arbeite ich zu Hause konzentrierter."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "nominal_causal",
+      "de": "Aufgrund der ständigen Unterbrechungen im Großraumbüro schaffe ich dort deutlich weniger."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "prepositional_causal",
+      "de": "Wegen der langen Anfahrt verliere ich täglich zwei Stunden."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "consequence_marker",
+      "de": "Die Anfahrt dauert zwei Stunden; folglich bleibt kaum Zeit für konzentriertes Arbeiten."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "reason_noun",
+      "de": "Der wichtigste Punkt dafür ist die Konzentration: zu Hause schaffe ich mehr."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "liegt_daran",
+      "de": "Das liegt vor allem daran, dass im Büro ständig jemand etwas fragt."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Eine Kollegin konnte nicht kommen, weil ihr Zug ausgefallen war. Sonst habe ich dazu nichts zu sagen."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Nadja W. begründet ihren Vorschlag mit den ersten sechs Monaten."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "assertion_only",
+      "de": "Eine Anwesenheitspflicht ist einfach nicht mehr zeitgemäß."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "canonical",
+      "de": "Kerstin_M schreibt, an ihrem Bürotag fehlten genau die Kollegen, mit denen sie arbeitet. Da stimme ich ihr zu."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "at_mention",
+      "de": "@A. Reinhardt Ihr Punkt zu den neuen Kolleginnen leuchtet mir ein, nur folgt daraus keine Pflicht für alle."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "partial_agreement",
+      "de": "Nadja W. hat recht, dass man die ersten sechs Monate anders regeln kann; ihren Optimismus teile ich aber nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "surname_only",
+      "de": "Reinhardt beschreibt das Beiläufige sehr gut, und trotzdem überzeugt mich sein Schluss nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "role_reference",
+      "de": "Der Teamleiter im Thread beschreibt genau das, was verloren geht — dem stimme ich zu, seiner Lösung nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "quote_reference",
+      "de": "Die Aussage, Zusammenhalt sei nur ein anderes Wort für Kontrolle, halte ich für überzogen."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Meine Kollegin Kerstin arbeitet seit Jahren im Homeoffice und ist sehr zufrieden damit."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Schreiben Sie mir gern an tobi@firma.de, wenn Sie Fragen haben."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "no_engagement",
+      "de": "Ich habe den Thread gelesen und fand ihn insgesamt sehr interessant."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "canonical",
+      "de": "Zum Beispiel war meine letzte Kollegin nach vier Wochen vollständig eingearbeitet."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "narrative_no_marker",
+      "de": "Im Februar hatten wir drei Wochen lang gar keine gemeinsamen Bürotage, und trotzdem lief die Übergabe reibungslos."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "first_person_concrete",
+      "de": "In meiner Abteilung entscheidet jeder selbst, an welchen Tagen er kommt; beschwert hat sich seit anderthalb Jahren niemand."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "temporal_anchor",
+      "de": "Vorletzte Woche saß ich an einem vorgeschriebenen Bürotag allein im Großraum."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "short_valid",
+      "de": "Bei uns funktioniert das seit zwei Jahren ohne feste Tage."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Bei uns wird viel über das Thema diskutiert, aber zu einem Ergebnis kommt niemand."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "false_positive_trap",
+      "de": "Letztendlich ist das eine Frage des Vertrauens und nicht der Anwesenheit."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "generic_claim",
+      "de": "Viele Beschäftigte arbeiten heute regelmäßig von zu Hause aus."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Feste Bürotage überzeugen mich nicht."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Ich würde eine solche Pflicht nicht einführen."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Dass man zwei Tage anwesend sein muss, finde ich schlicht unnötig."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Der Teamleiter hält zwei Bürotage für nötig."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Im Thread wird über Anwesenheitspflicht diskutiert."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Zu Hause schaffe ich mehr, da mich dort niemand unterbricht."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Der Weg ins Büro kostet mich täglich zwei Stunden; entsprechend wenig bleibt für die Arbeit."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Dank der ruhigen Umgebung zu Hause komme ich schneller voran."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Der Zug fiel aus, weshalb die Sitzung verschoben wurde."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Homeoffice ist heute Standard."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Was tobi_87 über Kontrolle schreibt, halte ich für zugespitzt, aber nicht für falsch."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "@Nadja W. Ihre Lösung für die ersten Monate finde ich überzeugend."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Dem Einwand mit den neuen Kolleginnen stimme ich zu; der Pflicht für alle nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Ich habe mit meinem Chef Reinhardt darüber gesprochen."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Bitte antworten Sie an nadja.w@beispiel.de."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Im März saß ich an zwei vorgeschriebenen Bürotagen völlig allein."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Als ich neu anfing, war ich nach drei Wochen eingearbeitet, ohne einen einzigen festen Bürotag."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "In meiner Firma gibt es seit vier Jahren keine festen Tage mehr."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Viele Beschäftigte nutzen inzwischen flexible Modelle."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "held_out",
+      "held_out": true,
+      "de": "Grundsätzlich funktioniert das überall dort, wo Vertrauen herrscht."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Eine Pflicht, die niemand mit uns besprochen hat, lehne ich ab."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Mir leuchtet nicht ein, warum ausgerechnet ein fester Wochentag helfen soll."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Zwei Bürotage pro Woche sind aus meiner Erfahrung reine Symbolpolitik."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Ob man kommt, sollte man selbst entscheiden dürfen."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Tobi_87 lehnt die Regelung rundweg ab."
+    },
+    {
+      "point": "meinung",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Die Firma hat die Regelung im Frühjahr eingeführt."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Ich lehne sie ab; im Großraum komme ich schlicht zu nichts."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Da die Aufgaben ohnehin digital verteilt werden, spielt der Ort kaum eine Rolle."
+    },
+    {
+      "point": "begruendung",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Der Grund dafür ist einfach: zu Hause bin ich ungestört."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Meine Nachbarin arbeitet im Homeoffice, weil ihr Kind noch klein ist."
+    },
+    {
+      "point": "begruendung",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Anwesenheitspflicht gibt es in vielen Betrieben."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "A. Reinhardts Beobachtung zum Beiläufigen teile ich, seinen Schluss nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Kerstin_M beschreibt das Problem gut. Ihre Schlussfolgerung überzeugt mich aber nicht."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Den Vorschlag mit den ersten sechs Monaten halte ich für den besten im ganzen Thread."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Ein Kollege namens Tobi hat bei uns dasselbe versucht."
+    },
+    {
+      "point": "bezug",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Der Thread hat mir gezeigt, wie unterschiedlich das gehandhabt wird."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Vergangenes Jahr haben wir sechs Monate ohne feste Tage gearbeitet, ohne dass etwas liegen blieb."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Als wir im Herbst umgezogen sind, war das Büro drei Wochen geschlossen und trotzdem lief alles."
+    },
+    {
+      "point": "beispiel",
+      "expect": true,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Bei uns kommt seit zwei Jahren jeder dann, wenn es die Aufgabe verlangt."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Man sieht das heute in vielen Unternehmen."
+    },
+    {
+      "point": "beispiel",
+      "expect": false,
+      "kind": "held_out_2",
+      "held_out": true,
+      "batch": 3,
+      "de": "Insgesamt hängt es stark von der Branche ab."
+    },
+    {
+      "point": "meinung",
+      "expect": true,
+      "kind": "inversion_wuerde",
+      "de": "Vorschreiben würde ich das nicht, schon gar nicht für alle."
+    },
+    {
+      "point": "bezug",
+      "expect": true,
+      "kind": "stance_before_name",
+      "de": "Da stimme ich Kerstin_M ausdrücklich zu."
+    }
+  ]
+}

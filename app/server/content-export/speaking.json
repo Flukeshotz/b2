@@ -1,0 +1,3260 @@
+[
+  {
+    "paperId": "core-2026b-v1",
+    "board": "custom",
+    "title": "Skillcase B2 — Einstufung V1",
+    "examVersion": "core-2026b",
+    "alignment": "original",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "DRAFT",
+    "minutes": 15,
+    "sections": [
+      {
+        "partNo": 5,
+        "module": "sprechen",
+        "title": "Sprechen",
+        "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 2,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "core-2026b-v1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Manche Teams ersetzen ihre wöchentliche Besprechung durch ein kurzes schriftliches Update. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Musterkriterien B2: Strukturierter Aufbau (Einleitung, eigene Meinung, Vor- und Nachteile mit Begründung, konkretes Beispiel, Fazit). Nutzen Sie B2-Konnektoren (einerseits/andererseits, zwar…aber) und Redemittel zur Meinungsäußerung.",
+            "payload": {
+              "band": "SKILL",
+              "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+              "prep_seconds": 30,
+              "speak_seconds": 90
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "INSPIRED",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "core-2026b-v2",
+    "board": "custom",
+    "title": "Skillcase B2 — Einstufung V2",
+    "examVersion": "core-2026b",
+    "alignment": "original",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 15,
+    "sections": [
+      {
+        "partNo": 5,
+        "module": "sprechen",
+        "title": "Sprechen",
+        "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 2,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "core-2026b-v2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "In manchen Betrieben entscheidet die IT-Abteilung allein, welche Programme eingeführt werden; in anderen entscheiden die Fachabteilungen mit. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Musterkriterien B2: Strukturierter Aufbau (Einleitung, eigene Meinung, Vor- und Nachteile mit Begründung, konkretes Beispiel, Fazit). Nutzen Sie B2-Konnektoren (einerseits/andererseits, zwar…aber) und Redemittel zur Meinungsäußerung.",
+            "payload": {
+              "band": "SKILL",
+              "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+              "prep_seconds": 30,
+              "speak_seconds": 90
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "INSPIRED",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "core-2026b-v3",
+    "board": "custom",
+    "title": "Skillcase B2 — Einstufung V3",
+    "examVersion": "core-2026b",
+    "alignment": "original",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 15,
+    "sections": [
+      {
+        "partNo": 5,
+        "module": "sprechen",
+        "title": "Sprechen",
+        "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 2,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "core-2026b-v3_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Manche Betriebe organisieren feste Teamveranstaltungen für alle, andere überlassen es den Abteilungen, ob und wie sie etwas gemeinsam machen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Musterkriterien B2: Strukturierter Aufbau (Einleitung, eigene Meinung, Vor- und Nachteile mit Begründung, konkretes Beispiel, Fazit). Nutzen Sie B2-Konnektoren (einerseits/andererseits, zwar…aber) und Redemittel zur Meinungsäußerung.",
+            "payload": {
+              "band": "SKILL",
+              "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+              "prep_seconds": 30,
+              "speak_seconds": 90
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "INSPIRED",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "practice-speaking-1",
+    "board": "custom",
+    "title": "Sprechübung 1 — kurze Stellungnahmen",
+    "examVersion": "B2",
+    "alignment": "original",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 12,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Kurze Stellungnahmen",
+        "instruction": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 12,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "practice-speaking-1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Beschreiben Sie eine Situation aus Ihrem Berufsalltag, in der eine gute Kommunikation im Team einen Unterschied gemacht hat.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Musterkriterien: Veranschaulichen Sie Ihre Argumentation mit einem konkreten, nachvollziehbaren Beispiel aus dem Alltag oder Berufsleben und zeigen Sie die praktischen Konsequenzen auf.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 90
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "exemplify",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          },
+          {
+            "itemNo": 2,
+            "itemId": "practice-speaking-1_2",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Ein Kollege bittet Sie kurzfristig, eine zusätzliche Schicht zu übernehmen. Sagen Sie höflich, ob Sie zustimmen oder ablehnen, und begründen Sie Ihre Antwort.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 90
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "justify",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          },
+          {
+            "itemNo": 3,
+            "itemId": "practice-speaking-1_3",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Erklären Sie in eigenen Worten, warum klare Rückfragen bei unklaren Anweisungen wichtig sind.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Musterkriterien: Verwenden Sie den Höflichkeitskonjunktiv (z.B. „Könnten Sie mir bitte mitteilen…“, „Dürfte ich kurz nachfragen…“) und formulieren Sie zwei präzise Rückfragen, die genau die Unklarheiten des Sachverhalts klären.",
+            "payload": {
+              "prep_seconds": 20,
+              "speak_seconds": 75
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "ask_followup",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-complete-1",
+    "board": "goethe",
+    "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 58,
+    "sections": [
+      {
+        "partNo": 4,
+        "module": "sprechen",
+        "title": "Kurzvortrag: Homeoffice-Vorgaben",
+        "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-complete-1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Sollten Unternehmen ihren Mitarbeitenden vorschreiben dürfen, wie oft sie im Homeoffice arbeiten? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Klar gegliederter Kurzvortrag mit Einleitung, Argumenten für und wider, eigener Positionierung und Schlussfolgerung. Nutzen Sie B2-Redemittel zur Meinungsäußerung und sprechen Sie frei und flüssig.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-complete-2",
+    "board": "goethe",
+    "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket 2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 58,
+    "sections": [
+      {
+        "partNo": 4,
+        "module": "sprechen",
+        "title": "Kurzvortrag: Lebenslanges Lernen im Beruf",
+        "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-complete-2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden — auch in der Freizeit. Ist das fair? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Flüssiger, kohärenter Kurzvortrag (ca. 3 Minuten) mit deutlicher Gliederung. Argumentieren Sie differenziert zur Verteilung von beruflicher Weiterbildung und Freizeit, formulieren Sie Ihre eigene Haltung klar und nutzen Sie Redemittel zur Argumentation und Nuancierung.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-1",
+    "board": "goethe",
+    "title": "Goethe-Zertifikat B2 — Sprechen, Übungsset 1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Kurzvortrag: Homeoffice-Vorgaben",
+        "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Sollten Unternehmen ihren Mitarbeitenden vorschreiben dürfen, wie oft sie im Homeoffice arbeiten? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Klar gegliederter Kurzvortrag mit Einleitung, Argumenten für und wider, eigener Positionierung und Schlussfolgerung. Nutzen Sie B2-Redemittel zur Meinungsäußerung und sprechen Sie frei und flüssig.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-2",
+    "board": "goethe",
+    "title": "Goethe-Zertifikat B2 — Sprechen, Übungsset 2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Kurzvortrag: Lebenslanges Lernen im Beruf",
+        "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden — auch in der Freizeit. Ist das fair? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Flüssiger, kohärenter Kurzvortrag (ca. 3 Minuten) mit deutlicher Gliederung. Argumentieren Sie differenziert zur Verteilung von beruflicher Weiterbildung und Freizeit, formulieren Sie Ihre eigene Haltung klar und nutzen Sie Redemittel zur Argumentation und Nuancierung.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p1",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Berufliche Weiterbildung\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p10",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #10",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p10_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Stressabbau im Alltag\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p11",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #11",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p11_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Schlaf und Erholung\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p12",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #12",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p12_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Sport in der Freizeit\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p13",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #13",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p13_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Ernährung unterwegs\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p14",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #14",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p14_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Online-Bewertungen\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p15",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #15",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p15_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Nachrichten im Internet\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p2",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Flexible Arbeitszeiten\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p3",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #3",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p3_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Homeoffice und Büroarbeit\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p4",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #4",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p4_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Teamarbeit im Beruf\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p5",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #5",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p5_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Praktische Erfahrungen in der Ausbildung\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p6",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #6",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p6_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Sprachen lernen im Erwachsenenalter\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p7",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #7",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p7_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Lernorte außerhalb der Schule\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p8",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #8",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p8_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Ehrenamtliches Engagement\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t1-p9",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #9",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Vortrag / Monolog",
+        "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t1-p9_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Thema: Nachbarschaftshilfe\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p1",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Städte mehr Trinkbrunnen auf öffentlichen Plätzen einrichten?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p10",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #10",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p10_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Gesundheitsdaten aus Apps stärker geschützt werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p11",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #11",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p11_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten neue Mietshäuser gemeinschaftliche Räume haben?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p12",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #12",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p12_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Kleidungstauschbörsen in Gemeinden stärker gefördert werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p13",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #13",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p13_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Lieferdienste in Wohngebieten stärker begrenzt werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p14",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #14",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p14_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Schulen später am Morgen beginnen?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p15",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #15",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p15_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Wohnstraßen häufiger zu Spielstraßen umgewandelt werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p2",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollte Reparieren finanziell stärker gefördert werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p3",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #3",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p3_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Unternehmen eine Vier-Tage-Woche anbieten müssen?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p4",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #4",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p4_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollte Künstliche Intelligenz bei Hausaufgaben erlaubt sein?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p5",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #5",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p5_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Innenstädte sonntags autofrei werden?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p6",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #6",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p6_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Betriebe feste Zeiten ohne berufliche Nachrichten einführen?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p7",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #7",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p7_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Online-Bewertungen nur mit echtem Namen erlaubt sein?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p8",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #8",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p8_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Supermärkte unverkaufte Lebensmittel kostenlos abgeben müssen?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "goethe-b2-sprechen-t2-p9",
+    "board": "goethe",
+    "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #9",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion mit Partner",
+        "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "goethe-b2-sprechen-t2-p9_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Diskussionsthema: Sollten Krankenkassen Präventionskurse komplett bezahlen?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-complete-1",
+    "board": "telc",
+    "title": "telc Deutsch B2 — Komplettes Übungspaket",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 70,
+    "sections": [
+      {
+        "partNo": 5,
+        "module": "sprechen",
+        "title": "Gemeinsam planen: Betriebsausflug",
+        "instruction": "Sprechen Sie etwa 2 Minuten.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 4,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-complete-1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Aktive Gesprächsführung und Interaktion. Machen Sie konkrete Vorschläge zum Ausflug, begründen Sie diese, gehen Sie auf Einwände des Partners ein und treffen Sie am Ende eine gemeinsame Vereinbarung.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 120
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "maintain_discussion",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-complete-2",
+    "board": "telc",
+    "title": "telc Deutsch B2 — Komplettes Übungspaket 2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 71,
+    "sections": [
+      {
+        "partNo": 5,
+        "module": "sprechen",
+        "title": "Gemeinsam planen: Begrüßungsveranstaltung für neue Mitarbeitende",
+        "instruction": "Sprechen Sie etwa 2 Minuten.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 4,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-complete-2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Ihre Abteilung bekommt nächste Woche drei neue Kolleginnen und Kollegen. Sie planen zusammen mit einer Kollegin/einem Kollegen eine kurze Begrüßungsveranstaltung. Machen Sie Vorschläge zu Ort, Programm und Zeitpunkt, und begründen Sie Ihre Ideen. Sprechen Sie etwa 2 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Aktive partnerorientierte Planung (ca. 2 Minuten). Machen Sie strukturierte Vorschläge für Ablauf, Ort und Termin, reagieren Sie auf Vorschläge und Bedenken Ihres Gegenübers und einigen Sie sich auf konkrete Vereinbarungen.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 120
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "maintain_discussion",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-1",
+    "board": "telc",
+    "title": "telc Deutsch B2 — Sprechen, Übungsset 1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 4,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Gemeinsam planen: Betriebsausflug",
+        "instruction": "Sprechen Sie etwa 2 Minuten.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 4,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Aktive Gesprächsführung und Interaktion. Machen Sie konkrete Vorschläge zum Ausflug, begründen Sie diese, gehen Sie auf Einwände des Partners ein und treffen Sie am Ende eine gemeinsame Vereinbarung.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 120
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "maintain_discussion",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-2",
+    "board": "telc",
+    "title": "telc Deutsch B2 — Sprechen, Übungsset 2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 4,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Gemeinsam planen: Begrüßungsveranstaltung für neue Mitarbeitende",
+        "instruction": "Sprechen Sie etwa 2 Minuten.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 4,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Ihre Abteilung bekommt nächste Woche drei neue Kolleginnen und Kollegen. Sie planen zusammen mit einer Kollegin/einem Kollegen eine kurze Begrüßungsveranstaltung. Machen Sie Vorschläge zu Ort, Programm und Zeitpunkt, und begründen Sie Ihre Ideen. Sprechen Sie etwa 2 Minuten.",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Bewertungskriterien: Aktive partnerorientierte Planung (ca. 2 Minuten). Machen Sie strukturierte Vorschläge für Ablauf, Ort und Termin, reagieren Sie auf Vorschläge und Bedenken Ihres Gegenübers und einigen Sie sich auf konkrete Vereinbarungen.",
+            "payload": {
+              "prep_seconds": 30,
+              "speak_seconds": 120
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "maintain_discussion",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t1-p1",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 1 — Über Erfahrungen sprechen #1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 3,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 1 — Über Erfahrungen sprechen",
+        "instruction": "Wählen Sie eines der folgenden Themen und berichten Sie Ihrer Partnerin bzw. Ihrem Partner von Ihrer persönlichen Erfahrung. Die Stichpunkte in Klammern dienen als Anregung. Sprechen Sie etwa 1½ Minuten und beantworten Sie danach ein bis zwei Fragen zu Ihrem Beitrag.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 3,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t1-p1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Über Erfahrungen sprechen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p1",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In vielen Betrieben wird derzeit darüber diskutiert, ob Beschäftigte nach Feierabend erreichbar sein sollen. Viele Nachrichten von Kunden oder Vorgesetzten treffen inzwischen auch nach Dienstschluss ein. Ein sechswöchiger Versuch in drei mittelständischen Firmen zeigte vor allem, wie unterschiedlich die Erwartungen der einzelnen Abteilungen sind.\n\nFür die Neuerung wird ein unmittelbarer Vorteil genannt: Klare Abschaltzeiten schützen Gesundheit, Familie und Konzentration. So könnte der Feierabend besser planbar werden. Beschäftigte mit kleinen Kindern berichteten, dass sie abends verlässlicher abschalten und ihre Familienzeit besser planen konnten.\n\nGegen eine pauschale Regel spricht jedoch: In manchen Berufen sind schnelle Rückmeldungen wirklich nötig. Kritiker befürchten außerdem, dass wichtige Entscheidungen liegen bleiben oder Kunden verärgert reagieren. Im technischen Bereitschaftsdienst lässt sich eine Nachricht allerdings nicht immer bis zum nächsten Morgen verschieben.\n\nEine Angestellte berichtet, dass sie ruhiger schläft, seit ihr Team feste Antwortzeiten vereinbart hat. Damit aus einer Ausnahme keine Gewohnheit wird, müsste der Betrieb genau festlegen, was tatsächlich als Notfall gilt.\n\nZusätzlich ist die Machtverteilung im Betrieb zu beachten: Wer eine Nachricht sendet, empfindet sie vielleicht nur als kurze Bitte, während der Empfänger wegen möglicher beruflicher Nachteile sofort reagiert. Eine Regel muss deshalb auch Führungskräfte ausdrücklich binden.\n\nDenkbar wären ein rotierender Bereitschaftsdienst, ein einziger Notfallkanal und Antwortzeiten für alle normalen Anliegen. Nach zwei Monaten könnten Teams Arbeitsbelastung, Schlafqualität und die Zahl der verpassten dringenden Fälle gemeinsam auswerten. Bei einer Entscheidung über „Ständige Erreichbarkeit nach Feierabend“ müssen Wirkung, Aufwand und Fairness zusammen betrachtet werden. So würde Erreichbarkeit zu einer klar geregelten Aufgabe und nicht zu einer stillen Erwartung an alle Beschäftigten.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Ständige Erreichbarkeit nach Feierabend?\n\nViele Beschäftigte wünschen sich klarere Grenzen zwischen Arbeit und Privatleben",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p10",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #10",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Supermärkten, Bäckereien und Kantinen wird diskutiert, ob Lebensmittel kurz vor Ladenschluss günstiger verkauft werden sollten. Viele noch genießbare Lebensmittel werden am Tagesende entsorgt.\n\nEin Markt verkauft Restetüten, ohne eine genaue Auswahl zu garantieren. Eine Kantine kennzeichnete vier Wochen lang Speisen ab 19 Uhr mit sinkenden Preisen und verglich anschließend Verkauf und Abfall.\n\nDie kritische Position beginnt mit einer praktischen Grenze: Kunden könnten bewusst bis spät warten und normale Verkäufe sinken. Kritiker befürchten außerdem, dass Planung und Hygiene komplizierter werden. Einige Stammgäste verschoben ihren Einkauf bewusst, sodass kurz vor Schluss plötzlich lange Schlangen und neue Engpässe entstanden.\n\nDie zustimmende Position stützt sich auf folgende Beobachtung: Weniger Lebensmittel werden verschwendet und Kunden mit wenig Geld profitieren. So könnte mehr Ware verkauft statt weggeworfen werden. Studierende und andere Kunden mit knappem Budget nutzten das Angebot, während weniger zubereitete Mahlzeiten entsorgt wurden.\n\nBei leicht verderblichen Produkten muss außerdem klar erkennbar bleiben, bis wann sie sicher gegessen werden können. Begrenzte Restetüten, wechselnde Inhalte und feste Rabattzeiten würden Einsparung ermöglichen, ohne normale Verkäufe völlig zu verdrängen. Der Betrieb müsste nicht nur verkaufte Tüten zählen, sondern auch prüfen, ob am Ende tatsächlich weniger produziert wird.\n\nRabatte dürfen außerdem nicht dazu führen, dass absichtlich zu viel produziert wird, nur weil sich Restware noch verkaufen lässt. Das beste Ergebnis bleibt eine realistische Mengenplanung; der spätere Preisnachlass ist lediglich ein zweiter Schritt für unvermeidbare Überschüsse.\n\nDie Entscheidung über „Lebensmittel kurz vor Ladenschluss günstiger“ verlangt damit mehr als Zustimmung oder Ablehnung: Sie braucht eine gerechte Umsetzung. Günstigere Reste helfen nur, wenn gute Planung und verantwortlicher Umgang mit Lebensmitteln weiterhin an erster Stelle stehen.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p10_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Lebensmittel kurz vor Ladenschluss günstiger?\n\nPreisnachlässe können Abfall vermeiden, werfen aber neue Fragen auf",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p11",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #11",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In einem Markt wurden zwei Wochen lang Wartezeiten beobachtet: Bei kleinen Einkäufen waren Automaten schneller, bei Problemen deutlich langsamer. In Einkaufszentren und Supermärkten wird derzeit darüber diskutiert, ob Selbstbedienungskassen stark ausgebaut werden sollten. Viele Geschäfte stellen zusätzliche Kassen auf, an denen Kunden ihre Waren selbst scannen.\n\nFür das Modell spricht insbesondere: Wartezeiten können kürzer werden und Personal wird bei einfachen Einkäufen entlastet. So könnten Kunden schneller bezahlen. Wer nur wenige Artikel kauft und die Technik kennt, kann bezahlen, ohne auf eine geöffnete Bedienkasse zu warten.\n\nEin Kunde bezahlte schnell drei Artikel, während eine ältere Kundin Unterstützung brauchte. Auch Menschen mit Sehproblemen, wenig Sprachpraxis oder Unsicherheit im Umgang mit Geräten brauchen eine echte Wahlmöglichkeit. Gegen eine pauschale Regel spricht jedoch: Nicht alle Menschen kommen mit der Technik gut zurecht. Kritiker befürchten außerdem, dass Service und persönliche Hilfe verschwinden. Fehler bei Gewicht, Rabatt oder Altersprüfung führen dagegen dazu, dass Kunden doch nach einem Mitarbeiter suchen müssen.\n\nMehrere Selbstbedienungskassen könnten eine gut besetzte normale Kasse ergänzen, aber nicht vollständig ersetzen. Neben Geschwindigkeit sollten Händler Hilferufe, Fehlbuchungen und die Zufriedenheit verschiedener Altersgruppen regelmäßig erfassen.\n\nDas Personal verschwindet durch Automaten nicht vollständig: Jemand muss Störungen lösen, Alterskontrollen durchführen und Kunden unterstützen. Die entscheidende Frage lautet daher, ob Beschäftigte sinnvollere Aufgaben bekommen oder ob lediglich Stellen eingespart und Arbeit auf Kunden übertragen wird.\n\nFür „Selbstbedienungskassen überall“ müssen die gewünschte Wirkung, der tatsächliche Arbeitsaufwand und die Folgen für verschiedene Gruppen zusammenpassen. Technik verbessert den Einkauf erst dann, wenn sie Personal von Routine entlastet und persönliche Hilfe trotzdem erreichbar bleibt.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p11_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Selbstbedienungskassen überall?\n\nSchneller einkaufen oder weniger persönlicher Kontakt?",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p12",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #12",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Viele kleine Cafés in Innenstädten fragen sich, ob sie die Nutzung von Laptopplätzen zeitlich begrenzen dürfen. Immer mehr Gäste sitzen stundenlang mit Laptop an Tischen, bestellen aber nur wenig. Drei Cafés verglichen unterschiedliche Regeln: laptopfreie Mittagszeiten, reservierte Arbeitstische und einen Mindestumsatz nach zwei Stunden.\n\nSeine Gegner befürchten vor allem: Lernende und Freiberufler verlieren einen günstigen Arbeitsort. Kritiker befürchten außerdem, dass Cafés unfreundlicher wirken. Für Lernende ohne ruhigen Wohnraum ist das Café oft einer der wenigen bezahlbaren Orte zum konzentrierten Arbeiten.\n\nEin Café reservierte mittags einige Tische ohne Laptop und bekam weniger Beschwerden von Essensgästen. Ein starres Limit wirkt besonders unfair, wenn der Raum leer ist oder jemand regelmäßig Getränke und Essen bestellt.\n\nIn der Debatte über „Laptopplätze im Café zeitlich begrenzen“ verweisen Befürworter auf einen unmittelbaren Nutzen. Zeitlimits schaffen mehr freie Plätze und sichern den Umsatz kleiner Betriebe. So könnten mehr Gäste einen Platz finden. Zur Essenszeit fanden dadurch mehr Gäste einen Platz, und kleine Betriebe konnten ihre begrenzten Tische wirtschaftlicher nutzen.\n\nDeutlich markierte Bereiche und Zeitregeln nur zu Stoßzeiten könnten Arbeitsgäste und kurze Besuche miteinander vereinbaren. Die Betreiber könnten zunächst Auslastung und Beschwerden zu verschiedenen Tageszeiten messen, statt pauschal alle Laptops zu verbieten.\n\nDie Regel sollte schon am Eingang und auf der Karte erkennbar sein, damit Gäste nicht erst nach einer Bestellung überrascht werden. Freundliche Kommunikation ist dabei entscheidend; sonst wirkt ein verständliches wirtschaftliches Interesse schnell wie eine persönliche Ablehnung.\n\nBeim Vorschlag „Laptopplätze im Café zeitlich begrenzen“ sollten daher Alltagstauglichkeit, Zuständigkeiten und soziale Fairness gleichzeitig geprüft werden. Gastfreundschaft und Umsatz müssen sich nicht ausschließen, wenn die Regel sichtbar, begründet und an die tatsächliche Nachfrage angepasst ist.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p12_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Laptopplätze im Café zeitlich begrenzen?\n\nZwischen gemütlichem Arbeiten und Platz für andere Gäste",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p13",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #13",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Behörden, Praxen und Beratungsstellen sprechen immer häufiger über die Frage, ob Termine nur noch online gebucht werden sollten. Immer mehr Stellen verlagern Terminbuchungen ins Internet, um Telefonleitungen zu entlasten. Eine Beratungsstelle testete neben dem Internetkalender täglich zwei Telefonstunden und wertete aus, welche Gruppen welchen Zugang nutzten.\n\nDie Befürworterseite lässt sich so zusammenfassen: Freie Termine sind rund um die Uhr sichtbar und leichter zu verwalten. So könnten Wartezeiten am Telefon reduziert werden. Online sind freie Zeiten jederzeit sichtbar, und eine Bestätigung mit Adresse sowie benötigten Unterlagen lässt sich automatisch verschicken.\n\nDie skeptische Sicht lässt sich an diesem Punkt festmachen: Menschen ohne Internetzugang werden ausgeschlossen. Kritiker befürchten außerdem, dass wichtige Anliegen später bearbeitet werden. Wer kein passendes Gerät, keine stabile Verbindung oder wenig Erfahrung mit Formularen hat, verliert ohne Alternative den Zugang.\n\nEine Familie buchte schnell einen Termin, während ein Nachbar Hilfe beim Onlineformular brauchte. Komplizierte Sicherheitscodes können selbst digital geübte Menschen überfordern, wenn ein Termin dringend benötigt wird.\n\nBesonders bei medizinischen oder rechtlichen Anliegen kann eine falsche Auswahl im Menü ernste Folgen haben. Ein kurzer Hinweis, welche Terminart passt, und eine erreichbare Rückfragefunktion würden verhindern, dass Menschen Wochen auf einen ungeeigneten Termin warten.\n\nOnlinebuchung sollte der Hauptweg sein, ergänzt durch Telefonzeiten und persönliche Hilfe für besondere Situationen. Wichtig wären Daten zu abgebrochenen Buchungen, Wartezeiten und nicht wahrgenommenen Terminen, ohne private Inhalte auszuwerten. Eine ausgewogene Lösung für „Termine nur noch online buchen“ entsteht nur, wenn Nutzen, Grenzen und praktische Verantwortung offen benannt werden. Eine moderne Verwaltung spart Zeit, wenn Digitalisierung Wege öffnet und nicht bloß die bisherige Warteschlange ins Internet verlegt.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p13_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Termine nur noch online buchen?\n\nDigitale Reservierungen sparen Zeit, doch nicht alle kommen damit zurecht",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p14",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #14",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In verkehrsreichen Stadtteilen wird diskutiert, ob Wohnviertel mehr Fahrradstraßen bekommen sollten. Viele Kommunen möchten Schulwege sicherer machen und Lärm in Wohnstraßen reduzieren.\n\nEine Familie fährt seit der Umgestaltung häufiger Rad, während ein Lieferdienst längere Wege kritisiert. Nach einem halbjährigen Verkehrsversuch zählte ein Stadtteil mehr Fahrräder, zugleich meldeten Pflegedienste Probleme beim kurzfristigen Halten.\n\nDagegen steht ein ernst zu nehmender Einwand: Autofahrer verlieren Parkplätze und Lieferwege werden komplizierter. Kritiker befürchten außerdem, dass Anwohner sich übergangen fühlen. Handwerksbetriebe, Lieferdienste und Menschen mit eingeschränkter Mobilität benötigen weiterhin erreichbare Halte- und Parkmöglichkeiten.\n\nFür die Neuerung wird ein unmittelbarer Vorteil genannt: Radfahrer sind sicherer unterwegs, und Wohnviertel werden ruhiger. So könnten mehr Menschen kurze Wege ohne Auto zurücklegen. Kinder und ungeübte Radfahrer fühlten sich auf der ruhigeren Straße sicherer und nutzten das Fahrrad häufiger für kurze Wege.\n\nWird der Autoverkehr nur in die nächste Wohnstraße verschoben, verbessert sich die Lage für das Viertel insgesamt kaum. Fahrradstraßen könnten mit Lieferfenstern, Behindertenparkplätzen und einer Prüfung der angrenzenden Straßen geplant werden. Vor einer dauerhaften Umgestaltung sollten Lärm, Unfälle, Fahrzeiten und die Erfahrungen der Anwohner zu mehreren Tageszeiten verglichen werden.\n\nBei der Planung muss außerdem geprüft werden, wer auf welcher Strecke sicher unterwegs sein kann. Eine einzelne Fahrradstraße hilft wenig, wenn sie plötzlich an einer gefährlichen Kreuzung endet. Durchgehende Verbindungen sind wichtiger als möglichst viele kurze Abschnitte.\n\nBei einer Entscheidung über „Mehr Fahrradstraßen in Wohnvierteln“ müssen Wirkung, Aufwand und Fairness zusammen betrachtet werden. Sichere Radwege überzeugen eher, wenn die Stadt praktische Einwände tatsächlich sichtbar löst, statt Gewinner und Verlierer gegeneinanderzustellen.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p14_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Mehr Fahrradstraßen in Wohnvierteln?\n\nSichere Wege für Radfahrer verändern den Verkehr vor der Haustür",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p15",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #15",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Ein Verkehrsverbund befragte 730 Fahrgäste; ein niedriger Preis war wichtig, doch abends nannten viele fehlende Verbindungen als größeres Problem. Verkehrsbetriebe und Kommunen beschäftigen sich mit der Frage, ob ein günstiges Monatsticket für alle sinnvoll wäre. Steigende Preise machen Bus und Bahn für viele Menschen unattraktiv.\n\nBefürworter heben zunächst diesen Nutzen hervor: Ein günstiges Ticket erleichtert Teilhabe und kann Autoverkehr reduzieren. So könnten mehr Menschen Bus und Bahn regelmäßig nutzen. Ein übersichtlicher Tarif erleichtert Pendlern, Auszubildenden und Familien die Planung ihrer monatlichen Mobilitätskosten.\n\nEine Auszubildende konnte mit einem günstigen Ticket leichter zum Betrieb fahren, fand abends aber selten passende Verbindungen. Außerhalb großer Städte bringt selbst ein günstiger Fahrschein wenig, wenn der letzte Bus schon am frühen Abend fährt. Kritische Stimmen verweisen jedoch auf diese Schwierigkeit: Die Finanzierung ist schwierig und das Angebot muss zuverlässig sein. Kritiker befürchten außerdem, dass volle Züge ohne Ausbau zu Frust führen. Wenn zusätzliche Fahrgäste in bereits volle Busse steigen, wird ein billiges Ticket ohne Angebotsausbau schnell enttäuschen.\n\nEin sozial gestaffelter Preis könnte mit häufigeren Verbindungen und Mindeststandards für ländliche Strecken verbunden werden. Finanzierung, Auslastung und Pünktlichkeit müssten gemeinsam geprüft werden, damit der Erfolg nicht nur an verkauften Tickets gemessen wird.\n\nEin einheitlicher Preis erleichtert zwar die Orientierung, doch regionale Unterschiede bleiben. In dicht besiedelten Gebieten fahren viele Linien; auf dem Land kostet jeder zusätzliche Takt mehr. Die Finanzierung müsste diese ungleichen Voraussetzungen offen berücksichtigen.\n\nOb „Ein günstiges Monatsticket für alle“ überzeugt, hängt daher vom Nutzen, der praktischen Belastung und einer fairen Umsetzung ab. Bezahlbare Mobilität braucht somit einen guten Tarif und ein Angebot, auf das sich die Fahrgäste tatsächlich verlassen können.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p15_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Ein günstiges Monatsticket für alle?\n\nÖffentlicher Verkehr soll einfacher werden, doch jemand muss ihn bezahlen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p2",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Diese Frage beschäftigt derzeit viele Büros und Verwaltungen: Sollte Homeoffice in Büroberufen zum Normalfall werden? Seit viele Teams digitale Besprechungen nutzen, wünschen sich Beschäftigte mehr Arbeitstage von zu Hause.\n\nEin Sachbearbeiter erledigte Berichte zu Hause schneller, vermisste aber kurze Rückfragen im Büro. Bei einem internen Probelauf mit 86 Bürokräften wählten die meisten zwei Tage zu Hause, kaum jemand wollte dauerhaft fernbleiben.\n\nKritische Stimmen verweisen jedoch auf diese Schwierigkeit: Teamgefühl und schnelle Absprachen können schwächer werden. Kritiker befürchten außerdem, dass neue Mitarbeitende schwerer Anschluss finden. Neue Kolleginnen und Kollegen brauchen dagegen spontane Erklärungen, die in einer Videokonferenz oft zu kurz kommen.\n\nIn der Debatte über „Homeoffice für alle Büroberufe“ verweisen Befürworter auf einen unmittelbaren Nutzen. Weniger Pendelzeit schafft Ruhe und kann konzentriertes Arbeiten erleichtern. So könnte die Vereinbarkeit von Arbeit und Privatleben verbessert werden. Vor allem lange Arbeitswege und Aufgaben, die viel Ruhe verlangen, sprechen für eine flexible Wahl des Arbeitsortes.\n\nAußerdem verfügt nicht jede Person über ein eigenes Arbeitszimmer, einen guten Stuhl oder eine stabile Internetverbindung. Ein gemischtes Modell könnte feste Teamtage, freiwillige Heimarbeit und vollständig ausgestattete Plätze im Büro verbinden. Entscheidend wären nicht Anwesenheitslisten, sondern nachvollziehbare Ziele, regelmäßige Teamgespräche und eine faire Verteilung beliebter Homeoffice-Tage.\n\nNicht jede Wohnung eignet sich zum Arbeiten. Wer mit mehreren Personen auf engem Raum lebt, darf nicht benachteiligt werden, wenn konzentrierte Heimarbeit kaum möglich ist. Umgekehrt sollte Präsenz nicht mit Leistung verwechselt werden, wenn Ergebnisse auch zu Hause stimmen.\n\nOb „Homeoffice für alle Büroberufe“ überzeugt, hängt daher vom Nutzen, der praktischen Belastung und einer fairen Umsetzung ab. Homeoffice wäre dann weder Privileg noch Pflicht, sondern eine Möglichkeit, die zu Aufgabe und Lebenssituation passen muss.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Homeoffice für alle Büroberufe?\n\nFlexible Arbeit bleibt beliebt, aber nicht jede Firma ist überzeugt",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p3",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #3",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Vier kleine Betriebe testeten das Modell für ein Quartal; zwei verlängerten den Versuch, zwei kehrten zur alten Woche zurück. In Handwerksbetrieben und kleinen Firmen wird darüber diskutiert, ob eine Vier-Tage-Woche auch dort funktionieren kann. Einige Unternehmen suchen nach Wegen, Fachkräfte zu halten und Belastung zu reduzieren.\n\nAuf der positiven Seite steht ein praktisches Argument: Ein zusätzlicher freier Tag kann Erholung und Motivation erhöhen. So könnten Mitarbeitende seltener erschöpft zur Arbeit kommen. Wo Aufgaben planbar waren, sank die Zahl kurzfristiger Ausfälle und freie Stellen ließen sich leichter besetzen.\n\nEine Werkstatt fand den freien Freitag attraktiv, musste aber Telefonzeiten neu organisieren. Auch die Länge der übrigen Arbeitstage ist wichtig, denn zehn anstrengende Stunden bedeuten nicht automatisch weniger Belastung. Auf der anderen Seite zeigt sich ein praktisches Risiko: Kundenservice, Vertretung und Öffnungszeiten werden schwieriger. Kritiker befürchten außerdem, dass Arbeit nur auf längere Tage verschoben wird. Bäckerei, Werkstatt oder Pflegedienst können ihre Kundschaft jedoch nicht einfach an einem Wochentag abweisen.\n\nEin Betrieb könnte freie Tage im Team versetzt planen und zunächst nur eine Abteilung für zwölf Wochen teilnehmen lassen. Gemessen werden sollten Überstunden, Fehler, Kundenbeschwerden und Erholung statt nur die allgemeine Stimmung am Ende des Versuchs.\n\nDie Beschäftigten müssten außerdem an der Gestaltung beteiligt sein. Manche wünschen einen festen freien Tag, andere lieber kürzere Tage. Nur wenn Arbeitszeit, Lohn und Pausen eindeutig geregelt sind, kann das Modell fair mit der bisherigen Woche verglichen werden.\n\nFür das Thema „Vier-Tage-Woche im kleinen Betrieb“ reicht ein Grundsatzbeschluss nicht; auch Aufwand und Verteilung der Folgen zählen. Ob vier Tage funktionieren, entscheidet daher weniger ein modernes Etikett als die ehrliche Organisation des konkreten Betriebs.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p3_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Vier-Tage-Woche im kleinen Betrieb?\n\nKürzere Arbeitszeit klingt attraktiv, stellt Teams aber vor neue Fragen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p4",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #4",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Schulen und Elternvertretungen wird immer wieder darüber gesprochen, ob Smartphones erst ab der Oberstufe erlaubt sein sollten. Viele Lehrkräfte beobachten, dass Nachrichten und Spiele die Pausen und den Unterricht beeinflussen. Eine Gesamtschule ließ zwei Jahrgänge unterschiedliche Regeln testen: Handyboxen im Unterricht und freie Nutzung nur in einer Pausenzone.\n\nGegen eine allgemeine Regel spricht: Jugendliche müssen verantwortlichen Umgang mit Geräten ebenfalls lernen. Kritiker befürchten außerdem, dass Verbote heimliche Nutzung interessanter machen. Ein vollständiges Verbot verhindert zugleich, dass Jugendliche Recherche, Datenschutz und Selbstkontrolle praktisch üben.\n\nEine Klasse nutzte Handys nur für Recherchen und legte sie danach in eine Box. Eltern benötigen außerdem einen verlässlichen Weg, ihr Kind bei einer kurzfristigen Änderung des Heimwegs zu erreichen.\n\nFür eine Zustimmung spricht nach Ansicht vieler: Weniger Ablenkung kann direkte Gespräche und Konzentration fördern. So könnte der Schulalltag ruhiger und persönlicher werden. Lehrkräfte beobachteten in den handyfreien Räumen mehr Gespräche und mussten den Unterricht seltener wegen Nachrichten unterbrechen.\n\nAltersabhängige Regeln könnten Lernnutzung erlauben, private Geräte während des Unterrichts sammeln und bestimmte Pausen bewusst freihalten. Nach einem Halbjahr sollten Lernende, Eltern und Lehrkräfte getrennt befragt werden, damit nicht nur die lauteste Gruppe entscheidet.\n\nEine solche Regel benötigt auch glaubwürdige Konsequenzen. Werden Geräte nur offiziell abgegeben, aber heimlich weiter benutzt, verliert sie ihren Sinn. Pädagogische Gespräche und einheitliches Verhalten der Erwachsenen wären daher ebenso wichtig wie technische Kontrollen.\n\nDie Debatte über „Smartphones erst ab der Oberstufe“ sollte somit praktische Wirkung, Kosten und gerechte Ausnahmen gleichermaßen berücksichtigen. Die Schule müsste also Konzentration schützen, ohne das Smartphone so zu behandeln, als gehöre es nicht längst zum Alltag.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p4_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Smartphones erst ab der Oberstufe?\n\nSchulen suchen neue Regeln für Konzentration und digitale Bildung",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p5",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #5",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Kursen, Schulen und Weiterbildungseinrichtungen sorgt eine Frage für Diskussionen: Darf KI beim Lernen helfen? Immer mehr Lernende nutzen Programme, die Texte erklären, korrigieren oder zusammenfassen. In einem Abendkurs durften Lernende einen Monat lang digitale Assistenten nutzen, mussten aber jeden verwendeten Hinweis dokumentieren.\n\nUnterstützer richten den Blick besonders auf diese Chance: KI kann schwierige Inhalte verständlicher machen und zusätzliches Üben ermöglichen. So könnten Lernende schneller Rückmeldung bekommen. Besonders hilfreich waren zusätzliche Erklärungen und Übungen, wenn eine Lehrkraft nicht sofort Zeit für eine individuelle Rückfrage hatte.\n\nSkeptiker lenken die Aufmerksamkeit auf folgenden Nachteil: Eigene Leistung wird unklar, wenn fertige Lösungen übernommen werden. Kritiker befürchten außerdem, dass schwächere Lernende abhängig von automatischen Antworten werden. Mehrere Teilnehmende übernahmen anfangs Formulierungen, die sie später selbst weder erklären noch korrekt verändern konnten.\n\nEine Schülerin ließ sich Grammatik erklären, schrieb ihren Text aber anschließend selbst neu. Das Problem liegt deshalb nicht nur im Werkzeug, sondern auch darin, ob Lernende den vorgeschlagenen Inhalt kritisch prüfen.\n\nLehrkräfte brauchen dafür Aufgaben, bei denen der Lernweg sichtbar bleibt. Ein persönliches Beispiel, eine Überarbeitung mit Begründung oder ein kurzes Gespräch über Fehler lässt sich schwerer vollständig auslagern als eine allgemeine Standardfrage.\n\nErlaubt sein könnten Erklärungen und Feedback, während fertige Lösungen ohne Kennzeichnung als eigene Leistung ausgeschlossen bleiben. Kurze mündliche Rückfragen würden zeigen, ob jemand den bearbeiteten Stoff verstanden oder lediglich eine Antwort kopiert hat. Vor einer dauerhaften Regel zu „KI-Hilfe beim Lernen erlauben“ wären Nutzen, organisatorischer Aufwand und soziale Folgen gemeinsam zu prüfen. Klare Lernziele und Transparenz könnten die Technik nutzbar machen, ohne selbstständiges Denken durch Bequemlichkeit zu ersetzen.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p5_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "KI-Hilfe beim Lernen erlauben?\n\nDigitale Assistenten können unterstützen, aber auch zum Abschreiben verleiten",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p6",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #6",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Familien und Stadtteilprojekten wird derzeit darüber diskutiert, ob Familien regelmäßig bildschirmfreie Zeiten einführen sollten. Viele Eltern berichten, dass private Bildschirme Gespräche, Schlaf und gemeinsame Aktivitäten beeinflussen.\n\nEine Familie spielte wieder gemeinsam, musste aber Ausnahmen für Fahrpläne zulassen. Sieben Familien führten vier Wochen lang Tagebuch; manche genossen die Ruhe, andere mussten wegen Schule und Verabredungen Ausnahmen machen.\n\nGegen eine pauschale Regel spricht jedoch: Kontakte, Hausaufgaben und Planung laufen oft digital. Kritiker befürchten außerdem, dass ein strenger ganzer Tag schnell zu Konflikten führt. Für getrennt lebende Verwandte oder Jugendliche mit digitalen Lerngruppen kann ein ganzer Offline-Tag jedoch unpraktisch sein.\n\nDer Vorschlag verspricht vor allem folgenden Gewinn: Gemeinsame Zeit kann bewusster erlebt und Streit um Geräte reduziert werden. So könnten Kinder und Erwachsene wieder andere Freizeitideen entwickeln. Gemeinsames Kochen, Spaziergänge und Spiele bekamen wieder einen festen Platz, weil kein Gerät ständig Aufmerksamkeit verlangte.\n\nBesonders viel Streit entstand dort, wo Erwachsene ihre eigenen Regeln weniger ernst nahmen als die der Kinder. Realistischer wäre ein gemeinsam vereinbartes Zeitfenster mit erlaubten Ausnahmen für Fahrpläne, Hausaufgaben und wichtige Kontakte. Jede Familie könnte nach einigen Sonntagen prüfen, ob Gespräche, Stimmung und Schlaf tatsächlich besser geworden sind.\n\nDer Vorschlag sollte nicht zu einem Wettbewerb um die strengste Familie werden. Entscheidend ist, ob alle Beteiligten gemeinsam Zeit gewinnen. Wenn Kinder nur gelangweilt warten, während Erwachsene heimlich Nachrichten lesen, wird das Ziel offensichtlich verfehlt.\n\nBei „Bildschirmfreie Sonntage für Familien“ entscheidet am Ende nicht nur die Idee, sondern auch ihre faire und realistische Durchführung. Eine freiwillige Pause überzeugt eher durch gute gemeinsame Erlebnisse als durch ein Verbot, das niemand konsequent einhält.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p6_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Bildschirmfreie Sonntage für Familien?\n\nEin freier Tag ohne Handy und Tablet verspricht Ruhe, passt aber nicht immer",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p7",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #7",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "Bei zwölf Reparaturabenden wurden vor allem Lampen, Küchengeräte und Kleidung gebracht; ungefähr die Hälfte ließ sich wieder benutzen. Verbraucherinitiativen und Nachbarschaftsgruppen diskutieren, ob Reparieren im Alltag stärker gefördert werden sollte. Viele kaputte Alltagsgeräte landen im Müll, obwohl kleine Defekte manchmal reparierbar wären.\n\nIn der Debatte über „Reparieren statt neu kaufen“ verweisen Befürworter auf einen unmittelbaren Nutzen. Ressourcen werden geschont und Menschen lernen praktische Fähigkeiten. So könnten weniger noch funktionsfähige Geräte und Teile im Abfall landen. Neben weniger Abfall entstehen Kenntnisse, die Besucher später auch bei anderen kleinen Defekten anwenden können.\n\nEin Wasserkocher wurde gerettet, während ein sehr alter Drucker nicht mehr sinnvoll reparierbar war. Ehrenamtliche Helfer dürfen deshalb nicht unter Druck geraten, für jede Reparatur eine Garantie übernehmen zu müssen. Ein gewichtiges Argument dagegen lautet: Reparaturen lohnen sich nicht immer finanziell oder technisch. Kritiker befürchten außerdem, dass unsichere Reparaturen neue Schäden verursachen. Bei beschädigten Akkus oder sehr alten Geräten übersteigen Ersatzteile und Sicherheitsprüfung schnell den Wert des Gegenstands.\n\nReparaturtreffs könnten vorab Gerätetypen nennen, Sicherheitsgrenzen erklären und mit Fachbetrieben für schwierige Fälle kooperieren. Eine einfache Liste zu Kosten, Erfolg und eingespartem Müll würde zeigen, bei welchen Produkten sich das Angebot lohnt.\n\nHersteller könnten ebenfalls beitragen, indem sie Ersatzteile, Anleitungen und reparaturfreundliche Konstruktionen anbieten. Die Verantwortung allein bei Verbrauchern und ehrenamtlichen Helfern abzuladen, wäre zu einfach, denn manche Produkte lassen sich absichtlich kaum öffnen. Ein günstiger Zugang zu Ersatzteilen bleibt dabei eine zentrale Voraussetzung.\n\nEine tragfähige Antwort auf „Reparieren statt neu kaufen“ muss positive Wirkung, zusätzlichen Aufwand und mögliche Benachteiligung abwägen. Reparieren wäre damit keine romantische Pflicht, sondern eine sinnvolle erste Prüfung vor dem Kauf eines Ersatzgeräts.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p7_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Reparieren statt neu kaufen?\n\nReparaturtreffs werden beliebter, doch sie kosten Zeit und Geduld",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p8",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #8",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Wohnvierteln und Nachbarschaftsvereinen wird immer häufiger darüber gesprochen, ob Gegenstände gemeinsam genutzt werden sollten. Bohrmaschinen, Leitern oder Nähmaschinen werden oft nur wenige Male im Jahr gebraucht. Ein Leihregal in einem Wohnblock verzeichnete in drei Monaten 140 Ausleihen, aber auch fünf verspätete und zwei beschädigte Rückgaben.\n\nWer die Idee ablehnt, warnt besonders vor dieser Folge: Ausleihe braucht Vertrauen, Pflege und klare Haftung. Kritiker befürchten außerdem, dass beschädigte Gegenstände Streit auslösen. Sobald etwas kaputt zurückkommt, können unterschiedliche Erinnerungen an den vorherigen Zustand schnell zu Streit führen.\n\nEine Bewohnerin lieh eine Leiter aus und bekam später selbst Hilfe beim Umzug. Für teure Werkzeuge braucht es deshalb andere Regeln als für Backformen, Bücher oder einfache Gesellschaftsspiele.\n\nWer die Idee befürwortet, betont diesen Alltagseffekt: Menschen sparen Geld und Platz und lernen Nachbarn leichter kennen. So könnten selten genutzte Geräte sinnvoller eingesetzt werden. Selten benötigte Geräte kosten weniger Platz und Geld, wenn nicht jeder Haushalt sie einzeln anschaffen muss.\n\nFotos bei der Übergabe, kurze Leihfristen und eine kleine gemeinsame Reparaturkasse könnten Verantwortung nachvollziehbar machen. Nach einer Probephase ließe sich prüfen, welche Gegenstände gefragt sind und bei welchen die Verwaltung zu aufwendig bleibt.\n\nVor der ersten Ausleihe sollte geklärt sein, ob private Haftpflichtversicherungen Schäden übernehmen. Für kleine Dinge genügt Vertrauen; bei einer teuren Maschine können Kaution, Einweisung und dokumentierte Rückgabe dagegen für beide Seiten sinnvoll sein.\n\nZum Thema „Dinge ausleihen statt besitzen“ sollte deshalb geprüft werden, wer profitiert, wer organisiert und wer mögliche Nachteile trägt. Teilen funktioniert vor allem dort, wo Vertrauen nicht nur erwartet, sondern durch überschaubare Absprachen unterstützt wird.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p8_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Dinge ausleihen statt besitzen?\n\nLeihregale und Gerätebibliotheken verändern den Umgang mit Konsum",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t2-p9",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #9",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+        "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+        "passage": "In Innenstädten und kleinen Geschäften taucht immer wieder die Frage auf, ob Bäckereien einheitliche Pfandbecher anbieten sollten. Einwegbecher verursachen täglich viel Abfall, besonders rund um Bahnhöfe und Büros. Sechs unabhängige Bäckereien erprobten dasselbe Bechermodell; die Rückgabe stieg deutlich, sobald jede Filiale alle Becher annahm.\n\nEin wichtiger Grund für die Änderung lautet: Weniger Müll entsteht und Umweltschutz wird im Alltag sichtbar. So könnten Kundinnen und Kunden leichter wiederverwendbare Becher nutzen. Ein gemeinsames System erspart Kunden die Suche nach dem richtigen Laden und macht Mehrweg auch spontan bequem.\n\nDem erwarteten Nutzen steht diese Sorge gegenüber: Kleine Betriebe fürchten Reinigungskosten und Platzprobleme. Kritiker befürchten außerdem, dass zu viele verschiedene Systeme Verwirrung schaffen. Kleine Verkaufsstellen haben häufig weder Lagerfläche noch zusätzliche Spülkapazität für große Mengen benutzter Becher.\n\nEine Bäckerei gewann Stammkunden, weil die Rückgabe unkompliziert funktionierte. Zu niedriges Pfand motiviert kaum zur Rückgabe, während ein hoher Betrag Menschen mit wenig Geld abschrecken kann.\n\nAuch der Transport benutzter Becher zur Reinigung verursacht Aufwand. Kurze regionale Wege und gut ausgelastete Lieferungen gehören deshalb zur Umweltbilanz. Ein kompliziertes System mit vielen Leerfahrten würde einen Teil des ökologischen Vorteils wieder verlieren. Auch Rückgabeautomaten könnten den Aufwand außerhalb der Öffnungszeiten senken.\n\nEine zentrale Reinigung, ein einheitlicher Becher und mehrere Rückgabepunkte könnten die Belastung einzelner Betriebe verringern. Die teilnehmenden Läden sollten Rückgabequote, Kosten und Beschwerden veröffentlichen, bevor das Modell verpflichtend ausgeweitet wird. Ob „Pfandbecher in jeder Bäckerei“ sinnvoll ist, zeigt sich erst im Zusammenspiel von Nutzen, Umsetzbarkeit und fairen Bedingungen. Mehrweg wird nur dann zur echten Alternative, wenn der umweltfreundliche Weg für Kunden und Verkaufspersonal einfach bleibt.",
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t2-p9_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Pfandbecher in jeder Bäckerei?\n\nMehrweg klingt sinnvoll, funktioniert aber nur mit einfachen Abläufen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p1",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #1",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "In einer kleinen Firma beginnen sechs neue Kolleginnen und Kollegen. Sie sollen einen halben Begrüßungstag planen. Der normale Betrieb darf kaum gestört werden, der Besprechungsraum ist nur vormittags frei und das Budget für Snacks und Material ist begrenzt.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p1_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nBegrüßungstag für neue Kolleginnen und Kollegen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p10",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #10",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Die Gemeinde möchte auf dem Wochenmarkt einen Informationsstand zur Mülltrennung anbieten. Viele Menschen sind unsicher bei Verpackungen, Batterien und kleinen Elektrogeräten. Der Stand soll freundlich und praktisch wirken, nicht belehrend. Es gibt einen Tisch, zwei Stellwände und Material für ein Quiz.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p10_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nInformationsstand zur Mülltrennung",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p11",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #11",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Die Volkshochschule möchte neue Teilnehmende gewinnen und plant einen offenen Nachmittag. Interessierte sollen Kurse kennenlernen, aber es stehen nur zwei Räume und drei Kursleitende zur Verfügung. Das Programm soll für Berufstätige, Eltern und ältere Lernende attraktiv sein.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p11_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nOffener Nachmittag in der Volkshochschule",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p12",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #12",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "In einem Studierendenwohnheim soll ein Kochabend organisiert werden. Viele möchten günstiger und gesünder kochen, haben aber wenig Zeit und kleine Küchen. Der Gemeinschaftsraum darf genutzt werden, die Ausstattung ist einfach und das Budget reicht nur für Grundzutaten.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p12_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nGünstiger Kochabend im Wohnheim",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p13",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #13",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "In einem Kurszentrum möchten Lernende einen Sprachtandem-Abend starten. Menschen mit verschiedenen Muttersprachen sollen regelmäßig sprechen üben. Manche sind schüchtern, andere sprechen sehr viel. Planen Sie einen ersten Termin mit Struktur, Themenkarten und Regeln für faire Gesprächsanteile.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p13_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nSprachtandem-Abend organisieren",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p14",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #14",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Eine Kollegin verlässt nach vielen Jahren Ihr Team. Es soll eine kleine Abschiedsfeier geben, aber sie mag keine großen Überraschungen und arbeitet am letzten Tag nur bis 15 Uhr. Das Team ist teilweise im Homeoffice, und das Budget ist begrenzt.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p14_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nAbschied für eine Kollegin planen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p15",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #15",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Ein Stadtteilzentrum möchte einen Fahrrad-Sicherheitsnachmittag anbieten. Familien, Pendler und Jugendliche sollen Tipps zu Licht, Helm, kleinen Reparaturen und sicheren Wegen bekommen. Der Hof ist groß, aber bei Regen gibt es nur einen kleinen Raum.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p15_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nFahrrad-Sicherheitsnachmittag im Stadtteil",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p2",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #2",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Im Stadtteil soll ein Reparaturnachmittag stattfinden. Bewohnerinnen und Bewohner bringen kleine defekte Dinge wie Lampen, Kleidung oder Fahrradzubehör mit. Es gibt nur zwei Räume, wenige Werkzeuge und drei freiwillige Helferinnen und Helfer. Planen Sie einen sicheren und nützlichen Ablauf.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p2_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nReparaturnachmittag im Nachbarschaftshaus",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p3",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #3",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Die Stadtbibliothek möchte einen kostenlosen Nachmittag für einfache digitale Fragen anbieten. Viele Besucherinnen und Besucher brauchen Hilfe bei Onlineformularen, Dateien oder Videoanrufen. Es gibt zehn Tablets, einen Gruppenraum und zwei Personen, die helfen können. Datenschutz ist besonders wichtig.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p3_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nDigitale Hilfe in der Stadtbibliothek",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p4",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #4",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Ihre Sprachschule plant an einem Samstag einen Workshop-Tag für B2-Lernende. Gewünscht sind mehr mündliche Übung, Tipps zum Schreiben und Prüfungsvorbereitung. Es stehen drei Klassenräume, zwei Lehrkräfte und ein kleines Budget für Kopien und Getränke zur Verfügung.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p4_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nWorkshop-Tag in der Sprachschule",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p5",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #5",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "In einem Kurszentrum soll eine kleine Fotoausstellung entstehen. Lernende zeigen Bilder aus ihrem Alltag in der Stadt. Die Ausstellung soll Gespräche anregen, aber der Flur ist eng und Wände dürfen nicht beschädigt werden. Planen Sie Präsentation, Eröffnung und Material.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p5_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nAusstellung mit Fotos aus dem Alltag",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p6",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #6",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Ein Stadtteilverein verteilt wöchentlich Lebensmittel an Menschen mit wenig Geld. In den nächsten Wochen fehlen Helferinnen und Helfer, gleichzeitig kommen mehr Besucher. Planen Sie einen Einsatzplan mit fairen Aufgaben, kurzen Wartezeiten und respektvoller Kommunikation.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p6_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nFreiwilligenplan für eine Lebensmittelausgabe",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p7",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #7",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Ihre Firma möchte einen internen Fortbildungsnachmittag zur kundenfreundlichen Kommunikation organisieren. Viele Mitarbeitende haben wenig Zeit, einige arbeiten im Schichtdienst. Es gibt einen großen Raum, und die Geschäftsleitung wünscht praktische Übungen statt langer Theorie.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p7_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nFortbildungsnachmittag in einer kleinen Firma",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p8",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #8",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "In einem Wohnhaus kennen sich viele Nachbarinnen und Nachbarn kaum. Die Hausverwaltung erlaubt einen Nachmittag im Innenhof, aber nur bis 20 Uhr und ohne laute Musik. Ältere Bewohner brauchen Sitzplätze, Familien wünschen sich etwas für Kinder und das Budget ist klein.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p8_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nGemeinsamer Nachmittag im Innenhof",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paperId": "telc-b2-sprechen-t3-p9",
+    "board": "telc",
+    "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #9",
+    "examVersion": "B2",
+    "alignment": "exam_format_practice",
+    "sourceType": "ORIGINAL",
+    "reviewStatus": "AUTO_QA_PASS",
+    "minutes": 5,
+    "sections": [
+      {
+        "partNo": 1,
+        "module": "sprechen",
+        "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+        "instruction": "Viele Mitarbeitende im Büro klagen über Rückenschmerzen und Stress. Die Leitung möchte einen Monat lang kurze Gesundheitspausen testen, ohne dass die Arbeit liegen bleibt. Planen Sie Übungen, Zeiten, Räume, Motivation und Auswertung.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+        "passage": null,
+        "skill": "speaking",
+        "scoringMode": "TRANSCRIPT_ONLY",
+        "minutes": 5,
+        "items": [
+          {
+            "itemNo": 1,
+            "itemId": "telc-b2-sprechen-t3-p9_1",
+            "itemType": "SPOKEN_RESPONSE",
+            "stem": "Gemeinsam etwas planen\n\nGesundheitspausen im Büro testen",
+            "options": [],
+            "answer": null,
+            "answerPayload": null,
+            "rationale": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation.",
+            "payload": {
+              "prep_seconds": 60,
+              "speak_seconds": 180
+            },
+            "scoringMode": "TRANSCRIPT_ONLY",
+            "points": 0,
+            "capability": "argue",
+            "difficulty": "B",
+            "sourceType": "ORIGINAL",
+            "reviewStatus": "AUTO_QA_PASS"
+          }
+        ]
+      }
+    ]
+  }
+]

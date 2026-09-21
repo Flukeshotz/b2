@@ -1,0 +1,64 @@
+{
+  "_comment": [
+    "TEACHER-MARKED CALIBRATION SET — the first independent marking we have.",
+    "",
+    "Source: a qualified German teacher, September 2026, marking six Aufnahmebericht",
+    "texts written to one telc B1·B2 Pflege task. These are the levels a human",
+    "assigned, with the reason in their own words. They are the ground truth this",
+    "engine is measured against — never edited to make our scores look better.",
+    "",
+    "SIX TEXTS IS NOT A CALIBRATION SET. It is a smoke test. Two trained raters",
+    "agree on an exact CEFR band only 65.5% of the time, so six marks from one",
+    "rater cannot establish accuracy — they can only catch gross error. Scoring",
+    "6/6 against this would be overfitting, not validation. The ask for ~20 more",
+    "stands."
+  ],
+  "task": {
+    "board": "telc_pflege",
+    "type": "aufnahmebericht",
+    "brief": "Frau Elisabeth Kremer, 78 Jahre, wurde heute um 14:30 Uhr nach einem Sturz in der eigenen Wohnung aufgenommen. Verdacht auf Oberschenkelhalsfraktur rechts. Vorerkrankungen: Diabetes mellitus Typ 2, Bluthochdruck. Medikamente: Metformin 850 mg, morgens und abends. Allergien: Penicillin. Mobilität: vor dem Sturz mit Rollator, aktuell bettlägerig. Orientierung: wach, zeitlich leicht desorientiert. Angehörige: Tochter, Frau Sabine Kremer."
+  },
+  "marked": [
+    { "id": "A", "level": "A2", "teacher_reason": "—",
+      "text": "Frau Kremer ist 78 Jahre alt. Sie ist in ihre Wohnung gefallen. Sie hat Schmerzen im Bein. Sie hat Diabetes mellitus Typ 2 und hoher Blutdruck. Sie nimmt eine Tablette. Sie kann jetzt nicht gehen. Ihre Tochter kommt morgen." },
+
+    { "id": "B", "level": "B2",
+      "teacher_reason": "good sentence structure, passive constructions, subordinate clauses",
+      "text": "Aufnahmebericht. Frau Elisabeth Kremer, 78 Jahre, wurde heute um 14:30 Uhr nach einem Sturz in der eigenen Wohnung aufgenommen. Es besteht der Verdacht auf eine Oberschenkelhalsfraktur rechts. Als Vorerkrankungen sind ein Diabetes mellitus Typ 2 sowie ein Bluthochdruck bekannt. Die Patientin nimmt Metformin 850 mg morgens und abends ein. Eine Allergie gegen Penicillin liegt vor und ist unbedingt zu beachten. Vor dem Sturz war Frau Kremer mit dem Rollator gehfähig, aktuell ist sie bettlägerig. Sie ist wach und ansprechbar, jedoch zeitlich leicht desorientiert. Die Tochter, Frau Sabine Kremer, wurde telefonisch informiert. Die Vitalzeichen wurden bei Aufnahme kontrolliert und dokumentiert." },
+
+    { "id": "C", "level": "B1",
+      "teacher_reason": "Understandable, connected sentences, but grammatical/lexical mistakes",
+      "text": "Frau Kremer, 78 Jahre alt, wurde heute nach einem Sturz aufgenommen. Man vermutet eine Fraktur am rechten Oberschenkel. Sie hat Diabetes und Bluthochdruck. Sie nimmt Metformin 850 mg zweimal am Tag. Wegen dem Penicillin hat sie eine Allergie. Früher ist sie mit einem Rollator gelaufen, aber jetzt liegt sie im Bett. Sie ist wach, aber sie weiß nicht genau, welcher Tag es ist. Wir haben ihre Tochter angerufen." },
+
+    { "id": "D", "level": "A2", "level_raw": "A1–A2",
+      "teacher_reason": "Very simple sentences, limited vocabulary, many important details missing",
+      "text": "Die Patientin Frau Kremer ist heute gekommen. Sie ist alt und sie ist gefallen. Das Bein tut weh. Sie hat Medikamente. Sie ist ein bisschen verwirrt. Die Familie weiß Bescheid." },
+
+    { "id": "E", "level": "B2",
+      "teacher_reason": "professional vocabulary and nominal style",
+      "text": "Aufnahmebericht vom heutigen Tage. Die 78-jährige Patientin, Frau Elisabeth Kremer, wurde um 14:30 Uhr nach einem häuslichen Sturz stationär aufgenommen. Bei Aufnahme bestand der dringende Verdacht auf eine Oberschenkelhalsfraktur rechts. An Vorerkrankungen sind ein Diabetes mellitus Typ 2 sowie eine arterielle Hypertonie dokumentiert. Die Medikation umfasst Metformin 850 mg in zweimal täglicher Gabe. Hinsichtlich der Allergien ist eine Penicillinunverträglichkeit zu berücksichtigen. Bezüglich der Mobilität war die Patientin vor dem Ereignis am Rollator gehfähig, präsentiert sich derzeit jedoch bettlägerig. Sie ist wach und voll ansprechbar, zeitlich allerdings leicht desorientiert. Die Angehörige, Frau Sabine Kremer, wurde über die Aufnahme in Kenntnis gesetzt." },
+
+    { "id": "F", "level": "B1",
+      "teacher_reason": "Good connected writing and some subordinate clauses, but simpler vocabulary and several invented details",
+      "text": "Frau Kremer ist 78 und wohnt allein. Gestern ist sie in der Wohnung gestürzt und hat sich am Bein verletzt. Der Arzt denkt, dass der Oberschenkel gebrochen ist. Sie hat schon lange Diabetes Typ 2 und auch Bluthochdruck, deshalb nimmt sie Metformin. Penicillin verträgt sie nicht. Normalerweise geht sie mit dem Rollator, aber im Moment kann sie nicht aufstehen. Sie antwortet gut, aber manchmal weiß sie nicht, welcher Tag es ist. Die Tochter wurde informiert und kommt später." }
+  ],
+
+  "model_answer": {
+    "_comment": "The teacher's own B2 Aufnahmebericht. THIS is what we show a learner who is told they are below B2 — a verdict with no model to copy is not a lesson.",
+    "level": "B2",
+    "text": "Frau Elisabeth Kremer, 78 Jahre, wurde heute um 14:30 Uhr nach einem Sturz in ihrer Wohnung aufgenommen. Es besteht der Verdacht auf eine Oberschenkelhalsfraktur rechts. Als Vorerkrankungen sind ein Diabetes mellitus Typ 2 sowie ein Bluthochdruck bekannt. Die Patientin nimmt Metformin 850 mg morgens und abends ein. Eine Allergie gegen Penicillin liegt vor, die unbedingt beachtet werden muss. Vor dem Sturz war Frau Kremer mit dem Rollator gehfähig, aktuell ist sie bettlägerig. Sie ist wach, jedoch zeitlich leicht desorientiert. Die Angehörige, Frau Sabine Kremer, wurde telefonisch informiert. Die Vitalzeichen wurden bei Aufnahme kontrolliert und dokumentiert."
+  },
+
+  "confirmed_rules": [
+    {
+      "question": "Our software can fail a text that contains no mistakes at all — if every sentence is short and simple and the vocabulary is entirely everyday, we place it below B2 even when nothing in it is wrong. Would you do the same?",
+      "answer": "Yes",
+      "implication": "Independent confirmation that range must be scored separately from accuracy. This is what analyse.js's sentence_complexity and lexical_range checks implement, and it was previously our own reasoning rather than a marked judgement. Text A and D are error-light and still below B2 for exactly this reason."
+    }
+  ],
+
+  "still_needed": [
+    "PART 2b was returned BLANK — the gängige fachsprachliche Formulierungen for admitting, suspected diagnosis, pre-existing conditions, medication and dosage, allergy, mobility, orientation, informing relatives. This is the single thing most directly blocking 'show the learner what right sounds like' for writing: we can name the fault and still cannot supply the phrase.",
+    "~20 more marked texts. Six from one rater is a smoke test, not a calibration set."
+  ]
+}

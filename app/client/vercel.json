@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm run build:b2",
+  "outputDirectory": "dist-b2"
+}

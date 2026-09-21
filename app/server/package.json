@@ -1,0 +1,24 @@
+{
+  "name": "learn-german-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "seed": "node src/seed/seed.js",
+    "dev": "node src/index.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "seed:b2": "node src/seed/seed_b2_curriculum.js",
+    "seed:b2:tasks": "node src/seed/seed_b2_tasks.js",
+    "export:b2:tasks": "node tools/export_b2_tasks.js",
+    "check:b2:tasks": "node tools/export_b2_tasks.js --check",
+    "migrate": "node tools/migrate.js",
+    "audit:b2:assessment": "node tools/audit_b2_assessment.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "microsoft-cognitiveservices-speech-sdk": "^1.51.0",
+    "pg": "^8.12.0"
+  }
+}

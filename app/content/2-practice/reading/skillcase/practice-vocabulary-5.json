@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-5",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 5 — Redewendungen im Berufsalltag",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei der Übergabe sagt man üblicherweise zuerst:",
+          "options": [
+            "\"Hier ist alles wie immer.\"",
+            "\"Ich übergebe Ihnen Zimmer 12 bis 18.\"",
+            "\"Ich hab nicht viel zu sagen.\""
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "\"Ich übergebe Ihnen Zimmer 12 bis 18.\""
+          },
+          "explanation": "Eine strukturierte Übergabe beginnt mit einer klaren Zuordnung, nicht mit einer vagen Floskel."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Höfliche Rückfrage bei einer unklaren Anweisung:",
+          "options": [
+            "Was meinen Sie jetzt genau?",
+            "Habe ich richtig verstanden, dass …?",
+            "Wie bitte?"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Habe ich richtig verstanden, dass …?"
+          },
+          "explanation": "\"Habe ich richtig verstanden, dass …?\" ist die höflichste und präziseste Rückfrageform."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "react_unexpected",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei einem Missverständnis sagt man am besten:",
+          "options": [
+            "Das haben Sie falsch gemacht.",
+            "Ich glaube, da ist etwas missverstanden worden — können wir das klären?",
+            "Das war doch klar so gemeint."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich glaube, da ist etwas missverstanden worden — können wir das klären?"
+          },
+          "explanation": "Die neutrale, deeskalierende Formulierung benennt das Missverständnis ohne Schuldzuweisung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um eine Terminverschiebung höflich anzukündigen:",
+          "options": [
+            "Der Termin fällt aus, Punkt.",
+            "Ich muss den Termin leider verschieben — wäre nächste Woche möglich?",
+            "Ich kann nicht, wie immer."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich muss den Termin leider verschieben — wäre nächste Woche möglich?"
+          },
+          "explanation": "Höflich + Begründung + Alternative ist der professionelle Standard."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um einem Patienten eine Prozedur zu erklären, beginnt man am besten mit:",
+          "options": [
+            "Machen Sie sich keine Gedanken.",
+            "Das tut gleich nicht weh, versprochen.",
+            "Ich erkläre Ihnen jetzt kurz, was wir gleich machen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ich erkläre Ihnen jetzt kurz, was wir gleich machen."
+          },
+          "explanation": "Eine klare Ankündigung, was passiert, schafft Transparenz — leere Beruhigungsformeln tun das nicht."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei einer Meinungsverschiedenheit im Team sagt man sachlich:",
+          "options": [
+            "Ich sehe das anders — können wir die Gründe vergleichen?",
+            "Machen Sie, was Sie wollen.",
+            "Das ist doch Unsinn."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ich sehe das anders — können wir die Gründe vergleichen?"
+          },
+          "explanation": "Die sachliche Formulierung eröffnet ein Gespräch, statt es zu beenden."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "react_unexpected",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um eine unerwartete Information ruhig aufzunehmen:",
+          "options": [
+            "Das habe ich nicht erwartet — lassen Sie uns das genauer besprechen.",
+            "Was?! Das kann nicht sein.",
+            "Das interessiert mich jetzt nicht."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das habe ich nicht erwartet — lassen Sie uns das genauer besprechen."
+          },
+          "explanation": "Ruhige Anerkennung + Vorschlag zur Klärung ist die professionelle Reaktion."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um eine Aufgabe zusammenzufassen, bevor man sie weitergibt:",
+          "options": [
+            "Kurz zusammengefasst: die Werte sind stabil, Medikation bleibt gleich.",
+            "Naja, ist eigentlich alles wie immer.",
+            "Ich erzähl mal alles von Anfang an."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Kurz zusammengefasst: die Werte sind stabil, Medikation bleibt gleich."
+          },
+          "explanation": "Eine gute Zusammenfassung nennt die Kernpunkte knapp, statt alles chronologisch nachzuerzählen."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um unter Zeitdruck eine klare Anweisung zu geben:",
+          "options": [
+            "Könnte irgendwer mal schauen, wenn Zeit ist?",
+            "Vielleicht sollte jemand nachsehen.",
+            "Bitte jetzt sofort das Zimmer 4 kontrollieren, es ist dringend."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Bitte jetzt sofort das Zimmer 4 kontrollieren, es ist dringend."
+          },
+          "explanation": "Unter Zeitdruck braucht es eine direkte, unmissverständliche Anweisung mit Priorität."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um Unsicherheit ehrlich zu kommunizieren, ohne unprofessionell zu wirken:",
+          "options": [
+            "Ich bin mir nicht ganz sicher — ich frage lieber noch einmal nach.",
+            "Ist doch egal, machen wir halt irgendwas.",
+            "Ich hab keine Ahnung, keine Ahnung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ich bin mir nicht ganz sicher — ich frage lieber noch einmal nach."
+          },
+          "explanation": "Unsicherheit benennen + aktiv nachfragen ist professioneller als raten oder resignieren."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um höflich um Geduld zu bitten:",
+          "options": [
+            "Einen Moment bitte, ich kümmere mich gleich darum.",
+            "Ich hab jetzt keine Zeit dafür.",
+            "Warten Sie halt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Einen Moment bitte, ich kümmere mich gleich darum."
+          },
+          "explanation": "\"Einen Moment bitte\" + eine konkrete Zusage ist die höfliche Standardformel."
+        }
+      ]
+    }
+  ]
+}

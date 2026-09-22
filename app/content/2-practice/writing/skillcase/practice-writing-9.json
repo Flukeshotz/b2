@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-9",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 9 — Kurznachricht: Schichtübergabe",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie müssen Ihre Schicht kurzfristig einer Kollegin übergeben. Schreiben Sie ihr eine kurze Nachricht mit den wichtigsten Informationen, die sie für die Übernahme braucht.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie den Grund der Übergabe kurz.",
+              "Listen Sie die wichtigsten offenen Punkte auf.",
+              "Bleiben Sie kurz und klar strukturiert."
+            ],
+            "register": "informell",
+            "min_words": 60,
+            "rubric_id": 8,
+            "task_type": "workplace_message",
+            "rubric_key": "kurzantwort",
+            "target_words": 80
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie den Grund der Übergabe kurz.",
+              "Listen Sie die wichtigsten offenen Punkte auf.",
+              "Bleiben Sie kurz und klar strukturiert."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Kurze, höfliche Einleitung mit klarem Grund für die Schichtübergabe (z. B. Krankheit, familiärer Notfall).",
+              "Strukturierte Auflistung der wichtigsten offenen Aufgaben und relevanter Informationen (z. B. Patienten, Fristen, Schlüssel).",
+              "Verwendung von klaren, höflichen Redemitteln wie 'Könntest du bitte...', 'Wichtig ist...', 'Vielen Dank für deine Unterstützung'.",
+              "Abschließender Dank und Angebot für Rückfragen, passender Gruß."
+            ],
+            "expected_answer": "Liebe Anna,\n\nich muss heute leider kurzfristig aus familiären Gründen nach Hause und kann meine Schicht nicht beenden. Könntest du bitte für mich übernehmen? Es wäre toll, wenn du Folgendes erledigen könntest: Erstens muss die Lieferung um 16 Uhr angenommen und quittiert werden. Zweitens liegt die Akte Müller noch auf meinem Schreibtisch und muss bis 17 Uhr an die Buchhaltung weitergeleitet werden. Drittens ist der Kopierer im 2. Stock defekt, der Techniker ist bereits informiert. Vielen lieben Dank für deine Hilfe! Ruf mich kurz an, falls etwas unklar ist.\n\nViele Grüße\nLisa",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

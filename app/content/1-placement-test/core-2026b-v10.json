@@ -1,0 +1,801 @@
+{
+  "id": "core-2026b-v10",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V10",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Die neue Spesen-App — wirklich einfacher?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit Juli rechnen wir Dienstreisen nicht mehr auf Papier ab, sondern über eine App.\nBelege werden fotografiert, der Rest geht angeblich automatisch. Ich war zunächst\ndagegen, weil ich befürchtet habe, dass ältere Kolleginnen und Kollegen damit\nallein gelassen werden.\n\nNach drei Monaten muss ich zugeben: Die Befürchtung hat sich nur zum Teil\nbestätigt. Die meisten kommen gut zurecht, und die Erstattung dauert jetzt eine\nWoche statt fast eines Monats. Das liegt aber nicht an der App allein, sondern\ndaran, dass die Buchhaltung gleichzeitig eine feste Ansprechperson für Fragen\neingeführt hat.\n\nWas mich weiterhin stört, sind Sonderfälle. Wer eine Reise kurzfristig umbuchen\nmuss oder eine Quittung verliert, findet in der App keinen passenden Weg und\nlandet am Ende doch wieder beim Papierformular.\n\nZurück zum alten Verfahren möchte ich trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt der Autor die Spesen-App insgesamt?",
+          "options": [
+            "Er hält sie für gescheitert.",
+            "Er hält sie für einen Fortschritt, sieht aber Probleme bei Sonderfällen.",
+            "Er findet, sie habe gar nichts verändert."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er hält sie für einen Fortschritt, sieht aber Probleme bei Sonderfällen."
+          },
+          "explanation": "Er möchte „trotzdem nicht“ zurück, kritisiert aber weiter die Sonderfälle. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Erstattung dauert jetzt etwa eine Woche.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„die Erstattung dauert jetzt eine Woche statt fast eines Monats.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt der Autor ein?",
+          "options": [
+            "Dass seine Befürchtung sich nur zum Teil bestätigt hat.",
+            "Dass die App alle Sonderfälle löst.",
+            "Dass er die App selbst nie benutzt hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass seine Befürchtung sich nur zum Teil bestätigt hat."
+          },
+          "explanation": "„Nach drei Monaten muss ich zugeben: Die Befürchtung hat sich nur zum Teil bestätigt.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worauf führt der Autor die schnellere Erstattung zurück?",
+          "options": [
+            "Allein auf die neue App.",
+            "Auch auf die feste Ansprechperson in der Buchhaltung.",
+            "Auf weniger Dienstreisen."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Auch auf die feste Ansprechperson in der Buchhaltung."
+          },
+          "explanation": "„Das liegt aber nicht an der App allein, sondern daran, dass die Buchhaltung … eine feste Ansprechperson … eingeführt hat.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Belege werden in der App fotografiert.",
+            "Bei verlorenen Quittungen hilft die App nicht weiter.",
+            "Die App wurde vor zwei Jahren eingeführt.",
+            "Der Autor war von Anfang an begeistert."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Belege werden in der App fotografiert.",
+              "Bei verlorenen Quittungen hilft die App nicht weiter.",
+              "Die App wurde vor zwei Jahren eingeführt.",
+              "Der Autor war von Anfang an begeistert."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Belege werden in der App fotografiert.",
+              "Bei verlorenen Quittungen hilft die App nicht weiter."
+            ]
+          },
+          "explanation": "„Belege werden fotografiert“ und der Weg zurück zum Papierformular bei verlorenen Quittungen stehen im Text; eingeführt wurde die App im Juli, und der Autor war zunächst dagegen."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Er beschreibt die Umstellung auf die App.",
+              "Er nennt seine ursprüngliche Befürchtung.",
+              "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+              "Er benennt die verbleibenden Probleme."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Er beschreibt die Umstellung auf die App.",
+              "Er nennt seine ursprüngliche Befürchtung.",
+              "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+              "Er benennt die verbleibenden Probleme."
+            ]
+          },
+          "explanation": "Umstellung → Befürchtung → Eingeständnis → verbleibende Kritik."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Am Telefon. Zwei Kollegen sprechen über eine Dienstreise.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v10_dienstreise.mp3",
+        "duration_seconds": 47.3,
+        "voices": "klaus+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollege A",
+          "text": "Du, die Reise nach Hamburg — da fahren wir doch am Montagmorgen mit dem Zug, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Das war der Plan, ja. Herr Vogt hat es aber geändert, weil der Termin beim Kunden vorgezogen wurde. Jetzt fahren wir schon am Sonntagabend und übernachten dort."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Sonntagabend also, nicht Montagmorgen. Und das Hotel — bucht das die Assistenz?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Ja, das bleibt so. Er hat nur eine Sache geändert: Die Belege laden wir diesmal direkt nach der Reise in die App hoch, nicht erst am Monatsende."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Moment, habe ich das richtig verstanden — wir fahren früher, und die Belege müssen sofort danach rein?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das praktisch; am Monatsende suche ich die Quittungen sonst immer zusammen."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann fahren die beiden nach Hamburg?",
+          "options": [
+            "Am Montagmorgen.",
+            "Am Sonntagabend.",
+            "Am Freitagnachmittag."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Am Sonntagabend."
+          },
+          "explanation": "Montagmorgen war der Plan und wurde geändert: „Jetzt fahren wir schon am Sonntagabend.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die neue Regel für die Belege?",
+          "options": [
+            "Sie findet sie umständlich.",
+            "Sie findet sie praktisch.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie findet sie praktisch."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das praktisch“ — die Bewertung steht im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Kollegen müssen das Hotel selbst buchen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Ja, das bleibt so.“ — die Assistenz bucht das Hotel weiterhin."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde die Abfahrt geändert?",
+          "options": [
+            "Weil der Termin beim Kunden vorgezogen wurde.",
+            "Weil der Zug am Montag ausfällt.",
+            "Weil das Hotel ausgebucht war."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil der Termin beim Kunden vorgezogen wurde."
+          },
+          "explanation": "„weil der Termin beim Kunden vorgezogen wurde.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das praktisch.“",
+              "„Er hat nur eine Sache geändert.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das praktisch.“ → eine Meinung äußern",
+              "„Er hat nur eine Sache geändert.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die App spart Zeit. Sonderfälle bleiben schwierig.",
+            "Die App spart zwar Zeit, Sonderfälle bleiben aber schwierig."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen der neuen App teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die App spart zwar Zeit, Sonderfälle bleiben aber schwierig."
+          },
+          "explanation": "„zwar … aber“ räumt den Vorteil ein und setzt den Einwand dagegen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir brauchen ein Formular für Sonderfälle in der App.",
+            "Ein Formular für Sonderfälle in der App wäre vielleicht sinnvoll."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schlagen eine Lösung für Sonderfälle vor, ohne sie zu fordern."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ein Formular für Sonderfälle in der App wäre vielleicht sinnvoll."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Forderung einen Vorschlag."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Trotz des verlorenen Belegs bitte ich um Erstattung.",
+            "Trotz dem verlorenen Beleg bitte ich um Erstattung."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an die Buchhaltung."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Trotz des verlorenen Belegs bitte ich um Erstattung."
+          },
+          "explanation": "Gesprochen ist „trotz dem“ verbreitet. Geschrieben verlangt „trotz“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Reise wurde umgebucht, weil der Kunde den Termin vorgezogen hat und wir sonst zu spät angekommen wären.",
+            "Die Reise wurde umgebucht. Der Kunde hat den Termin vorgezogen. Wir wären zu spät gekommen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen in einer E-Mail, warum die Reise umgebucht wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Reise wurde umgebucht, weil der Kunde den Termin vorgezogen hat und wir sonst zu spät angekommen wären."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung von Hauptsätzen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die Buchhaltung hat die Kosten schließlich ___, nachdem ich den fehlenden Beleg ___ hatte.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "erstattet",
+                  "übernommen"
+                ]
+              },
+              {
+                "accepted": [
+                  "nachgereicht",
+                  "eingereicht"
+                ]
+              }
+            ],
+            "text": [
+              "erstattet / übernommen",
+              "nachgereicht / eingereicht"
+            ]
+          },
+          "explanation": "„Kosten erstatten/übernehmen“ und „einen Beleg nachreichen/einreichen“ — feste Verbindungen auf B2-Niveau."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Belege läuft jetzt digital; nur die ___ von Sonderfällen ist noch unklar.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Erfassung",
+                  "Abrechnung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Behandlung",
+                  "Bearbeitung"
+                ]
+              }
+            ],
+            "text": [
+              "Erfassung / Abrechnung",
+              "Behandlung / Bearbeitung"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Erfassung“ und „Behandlung“ gehören zum B2-Wortschatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "eine Reise",
+              "Kosten",
+              "einen Antrag",
+              "in Kauf"
+            ],
+            "right": [
+              "stellen",
+              "antreten",
+              "nehmen",
+              "tragen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 3,
+              "2": 0,
+              "3": 2
+            },
+            "text": [
+              "eine Reise → antreten",
+              "Kosten → tragen",
+              "einen Antrag → stellen",
+              "in Kauf → nehmen"
+            ]
+          },
+          "explanation": "eine Reise antreten · Kosten tragen · einen Antrag stellen · etwas in Kauf nehmen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Hab die Quittung verschlampt, geht das trotzdem?",
+            "Leider ist mir die Quittung abhandengekommen. Ich bitte Sie um Auskunft, wie ich in diesem Fall vorgehen kann."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die Buchhaltung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Leider ist mir die Quittung abhandengekommen. Ich bitte Sie um Auskunft, wie ich in diesem Fall vorgehen kann."
+          },
+          "explanation": "„verschlampt“ gehört ins Gespräch. In einer E-Mail an die Buchhaltung kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Darf ich die Kosten kurz erklären? Danach ist der Punkt sicher klarer.",
+            "Die Kosten stimmen, Punkt.",
+            "Dann zahle ich es eben selbst."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In einer Besprechung zweifelt jemand Ihre Reisekosten an, bevor Sie sie erklärt haben."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Darf ich die Kosten kurz erklären? Danach ist der Punkt sicher klarer."
+          },
+          "explanation": "Man behält den eigenen Beitrag und bietet die Klärung an — ohne Rückzug und ohne Konfrontation."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie der Autor die neue Spesen-App beurteilt. Nennen Sie auch, was ihn weiterhin stört.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die die revidierte Befürchtung, die schnellere Erstattung UND die Probleme bei Sonderfällen nennt.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die die revidierte Befürchtung, die schnellere Erstattung UND die Probleme bei Sonderfällen nennt.",
+            "guidance": [
+              "Nennen Sie die anfängliche Skepsis und die revidierte, nun positive Bewertung des Autors.",
+              "Fassen Sie den konkreten Vorteil der schnelleren Kostenerstattung zusammen.",
+              "Erwähnen Sie explizit die weiterhin bestehenden Probleme bei der Abrechnung von Sonderfällen.",
+              "Verwenden Sie typische B2-Redemittel wie 'anfangs...', 'inzwischen...', 'allerdings...' oder 'weiterhin störend'."
+            ],
+            "expected_answer": "Der Autor stand der neuen Spesen-App anfangs skeptisch gegenüber, hat seine Meinung inzwischen aber revidiert. Positiv hebt er die deutlich schnellere Erstattung seiner Auslagen hervor. Allerdings bemängelt er weiterhin, dass die Abrechnung von Sonderfällen im System nach wie vor umständlich und fehleranfällig ist.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Die Buchhaltung schreibt: „Bitte reichen Sie die Belege zeitnah ein.“ Sie sind nicht sicher, was „zeitnah“ genau bedeutet und ob Fotos genügen. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen im passenden Register (formelle E-Mail).",
+              "Erste Frage zielt auf die zeitliche Bedeutung von 'zeitnah' (z. B. Frist, konkrete Tage).",
+              "Zweite Frage klärt, ob Fotos als Belege akzeptiert werden (Format, Qualität).",
+              "Verwendung typischer B2-Redemittel für höfliche Nachfragen (z. B. 'Dürfte ich...', 'Könnten Sie mir bitte...')."
+            ],
+            "expected_answer": "Sehr geehrte Damen und Herren,\n\nkönnten Sie mir bitte mitteilen, innerhalb welcher Frist die Belege spätestens eingereicht werden müssen? Dürfte ich außerdem erfragen, ob eingescannte Belege oder Fotos akzeptiert werden?\n\nMit freundlichen Grüßen",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob Dienstreisen künftig grundsätzlich durch Videokonferenzen ersetzt werden sollen, wenn es möglich ist. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn des Beitrags (Zustimmung, Ablehnung oder differenzierte Haltung).",
+              "Mindestens zwei gut ausgeführte Argumente für die eigene Position (z. B. Kosten, Zeit, Umwelt, Effizienz).",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position mit einem kurzen Beispiel.",
+              "Konkreter, praktikabler Vorschlag für die betriebliche Regelung (kein allgemeiner Appell).",
+              "Typische B2-Redemittel: ‚Meiner Ansicht nach‘, ‚Ein wesentlicher Vorteil ist‘, ‚Allerdings sollte man nicht außer Acht lassen‘, ‚Ich schlage daher vor‘."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die vorgeschlagene Regelung für sehr sinnvoll, denn Videokonferenzen bieten klare Vorteile. Einerseits sparen wir erheblich Reisekosten und wertvolle Arbeitszeit, die sonst im Zug oder Auto verloren geht. Andererseits leisten wir einen wichtigen Beitrag zum Umweltschutz, indem wir unseren CO2-Ausstoß reduzieren. Allerdings darf man nicht übersehen, dass der persönliche Kontakt für den Beziehungsaufbau zu neuen Kunden oft entscheidend ist und Vertrauen schafft. Ein reines Bildschirmgespräch kann das nicht immer ersetzen. Daher schlage ich vor, dass wir interne Meetings grundsätzlich digital durchführen, für Erstgespräche mit wichtigen Neukunden jedoch weiterhin eine Dienstreise beantragen können.\n\nViele Grüße\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen bestehen auf persönlichen Kundenbesuchen, andere setzen fast nur noch auf Videokonferenzen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (persönlich vs. Video).",
+              "Mindestens zwei gut ausgeführte Begründungen für die eigene Wahl (z. B. Beziehungsebene, nonverbale Signale, Effizienz).",
+              "Einen Nachteil der anderen Seite kurz einräumen und entkräften oder relativieren.",
+              "Typische B2-Redemittel nutzen: 'Meiner Ansicht nach', 'Ein wesentlicher Vorteil ist', 'Allerdings muss man zugeben, dass', 'Aus diesen Gründen bin ich der Meinung'.",
+              "Flüssiger, natürlicher Redefluss mit Einleitung, Hauptteil und kurzem Schlusssatz."
+            ],
+            "expected_answer": "Meiner Ansicht nach sind persönliche Kundenbesuche in den meisten Fällen sinnvoller als reine Videokonferenzen, auch wenn das natürlich aufwendiger ist. Ein wesentlicher Vorteil eines persönlichen Treffens liegt für mich in der Beziehungsebene. Wenn man sich gegenübersitzt und vielleicht noch gemeinsam einen Kaffee trinkt, entsteht einfach eine ganz andere, vertrauensvollere Atmosphäre. Man kann viel besser auf die Stimmung des Gegenübers eingehen und nonverbale Signale wie Körpersprache eindeutiger deuten. Ein zweiter wichtiger Punkt ist die Effektivität bei komplexen Verhandlungen. Gerade wenn es um schwierige Vertragsdetails geht, lassen sich Missverständnisse im direkten Gespräch viel schneller ausräumen, und man kann gemeinsam Skizzen anfertigen oder spontan etwas am Flipchart erklären. Allerdings muss ich zugeben, dass Videokonferenzen natürlich einen großen Nachteil haben, und zwar den enormen Zeitverlust durch die An- und Abreise. Das kostet nicht nur Geld, sondern auch wertvolle Arbeitszeit. Trotzdem bin ich überzeugt, dass diese Investition sich langfristig auszahlt, weil eine stabile Kundenbindung durch nichts zu ersetzen ist. Aus diesen Gründen halte ich den persönlichen Besuch für den besseren Weg.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

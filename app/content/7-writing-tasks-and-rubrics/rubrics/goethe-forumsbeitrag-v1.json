@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "board": "goethe",
+  "module": "schreiben",
+  "task_type": "forumsbeitrag",
+  "version": 1,
+  "provisional": false,
+  "dimensions": [
+    {
+      "id": "erfuellung",
+      "label": "Aufgabenerfüllung",
+      "weight": 0.3
+    },
+    {
+      "id": "kohaerenz",
+      "label": "Kohärenz und Textaufbau",
+      "weight": 0.25
+    },
+    {
+      "id": "wortschatz",
+      "label": "Wortschatz",
+      "weight": 0.25
+    },
+    {
+      "id": "korrektheit",
+      "label": "Grammatische Korrektheit",
+      "weight": 0.2
+    }
+  ],
+  "scale_max": 100,
+  "subtest_weight": null,
+  "pass_mark": 60,
+  "borderline_low": 55,
+  "borderline_high": 65
+}

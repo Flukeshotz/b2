@@ -1,0 +1,11 @@
+{
+  "id": "leben_in_deutschland",
+  "de": "Wie stellen Sie sich Ihr Leben in Deutschland vor?",
+  "category": "integration",
+  "sourced": true,
+  "assesses": "Whether you have thought past the job offer. Employers screen for people who leave in year one.",
+  "trap": "Only talking about work.",
+  "strong": "Housing, language, family, winter — evidence you have pictured it.",
+  "followUp": "Was wird für Sie am schwersten sein?",
+  "model_answer": null
+}

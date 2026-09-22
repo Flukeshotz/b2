@@ -1,0 +1,127 @@
+{
+  "id": "exp_einarbeitung_chunks",
+  "source_id": "src_einarbeitung",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Gründe von Ausreden zu unterscheiden",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Das kenne ich, bei uns ist es aber anders geregelt: …",
+      "I know that, but where I work it's handled differently: …",
+      "🔗"
+    ],
+    [
+      "Das ist kein Grund, das ist eine Ausrede.",
+      "that's not a reason, that's an excuse",
+      "🔗"
+    ],
+    [
+      "Erst wenn X gesichert ist, kann Y funktionieren.",
+      "Y can only work once X is secured",
+      "🔗"
+    ],
+    [
+      "Genauer gesagt: …",
+      "more precisely: …",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man Gründe von Ausreden trennt."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "das_kenne_ich_bei_uns_ist_es_anders",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "genauer_gesagt_meine_ich_damit",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "q": "Wie reagieren Sie?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A erkennt ihre Erfahrung an und stellt Ihre eigene daneben — genau die Situation. B unterstellt ihr eine Ausrede, was hier nicht gemeint ist. C passt inhaltlich nicht zur Situation.",
+      "options": [
+        "Das kenne ich, bei uns ist es aber anders geregelt: …",
+        "Das ist kein Grund, das ist eine Ausrede.",
+        "Erst wenn mehr Personal da ist, kann das funktionieren."
+      ],
+      "exercises": [
+        "das_kenne_ich_bei_uns_ist_es_anders"
+      ],
+      "situation": "Eine Kollegin beschreibt ein Problem, das Sie auch kennen. Bei Ihnen wird es allerdings anders gehandhabt."
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "kein_grund_das_ist_eine_ausrede",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "erst_wenn_x_gesichert_ist_kann_y_funktionieren",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "q": "Wie widersprechen Sie deutlich, aber sachlich?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A bestreitet direkt, dass die genannte Ursache zwingend ist — genau Ihre Position. B und C passen inhaltlich nicht: es geht hier weder um eine andere Erfahrung noch um eine Präzisierung Ihrer eigenen Aussage.",
+      "options": [
+        "Das ist kein Grund, das ist eine Ausrede — mit Verlaub.",
+        "Das kenne ich, bei uns ist es aber anders geregelt.",
+        "Genauer gesagt, meine ich damit etwas anderes."
+      ],
+      "exercises": [
+        "kein_grund_das_ist_eine_ausrede"
+      ],
+      "situation": "Ihr Vorgesetzter sagt, eine bessere Einarbeitung sei „leider gerade nicht drin“, wegen Zeitmangel. Sie glauben, dass es an der fehlenden Planung liegt, nicht wirklich an der Zeit."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "erst_wenn_x_gesichert_ist_kann_y_funktionieren",
+      "hint": "Erst die Voraussetzung, dann das, was davon abhängt.",
+      "context": "Sie glauben, dass eine Verbesserung bei Ihnen nur funktioniert, wenn zuerst eine bestimmte Voraussetzung erfüllt ist. Formulieren Sie das.",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "genauer_gesagt_meine_ich_damit",
+      "hint": "Nicht zurückrudern — nur genauer werden.",
+      "context": "Ihre erste Aussage in einer Diskussion war zu allgemein formuliert und wurde missverstanden. Präzisieren Sie, was Sie eigentlich meinen.",
+      "sourceId": "src_einarbeitung"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:15:46.095Z",
+  "updated_at": "2026-09-16T07:15:46.095Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

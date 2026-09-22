@@ -1,0 +1,11 @@
+{
+  "id": "reanimation",
+  "de": "Welche Schritte sind bei einer Reanimation zu beachten?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Concrete protocol knowledge, in German.",
+  "trap": "Knowing it in your first language but not being able to say it in German.",
+  "strong": "The steps in order, with the German terms.",
+  "followUp": "Wer übernimmt bei Ihnen die Dokumentation, während Sie reanimieren?",
+  "model_answer": null
+}

@@ -1,0 +1,125 @@
+{
+  "id": "practice-reading-26",
+  "board": "custom",
+  "title": "Leseverstehen — Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Willkommen im Unternehmen! Damit Ihr Einstieg reibungslos verläuft, orientieren sich die ersten vier Wochen an folgendem Ablauf.\n\nIn der ersten Woche stehen vor allem organisatorische Themen im Vordergrund: IT-Zugänge, Sicherheitsunterweisung und ein Rundgang durch alle relevanten Abteilungen, begleitet von Ihrer Patin oder Ihrem Paten — einer erfahrenen Kollegin oder einem erfahrenen Kollegen, die oder der Ihnen als erste Ansprechperson für alle Fragen zur Verfügung steht.\n\nAb der zweiten Woche übernehmen Sie erste eigenständige, aber überschaubare Aufgaben, während Ihre Führungskraft in wöchentlichen Kurzgesprächen prüft, ob Unterstützung nötig ist. In der dritten Woche folgt ein Zwischenfeedback-Gespräch, in dem beide Seiten offen ansprechen können, was gut läuft und wo es noch hakt.\n\nNach vier Wochen findet das eigentliche Onboarding-Abschlussgespräch statt, in dem gemeinsam die Ziele für die kommenden Monate festgelegt werden. Die Patenschaft endet formal mit diesem Gespräch, steht aber informell auch danach weiterhin zur Verfügung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Rolle hat die Patin oder der Pate in der ersten Woche?",
+          "options": [
+            "Erste Ansprechperson für alle Fragen.",
+            "Verantwortlich für die Gehaltsabrechnung.",
+            "Vertretung der Führungskraft bei Abwesenheit."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Erste Ansprechperson für alle Fragen."
+          },
+          "explanation": "\"die … Ihnen als erste Ansprechperson für alle Fragen zur Verfügung steht\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Neue Mitarbeitende übernehmen bereits in der ersten Woche eigenständige Aufgaben.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Eigenständige Aufgaben beginnen \"ab der zweiten Woche\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MATCHING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ordnen Sie jeden Zeitpunkt dem passenden Ereignis aus dem Onboarding-Ablauf zu.",
+          "options": null,
+          "payload": {
+            "left": [
+              "Erste Woche",
+              "Zweite Woche",
+              "Dritte Woche",
+              "Nach vier Wochen"
+            ],
+            "right": [
+              "Erste eigenständige, überschaubare Aufgaben",
+              "Zwischenfeedback-Gespräch",
+              "IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+              "Onboarding-Abschlussgespräch mit Zielfestlegung"
+            ]
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 2,
+              "1": 0,
+              "2": 1,
+              "3": 3
+            },
+            "text": [
+              "Erste Woche → IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+              "Zweite Woche → Erste eigenständige, überschaubare Aufgaben",
+              "Dritte Woche → Zwischenfeedback-Gespräch",
+              "Nach vier Wochen → Onboarding-Abschlussgespräch mit Zielfestlegung"
+            ]
+          },
+          "explanation": "Der Text nennt die vier Phasen in genau dieser zeitlichen Abfolge."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was passiert formal mit der Patenschaft nach dem Abschlussgespräch?",
+          "options": [
+            "Sie endet vollständig und ohne weiteren Kontakt.",
+            "Sie wird automatisch um vier weitere Wochen verlängert.",
+            "Sie endet formal, bleibt aber informell verfügbar."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie endet formal, bleibt aber informell verfügbar."
+          },
+          "explanation": "\"Die Patenschaft endet formal mit diesem Gespräch, steht aber informell auch danach weiterhin zur Verfügung.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "practice-grammar-1",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 1 — gemischte B2-Strukturen",
+  "minutes": 12,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 12,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wenn ich mehr Zeit ___, würde ich einen Deutschkurs am Abend machen.",
+          "options": [
+            "habe",
+            "haben würde",
+            "hätte"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "hätte"
+          },
+          "explanation": "Konjunktiv II der Bedingung: \"hätte\", nicht der Indikativ \"habe\" oder die doppelte würde-Form."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Verordnung ___ gestern von der Ärztin unterschrieben.",
+          "options": [
+            "hat",
+            "ist",
+            "wurde"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "wurde"
+          },
+          "explanation": "Vorgangspassiv Präteritum: \"wurde unterschrieben\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das ist die Kollegin, ___ Schicht heute um sechs beginnt.",
+          "options": [
+            "die",
+            "der",
+            "deren"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "deren"
+          },
+          "explanation": "Genitiv-Relativpronomen für Possessiv-Bezug: \"deren Schicht\" = \"ihre Schicht\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ der langen Wartezeit hat sich der Patient nicht beschwert.",
+          "options": [
+            "Trotz",
+            "Obwohl",
+            "Wegen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Trotz"
+          },
+          "explanation": "Präposition + Nomen verlangt \"trotz\"; \"obwohl\" leitet einen Nebensatz ein, kein Nomen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie arbeitet seit drei Jahren als Pflegefachkraft, ___ sie ihre Ausbildung abgeschlossen hat.",
+          "options": [
+            "nachdem",
+            "während",
+            "bevor"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "nachdem"
+          },
+          "explanation": "\"Nachdem\" markiert die Vorzeitigkeit: erst Ausbildung, danach die Arbeit."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Bericht muss ___ werden, bevor die Schicht endet.",
+          "options": [
+            "fertig schreibt",
+            "fertigschreiben",
+            "fertiggeschrieben"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "fertiggeschrieben"
+          },
+          "explanation": "Modalverb-Ersatzkonstruktion mit \"muss ... werden\" verlangt das Partizip II: \"fertiggeschrieben\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er hat sich um die Stelle beworben, ___ mehr Verantwortung zu übernehmen.",
+          "options": [
+            "damit",
+            "um",
+            "für"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "um"
+          },
+          "explanation": "Gleiches Subjekt in Haupt- und Nebensatz → Finalsatz mit \"um…zu\"; \"damit\" braucht ein eigenes, anderes Subjekt."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die neu ___ Leitlinie gilt ab sofort auf allen Stationen.",
+          "options": [
+            "eingeführte",
+            "einführende",
+            "eingeführt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "eingeführte"
+          },
+          "explanation": "Partizip II als attributives Adjektiv mit Endung: \"die eingeführte Leitlinie\" (passivisch: die Leitlinie, die eingeführt wurde)."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Anzahl der Überstunden hängt stark ___ der Personalsituation ab.",
+          "options": [
+            "von",
+            "mit",
+            "an"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "von"
+          },
+          "explanation": "Feste Verbindung: \"abhängen von\"."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Pflegedienstleitung sagte, sie ___ den Dienstplan bis Freitag fertig.",
+          "options": [
+            "hätte gehabt",
+            "hat",
+            "habe"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "habe"
+          },
+          "explanation": "Indirekte Rede im Konjunktiv I: \"sie habe\"."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ man die Medikamentenliste prüft, sollte man die Allergien des Patienten kennen.",
+          "options": [
+            "Nachdem",
+            "Bevor",
+            "Seitdem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Bevor"
+          },
+          "explanation": "Reihenfolge: Allergien kennen kommt vor dem Prüfen → \"bevor\"."
+        },
+        {
+          "item_no": 12,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Trotz ___ Personalmangels konnte die Station den Dienstplan einhalten.",
+          "options": [
+            "des",
+            "dem",
+            "der"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "des"
+          },
+          "explanation": "\"Trotz\" + Genitiv, maskulines Nomen \"Personalmangel\" → \"des Personalmangels\"."
+        }
+      ]
+    }
+  ]
+}

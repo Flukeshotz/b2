@@ -313,6 +313,12 @@ const PRACTICE_PAPER_FILTER =
   "p.id NOT LIKE 'core-2026b%' AND p.id NOT LIKE '%-complete-%' AND p.id NOT LIKE 'gx\\_%'";
 const READING_FAMILY = ["reading", "grammar", "vocabulary"];
 
+/* Suggested practice per home module, ranked by the learner's weakest
+   capabilities in her latest assessment. See b2/suggest.js. */
+router.get("/practice/suggested", async (req, res) => {
+  res.json(await require("../b2/suggest").suggestions(req.userId));
+});
+
 router.get("/practice/counts", async (req, res) => {
   const { rows } = await pool.query(
     `SELECT s.skill, count(DISTINCT p.id)::int AS count

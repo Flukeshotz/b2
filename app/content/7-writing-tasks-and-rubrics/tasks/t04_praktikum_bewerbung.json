@@ -1,0 +1,38 @@
+{
+  "id": "t04_praktikum_bewerbung",
+  "rubric_id": 2,
+  "prompt_de": "Sie möchten zum Kennenlernen Ihres zukünftigen Berufs ein Praktikum machen. Sie finden in einer Zeitschrift folgende Anzeige:\n\nVertriebspraktikant m./w. gesucht ab sofort \nHelfen Sie uns in unserem Geschäft im Verkauf. Eine spätere Ausbildung zum/r IT-Systemkaufmann/-frau ist das Ziel. \nIhr Profil:\nInteresse an elektronischer Datenverarbeitung \nidealerweise Vorkenntnisse in Betriebswirtschaftslehre/kaufmännischer Beruf und Informatik\t\nFlexibilität und Mobilität\nLeistungsbereitschaft und Kommunikationsfähigkeit (Teamwork/Kundenkontakt)\nBitte hier bewerben: \nComputer-Spezialist \nOdenwaldstraße 5, 53119 Bonn\n\nSchreiben Sie einen Bewerbungsbrief. Gehen Sie darin auf die Anzeige ein. \nBehandeln Sie entweder \na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl. \nIhre fachliche Kompetenz\nIhre persönlichen Eigenschaften\nWas Sie von einem Praktikum in dieser Firma erwarten\nDetails der Arbeit (Beginn, Anzahl der Stunden, Arbeitszeit usw.) \nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse des Empfängers, Datum, Betreffzeile, Anrede und Schlussformel. \nSchreiben Sie wenigstens 150 Wörter.",
+  "content_points": [
+    {
+      "id": "kompetenz",
+      "detector": "(kenntnis|erfahrung|studiere|ausbildung|informatik|edv|betriebswirtschaft)",
+      "label_de": "Ihre fachliche Kompetenz"
+    },
+    {
+      "id": "eigenschaften",
+      "detector": "(teamf(ä|ae)hig|zuverl(ä|ae)ssig|flexibel|kommunikativ|motiviert|lernbereit|belastbar)",
+      "label_de": "Ihre persönlichen Eigenschaften"
+    },
+    {
+      "id": "erwartung",
+      "detector": "(erhoffe|erwarte|m(ö|oe)chte ich lernen|einblick|kennenlernen)",
+      "label_de": "Was Sie erwarten"
+    },
+    {
+      "id": "details",
+      "detector": "(ab (sofort|dem)|beginn|stunden|arbeitszeit|monat|woche|teilzeit|vollzeit)",
+      "label_de": "Details der Arbeit"
+    }
+  ],
+  "target_words": 150,
+  "source": "MERLIN corpus (CC BY-SA 4.0), Eurac Research",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

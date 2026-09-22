@@ -7,6 +7,7 @@ import { ResultScreen, AdviceScreen, BoardScreen } from "./Result";
 import Interview from "./Interview";
 import { Bar, Maya, Well, Foot } from "./Shell";
 import B2Home from "./B2Home";
+import TestHub from "./TestHub";
 import B2Lesson from "./B2Lesson";
 import Screening from "./Screening";
 import Assessment from "./Assessment";
@@ -245,8 +246,19 @@ export default function B2App({ onExit }) {
       onExit={onExit}
       onStart={(topicId, subKey) => { setLesson({ topicId, subKey }); setScreen("lesson"); }}
       onExamPaper={(paperId, label) => { setExamPaper({ paperId, label, mode: "exam" }); setScreen("examPaper"); }}
+      onTakeAssessment={() => setScreen("assessment")}
+      onOpenTest={() => setScreen("testHub")}
       initialTrack={practiceTrack}
     />;
+  }
+
+  /* THE TEST SCREEN — latest score, previous score, locked history, locked
+     detailed report. Home's banner opens straight here; it never shows this
+     breakdown itself. See TestHub.jsx. */
+  if (screen === "testHub") {
+    return <TestHub onExit={() => setScreen("home")}
+      onTakeAssessment={() => setScreen("assessment")}
+      onOpenPaper={(paperId, label) => { setExamPaper({ paperId, label, mode: "practice", returnTo: "testHub" }); setScreen("examPaper"); }} />;
   }
 
   if (screen === "practice") {
@@ -263,7 +275,7 @@ export default function B2App({ onExit }) {
     return <ExamPaper paperId={examPaper.paperId} label={examPaper.label} mode={examPaper.mode}
       onExit={() => {
         setExamPaper(null);
-        setScreen(examPaper.mode === "practice" ? "practice" : "home");
+        setScreen(examPaper.returnTo || (examPaper.mode === "practice" ? "practice" : "home"));
       }} />;
   }
 

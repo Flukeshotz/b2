@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-30",
+  "board": "custom",
+  "title": "Hörverstehen — Schichtwechsel: eine unerwartete Information",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Schichtwechsel: eine unerwartete Information",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_30_schichtwechsel.mp3",
+        "duration_seconds": 35.8,
+        "voices": "conrad+katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war ursprünglich für Frau Neumann geplant?",
+          "options": [
+            "Eine Entlassung um 16 Uhr am selben Tag.",
+            "Eine Verlegung auf eine andere Station.",
+            "Eine Operation am nächsten Tag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Eine Entlassung um 16 Uhr am selben Tag."
+          },
+          "explanation": "\"alles sei für die Entlassung um sechzehn Uhr vorbereitet.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der Plan geändert?",
+          "options": [
+            "Ein auffälliger Laborwert muss zuerst abgeklärt werden.",
+            "Es gab einen Fehler in der Terminplanung.",
+            "Die Patientin hat selbst um längeren Aufenthalt gebeten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ein auffälliger Laborwert muss zuerst abgeklärt werden."
+          },
+          "explanation": "\"die Laborwerte vom Nachmittag zeigten einen auffälligen Wert, den der Arzt erst abklären möchte.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Entlassung ist jetzt für noch später am selben Abend vorgesehen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Die Entlassung ist jetzt frühestens für morgen früh vorgesehen\" — nicht mehr am selben Abend."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hätte die Frühschicht ohne diese Information möglicherweise falsch gemacht?",
+          "options": [
+            "Die Aufnahme gar nicht informiert.",
+            "Das Zimmer schon für einen neuen Patienten vorbereitet.",
+            "Der Patientin das falsche Medikament gegeben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das Zimmer schon für einen neuen Patienten vorbereitet."
+          },
+          "explanation": "\"sonst hätte ich das Zimmer schon für den neuen Patienten vorbereitet.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "warum_deutschland",
+  "de": "Warum möchten Sie in Deutschland arbeiten?",
+  "category": "motivation",
+  "sourced": true,
+  "assesses": "Whether you will stay. This is the single most reported question.",
+  "trap": "Leading with salary. Employers read it as: you would leave for a better offer.",
+  "trapDetect": {
+    "pattern": "(gehalt|geld|verdien|bezahl|lohn)",
+    "scope": "opening"
+  },
+  "strong": "The structure of the healthcare system, working conditions, further training, work-life balance.",
+  "followUp": "Und wenn Ihnen ein anderes Land mehr Gehalt bietet — würden Sie dann wechseln?",
+  "model_answer": "Mich überzeugt vor allem, wie strukturiert hier gearbeitet wird — feste Standards, klare Übergaben, und die Möglichkeit, mich fachlich weiterzuentwickeln. In meinem letzten Haus habe ich viel improvisieren müssen; hier möchte ich nach einem Standard arbeiten und dabei lernen. Und die Fachweiterbildung nach der Anerkennung ist für mich ein konkretes Ziel."
+}

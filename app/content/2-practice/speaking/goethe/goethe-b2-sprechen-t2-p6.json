@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p6",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #6",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Betriebe feste Zeiten ohne berufliche Nachrichten einführen?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung/Ablehnung) und strukturierte Argumentation mit mindestens zwei ausführlichen Pro- oder Contra-Argumenten.",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (z.B. 'Ich bin der festen Überzeugung, dass...', 'Ein weiterer wichtiger Aspekt ist...', 'Dagegen spricht jedoch...').",
+              "Konkrete Beispiele aus dem Berufsalltag zur Untermauerung der Argumente (z.B. psychische Belastung, Produktivität, Work-Life-Balance).",
+              "Abwägung von Vor- und Nachteilen oder Nennung einer möglichen Kompromisslösung, um die Diskussionsfähigkeit zu demonstrieren.",
+              "Ein klares Schlussfazit, das die eigene Position noch einmal pointiert zusammenfasst."
+            ],
+            "expected_answer": "Vielen Dank für die interessante Frage. Ich persönlich bin der festen Überzeugung, dass Betriebe unbedingt feste Zeiten ohne berufliche Nachrichten einführen sollten, und zwar aus mehreren Gründen. Zunächst einmal geht es um die psychische Gesundheit der Arbeitnehmer. In der heutigen Arbeitswelt verschwimmt die Grenze zwischen Beruf und Privatleben zunehmend, vor allem durch Smartphones und ständige Erreichbarkeit. Wenn man noch spät abends oder am Wochenende E-Mails vom Chef bekommt, kann man nie richtig abschalten. Das führt nachweislich zu Stress, Schlafstörungen und auf lange Sicht sogar zu Burn-out. Ein zweiter wichtiger Aspekt ist die tatsächliche Produktivität. Es ist ein Trugschluss zu glauben, dass ständige Erreichbarkeit zu mehr Leistung führt. Im Gegenteil, Studien zeigen, dass Menschen, die sich richtig erholen konnten, am nächsten Tag viel konzentrierter und kreativer arbeiten. Wenn ich zum Beispiel abends um zehn noch eine komplizierte Anfrage beantworte, mache ich das vielleicht schnell und unüberlegt, nur um es 'wegzuhaben'. Am nächsten Morgen, nach einer ruhigen Nacht, würde ich die gleiche Aufgabe viel durchdachter und besser lösen. Natürlich muss ich zugeben, dass es Branchen oder spezielle Projekte gibt, in denen eine gewisse Flexibilität nötig ist. Dagegen spricht jedoch, dass eine klare Regelung, zum Beispiel ein Verbot von geschäftlichen Nachrichten zwischen 20 Uhr abends und 7 Uhr morgens, für alle eine verlässliche Struktur schafft. Es geht nicht darum, dass in einem absoluten Notfall niemand zum Telefon greifen darf, aber die ständige, niedrigschwellige Kommunikation über Chat-Dienste und E-Mails muss unterbrochen werden. Unternehmen könnten hierfür technische Lösungen einführen, die das Zustellen von Nachrichten zeitlich steuern. Mein Fazit ist daher ganz klar: Eine solche Regelung ist kein Zeichen von geringerem Engagement, sondern von modernem, gesundheitsbewusstem Management. Sie schützt die Mitarbeiter und steigert langfristig die Qualität der Arbeit. Deshalb bin ich absolut für feste, nachrichtenfreie Zeiten.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

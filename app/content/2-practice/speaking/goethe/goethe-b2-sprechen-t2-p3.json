@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p3",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #3",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Unternehmen eine Vier-Tage-Woche anbieten müssen?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Nimm klar Stellung (Pro/Contra) und begründe deine Position mit 2–3 ausführlichen Argumenten.",
+              "Baue deinen Redebeitrag logisch auf: Einleitung mit Themenvorstellung und eigener Position, Hauptteil mit Argumenten und Beispielen, Schluss mit Zusammenfassung und Ausblick.",
+              "Verwende typische B2-Redemittel zur Meinungsäußerung (z.B. 'Meiner Ansicht nach', 'Ich bin der festen Überzeugung'), zur Strukturierung (z.B. 'Ein weiterer wichtiger Aspekt ist', 'Zunächst einmal') und zum Abwägen (z.B. 'Zwar... aber', 'Auf der einen Seite... auf der anderen Seite').",
+              "Gehe auf mögliche Gegenargumente ein und entkräfte sie, um deine Diskursfähigkeit zu zeigen.",
+              "Sprich flüssig und natürlich, verwende Konjunktiv II für hypothetische Szenarien und achte auf einen angemessenen Wortschatz zum Thema Arbeitswelt."
+            ],
+            "expected_answer": "Vielen Dank für die Einführung in das Thema. Die Frage, ob Unternehmen eine Vier-Tage-Woche anbieten müssen, ist hochaktuell und wird kontrovers diskutiert. Ich persönlich bin der festen Überzeugung, dass eine gesetzliche Verpflichtung zur Vier-Tage-Woche nicht der richtige Weg ist, auch wenn das Modell auf den ersten Blick sehr attraktiv erscheint.\n\nZunächst einmal möchte ich betonen, dass ich die potenziellen Vorteile durchaus sehe. Eine verkürzte Arbeitswoche könnte nämlich zu einer besseren Work-Life-Balance und höherer Mitarbeiterzufriedenheit führen. Studien aus Pilotprojekten, beispielsweise in Großbritannien, deuten sogar auf eine gesteigerte Produktivität hin. Das sind zweifellos positive Aspekte. Allerdings halte ich eine starre, staatlich verordnete Pflicht für äußerst problematisch, da sie der enormen Vielfalt unserer Wirtschaft nicht gerecht wird.\n\nMein Hauptargument gegen eine solche Verpflichtung ist die mangelnde Flexibilität. Unsere Arbeitswelt ist zu unterschiedlich. Was für ein Softwareunternehmen mit gut bezahlten Büroangestellten funktionieren mag, kann für ein Krankenhaus, ein kleines Handwerksunternehmen oder die Gastronomie existenzbedrohend sein. Stellen Sie sich eine Bäckerei mit fünf Angestellten vor. Wenn diese bei gleichem Lohn nur noch vier Tage arbeiten, muss der Inhaber entweder das Gehalt kürzen, was für die Angestellten nicht akzeptabel wäre, oder eine zusätzliche Person einstellen, was die Kosten drastisch erhöhen würde. In vielen Branchen mit direktem Kundenkontakt oder Schichtbetrieb ist eine Arbeitszeitverkürzung ohne Produktivitätssprung schlicht nicht umsetzbar. Eine gesetzliche Pflicht würde hier Arbeitsplätze gefährden, anstatt sie zu schützen.\n\nEin weiterer wichtiger Aspekt ist der wirtschaftliche Druck im internationalen Wettbewerb. Wenn deutsche Unternehmen gesetzlich gezwungen werden, die Arbeitszeit bei vollem Lohnausgleich zu reduzieren, steigen die Produktionskosten. Dies könnte besonders für die exportorientierte Industrie ein großer Nachteil sein. Aufträge könnten ins Ausland abwandern, wo flexiblere Arbeitszeitmodelle gelten. Das würde letztlich den Wohlstand unseres Landes gefährden.\n\nZusammenfassend bin ich also der Meinung, dass die Vier-Tage-Woche eine großartige Option ist, die mehr Unternehmen auf freiwilliger Basis anbieten und erproben sollten. Eine gesetzliche Verpflichtung lehne ich jedoch entschieden ab, da sie zu starr ist und vielen Branchen sowie dem Wirtschaftsstandort insgesamt schaden würde. Die Zukunft der Arbeit liegt meiner Ansicht nach in mehr Flexibilität und Wahlmöglichkeiten, nicht in neuen bürokratischen Zwängen. Vielen Dank für Ihre Aufmerksamkeit.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-25",
+  "board": "custom",
+  "title": "Leseverstehen — Aushang: Aktualisierte Hausordnung",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Aushang: Aktualisierte Hausordnung",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Aktualisierte Hausordnung — gültig ab dem 1. des Folgemonats\n\nNach Rückmeldungen mehrerer Mieterinnen und Mieter wurden folgende Punkte der Hausordnung angepasst:\n\n1. Ruhezeiten: Die bisherige Mittagsruhe (13–15 Uhr) entfällt ersatzlos. Es gelten weiterhin die Nachtruhe (22–6 Uhr) sowie die Sonntagsruhe ganztägig.\n\n2. Fahrräder: Das Abstellen von Fahrrädern im Hausflur ist ab sofort nicht mehr gestattet. Im Hinterhof steht ein neu errichteter, abschließbarer Fahrradunterstand zur Verfügung; einen Schlüssel erhalten Sie bei der Hausverwaltung.\n\n3. Mülltrennung: Die Biotonne wird künftig wöchentlich statt zweiwöchentlich geleert. Die zusätzlichen Kosten werden anteilig über die Nebenkostenabrechnung umgelegt.\n\nDiese Änderungen wurden in der letzten Eigentümerversammlung mehrheitlich beschlossen und sind für alle Mieterinnen und Mieter verbindlich. Bei Fragen wenden Sie sich an die Hausverwaltung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ändert sich bezüglich der Mittagsruhe?",
+          "options": [
+            "Sie entfällt vollständig.",
+            "Sie bleibt unverändert bestehen.",
+            "Sie wird auf 12–16 Uhr ausgeweitet."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie entfällt vollständig."
+          },
+          "explanation": "\"Die bisherige Mittagsruhe … entfällt ersatzlos.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Fahrräder dürfen laut neuer Hausordnung weiterhin im Hausflur abgestellt werden.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"ist ab sofort nicht mehr gestattet\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wo erhält man den Schlüssel für den neuen Fahrradunterstand?",
+          "options": [
+            "Im Hausflur an einem Schlüsselbrett.",
+            "Beim Nachbarn.",
+            "Bei der Hausverwaltung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Bei der Hausverwaltung."
+          },
+          "explanation": "\"einen Schlüssel erhalten Sie bei der Hausverwaltung\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was bedeutet die Änderung bei der Biotonne finanziell für die Mieter?",
+          "options": [
+            "Die Kosten trägt allein die Hausverwaltung.",
+            "Es entstehen keinerlei zusätzliche Kosten.",
+            "Die zusätzlichen Kosten werden über die Nebenkosten umgelegt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Die zusätzlichen Kosten werden über die Nebenkosten umgelegt."
+          },
+          "explanation": "\"Die zusätzlichen Kosten werden anteilig über die Nebenkostenabrechnung umgelegt.\""
+        }
+      ]
+    }
+  ]
+}

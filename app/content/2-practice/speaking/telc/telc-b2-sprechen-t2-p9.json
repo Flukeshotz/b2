@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t2-p9",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #9",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "In Innenstädten und kleinen Geschäften taucht immer wieder die Frage auf, ob Bäckereien einheitliche Pfandbecher anbieten sollten. Einwegbecher verursachen täglich viel Abfall, besonders rund um Bahnhöfe und Büros. Sechs unabhängige Bäckereien erprobten dasselbe Bechermodell; die Rückgabe stieg deutlich, sobald jede Filiale alle Becher annahm.\n\nEin wichtiger Grund für die Änderung lautet: Weniger Müll entsteht und Umweltschutz wird im Alltag sichtbar. So könnten Kundinnen und Kunden leichter wiederverwendbare Becher nutzen. Ein gemeinsames System erspart Kunden die Suche nach dem richtigen Laden und macht Mehrweg auch spontan bequem.\n\nDem erwarteten Nutzen steht diese Sorge gegenüber: Kleine Betriebe fürchten Reinigungskosten und Platzprobleme. Kritiker befürchten außerdem, dass zu viele verschiedene Systeme Verwirrung schaffen. Kleine Verkaufsstellen haben häufig weder Lagerfläche noch zusätzliche Spülkapazität für große Mengen benutzter Becher.\n\nEine Bäckerei gewann Stammkunden, weil die Rückgabe unkompliziert funktionierte. Zu niedriges Pfand motiviert kaum zur Rückgabe, während ein hoher Betrag Menschen mit wenig Geld abschrecken kann.\n\nAuch der Transport benutzter Becher zur Reinigung verursacht Aufwand. Kurze regionale Wege und gut ausgelastete Lieferungen gehören deshalb zur Umweltbilanz. Ein kompliziertes System mit vielen Leerfahrten würde einen Teil des ökologischen Vorteils wieder verlieren. Auch Rückgabeautomaten könnten den Aufwand außerhalb der Öffnungszeiten senken.\n\nEine zentrale Reinigung, ein einheitlicher Becher und mehrere Rückgabepunkte könnten die Belastung einzelner Betriebe verringern. Die teilnehmenden Läden sollten Rückgabequote, Kosten und Beschwerden veröffentlichen, bevor das Modell verpflichtend ausgeweitet wird. Ob „Pfandbecher in jeder Bäckerei“ sinnvoll ist, zeigt sich erst im Zusammenspiel von Nutzen, Umsetzbarkeit und fairen Bedingungen. Mehrweg wird nur dann zur echten Alternative, wenn der umweltfreundliche Weg für Kunden und Verkaufspersonal einfach bleibt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Pfandbecher in jeder Bäckerei?\n\nMehrweg klingt sinnvoll, funktioniert aber nur mit einfachen Abläufen",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Nennen Sie das Hauptthema und fassen Sie die Kernargumente des Textes (Umweltnutzen vs. praktische Hürden) kurz zusammen.",
+              "Beziehen Sie klar Stellung (Pro/Contra/Differenziert) und begründen Sie Ihre Meinung mit mindestens zwei eigenen Argumenten oder persönlichen Erfahrungen.",
+              "Greifen Sie die im Text genannten Lösungsansätze (einheitliches System, zentrale Reinigung, Pfandhöhe) auf und entwickeln Sie diese weiter oder schlagen Sie eigene Lösungen vor.",
+              "Verwenden Sie typische B2-Redemittel zur Meinungsäußerung (z. B. 'Meiner Ansicht nach...', 'Ich bin der festen Überzeugung, dass...'), zur Abwägung ('Einerseits... andererseits...') und zur Lösungsdiskussion ('Eine mögliche Lösung wäre...', 'Es käme darauf an, dass...')."
+            ],
+            "expected_answer": "Also, ich finde das Thema Pfandbecher in Bäckereien wirklich spannend, weil es im Alltag jeden von uns betrifft. Der Text zeigt ja ganz gut beide Seiten: Einerseits den klaren Umweltvorteil durch weniger Müll, andererseits die praktischen Schwierigkeiten für kleine Betriebe. Meiner Ansicht nach ist die Grundidee absolut richtig und wichtig, denn die Bilder von überquellenden Mülleimern mit Einwegbechern kennen wir wohl alle. Ich persönlich versuche zwar, meinen eigenen Becher mitzubringen, aber ehrlich gesagt vergesse ich das oft, wenn ich spontan einen Kaffee hole. Genau da wäre ein einheitliches Pfandsystem eine riesige Erleichterung und würde Mehrweg endlich alltagstauglich machen. Ich bin der festen Überzeugung, dass Umweltschutz einfach und bequem sein muss, sonst bleibt er ein reines Lippenbekenntnis. Die Erfahrung aus dem Text, dass die Rückgabequote steigt, sobald alle Läden mitmachen, leuchtet mir sofort ein. Es ist doch absurd, wenn ich einen Becher nur in der einen Filiale zurückgeben kann, in der ich ihn gekauft habe. Ein einheitliches System, vielleicht sogar stadtweit, wäre hier der Schlüssel. Allerdings verstehe ich auch die Sorgen der kleinen Bäckereien. Einerseits wollen sie nachhaltig handeln, andererseits haben sie wirklich kaum Platz für die Lagerung und Reinigung. Eine mögliche Lösung, die ich sehr überzeugend finde, ist die zentrale Reinigung, die der Text anspricht. Man könnte sich doch vorstellen, dass ein externer Dienstleister die Becher abholt, reinigt und wieder verteilt, ähnlich wie es bei Bierflaschen seit Jahrzehnten funktioniert. Das würde die einzelnen Läden enorm entlasten. Ein weiterer wichtiger Punkt ist die Pfandhöhe. Ich stimme dem Text zu, dass sie gut durchdacht sein muss. Ein Euro oder sogar mehr wäre vielleicht ein starker Anreiz zur Rückgabe, könnte aber Geringverdiener tatsächlich vom Kauf abhalten. Vielleicht wäre ein gestaffeltes System denkbar, oder man kombiniert das Pfand mit einem kleinen Rabatt, wenn man den Becher zurückbringt. Was ich auch entscheidend finde, ist die Transparenz, die der Text fordert. Bevor so ein System verpflichtend wird, muss man genau prüfen, ob die Umweltbilanz wirklich positiv ist, auch mit den Transportwegen. Es wäre ja fatal, wenn für die Reinigung der Becher so viele Lkw-Fahrten nötig wären, dass der ökologische Vorteil verloren geht. Kurze regionale Kreisläufe sind hier das A und O. Zusammenfassend bin ich klar für die Einführung eines einheitlichen Pfandsystems, aber es muss klug und mit den Betrieben zusammen gestaltet werden. Nur dann wird der umweltfreundliche Weg auch der einfache Weg, und das ist letztendlich das, was zählt.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "telc-b2-schreiben-p5",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #5",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bitte um Informationen:\nSie möchten mit sieben älteren Verwandten eine kurze Reise ohne Auto planen. Zwei Personen können nur langsam laufen, und niemand aus der Gruppe möchte schwere Koffer tragen.\n\nAufgabe B: Bewerbung:\nSie haben in Ihrer Ausbildung mit Menschen mit Behinderung gearbeitet und möchten sich einen Tag ehrenamtlich engagieren. Da Sie vormittags arbeiten, möchten Sie wissen, ob Sie am Nachmittag helfen können.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie möchten mit sieben älteren Verwandten eine kurze Reise ohne Auto planen. Zwei Personen können nur langsam laufen, und niemand aus der Gruppe möchte schwere Koffer tragen.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie möchten mit sieben älteren Verwandten eine kurze Reise ohne Auto planen. Zwei Personen können nur langsam laufen, und niemand aus der Gruppe möchte schwere Koffer tragen.",
+            "guidance": [
+              "Erklären Sie kurz Ihre Reisesituation und Gruppengröße.",
+              "Fragen Sie nach Gepäckservice und kurzen Umstiegszeiten.",
+              "Bitten Sie um Informationen zu barrierearmen Zimmern und möglichen Reisezielen.",
+              "Klären Sie Fristen, Kosten und den Ablauf der Beratung."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz Ihre Reisesituation und Gruppengröße.",
+              "Fragen Sie nach Gepäckservice und kurzen Umstiegszeiten.",
+              "Bitten Sie um Informationen zu barrierearmen Zimmern und möglichen Reisezielen.",
+              "Klären Sie Fristen, Kosten und den Ablauf der Beratung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Bezug zur Aufgabe A herstellen und die Reisesituation mit Gruppengröße und speziellen Bedürfnissen (Mobilität, Gepäck) klar beschreiben.",
+              "Konkrete Fragen zu Gepäckservice und kurzen Umstiegszeiten bei Bahn- oder Busreisen formulieren.",
+              "Nach barrierearmen Zimmern und passenden, seniorenfreundlichen Reisezielen fragen.",
+              "Verbindlich nach Fristen, Kosten und dem konkreten Ablauf der Beratung fragen, um Handlungsfähigkeit zu signalisieren.",
+              "Höfliche, formelle Anrede und Grußformel verwenden sowie Konjunktiv II für Bitten nutzen (z. B. 'Wäre es möglich...', 'Ich wäre Ihnen dankbar...')."
+            ],
+            "expected_answer": "Betreff: Anfrage für eine seniorenfreundliche Gruppenreise ohne Auto\n\nSehr geehrte Damen und Herren,\n\nich plane mit sieben älteren Verwandten eine kurze Urlaubsreise und bin auf Ihr Reisebüro aufmerksam geworden. Da wir kein Auto nutzen möchten, sind wir auf öffentliche Verkehrsmittel angewiesen. Zwei Personen in unserer Gruppe können nur langsam laufen und sind auf kurze Wege angewiesen. Zudem ist es für alle Beteiligten wichtig, dass wir während der gesamten Reise keine schweren Koffer tragen müssen.\n\nDaher bitte ich Sie um Informationen zu folgenden Punkten: Bieten Sie einen Gepäckservice an, der das Gepäck direkt vom Heimatbahnhof bis zum Hotelzimmer transportiert? Können Sie bei der Buchung von Bahn- oder Busreisen besonders kurze Umstiegszeiten und direkte Verbindungen garantieren, damit die Gruppe nicht hetzen muss?\n\nDes Weiteren benötige ich Auskunft über barrierearme Unterkünfte. Die Zimmer sollten möglichst ebenerdig oder mit einem Aufzug erreichbar sein und über eine bodengleiche Dusche verfügen. Welche Reiseziele können Sie für eine solche Gruppe im deutschsprachigen Raum empfehlen, die sowohl kulturell interessant als auch gut zu Fuß zu erkunden sind?\n\nBitte teilen Sie mir mit, bis wann eine Buchung spätestens erfolgen muss und mit welchen Kosten ich für die Beratung und den Service rechnen muss. Wie würde der weitere Ablauf nach dieser ersten Anfrage aussehen?\n\nIch wäre Ihnen für eine ausführliche Rückmeldung sehr dankbar.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

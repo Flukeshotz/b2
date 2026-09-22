@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p6",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #6",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Ein Stadtteilverein verteilt wöchentlich Lebensmittel an Menschen mit wenig Geld. In den nächsten Wochen fehlen Helferinnen und Helfer, gleichzeitig kommen mehr Besucher. Planen Sie einen Einsatzplan mit fairen Aufgaben, kurzen Wartezeiten und respektvoller Kommunikation.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nFreiwilligenplan für eine Lebensmittelausgabe",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete Vorschläge für Aufgabenverteilung und Zeitplan (Schichten, Pufferzeiten) machen",
+              "Auf faire Verteilung achten (schwere/kundennahe Aufgaben rotieren) und respektvolle Kommunikation thematisieren (Du/Sie, Beschwerdemanagement)",
+              "Typische Planungs-Redemittel nutzen: Vorschläge machen ('Ich schlage vor, dass...'), zustimmen ('Das ist ein guter Punkt.'), Alternativen abwägen ('Wäre es nicht besser, wenn...?')",
+              "Auf Vorschläge der Partnerin/des Partners eingehen, Kompromisse finden und einen gemeinsamen Plan entwickeln",
+              "Realistische Lösungen für Wartezeiten (z.B. Nummern ziehen, Kaffee anbieten) und Helfermangel (z.B. längere Öffnungszeiten vermeiden) vorschlagen"
+            ],
+            "expected_answer": "Also, ich habe mir überlegt, wie wir die Lebensmittelausgabe in den nächsten Wochen am besten organisieren können, wo wir ja weniger Helfer haben, aber mehr Besucher kommen. Mein erster Vorschlag wäre, dass wir die Ausgabezeit nicht verlängern, sondern straffer organisieren, um die Wartezeiten kurz zu halten. Wir könnten zum Beispiel mit einem Nummernsystem arbeiten, das wäre fair und verhindert langes Stehen in der Schlange. Vielleicht kann eine Person am Eingang die Nummern verteilen und schon mal grob die Bedarfe erfragen, das beschleunigt den Ablauf später. Für die Aufgabenverteilung schlage ich vor, dass wir in zwei Schichten arbeiten: eine von 9 bis 11 Uhr und eine von 11 bis 13 Uhr. So ist die körperliche Belastung nicht zu hoch. Wichtig ist mir, dass wir die Aufgaben fair rotieren. Niemand sollte die ganze Zeit nur schwere Kisten schleppen oder nur draußen in der Kälte stehen. Das können wir auf einem kleinen Plan vermerken. Was die respektvolle Kommunikation angeht, finde ich, wir sollten die Besucher grundsätzlich siezen, das ist einfach höflicher und schafft eine angenehme Atmosphäre. Außerdem könnten wir eine kurze Einweisung für alle neuen Helfer machen, in der wir genau das betonen: Freundlichkeit, Geduld und Diskretion. Wenn es mal zu Beschwerden kommt, sollte eine erfahrene Person als Ansprechpartner da sein, die das ruhig klärt. Jetzt zu den Wartezeiten: Zusätzlich zum Nummernsystem könnten wir einen kleinen Tisch mit Kaffee oder Tee anbieten, das kostet nicht viel und die Stimmung ist gleich viel besser. Was meinst du zu diesen Punkten? Ich bin gespannt auf deine Ideen, dann können wir einen genauen Plan für die nächsten Wochen erstellen, der für alle machbar ist.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

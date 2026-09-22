@@ -1,0 +1,121 @@
+{
+  "id": "exp_artikel_telearbeit_read",
+  "source_id": "src_artikel_telearbeit",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Telearbeit in der Pflege: ein Widerspruch?",
+  "minutes": 12,
+  "primary_capability": "structure",
+  "secondary_capabilities": [],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Sachtext mit drei möglichen Antworten pro Aussage: Richtig, Falsch, oder Text sagt dazu nichts.",
+        "Die dritte Option ist die schwierigste: manches klingt plausibel, steht aber einfach nicht im Text."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_artikel_telearbeit"
+    },
+    {
+      "q": "Pflege gilt auf den ersten Blick als Widerspruch zu Telearbeit, weil direkte Betreuung physische Anwesenheit erfordert.",
+      "t": "readq",
+      "mode": "meaning",
+      "answer": 0,
+      "explain": "Das steht wörtlich im ersten Absatz: die direkte Betreuung „erfordert physische Anwesenheit“, weshalb Telearbeit „auf den ersten Blick wie ein Widerspruch“ wirkt.",
+      "options": [
+        "Richtig",
+        "Falsch",
+        "Text sagt dazu nichts"
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    },
+    {
+      "q": "Auch direkt patientennah tätiges Pflegepersonal arbeitet in den beschriebenen Pilotprojekten im Homeoffice.",
+      "t": "readq",
+      "mode": "meaning",
+      "answer": 1,
+      "explain": "Falsch — der Text grenzt ausdrücklich ein: die Verlagerung ins Homeoffice gilt „ausschließlich für Personal in koordinierenden oder leitenden Funktionen, nicht für das direkt patientennah tätige Pflegepersonal“.",
+      "options": [
+        "Richtig",
+        "Falsch",
+        "Text sagt dazu nichts"
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    },
+    {
+      "q": "Die Pilotprojekte haben zu einem spürbaren Anstieg des fachlichen Austauschs zwischen den Teams geführt.",
+      "t": "readq",
+      "mode": "meaning",
+      "answer": 1,
+      "explain": "Falsch — der Text berichtet vom Gegenteil: einem „spürbaren Rückgang des informellen fachlichen Austauschs zwischen den Teams“.",
+      "options": [
+        "Richtig",
+        "Falsch",
+        "Text sagt dazu nichts"
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    },
+    {
+      "q": "Die Mehrheit der Pflegekräfte lehnt Homeoffice grundsätzlich ab.",
+      "t": "readq",
+      "mode": "meaning",
+      "answer": 2,
+      "explain": "Der Text äußert sich an keiner Stelle zur Meinung der Mehrheit der Pflegekräfte über Homeoffice — weder zustimmend noch ablehnend. Das ist der Unterschied zwischen „Falsch“ (das Gegenteil steht im Text) und dieser Option (nichts steht dazu im Text).",
+      "options": [
+        "Richtig",
+        "Falsch",
+        "Text sagt dazu nichts"
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    },
+    {
+      "q": "Administrative Tätigkeiten in der Pflege galten schon vor der Einführung von Homeoffice als wenig sichtbar.",
+      "t": "readq",
+      "mode": "meaning",
+      "answer": 0,
+      "explain": "Das steht wörtlich im dritten Absatz: „Diese Tätigkeiten galten schon vor der Einführung von Homeoffice als wenig sichtbar, weil sie meist außerhalb der eigentlichen Stationsarbeit stattfanden.“",
+      "options": [
+        "Richtig",
+        "Falsch",
+        "Text sagt dazu nichts"
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    },
+    {
+      "q": "Der Text schreibt, das Homeoffice habe das Sichtbarkeits-Problem „eher verstärkt als neu geschaffen“. Was folgt daraus für die Ursache des Problems?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "„Verstärkt als neu geschaffen“ ordnet die Kausalität klar: die Ursache liegt in der schon vorher bestehenden geringen Sichtbarkeit außerhalb der Stationsarbeit, Homeoffice ist ein verstärkender, nicht ein auslösender Faktor.",
+      "options": [
+        "Homeoffice ist die alleinige Ursache des Sichtbarkeitsproblems.",
+        "Das Problem bestand bereits vorher; Homeoffice hat es lediglich sichtbarer gemacht oder verschärft.",
+        "Es gibt gar kein Sichtbarkeitsproblem, der Text widerspricht sich hier."
+      ],
+      "sourceId": "src_artikel_telearbeit",
+      "capability": "structure"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T08:44:27.462Z",
+  "updated_at": "2026-09-16T08:44:27.462Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

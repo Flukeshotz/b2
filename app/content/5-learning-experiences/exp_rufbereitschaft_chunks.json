@@ -1,0 +1,127 @@
+{
+  "id": "exp_rufbereitschaft_chunks",
+  "source_id": "src_rufbereitschaft",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Muster von Absicht zu trennen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Das verteilt sich einfach ungleich, das liegt an niemandem persönlich.",
+      "it just distributes unevenly, that's nobody's fault personally",
+      "🔗"
+    ],
+    [
+      "Warum eigentlich immer die gleichen?",
+      "why is it always the same people, actually?",
+      "🔗"
+    ],
+    [
+      "X würde helfen, löst aber nicht alles.",
+      "X would help, but it doesn't solve everything",
+      "🔗"
+    ],
+    [
+      "Ich mache das gern öfter, wenn …",
+      "I'm happy to do that more often, if …",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man ein unfaires Muster anspricht, ohne anzugreifen."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "warum_eigentlich_immer_die_gleichen",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "verteilt_sich_ungleich_liegt_an_niemandem",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "q": "Wie sprechen Sie es an?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A eröffnet die Frage direkt und lädt zur Erklärung ein — genau die Situation. B wäre eine mögliche spätere Antwort DARAUF, aber keine Eröffnung. C passt inhaltlich nicht, es geht noch um keine Lösung.",
+      "options": [
+        "Warum eigentlich immer die gleichen?",
+        "Das verteilt sich einfach ungleich, das liegt an niemandem persönlich.",
+        "X würde helfen, löst aber nicht alles."
+      ],
+      "exercises": [
+        "warum_eigentlich_immer_die_gleichen"
+      ],
+      "situation": "Ihnen fällt auf, dass eine unbeliebte Aufgabe fast immer bei denselben zwei Kolleginnen landet. Sie wollen das ansprechen, ohne jemandem eine böse Absicht zu unterstellen."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "wuerde_helfen_loest_aber_nicht_alles",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "mache_das_gern_oefter_wenn",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "q": "Wie kommentieren Sie den Vorschlag?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A befürwortet den Vorschlag und benennt gleichzeitig seine Grenze — genau Ihre Position. B passt hier nicht, es fragt nach der Ursache eines Problems, nicht nach einer Lösung. C ist eine Bedingung, aber keine Bewertung des Vorschlags.",
+      "options": [
+        "Eine feste Liste würde helfen, löst aber nicht alles.",
+        "Warum eigentlich immer die gleichen?",
+        "Ich mache das gern öfter, wenn es fair verteilt ist."
+      ],
+      "exercises": [
+        "wuerde_helfen_loest_aber_nicht_alles"
+      ],
+      "situation": "Ein Kollege schlägt eine feste Liste für eine unbeliebte Aufgabe vor. Sie finden die Idee grundsätzlich gut, sehen aber, dass sie nicht jedes Problem löst."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "verteilt_sich_ungleich_liegt_an_niemandem",
+      "hint": "Erst das Muster beschreiben, dann ausdrücklich niemanden beschuldigen.",
+      "context": "Eine unbeliebte Aufgabe verteilt sich bei Ihnen im Team ungleich, aber nicht, weil jemand absichtlich benachteiligt wird. Erklären Sie das.",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "mache_das_gern_oefter_wenn",
+      "hint": "Die Bereitschaft zuerst, dann die Bedingung.",
+      "context": "Sie sind bereit, eine unbeliebte Aufgabe öfter zu übernehmen — aber nur unter einer bestimmten Bedingung. Formulieren Sie das.",
+      "sourceId": "src_rufbereitschaft"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:54:10.637Z",
+  "updated_at": "2026-09-16T07:54:10.637Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

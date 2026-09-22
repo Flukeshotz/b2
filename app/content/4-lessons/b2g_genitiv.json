@@ -1,0 +1,255 @@
+{
+  "id": "b2g_genitiv",
+  "order_index": 2,
+  "icon": "📐",
+  "title": "wegen, trotz + Genitiv",
+  "capability": "You can give a reason in writing without the mistake examiners mark every time.",
+  "proof": "wegen des Notfalls — not wegen dem Notfall.",
+  "subs": [
+    {
+      "key": "learn",
+      "label": "Learn",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Spoken German lets „wegen dem“ slide. Written German does not.",
+            "It is one of the few errors an examiner can circle without thinking."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "hack",
+          "body": "Masculine and neuter take <b>des</b> …<b>s</b>: wegen <b>des</b> Notfall<b>s</b>. Feminine takes <b>der</b>, with no ending: wegen <b>der</b> Verspätung.",
+          "title": "wegen and trotz both take the Genitiv."
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "q": "Which one goes with a feminine noun — <b>der</b> or <b>des</b>?",
+          "t": "pick",
+          "from": [
+            3,
+            2
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "wegen",
+            "des",
+            "Notfalls"
+          ],
+          "en": "because of the emergency",
+          "hard": true,
+          "extra": [
+            "dem"
+          ]
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Wegen",
+            "dem",
+            "Notfall",
+            "komme",
+            "ich",
+            "später"
+          ],
+          "context": "In a written sick note:",
+          "shouldBe": "des",
+          "wrongIdx": 1
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Trotz",
+            "der",
+            "Verspätung",
+            "schaffe",
+            "ich",
+            "die",
+            "Übergabe"
+          ],
+          "context": "In the same note, one line down:",
+          "shouldBe": "der",
+          "wrongIdx": 1
+        },
+        {
+          "t": "speak",
+          "de": "Wegen des Notfalls komme ich später.",
+          "en": "Because of the emergency I will be later."
+        }
+      ],
+      "teaches": [
+        [
+          "wegen",
+          "because of",
+          "📐"
+        ],
+        [
+          "trotz",
+          "despite",
+          "📐"
+        ],
+        [
+          "des",
+          "of the (m/n)",
+          "📐"
+        ],
+        [
+          "der",
+          "of the (f)",
+          "📐"
+        ]
+      ]
+    },
+    {
+      "key": "use",
+      "label": "Use it",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Same rule, three more prepositions that follow it."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "t": "hack",
+          "body": "<b>wegen · trotz · aufgrund · innerhalb · außerhalb · angesichts</b> — all Genitiv. Learn them as one group and you never have to decide again.",
+          "title": "The same list, every time."
+        },
+        {
+          "t": "match",
+          "ws": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Trotz",
+            "der",
+            "Verspätung",
+            "schaffe",
+            "ich",
+            "die",
+            "Übergabe"
+          ],
+          "en": "Despite the delay I will make the handover.",
+          "hard": true,
+          "extra": [
+            "dem"
+          ]
+        },
+        {
+          "t": "translate",
+          "de": "Aufgrund des Notfalls war ich später.",
+          "en": [
+            "On",
+            "account",
+            "of",
+            "the",
+            "emergency",
+            "I",
+            "was",
+            "later"
+          ],
+          "extra": [
+            "despite"
+          ]
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Innerhalb",
+            "einem",
+            "Monat",
+            "bin",
+            "ich",
+            "wieder",
+            "da"
+          ],
+          "context": "In an email to the ward:",
+          "shouldBe": "eines",
+          "wrongIdx": 1
+        },
+        {
+          "t": "speakcards",
+          "cards": [
+            {
+              "de": "Wegen des Notfalls komme ich später.",
+              "en": "Because of the emergency I will be later."
+            },
+            {
+              "de": "Trotz der Verspätung schaffe ich die Übergabe.",
+              "en": "Despite the delay I will make the handover."
+            },
+            {
+              "de": "Aufgrund des Notfalls war ich später.",
+              "en": "On account of the emergency I was later."
+            }
+          ]
+        }
+      ],
+      "teaches": [
+        [
+          "der Notfall",
+          "the emergency",
+          "🚨"
+        ],
+        [
+          "die Verspätung",
+          "the delay",
+          "⏰"
+        ],
+        [
+          "aufgrund",
+          "on account of",
+          "📐"
+        ],
+        [
+          "innerhalb",
+          "within",
+          "📐"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "retired",
+  "retired_reason": "a1_methodology_conflict",
+  "retired_at": "2026-09-07T13:07:20.348Z"
+}

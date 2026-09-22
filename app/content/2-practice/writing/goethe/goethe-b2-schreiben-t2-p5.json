@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t2-p5",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #5",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Du machst ein Praktikum in einem Medienbüro. Du hast mit deinem Mitpraktikanten Tom eine Präsentation vorbereitet, kannst aber morgen nicht zum Treffen kommen. Schreib eine Nachricht an Tom.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Du machst ein Praktikum in einem Medienbüro. Du hast mit deinem Mitpraktikanten Tom eine Präsentation vorbereitet, kannst aber morgen nicht zum Treffen kommen. Schreib eine Nachricht an Tom.",
+          "options": null,
+          "payload": {
+            "prompt": "Du machst ein Praktikum in einem Medienbüro. Du hast mit deinem Mitpraktikanten Tom eine Präsentation vorbereitet, kannst aber morgen nicht zum Treffen kommen. Schreib eine Nachricht an Tom.",
+            "guidance": [
+              "Schlage vor, wie ihr weiterarbeiten könnt.",
+              "Erkläre, warum du nicht kommen kannst.",
+              "Entschuldige dich.",
+              "Bitte Tom um eine kurze Rückmeldung."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Schlage vor, wie ihr weiterarbeiten könnt.",
+              "Erkläre, warum du nicht kommen kannst.",
+              "Entschuldige dich.",
+              "Bitte Tom um eine kurze Rückmeldung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Informelle Anrede und Gruß (E-Mail-Form) verwenden.",
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge abdecken: zuerst Entschuldigung und Grund, dann konkreter Vorschlag zur Weiterarbeit, abschließend Bitte um Rückmeldung.",
+              "Grund für die Abwesenheit plausibel und konkret erklären (z. B. Arzttermin, familiäre Verpflichtung).",
+              "Vorschlag zur Weiterarbeit strukturiert und lösungsorientiert formulieren (z. B. Aufgaben aufteilen, online abstimmen).",
+              "Typische B2-Redemittel nutzen: ‚Es tut mir wirklich leid, aber…‘, ‚Ich würde vorschlagen, dass…‘, ‚Wäre es möglich, dass…?‘, ‚Vielen Dank für dein Verständnis.‘"
+            ],
+            "expected_answer": "Betreff: Präsentation – Treffen morgen\n\nHallo Tom,\n\nes tut mir wirklich leid, aber ich kann morgen leider nicht zu unserem Treffen kommen. Ich habe kurzfristig einen wichtigen Arzttermin bekommen, den ich leider nicht verschieben kann. Ich hoffe, das bringt unsere Planung nicht zu sehr durcheinander.\n\nDamit wir trotzdem gut vorankommen, würde ich vorschlagen, dass wir die restlichen Aufgaben aufteilen. Du könntest dich auf die Folien zur Marktanalyse konzentrieren, während ich die Einleitung und den Schlussteil übernehme. Meine Ergebnisse schicke ich dir dann bis morgen Abend per E-Mail zu. Wäre es möglich, dass wir uns am Donnerstag kurz online abstimmen, um alles zusammenzufügen?\n\nIch wäre dir sehr dankbar, wenn du mir kurz Bescheid geben könntest, ob das für dich passt. Vielen Dank für dein Verständnis!\n\nViele Grüße\n[Dein Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "goethe-b2-hoeren-t4-s1",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 4 — Akademischer Vortrag / Vorlesung, Satz 1",
+  "minutes": 12,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 8,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 4 — Akademischer Vortrag / Vorlesung",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil4-set1.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Dr. Lenz ist Stadtlärm problematisch, weil er ...",
+          "options": [
+            "nur bei sehr hohen Dezibelwerten wirkt.",
+            "auch unbemerkt körperliche Reaktionen auslösen kann.",
+            "vor allem das Gehör dauerhaft schädigt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "nur bei sehr hohen Dezibelwerten wirkt."
+          },
+          "explanation": "Die richtige Antwort ist a) \"nur bei sehr hohen Dezibelwerten wirkt.\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was unterscheidet störenden von gefährlichem Lärm?",
+          "options": [
+            "Ob er von Verkehr oder von Menschen stammt.",
+            "Ob man ihn sofort bewusst wahrnimmt.",
+            "Wann und wie lange er auftritt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ob man ihn sofort bewusst wahrnimmt."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Ob man ihn sofort bewusst wahrnimmt.\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nächtlicher Lärm ...",
+          "options": [
+            "kann Erholung stören, ohne dass man richtig wach wird.",
+            "ist nur problematisch, wenn man davon aufwacht.",
+            "lässt sich durch Gewöhnung meistens ausgleichen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "lässt sich durch Gewöhnung meistens ausgleichen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"lässt sich durch Gewöhnung meistens ausgleichen.\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sagt Dr. Lenz über Messgeräte?",
+          "options": [
+            "Sie zeigen genau, wer sich gestört fühlt.",
+            "Sie müssen durch Beobachtungen vor Ort ergänzt werden.",
+            "Sie sollten vor allem in Parks aufgestellt werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie zeigen genau, wer sich gestört fühlt."
+          },
+          "explanation": "Die richtige Antwort ist a) \"Sie zeigen genau, wer sich gestört fühlt.\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei neuen Wohngebieten sollte man ...",
+          "options": [
+            "das Lärmproblem vorab in die Planung aufnehmen.",
+            "Schallschutz erst nach Beschwerden prüfen.",
+            "ruhige Innenhöfe durch Cafés beleben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Schallschutz erst nach Beschwerden prüfen."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Schallschutz erst nach Beschwerden prüfen.\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum nennt Dr. Lenz Lieferverkehr am Morgen?",
+          "options": [
+            "Er beweist, dass Lieferungen nachts verboten werden sollten.",
+            "Er erklärt, warum Anwohner mehr Parkplätze brauchen.",
+            "Er zeigt einen Konflikt zwischen Alltag und Ruhe."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Er zeigt einen Konflikt zwischen Alltag und Ruhe."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Er zeigt einen Konflikt zwischen Alltag und Ruhe.\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Maßnahme empfiehlt sie für wenig Geld?",
+          "options": [
+            "neue Schallschutzwände an allen Hauptstraßen.",
+            "vorhandene ruhige Routen besser kennzeichnen.",
+            "laute Plätze ausschließlich für Autos sperren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "neue Schallschutzwände an allen Hauptstraßen."
+          },
+          "explanation": "Die richtige Antwort ist a) \"neue Schallschutzwände an allen Hauptstraßen.\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Zum Schluss fordert Dr. Lenz, ...",
+          "options": [
+            "Ruhe wie eine kommunale Basisaufgabe zu planen.",
+            "alle lauten Veranstaltungen aus Innenstädten zu verlegen.",
+            "neue Technik wichtiger zu nehmen als Planung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "alle lauten Veranstaltungen aus Innenstädten zu verlegen."
+          },
+          "explanation": "Die richtige Antwort ist b) \"alle lauten Veranstaltungen aus Innenstädten zu verlegen.\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p5",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #5",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "In einem Kurszentrum soll eine kleine Fotoausstellung entstehen. Lernende zeigen Bilder aus ihrem Alltag in der Stadt. Die Ausstellung soll Gespräche anregen, aber der Flur ist eng und Wände dürfen nicht beschädigt werden. Planen Sie Präsentation, Eröffnung und Material.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nAusstellung mit Fotos aus dem Alltag",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Struktur: Begrüßung, Nennung des Ziels, Vorschläge zu Präsentation, Eröffnung und Material, Einladung zur Diskussion.",
+              "Konkrete und realistische Vorschläge für die drei Bereiche (z. B. mobile Stellwände, digitale Bilderrahmen, kleine Snacks).",
+              "Begründung der Vorschläge mit Bezug auf die Einschränkungen (enger Flur, Wände nicht beschädigen).",
+              "Typische B2-Redemittel für Vorschläge („Ich würde vorschlagen, dass...“, „Was hältst du von...?“, „Am besten wäre es, wenn...“) und Abwägung („Einerseits... andererseits...“).",
+              "Offene Fragen an die Partnerin/den Partner, um zur gemeinsamen Planung aufzufordern."
+            ],
+            "expected_answer": "Also, lass uns doch mal gemeinsam überlegen, wie wir diese Fotoausstellung im Kurszentrum am besten organisieren können. Ich finde die Idee total spannend, dass die Lernenden Bilder aus ihrem Alltag in der Stadt zeigen, weil das sicher viele Gespräche anregen wird. Die größte Herausforderung ist ja der enge Flur und die Tatsache, dass wir die Wände nicht beschädigen dürfen. Was die Präsentation der Fotos angeht, würde ich vorschlagen, dass wir mit mobilen Stellwänden arbeiten, die wir einfach in den Flur stellen können. Das hat den Vorteil, dass wir sie flexibel aufbauen und später wieder abbauen können, ohne Spuren zu hinterlassen. Eine Alternative wäre, die Fotos mit starken, aber rückstandsfreien Klebepads direkt an den Fensterscheiben oder an den Glastüren zu befestigen. Das könnte optisch sehr modern wirken. Was hältst du davon? Für die Eröffnung denke ich, dass wir eine kleine, unkomplizierte Feier am späten Nachmittag planen sollten, vielleicht an einem Freitag. Ich stelle mir vor, dass wir einen kleinen Stehtisch für Getränke und ein paar Snacks aufbauen, aber nicht direkt im engen Flur, sondern vielleicht in einer angrenzenden Ecke oder in einem Raum, falls einer frei ist. So vermeiden wir ein Gedränge. Die Fotografinnen und Fotografen könnten kurz etwas zu ihren Bildern sagen, das wäre doch persönlich und würde die Gespräche direkt in Gang bringen. Jetzt zur Materialfrage: Wir brauchen auf jeden Fall die Stellwände oder alternativ stabile Pinnwände mit Ständern. Dazu kommen die Abzüge der Fotos. Ich würde vorschlagen, dass wir die Fotos nicht alle in unterschiedlichen Größen ausdrucken, sondern ein einheitliches Format wählen, zum Beispiel 30 mal 40 Zentimeter, das wirkt professioneller. Vielleicht kann das Kurszentrum die Druckkosten übernehmen oder wir fragen, ob jemand einen guten Drucker zu Hause hat. Zusätzlich brauchen wir kleine Kärtchen für die Bildtitel und die Namen der Fotografen. Einerseits wäre es schön, wenn alles sehr hochwertig ist, andererseits müssen wir natürlich auf die Kosten achten. Wie siehst du das? Hast du noch andere Ideen, zum Beispiel für die Beleuchtung oder wie wir die Besucher durch den engen Flur leiten können, damit es keinen Stau gibt? Lass uns doch mal einen konkreten Zeitplan und eine Materialliste machen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p11",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #11",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten neue Mietshäuser gemeinschaftliche Räume haben?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung oder Ablehnung) mit einer kurzen Begründung.",
+              "Mindestens zwei ausformulierte Argumente mit Beispielen (z.B. soziale Vorteile, praktischer Nutzen, Kostenfaktor, Privatsphäre).",
+              "Aufgreifen eines möglichen Gegenarguments und dessen Widerlegung.",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z.B. 'Einerseits... andererseits', 'Hinzu kommt, dass...', 'Man könnte zwar einwenden, dass..., aber...').",
+              "Ein kurzes, zusammenfassendes Fazit, das die eigene Meinung bekräftigt."
+            ],
+            "expected_answer": "Vielen Dank für die interessante Frage. Meiner Meinung nach sollten neue Mietshäuser unbedingt gemeinschaftliche Räume haben, weil sie das soziale Miteinander fördern und einfach einen praktischen Mehrwert bieten. Ich möchte das gerne an zwei Punkten festmachen. Erstens geht es um die Gemeinschaft. In unserer heutigen Gesellschaft vereinsamen viele Menschen, gerade in Großstädten, wo man oft nicht einmal seine direkten Nachbarn kennt. Ein Gemeinschaftsraum, vielleicht eine Dachterrasse oder ein kleiner Partyraum, kann da Wunder wirken. Man könnte dort gemeinsam kochen, Spieleabende veranstalten oder einfach nur zusammensitzen. Das schafft ein ganz anderes Wohngefühl und kann Nachbarschaftsstreitigkeiten sogar vorbeugen, weil man sich persönlich kennt. Zweitens sind solche Räume auch ganz praktisch. Nicht jede Wohnung ist riesig. Wenn man zum Beispiel Geburtstag feiern möchte und die eigene Wohnung zu klein ist, ist ein Gemeinschaftsraum die perfekte Lösung. Oder man denke an Familien mit Kindern: Ein gemeinsamer Spielraum im Erdgeschoss wäre doch ideal, besonders an Regentagen. Auch ein Co-Working-Space für Leute, die im Homeoffice arbeiten, wäre heutzutage ein großer Vorteil. Man könnte zwar einwenden, dass solche Räume die Mietkosten erhöhen und Lärm verursachen könnten. Aber ich glaube, das ist ein Argument, das man entkräften kann. Wenn die Räume gut verwaltet werden, zum Beispiel mit einer klaren Hausordnung und einem Buchungssystem, lassen sich Konflikte vermeiden. Und was die Kosten angeht: Wenn sich mehrere Parteien die Fläche teilen, ist der Aufpreis pro Mietpartei minimal. Die Steigerung der Lebensqualität wiegt diesen kleinen Betrag meiner Ansicht nach bei Weitem auf. Zusammenfassend bin ich also fest davon überzeugt, dass gemeinschaftliche Räume in Neubauten kein Luxus, sondern eine sinnvolle Investition in ein besseres, sozialeres und praktischeres Wohnumfeld sind.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

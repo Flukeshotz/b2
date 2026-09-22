@@ -1,0 +1,70 @@
+{
+  "id": "telc-b2-schreiben-p11",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #11",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bitte um Informationen:\nSie haben zum ersten Mal eine hohe Nebenkostenabrechnung erhalten. Vor einem Brief an Ihre Vermieterin möchten Sie verstehen, welche Punkte Sie selbst prüfen können.\n\nAufgabe B: Beschwerde:\nSie haben acht Hemden abholen lassen. Die Lieferung kam verspätet zurück, ein Hemd fehlt und zwei Hemden wurden ungebügelt geliefert.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie haben zum ersten Mal eine hohe Nebenkostenabrechnung erhalten. Vor einem Brief an Ihre Vermieterin möchten Sie verstehen, welche Punkte Sie selbst prüfen können.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie haben zum ersten Mal eine hohe Nebenkostenabrechnung erhalten. Vor einem Brief an Ihre Vermieterin möchten Sie verstehen, welche Punkte Sie selbst prüfen können.",
+            "guidance": [
+              "Erklären Sie, warum Sie an der Gruppenberatung teilnehmen möchten.",
+              "Fragen Sie, welche Unterlagen Sie mitbringen sollen.",
+              "Bitten Sie um Termin, Dauer und Zahlungsinformation.",
+              "Klären Sie, wann ein Folgetermin für eine genaue Prüfung möglich wäre."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie, warum Sie an der Gruppenberatung teilnehmen möchten.",
+              "Fragen Sie, welche Unterlagen Sie mitbringen sollen.",
+              "Bitten Sie um Termin, Dauer und Zahlungsinformation.",
+              "Klären Sie, wann ein Folgetermin für eine genaue Prüfung möglich wäre."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Bezug zur Aufgabe A klar herstellen und das Anliegen (hohe Nebenkostenabrechnung, Wunsch nach Prüfung vor dem Schreiben an die Vermieterin) präzise formulieren.",
+              "Alle vier Leitpunkte in logischer Reihenfolge abdecken: Grund der Teilnahme, mitzubringende Unterlagen, Termin/Dauer/Kosten, Möglichkeit eines Folgetermins.",
+              "Typische B2-Redemittel für formelle/halbformelle E-Mails verwenden (z. B. Konjunktiv II für Bitten: 'Ich wäre Ihnen dankbar, wenn...', 'Könnten Sie mir bitte mitteilen...').",
+              "Kohärente Textstruktur mit Anrede, Einleitung, Absätzen zu den Leitpunkten, Schlusssatz und Grußformel einhalten."
+            ],
+            "expected_answer": "Betreff: Anfrage zur Gruppenberatung wegen hoher Nebenkostenabrechnung\n\nSehr geehrte Damen und Herren,\n\nvor Kurzem habe ich zum ersten Mal eine unerwartet hohe Nebenkostenabrechnung erhalten. Bevor ich mich damit an meine Vermieterin wende, möchte ich die Abrechnung gerne selbst besser verstehen und auf mögliche Fehler prüfen. Aus diesem Grund interessiere ich mich sehr für Ihre Gruppenberatung, da ich mir davon wertvolle Hinweise und praktische Tipps erhoffe.\n\nDamit ich optimal vorbereitet bin, wäre ich Ihnen dankbar, wenn Sie mir mitteilen könnten, welche Unterlagen ich zu dem Termin mitbringen sollte. Vermutlich benötigen Sie die Abrechnung selbst sowie den Mietvertrag, aber gibt es noch weitere relevante Dokumente?\n\nDes Weiteren bitte ich Sie um Informationen zu den nächsten verfügbaren Terminen und der voraussichtlichen Dauer der Beratung. Könnten Sie mir außerdem mitteilen, ob und in welcher Höhe Kosten für die Teilnahme anfallen und wie die Zahlung erfolgen kann?\n\nFalls im Rahmen der Gruppenberatung keine detaillierte Einzelfallprüfung möglich ist, wäre es hilfreich zu wissen, ob und wann ein individueller Folgetermin für eine genaue Prüfung meiner Abrechnung vereinbart werden könnte.\n\nVielen Dank im Voraus für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

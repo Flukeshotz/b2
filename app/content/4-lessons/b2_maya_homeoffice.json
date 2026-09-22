@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_homeoffice",
+  "order_index": 9,
+  "icon": "💬",
+  "title": "Homeoffice auf der Station?",
+  "capability": "arguing a position and acknowledging counterarguments under pressure",
+  "proof": "Homeoffice auf der Station?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Diskussion",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_homeoffice"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

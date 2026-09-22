@@ -1,0 +1,115 @@
+{
+  "id": "telc-b2-hoeren-t2-s2",
+  "board": "telc",
+  "title": "telc B2 — Hören Teil 2 — Detailverstehen (Interview / Gespräch), Satz 2",
+  "minutes": 8,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "DRAFT",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 2 — Detailverstehen (Interview / Gespräch)",
+      "instruction": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc/teil2-set2.mp3",
+        "duration_seconds": 60,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Herr Weber musste seine frühere Arbeit aufgeben, weil seine Firma geschlossen wurde.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Idee zu den Orientierungstouren entstand während Spaziergängen in seiner Reha-Zeit.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Herr Weber schließt Touristen nicht aus, richtet seine Touren aber vor allem an neue Einwohnerinnen und Einwohner.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 4,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Zur ersten Tour kamen deutlich weniger Menschen, als Herr Weber erwartet hatte.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 5,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Herr Weber änderte die erste Route, weil die Teilnehmenden praktische Alltagsfragen stellten.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        }
+      ]
+    }
+  ]
+}

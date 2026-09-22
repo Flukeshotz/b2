@@ -1,0 +1,11 @@
+{
+  "id": "prioritaeten",
+  "de": "Was hat für Sie Vorrang, wenn es sehr viel zu tun gibt?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you triage by clinical urgency or just work faster.",
+  "trap": "„Ich mache alles“. Nobody believes it, and it dodges the question.",
+  "strong": "A stated order — vital signs and medication first, documentation after — and who you tell.",
+  "followUp": "Und was lassen Sie dann liegen?",
+  "model_answer": null
+}

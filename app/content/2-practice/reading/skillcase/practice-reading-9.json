@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-9",
+  "board": "custom",
+  "title": "Leseverstehen — Ankündigung: Außerordentliche Betriebsversammlung",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Ankündigung: Außerordentliche Betriebsversammlung",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Ankündigung\n\nAufgrund der anstehenden Umstrukturierung der Logistikabteilung lädt die Geschäftsführung gemeinsam mit dem Betriebsrat zu einer außerordentlichen Betriebsversammlung ein.\n\nTermin: Donnerstag, 14 Uhr, Kantine (Haupthaus)\nDauer: voraussichtlich 90 Minuten\n\nAuf der Tagesordnung stehen:\n1. Information über die geplante Zusammenlegung der Standorte Nord und Ost\n2. Zeitplan der Umstrukturierung\n3. Fragen und Antworten mit der Geschäftsführung\n\nAlle Mitarbeitenden der Logistikabteilung sind zur Teilnahme eingeladen; die Anwesenheit ist freigestellt, wird aber ausdrücklich empfohlen, da keine gesonderte Information im Nachgang erfolgen wird. Für Mitarbeitende im Schichtdienst, die zum Termin nicht abkömmlich sind, wird im Anschluss ein schriftliches Protokoll im Intranet veröffentlicht.\n\nDer Betriebsrat weist darauf hin, dass Fragen auch vorab schriftlich eingereicht werden können, um in der Versammlung sicher berücksichtigt zu werden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wird die außerordentliche Betriebsversammlung einberufen?",
+          "options": [
+            "Wegen einer Gehaltserhöhung.",
+            "Wegen der geplanten Umstrukturierung der Logistikabteilung.",
+            "Wegen des Umzugs des Haupthauses."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wegen der geplanten Umstrukturierung der Logistikabteilung."
+          },
+          "explanation": "\"Aufgrund der anstehenden Umstrukturierung der Logistikabteilung\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Teilnahme an der Versammlung ist für alle Mitarbeitenden der Logistikabteilung verpflichtend.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"die Anwesenheit ist freigestellt, wird aber ausdrücklich empfohlen\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was passiert für Mitarbeitende im Schichtdienst, die nicht teilnehmen können?",
+          "options": [
+            "Die Versammlung wird für sie wiederholt.",
+            "Sie erhalten eine persönliche Nachbesprechung.",
+            "Ein schriftliches Protokoll wird im Intranet veröffentlicht."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ein schriftliches Protokoll wird im Intranet veröffentlicht."
+          },
+          "explanation": "\"wird im Anschluss ein schriftliches Protokoll im Intranet veröffentlicht\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie können Mitarbeitende sicherstellen, dass ihre Frage in der Versammlung behandelt wird?",
+          "options": [
+            "Sie erst während der Versammlung laut stellen.",
+            "Sie vorab schriftlich einreichen.",
+            "Sie per Telefon an den Betriebsrat richten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie vorab schriftlich einreichen."
+          },
+          "explanation": "\"Fragen auch vorab schriftlich eingereicht werden können, um … sicher berücksichtigt zu werden\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-5",
+  "board": "custom",
+  "title": "Hörverstehen — Radiobeitrag: Neues Fahrradverleihsystem",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Radiobeitrag: Neues Fahrradverleihsystem",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_5_fahrradverleih.mp3",
+        "duration_seconds": 42.1,
+        "voices": "mia"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist das zentrale Thema des Radiobeitrags?",
+          "options": [
+            "Ein neues Fahrradverleihsystem in der Innenstadt.",
+            "Eine Preiserhöhung für den öffentlichen Nahverkehr.",
+            "Ein Verbot von Fahrrädern in der Altstadt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ein neues Fahrradverleihsystem in der Innenstadt."
+          },
+          "explanation": "\"Seit letzter Woche gibt es in der Innenstadt ein neues Fahrradverleihsystem.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In der ersten Woche wurden weniger Fahrten gezählt, als die Stadtverwaltung erwartet hatte.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"deutlich mehr, als die Stadtverwaltung erwartet hatte\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was kritisieren Anwohner der Altstadt?",
+          "options": [
+            "Dass die App zu kompliziert ist.",
+            "Dass Stationen den Gehweg für Rollstühle und Kinderwagen blockieren.",
+            "Dass es zu wenige Fahrräder gibt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Dass Stationen den Gehweg für Rollstühle und Kinderwagen blockieren."
+          },
+          "explanation": "\"stehen die Stationen teilweise so dicht … dass Rollstuhlfahrer und Kinderwagen kaum vorbeikommen\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagiert die Stadt auf die Kritik?",
+          "options": [
+            "Sie ignoriert die Kritik vollständig.",
+            "Sie kündigt an, drei Stationen zu verlegen.",
+            "Sie schafft das ganze System wieder ab."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie kündigt an, drei Stationen zu verlegen."
+          },
+          "explanation": "\"angekündigt, drei besonders problematische Stationen … zu verlegen\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-5",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 5 — Formeller Antrag: Fortbildungskostenübernahme",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Stellen Sie in einem formellen Schreiben an die Personalabteilung einen Antrag auf Übernahme der Kosten für eine berufliche Fortbildung. Begründen Sie, warum die Fortbildung für Ihre Tätigkeit relevant ist.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie die konkrete Fortbildung und die Kosten.",
+              "Erklären Sie den Bezug zu Ihrer aktuellen Tätigkeit.",
+              "Verwenden Sie eine formelle Anrede und einen formellen Schluss."
+            ],
+            "register": "formell",
+            "min_words": 90,
+            "rubric_id": 8,
+            "task_type": "formal_request",
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie die konkrete Fortbildung und die Kosten.",
+              "Erklären Sie den Bezug zu Ihrer aktuellen Tätigkeit.",
+              "Verwenden Sie eine formelle Anrede und einen formellen Schluss."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Formelle Anrede und Betreffzeile verwenden (z. B. 'Antrag auf Kostenübernahme für Fortbildung')",
+              "Konkrete Fortbildung mit Titel, Anbieter und genauen Kosten nennen",
+              "Deutlichen Bezug zur aktuellen Tätigkeit herstellen und Mehrwert für das Unternehmen erklären",
+              "Höfliche Bitte um Prüfung und formellen Schluss mit Grußformel und vollständigem Namen"
+            ],
+            "expected_answer": "Betreff: Antrag auf Kostenübernahme für die Fortbildung „Projektmanagement mit agilen Methoden“\n\nSehr geehrte Damen und Herren,\n\nhiermit beantrage ich die Übernahme der Kosten für die oben genannte Fortbildung, die vom 10. bis 12. Mai 2025 bei der IHK-Akademie stattfindet. Die Teilnahmegebühr beläuft sich auf 890 Euro.\n\nIn meiner aktuellen Position als Teamkoordinator bin ich zunehmend für die Planung und Steuerung abteilungsübergreifender Projekte verantwortlich. Bislang fehlt mir jedoch eine fundierte Methodenkompetenz im agilen Projektmanagement, die für eine effizientere Umsetzung unserer Digitalisierungsvorhaben dringend erforderlich ist. Durch die Fortbildung könnte ich meine Aufgaben strukturierter bewältigen und Arbeitsabläufe im Unternehmen spürbar optimieren.\n\nIch bitte Sie daher höflich, meinen Antrag zu prüfen und die Kosten zu übernehmen. Für Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\nAnna Meier",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "src_fortbildung",
+  "kind": "text",
+  "title": "Pflichtfortbildungen: Arbeitszeit oder Freizeit?",
+  "hook": "Fünf Beiträge zu einer Frage, die in jeder Station irgendwann auftaucht — und die Person, die den Streit anfängt, will am Ende etwas anderes, als es zuerst klingt.",
+  "theme": 7,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 7,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "Zugeständnis vor Widerspruch: keine Frage, X ist wichtig — nur …",
+      "Eine Unterscheidung einführen: es kommt darauf an, ob …",
+      "Eine Vermutung vorsichtig formulieren: das dürfte kaum …",
+      "Konjunktiv II für ein nicht gewähltes Verfahren: hätte man uns gefragt, dann …",
+      "eine fremde Position zusammenfassen, bevor man ihr widerspricht: wenn ich Sie richtig verstehe, …"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Kurze Frage in die Runde: Bei uns wurden die zwei Pflichtfortbildungen für dieses Quartal auf 16 bis 18 Uhr gelegt — direkt nach der Spätschicht, nicht während der Dienstzeit. Zählt das bei euch als Arbeitszeit, oder wird erwartet, dass man einfach bleibt?",
+      "when": "Mo 21:04",
+      "handle": "nina",
+      "speaker": "Nina K."
+    },
+    {
+      "de": "Bei uns ist das schon immer so gelaufen. Die Themen sind vorgeschrieben, die Termine sind knapp, und irgendwann muss es eben stattfinden. Ich verstehe den Unmut, aber ganz ehrlich: davon geht die Welt nicht unter.",
+      "when": "Mo 21:31",
+      "handle": "jonas",
+      "speaker": "Jonas_P"
+    },
+    {
+      "de": "Ich leite die Station seit drei Jahren und sehe das naturgemäß von der anderen Seite. Das Budget für Fortbildungen wird zentral vergeben, und die Referenten sind an feste Termine gebunden — wir suchen sie uns nicht aus. Innerhalb der Dienstzeit müssten wir dafür die Besetzung reduzieren, und das geht bei der aktuellen Personallage schlicht nicht auf.",
+      "when": "Di 07:52",
+      "handle": "wagner",
+      "speaker": "Stationsleitung Wagner"
+    },
+    {
+      "de": "@Stationsleitung Wagner Wenn ich Sie richtig verstehe, ist das Problem also die Besetzung, nicht der Wille. Das leuchtet mir ein — nur folgt daraus doch nicht automatisch, dass die Zeit unbezahlt bleibt. Bei uns wird genau dieselbe Konstellation gelöst, indem die Fortbildungszeit separat erfasst und im Folgemonat als Freizeit ausgeglichen wird. Beschwert hat sich seitdem niemand mehr.",
+      "when": "Di 09:18",
+      "handle": "priya",
+      "speaker": "Priya S."
+    },
+    {
+      "de": "Priyas Lösung trifft es eigentlich genau. Mich stört ehrlich gesagt weniger die Fortbildung selbst — die ist ja sinnvoll — als der Umstand, dass niemand vorher gefragt hat, wie das mit unseren Diensten überhaupt zusammenpasst. Hätte man uns vorher gefragt, dann wäre vermutlich sofort eine Lösung wie Priyas dabei herausgekommen, und wir würden jetzt nicht darüber streiten.",
+      "when": "Di 12:47",
+      "handle": "nina",
+      "speaker": "Nina K."
+    }
+  ],
+  "transcript": "Kurze Frage in die Runde: Bei uns wurden die zwei Pflichtfortbildungen für dieses Quartal auf 16 bis 18 Uhr gelegt — direkt nach der Spätschicht, nicht während der Dienstzeit. Zählt das bei euch als Arbeitszeit, oder wird erwartet, dass man einfach bleibt?\n\nBei uns ist das schon immer so gelaufen. Die Themen sind vorgeschrieben, die Termine sind knapp, und irgendwann muss es eben stattfinden. Ich verstehe den Unmut, aber ganz ehrlich: davon geht die Welt nicht unter.\n\nIch leite die Station seit drei Jahren und sehe das naturgemäß von der anderen Seite. Das Budget für Fortbildungen wird zentral vergeben, und die Referenten sind an feste Termine gebunden — wir suchen sie uns nicht aus. Innerhalb der Dienstzeit müssten wir dafür die Besetzung reduzieren, und das geht bei der aktuellen Personallage schlicht nicht auf.\n\n@Stationsleitung Wagner Wenn ich Sie richtig verstehe, ist das Problem also die Besetzung, nicht der Wille. Das leuchtet mir ein — nur folgt daraus doch nicht automatisch, dass die Zeit unbezahlt bleibt. Bei uns wird genau dieselbe Konstellation gelöst, indem die Fortbildungszeit separat erfasst und im Folgemonat als Freizeit ausgeglichen wird. Beschwert hat sich seitdem niemand mehr.\n\nPriyas Lösung trifft es eigentlich genau. Mich stört ehrlich gesagt weniger die Fortbildung selbst — die ist ja sinnvoll — als der Umstand, dass niemand vorher gefragt hat, wie das mit unseren Diensten überhaupt zusammenpasst. Hätte man uns vorher gefragt, dann wäre vermutlich sofort eine Lösung wie Priyas dabei herausgekommen, und wir würden jetzt nicht darüber streiten.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "live",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: während, wenn, und, aber, oder, dass. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch."
+    ]
+  },
+  "review_notes": "NOPE",
+  "approved_by": "HARSH",
+  "approved_at": "2026-09-15T15:43:30.783Z",
+  "created_at": "2026-09-15T15:40:28.125Z",
+  "updated_at": "2026-09-15T15:44:07.757Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-26",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 26 — Alternativvorschlag: Kantinenverpflegung",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Viele Kolleginnen und Kollegen beschweren sich über das Kantinenangebot. Schreiben Sie einen kurzen Alternativvorschlag an die Kantinenleitung.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Beschreiben Sie kurz das aktuelle Problem.",
+              "Machen Sie einen konkreten Alternativvorschlag.",
+              "Formulieren Sie ihn als Vorschlag, nicht als Forderung."
+            ],
+            "register": "neutral",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "suggest_alternative",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Beschreiben Sie kurz das aktuelle Problem.",
+              "Machen Sie einen konkreten Alternativvorschlag.",
+              "Formulieren Sie ihn als Vorschlag, nicht als Forderung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Anrede und Betreffzeile, die das Anliegen klar benennt.",
+              "Sachliche Problembeschreibung ohne persönliche Schuldzuweisungen (z. B. mangelnde Abwechslung, einseitiges Angebot).",
+              "Konkreter, realistischer Alternativvorschlag (z. B. eine zusätzliche Salatbar, ein vegetarisches Gericht, ein Wunschsystem).",
+              "Vorschlag durch Konjunktiv II oder Formulierungen wie 'Wäre es möglich...' klar als Idee kennzeichnen, nicht als Forderung.",
+              "Positiver Ausblick und Angebot zur Unterstützung oder Diskussion."
+            ],
+            "expected_answer": "Betreff: Anregung für ein abwechslungsreicheres Kantinenangebot\n\nSehr geehrte Damen und Herren,\n\nviele Kolleginnen und Kollegen haben sich in letzter Zeit über das Kantinenessen geäußert. Häufig wird kritisiert, dass das Angebot recht einseitig ist und vor allem aus schweren, fleischlastigen Gerichten besteht. Frische, leichte Alternativen fehlen oft.\n\nDaher möchte ich einen konkreten Vorschlag machen: Wäre es möglich, zusätzlich eine kleine Salatbar mit täglich wechselnden Zutaten einzurichten? Dies würde nicht nur für mehr Abwechslung sorgen, sondern auch den unterschiedlichen Ernährungsbedürfnissen im Team entgegenkommen. Vielleicht könnte man dies zunächst an zwei Tagen pro Woche testen.\n\nIch bin überzeugt, dass ein solches Angebot auf große Zustimmung stoßen würde, und stehe für ein Gespräch gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

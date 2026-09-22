@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-lesen-t5-s5",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 5",
+  "minutes": 11,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "instruction": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Wohnheimordnung Haus Quellenweg\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nIn den Wohnbereichen gelten tägliche Ruhezeiten von 22 Uhr bis 7 Uhr. Musikinstrumente, laute Gespräche auf den Fluren und private Feiern sind in dieser Zeit nicht erlaubt. Vor Prüfungswochen kann die Heimleitung zusätzliche Ruhezeiten festlegen. Auf Antrag der Hausvertretung kann die Heimleitung einzelne Gemeinschaftsbereiche früher schließen.\n\n**Paragraph 28**\n(1) Bewohnerinnen und Bewohner erhalten beim Einzug einen persönlichen Chip für Haustür, Fahrradraum und Waschküche. Der Chip darf nicht an Gäste weitergegeben werden. (2) Ein Verlust ist unverzüglich beim Bereitschaftsdienst zu melden; für die Sperrung und Neuausstellung wird eine Pauschale berechnet. (3) Gäste können das Haus nur betreten, wenn sie von einer Bewohnerin oder einem Bewohner begleitet werden. Für technische Probleme mit dem Chip ist ausschließlich der Bereitschaftsdienst zuständig.\n\n**Paragraph 29**\nKüche, Lernraum und Dachterrasse stehen allen Bewohnerinnen und Bewohnern offen, sofern sie nicht für eine Veranstaltung reserviert sind. Gruppen mit mehr als acht Personen müssen sich spätestens drei Werktage vorher im Büro anmelden. Nach der Nutzung sind Geschirr, Tische und Boden zu reinigen. Private Gegenstände dürfen in diesen Räumen nicht dauerhaft gelagert werden. Reservierungen für Hausgruppen haben Vorrang vor privaten Feiern.\n\n**Paragraph 30**\nMängel an Heizung, Wasserleitungen, Fenstern oder elektrischen Anlagen sind über das digitale Formular der Hausverwaltung zu melden. Außerhalb der Bürozeiten ist bei dringenden Schäden die Notfallnummer zu nutzen. Eigene Reparaturversuche sind untersagt. Wird ein Schaden verspätet gemeldet und vergrößert sich dadurch, können die zusätzlichen Kosten der verantwortlichen Person berechnet werden. Die Hausverwaltung bestätigt den Eingang der Meldung im System.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 5] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Schlüssel und Zugang",
+            "B: Ruhezeiten",
+            "C: Besuchsregelung",
+            "D: Gemeinschaftsräume",
+            "E: Mängelmeldung",
+            "F: Kaution",
+            "G: Kündigung",
+            "H: Postannahme"
+          ],
+          "payload": {
+            "context": "Wohnheimordnung Haus Quellenweg\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nIn den Wohnbereichen gelten tägliche Ruhezeiten von 22 Uhr bis 7 Uhr. Musikinstrumente, laute Gespräche auf den Fluren und private Feiern sind in dieser Zeit nicht erlaubt. Vor Prüfungswochen kann die Heimleitung zusätzliche Ruhe..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Schlüssel und Zugang"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Schlüssel und Zugang\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 5] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Schlüssel und Zugang",
+            "B: Ruhezeiten",
+            "C: Besuchsregelung",
+            "D: Gemeinschaftsräume",
+            "E: Mängelmeldung",
+            "F: Kaution",
+            "G: Kündigung",
+            "H: Postannahme"
+          ],
+          "payload": {
+            "context": "Wohnheimordnung Haus Quellenweg\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nIn den Wohnbereichen gelten tägliche Ruhezeiten von 22 Uhr bis 7 Uhr. Musikinstrumente, laute Gespräche auf den Fluren und private Feiern sind in dieser Zeit nicht erlaubt. Vor Prüfungswochen kann die Heimleitung zusätzliche Ruhe..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Schlüssel und Zugang"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Schlüssel und Zugang\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 5] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Schlüssel und Zugang",
+            "B: Ruhezeiten",
+            "C: Besuchsregelung",
+            "D: Gemeinschaftsräume",
+            "E: Mängelmeldung",
+            "F: Kaution",
+            "G: Kündigung",
+            "H: Postannahme"
+          ],
+          "payload": {
+            "context": "Wohnheimordnung Haus Quellenweg\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nIn den Wohnbereichen gelten tägliche Ruhezeiten von 22 Uhr bis 7 Uhr. Musikinstrumente, laute Gespräche auf den Fluren und private Feiern sind in dieser Zeit nicht erlaubt. Vor Prüfungswochen kann die Heimleitung zusätzliche Ruhe..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Schlüssel und Zugang"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Schlüssel und Zugang\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        }
+      ]
+    }
+  ]
+}

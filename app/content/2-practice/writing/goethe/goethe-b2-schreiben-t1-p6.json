@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p6",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #6",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zum Kauf von Secondhand-Kleidung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zum Kauf von Secondhand-Kleidung.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zum Kauf von Secondhand-Kleidung.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zum Kauf gebrauchter Kleidung.",
+              "Nennen Sie Gründe, warum Secondhand-Kleidung beliebter geworden ist.",
+              "Nennen Sie andere Möglichkeiten, Kleidung nachhaltiger zu nutzen.",
+              "Nennen Sie Vorteile dieser Möglichkeiten."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zum Kauf gebrauchter Kleidung.",
+              "Nennen Sie Gründe, warum Secondhand-Kleidung beliebter geworden ist.",
+              "Nennen Sie andere Möglichkeiten, Kleidung nachhaltiger zu nutzen.",
+              "Nennen Sie Vorteile dieser Möglichkeiten."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Einleitung: Persönliche Meinung zu Secondhand-Kleidung klar formulieren und zum Thema hinführen.",
+              "Gründe für Beliebtheit: Mindestens zwei Aspekte nennen (z. B. Nachhaltigkeit, Preis, Individualität).",
+              "Alternative nachhaltige Nutzung: Konkrete andere Möglichkeiten vorstellen (z. B. Kleidertausch, Reparieren, Leihen).",
+              "Vorteile der Alternativen: Für jede genannte Möglichkeit einen Vorteil erklären und mit Beispiel oder Begründung untermauern.",
+              "Schluss: Zusammenfassung oder Ausblick, z. B. Appell an die Gemeinschaft oder persönliches Fazit."
+            ],
+            "expected_answer": "Hallo zusammen,\n\nich finde das Thema sehr spannend, denn ich persönlich bin ein großer Fan von Secondhand-Kleidung. Meiner Meinung nach ist der Kauf gebrauchter Sachen eine hervorragende Möglichkeit, den eigenen Stil auszudrücken, ohne ständig den neuesten Trends der Fast-Fashion-Industrie hinterherzulaufen. Außerdem macht es einfach Spaß, in Secondhand-Läden nach besonderen Einzelstücken zu stöbern.\n\nIch denke, die wachsende Beliebtheit hat mehrere Gründe. Einerseits spielt das gestiegene Umweltbewusstsein eine große Rolle, denn durch den Kauf gebrauchter Kleidung werden Ressourcen geschont und Müllberge reduziert. Andererseits ist es natürlich auch eine Geldfrage: Hochwertige Markenkleidung wird so für viele Leute überhaupt erst erschwinglich. Nicht zu vergessen ist der Vintage-Trend, der Secondhand-Mode richtig cool gemacht hat.\n\nNeben dem Kauf gebrauchter Kleidung gibt es noch andere Wege, Mode nachhaltiger zu nutzen. Eine tolle Alternative sind Kleidertauschpartys, bei denen man im Freundeskreis ungetragene Stücke tauschen kann. Das ist nicht nur kostenlos, sondern stärkt auch die Gemeinschaft. Eine weitere Möglichkeit ist das Reparieren von Kleidung. Indem man kaputte Reißverschlüsse austauscht oder Löcher stopft, verlängert man die Lebensdauer eines Teils enorm und spart gleichzeitig Geld. Beide Alternativen haben den großen Vorteil, dass sie unsere Wertschätzung für Kleidung erhöhen und uns unabhängiger von der Wegwerfmentalität machen.\n\nWas sind eure Erfahrungen mit diesen Alternativen? Ich freue mich auf eure Beiträge!\n\nViele Grüße\nMarie",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

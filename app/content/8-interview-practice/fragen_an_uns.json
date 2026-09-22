@@ -1,0 +1,15 @@
+{
+  "id": "fragen_an_uns",
+  "de": "Haben Sie noch Fragen an uns?",
+  "category": "difficult",
+  "sourced": true,
+  "assesses": "The last thing they remember. Having no questions reads as no interest.",
+  "trap": "'No, everything is clear.'",
+  "trapDetect": {
+    "pattern": "(nein|keine fragen|alles klar|alles beantwortet)",
+    "scope": "opening"
+  },
+  "strong": "Two questions about the ward, the team or the Einarbeitung.",
+  "followUp": null,
+  "model_answer": null
+}

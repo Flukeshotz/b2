@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_unerwartet",
+  "order_index": 11,
+  "icon": "💬",
+  "title": "Moment, da ist noch etwas …",
+  "capability": "handling an unexpected turn in a clinical conversation",
+  "proof": "Moment, da ist noch etwas …",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Aufnahmegespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_unerwartet"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

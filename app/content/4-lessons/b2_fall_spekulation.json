@@ -1,0 +1,57 @@
+{
+  "id": "b2_fall_spekulation",
+  "order_index": 14,
+  "icon": "🔍",
+  "title": "Was könnte passiert sein?",
+  "capability": "formulating hypotheses and expressing uncertainty under incomplete information",
+  "proof": "Fakten und Vermutungen differenziert trennen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Hypothesen im Zwischenfall formulieren",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Zwischenfall im Spätdienst: Herr Berg (74 Jahre, gestern von der Intensivstation auf Normalstation verlegt) wird um 19:15 Uhr desorientiert und unruhig im Stationsflur angetroffen. Seine Infusionsnadel am linken Unterarm ist herausgerissen, auf seinem Schlafanzugärmel sind frische Blutflecken.",
+            "Auf Ansprache reagiert er fahrig und wiederholt: ‚Ich muss sofort nach Hause, der Herd in der Küche ist noch eingeschaltet!‘",
+            "Was sicher bekannt ist: Er war um 19:15 Uhr allein im Flur, die Nadel ist disloziert, er äußert eine fixe Sorge um seine Wohnung. Was unklar ist: Wann er das Bett verlassen hat, ob er gestürzt ist oder ob ein akutes Delir durch den Stationswechsel vorliegt."
+          ]
+        },
+        {
+          "t": "notice",
+          "body": "Prüfer und Kollegium erwarten bei unvollständiger Information: Trennen Sie gesicherte Fakten von Vermutungen ('Fest steht…', 'Unklar bleibt…'). Nutzen Sie Konjunktiv II und Abstufungen der Wahrscheinlichkeit ('möglicherweise', 'dürfte', 'eine naheliegende Erklärung wäre').",
+          "title": "Hypothesen auf B2 sprachlich abstufen"
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Analysieren Sie den Vorfall für die ärztliche Übergabe (mind. 60 Wörter). Benennen Sie kurz die gesicherten Fakten, grenzen Sie das Unbekannte ab und formulieren Sie mindestens zwei plausible Hypothesen mit passenden Wahrscheinlichkeitsausdrücken.",
+          "guidance": [
+            "Fakten vs. Unbekanntes: Stellen Sie klar, was gesichert ist und was noch offen bleibt.",
+            "Zwei Hypothesen: Formulieren Sie mindestens zwei denkbare Ursachen (z. B. Verwirrtheit durch Stationswechsel, Panikreaktion mit Selbstentfernung der Nadel oder versehentliches Abreißen beim Aufstehen).",
+            "Wahrscheinlichkeit abstufen: Nutzen Sie Konjunktiv II (könnte, wäre) und Modalwörter (vermutlich, möglicherweise, wahrscheinlich)."
+          ],
+          "minWords": 60,
+          "taskType": "spekulation",
+          "afterHints": [
+            "Fest steht, dass Herr Berg um 19:15 Uhr im Flur angetroffen wurde und die Nadel disloziert war.",
+            "Eine erste plausible Hypothese ist, dass er infolge des gestrigen Stationswechsels ein Durchgangssyndrom entwickelt hat.",
+            "Möglicherweise ist er in Panik aufgestanden und mit dem Schlauch hängengeblieben; denkbar wäre auch, dass er die Nadel selbst entfernt hat."
+          ],
+          "capabilities": [
+            "speculate",
+            "justify",
+            "structure"
+          ],
+          "experienceId": "exp_fall_spekulation"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

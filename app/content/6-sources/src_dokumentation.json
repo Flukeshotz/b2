@@ -1,0 +1,204 @@
+{
+  "id": "src_dokumentation",
+  "kind": "audio",
+  "title": "Dokumentation: Tablet oder Papier?",
+  "hook": "Zwei Kollegen, ein neues Tablet, und ein Streit, der am Ende gar nicht mehr vom Tablet handelt.",
+  "theme": 7,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Hören Aufgabe 1 — kurzes Gespräch, zweimal gehört",
+    "theme": 7,
+    "checks": [],
+    "sections": [
+      {
+        "id": "s1",
+        "to": 3,
+        "url": "/b2/audio/src_dokumentation_s1.mp3",
+        "file": "src_dokumentation_s1.mp3",
+        "from": 0,
+        "label": "Die Beschwerde",
+        "startMs": 0,
+        "durationMs": 33649
+      },
+      {
+        "id": "s2",
+        "to": 6,
+        "url": "/b2/audio/src_dokumentation_s2.mp3",
+        "file": "src_dokumentation_s2.mp3",
+        "from": 4,
+        "label": "Zwei Fehlerarten",
+        "startMs": 33649,
+        "durationMs": 29838
+      },
+      {
+        "id": "s3",
+        "to": 9,
+        "url": "/b2/audio/src_dokumentation_s3.mp3",
+        "file": "src_dokumentation_s3.mp3",
+        "from": 7,
+        "label": "Was sie wirklich stört",
+        "startMs": 63487,
+        "durationMs": 22497
+      }
+    ],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "inference_required"
+      ],
+      "delivery": [
+        "authentic_speed"
+      ]
+    },
+    "experience_types": [
+      "listening",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "einen Einwand vorwegnehmen: bevor du das sagst — …",
+      "eine Erfahrung gegen ein Argument setzen: in der Theorie … in der Praxis …",
+      "eine Bedingung nachschieben: es sei denn, …",
+      "eine Position einschränken, nicht aufgeben: ich bin ja nicht grundsätzlich dagegen"
+    ],
+    "primary_capability": "understand_speech",
+    "secondary_capabilities": [
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Du wirkst genervt. Was ist los?",
+      "ms": 0,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Markus"
+    },
+    {
+      "de": "Die neue Dokumentations-App. Ich soll jetzt jede Übergabe zusätzlich ins Tablet tippen. Als hätte ich sonst nichts zu tun.",
+      "ms": 2594,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Sabine"
+    },
+    {
+      "de": "Ich weiß, es kostet erstmal Zeit. Aber bevor du das ganz ablehnst — letzte Woche hat die App bei mir einen Fehler gefunden, den ich selbst nicht gesehen hätte. Zwei Einträge, die sich widersprochen haben.",
+      "ms": 9919,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Markus"
+    },
+    {
+      "de": "Das mag sein. In der Theorie klingt das großartig. In der Praxis heißt es: ich stehe am Bett und tippe, statt mit dem Patienten zu sprechen.",
+      "ms": 23070,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Sabine"
+    },
+    {
+      "de": "Ich bin ja nicht grundsätzlich gegen Papier. Nur, ehrlich gesagt, bei Papier hat's bei uns auch schon Fehler gegeben. Die Handschrift von der Nachtschicht, die keiner lesen konnte.",
+      "ms": 32944,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Markus"
+    },
+    {
+      "de": "Das stimmt, das war ärgerlich. Es sei denn, jemand schreibt wirklich unleserlich, finde ich Papier trotzdem schneller. Ich muss nicht warten, bis das Gerät hochgefahren ist.",
+      "ms": 43546,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Sabine"
+    },
+    {
+      "de": "Das mit dem Hochfahren nervt mich auch. Aber das ist doch eher ein Problem mit den alten Geräten, oder? Nicht mit der Idee an sich.",
+      "ms": 53420,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Markus"
+    },
+    {
+      "de": "Vielleicht. Mich stört ehrlich gesagt weniger die App selbst als der Zeitpunkt. Mitten im Spätdienst, ohne Einweisung, das war einfach zu viel auf einmal.",
+      "ms": 62930,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Sabine"
+    },
+    {
+      "de": "Da hast du recht. Eine Schulung vorher wäre besser gewesen.",
+      "ms": 72076,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Markus"
+    },
+    {
+      "de": "Wenn wir das nächste Mal eine Einweisung bekommen und genug Zeit zum Üben, dann rede ich noch mal drüber. Aber bitte nicht wieder so.",
+      "ms": 76126,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Sabine"
+    }
+  ],
+  "transcript": "Markus: Du wirkst genervt. Was ist los?\n\nSabine: Die neue Dokumentations-App. Ich soll jetzt jede Übergabe zusätzlich ins Tablet tippen. Als hätte ich sonst nichts zu tun.\n\nMarkus: Ich weiß, es kostet erstmal Zeit. Aber bevor du das ganz ablehnst — letzte Woche hat die App bei mir einen Fehler gefunden, den ich selbst nicht gesehen hätte. Zwei Einträge, die sich widersprochen haben.\n\nSabine: Das mag sein. In der Theorie klingt das großartig. In der Praxis heißt es: ich stehe am Bett und tippe, statt mit dem Patienten zu sprechen.\n\nMarkus: Ich bin ja nicht grundsätzlich gegen Papier. Nur, ehrlich gesagt, bei Papier hat's bei uns auch schon Fehler gegeben. Die Handschrift von der Nachtschicht, die keiner lesen konnte.\n\nSabine: Das stimmt, das war ärgerlich. Es sei denn, jemand schreibt wirklich unleserlich, finde ich Papier trotzdem schneller. Ich muss nicht warten, bis das Gerät hochgefahren ist.\n\nMarkus: Das mit dem Hochfahren nervt mich auch. Aber das ist doch eher ein Problem mit den alten Geräten, oder? Nicht mit der Idee an sich.\n\nSabine: Vielleicht. Mich stört ehrlich gesagt weniger die App selbst als der Zeitpunkt. Mitten im Spätdienst, ohne Einweisung, das war einfach zu viel auf einmal.\n\nMarkus: Da hast du recht. Eine Schulung vorher wäre besser gewesen.\n\nSabine: Wenn wir das nächste Mal eine Einweisung bekommen und genug Zeit zum Üben, dann rede ich noch mal drüber. Aber bitte nicht wieder so.",
+  "audio_url": "/b2/audio/src_dokumentation_s1.mp3",
+  "duration_s": 86,
+  "markers": [
+    {
+      "en": "before you say that …",
+      "ms": 9919,
+      "why": "Names the objection you expect and heads it off before it lands.",
+      "match": "bevor du das ganz ablehnst",
+      "phrase": "bevor du das sagst …",
+      "speaker": "Markus"
+    },
+    {
+      "en": "in theory … in practice …",
+      "ms": 23070,
+      "why": "Grants an idea's logic while denying it holds up once it meets real conditions.",
+      "match": "in der Theorie",
+      "phrase": "in der Theorie … in der Praxis …",
+      "speaker": "Sabine"
+    },
+    {
+      "en": "unless …",
+      "ms": 43546,
+      "why": "Attaches one exception to a claim without withdrawing the claim itself.",
+      "match": "es sei denn",
+      "phrase": "es sei denn, …",
+      "speaker": "Sabine"
+    },
+    {
+      "en": "I'm not fundamentally against it",
+      "ms": 32944,
+      "why": "Narrows a position from opposition to a specific objection — the move the whole dialogue turns on.",
+      "match": "nicht grundsätzlich gegen",
+      "phrase": "ich bin ja nicht grundsätzlich dagegen",
+      "speaker": "Markus"
+    }
+  ],
+  "status": "live",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on lexical_range — Abstrakte Nomen: unleserlich, einweisung, schulung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": "h",
+  "approved_at": "2026-09-16T06:45:39.741Z",
+  "created_at": "2026-09-16T06:44:54.608Z",
+  "updated_at": "2026-09-16T06:47:13.173Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

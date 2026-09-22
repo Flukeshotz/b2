@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-27",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 27 — Stellungnahme: Kernarbeitszeiten",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihr Unternehmen erwägt, feste Kernarbeitszeiten (10–15 Uhr) einzuführen. Nehmen Sie dazu Stellung.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Stützen Sie sie mit mindestens einem Argument.",
+              "Gehen Sie kurz auf eine mögliche Gegenposition ein."
+            ],
+            "register": "neutral",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "agree_disagree",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Stützen Sie sie mit mindestens einem Argument.",
+              "Gehen Sie kurz auf eine mögliche Gegenposition ein."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Position klar im ersten Satz benennen (Zustimmung oder Ablehnung).",
+              "Mindestens ein ausführliches Argument mit Beispiel oder Begründung liefern.",
+              "Eine Gegenposition sachlich nennen und kurz entkräften oder relativieren.",
+              "Typische B2-Redemittel verwenden: 'Ich bin der festen Überzeugung...', 'Ein wesentlicher Vorteil liegt in...', 'Dem könnte man entgegenhalten, dass...', 'Allerdings sollte man bedenken...'"
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass die Einführung fester Kernarbeitszeiten von 10 bis 15 Uhr für unser Unternehmen äußerst vorteilhaft wäre. Ein wesentlicher Vorteil liegt in der verbesserten internen Kommunikation: Wenn alle Kollegen zu diesen Zeiten anwesend sind, lassen sich Meetings problemlos planen und dringende Fragen können sofort geklärt werden, was die Effizienz unserer Projekte deutlich steigern würde. Natürlich könnte man einwenden, dass starre Vorgaben die Flexibilität der Mitarbeiter einschränken und die Work-Life-Balance beeinträchtigen. Allerdings bietet das Modell ja weiterhin genügend Spielraum, um die restliche Arbeitszeit individuell zu gestalten. Daher überwiegen aus meiner Sicht die klaren organisatorischen Vorteile, solange die Kernzeit nicht zu starr gehandhabt wird.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Musterkriterien B2: Strukturierter Aufbau (Einleitung, eigene Meinung, Vor- und Nachteile mit Begründung, konkretes Beispiel, Fazit). Nutzen Sie B2-Konnektoren (einerseits/andererseits, zwar…aber) und Redemittel zur Meinungsäußerung."
+        }
+      ]
+    }
+  ]
+}

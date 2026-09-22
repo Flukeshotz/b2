@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p8",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #8",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zu kurzen Online-Kursen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zu kurzen Online-Kursen.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zu kurzen Online-Kursen.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zu kurzen Online-Kursen für Erwachsene.",
+              "Nennen Sie Gründe, warum solche Kurse für viele Menschen attraktiv sind.",
+              "Nennen Sie Schwierigkeiten beim Lernen mit kurzen Online-Kursen.",
+              "Nennen Sie Vorteile, wenn Online-Kurse mit anderen Lernformen kombiniert werden."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zu kurzen Online-Kursen für Erwachsene.",
+              "Nennen Sie Gründe, warum solche Kurse für viele Menschen attraktiv sind.",
+              "Nennen Sie Schwierigkeiten beim Lernen mit kurzen Online-Kursen.",
+              "Nennen Sie Vorteile, wenn Online-Kurse mit anderen Lernformen kombiniert werden."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Meinung klar und differenziert darlegen (nicht nur Pro oder Contra, sondern abwägend).",
+              "Attraktivität durch Flexibilität, Zeitersparnis und niedrige Kosten begründen.",
+              "Konkrete Schwierigkeiten wie fehlende Vertiefung, mangelnde Interaktion und hohe Selbstdisziplin nennen.",
+              "Vorteile der Kombination (z. B. mit Präsenzphasen) beschreiben und mit Beispielen veranschaulichen.",
+              "Typische B2-Redemittel verwenden: 'Meiner Ansicht nach...', 'Ein wesentlicher Vorteil ist...', 'Allerdings sollte man nicht außer Acht lassen, dass...', 'Aus diesem Grund plädiere ich für...'"
+            ],
+            "expected_answer": "Hallo zusammen,\n\nzum Thema kurze Online-Kurse möchte ich gerne meine Gedanken teilen. Meiner Ansicht nach sind diese Formate eine hervorragende Ergänzung zum traditionellen Lernen, auch wenn sie klassische Bildung nicht vollständig ersetzen können.\n\nFür viele Erwachsene sind solche Kurse vor allem aus zwei Gründen attraktiv: Zum einen passen sie sich perfekt einem vollen Terminkalender an, da man ortsunabhängig und in kleinen Einheiten lernen kann. Zum anderen sind sie oft kostengünstig oder sogar kostenlos, was den Zugang zu Bildung demokratisiert.\n\nAllerdings sollte man die Schwierigkeiten nicht außer Acht lassen. Das Lernen mit kurzen Online-Kursen erfordert ein hohes Maß an Selbstdisziplin, und die Abbruchquote ist entsprechend hoch. Zudem bleibt das Wissen manchmal oberflächlich, weil die Zeit für tiefgehende Diskussionen und Rückfragen fehlt. Die fehlende soziale Interaktion kann außerdem demotivierend wirken.\n\nAus diesem Grund plädiere ich für eine Kombination verschiedener Lernformen. Wenn man beispielsweise einen Online-Kurs mit einem Workshop vor Ort oder einem regelmäßigen virtuellen Tutorium verknüpft, vereint man die Vorteile beider Welten: die Flexibilität des digitalen Lernens mit der wertvollen persönlichen Betreuung und dem Austausch in der Gruppe. So wird aus passiver Wissensaufnahme ein aktiver und nachhaltiger Lernprozess.\n\nViele Grüße\nAnna",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

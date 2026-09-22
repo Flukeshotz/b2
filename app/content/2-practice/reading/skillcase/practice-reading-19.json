@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-19",
+  "board": "custom",
+  "title": "Leseverstehen — Elektromobilität im Firmenfuhrpark: eine nüchterne Bilanz",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Elektromobilität im Firmenfuhrpark: eine nüchterne Bilanz",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Vor zwei Jahren stellte ein mittelständischer Logistikdienstleister die Hälfte seines Fuhrparks auf Elektrofahrzeuge um. Die erste Zwischenbilanz fällt gemischt aus.\n\nPositiv: Die Wartungskosten sanken um etwa 30 Prozent, da Elektromotoren deutlich weniger verschleißanfällige Bauteile besitzen als Verbrennungsmotoren. Auch die Fahrer äußerten sich überwiegend positiv über den ruhigeren, vibrationsärmeren Fahrbetrieb.\n\nNegativ schlägt vor allem die Reichweite zu Buche: Auf längeren Routen, insbesondere im ländlichen Raum mit dünnem Ladenetz, mussten Fahrer wiederholt ungeplante Ladepausen einlegen, die den Zeitplan durcheinanderbrachten. In drei dokumentierten Fällen führte dies zu verspäteten Lieferungen, was in der Kundenzufriedenheit messbar spürbar war.\n\nDas Unternehmen zieht daraus keinen grundsätzlichen Schluss gegen Elektromobilität, sondern eine differenzierte Konsequenz: Elektrofahrzeuge werden künftig gezielt für Kurzstrecken im städtischen Raum eingesetzt, während Langstrecken vorerst weiterhin mit Verbrennungsfahrzeugen bedient werden. Eine vollständige Umstellung, so die Geschäftsführung, sei erst sinnvoll, wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert habe.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war laut Text ein positiver Effekt der Umstellung auf Elektrofahrzeuge?",
+          "options": [
+            "Die Anschaffungskosten sanken deutlich.",
+            "Die Wartungskosten sanken um etwa 30 Prozent.",
+            "Die Lieferzeiten verkürzten sich generell."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Wartungskosten sanken um etwa 30 Prozent."
+          },
+          "explanation": "\"Die Wartungskosten sanken um etwa 30 Prozent\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Text traten die Reichweitenprobleme vor allem auf kurzen Strecken in der Stadt auf.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Die Probleme traten \"auf längeren Routen, insbesondere im ländlichen Raum\" auf."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Konsequenz zieht das Unternehmen aus den gemischten Erfahrungen?",
+          "options": [
+            "Vollständige Rückkehr zu Verbrennungsfahrzeugen.",
+            "Elektrofahrzeuge gezielt für Kurzstrecken einsetzen, Langstrecken weiter mit Verbrennern bedienen.",
+            "Sofortige vollständige Umstellung auf Elektrofahrzeuge."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Elektrofahrzeuge gezielt für Kurzstrecken einsetzen, Langstrecken weiter mit Verbrennern bedienen."
+          },
+          "explanation": "\"eine differenzierte Konsequenz: … künftig gezielt für Kurzstrecken … während Langstrecken vorerst weiterhin mit Verbrennungsfahrzeugen bedient werden\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Unter welcher Bedingung hält die Geschäftsführung eine vollständige Umstellung für sinnvoll?",
+          "options": [
+            "Wenn die Anschaffungspreise weiter sinken.",
+            "Wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert.",
+            "Wenn alle Fahrer damit einverstanden sind."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert."
+          },
+          "explanation": "\"sei erst sinnvoll, wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert habe\"."
+        }
+      ]
+    }
+  ]
+}

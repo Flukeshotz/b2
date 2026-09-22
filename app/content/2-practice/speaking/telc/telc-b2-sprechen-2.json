@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-2",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Sprechen, Übungsset 2",
+  "minutes": 4,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Sprechen (Gemeinsam etwas planen) — not an official telc task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Gemeinsam planen: Begrüßungsveranstaltung für neue Mitarbeitende",
+      "instruction": "Sprechen Sie etwa 2 Minuten.",
+      "minutes": 4,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Ihre Abteilung bekommt nächste Woche drei neue Kolleginnen und Kollegen. Sie planen zusammen mit einer Kollegin/einem Kollegen eine kurze Begrüßungsveranstaltung. Machen Sie Vorschläge zu Ort, Programm und Zeitpunkt, und begründen Sie Ihre Ideen. Sprechen Sie etwa 2 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete Vorschläge zu Ort (z. B. Besprechungsraum, Café), Programm (z. B. Vorstellungsrunde, Rundgang) und Zeitpunkt (z. B. Vormittag) machen",
+              "Jeden Vorschlag nachvollziehbar begründen (z. B. angenehme Atmosphäre, Kennenlernen erleichtern)",
+              "Aufgabenbezug deutlich machen: gemeinsame Planung mit einer Kollegin/einem Kollegen sprachlich aufgreifen (z. B. 'Wir könnten...', 'Was hältst du von...?')",
+              "Typische B2-Redemittel für Vorschläge und Begründungen verwenden (z. B. 'Ich würde vorschlagen...', 'Dafür spricht...', 'Das hätte den Vorteil...')",
+              "Flüssiger, strukturierter Monolog mit Einleitung und kurzem Schlusssatz"
+            ],
+            "expected_answer": "Also, ich habe mir schon ein paar Gedanken zu unserer kleinen Begrüßungsveranstaltung nächste Woche gemacht und wollte meine Ideen mit dir besprechen. Was den Ort angeht, würde ich vorschlagen, nicht den großen Konferenzraum zu nehmen, sondern den kleinen Besprechungsraum neben der Cafeteria. Der ist einfach viel gemütlicher und hat eine entspanntere Atmosphäre, was für neue Kolleginnen und Kollegen sicher angenehmer ist als so ein steriler, großer Raum. Außerdem könnten wir dort ein paar Stehtische aufstellen, das lockert die Situation auf. Was hältst du davon? Für das Programm stelle ich mir vor, dass wir die Veranstaltung bewusst kurz und informell halten. Nach einer kurzen Begrüßung durch die Abteilungsleitung könnte jeder der drei Neuen sich in ein, zwei Sätzen selbst vorstellen. Dafür spricht, dass das viel persönlicher ist, als wenn jemand anders das übernimmt. Im Anschluss fände ich eine kleine Kaffeerunde gut, bei der man ungezwungen miteinander ins Gespräch kommen kann. Das hätte den Vorteil, dass die neuen Kollegen gleich erste Kontakte knüpfen können. Zum Zeitpunkt: Ich denke, der Dienstagvormittag um zehn Uhr wäre ideal. Da sind die meisten schon im Büro, aber noch nicht im Tagesstress versunken. Nach der Begrüßung könnte dann jemand aus dem Team einen kurzen Rundgang durch die wichtigsten Räume machen, damit sie sich gleich orientieren können. Insgesamt sollten wir darauf achten, dass die Stimmung herzlich und willkommen heißend ist, aber niemand überfordert wird. Ich bin gespannt, was du zu meinen Vorschlägen sagst.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Aktive partnerorientierte Planung (ca. 2 Minuten). Machen Sie strukturierte Vorschläge für Ablauf, Ort und Termin, reagieren Sie auf Vorschläge und Bedenken Ihres Gegenübers und einigen Sie sich auf konkrete Vereinbarungen."
+        }
+      ]
+    }
+  ]
+}

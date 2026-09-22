@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-22",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 22 — Widerspruch: Großraumbüros",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ein Kommentar behauptet: \"Großraumbüros sind für die Produktivität grundsätzlich schädlich.\" Schreiben Sie eine Antwort, in der Sie widersprechen oder die Aussage differenzieren.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Räumen Sie ein, was an der Aussage teilweise stimmen könnte.",
+              "Widersprechen Sie dann mit einem eigenen Argument.",
+              "Nutzen Sie Konnektoren wie zwar … aber, allerdings."
+            ],
+            "register": "neutral",
+            "min_words": 90,
+            "rubric_id": 8,
+            "task_type": "response_to_opinion",
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Räumen Sie ein, was an der Aussage teilweise stimmen könnte.",
+              "Widersprechen Sie dann mit einem eigenen Argument.",
+              "Nutzen Sie Konnektoren wie zwar … aber, allerdings."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Zweiteiliger Aufbau: zuerst einräumen (z. B. Ablenkung durch Lärm), dann widersprechen (z. B. schnelle Absprachen fördern Kreativität).",
+              "Konnektoren wie zwar … aber, allerdings, einerseits … andererseits korrekt verwenden.",
+              "Argumente mit konkretem Beispiel oder persönlicher Erfahrung stützen.",
+              "Sachlicher, aber meinungsstarker Ton; klare eigene Positionierung."
+            ],
+            "expected_answer": "Zwar stimmt es, dass Großraumbüros durch ständige Telefonate oder Gespräche die Konzentration stören können, allerdings greift die pauschale Behauptung, sie seien grundsätzlich schädlich, zu kurz. Gerade in kreativen Berufen oder bei komplexen Projekten ermöglicht die offene Atmosphäre nämlich einen spontanen Austausch, der die Produktivität sogar deutlich steigern kann. Einerseits lassen sich Missverständnisse durch eine kurze direkte Nachfrage sofort klären, andererseits entstehen innovative Ideen oft erst im informellen Gespräch zwischen Kollegen. Meiner Erfahrung nach fördert diese Transparenz zudem den Teamgeist, was sich langfristig positiv auf die Arbeitsergebnisse auswirkt. Entscheidend ist letztlich eine gute Raumgestaltung mit ausreichend Rückzugsorten für ungestörtes Arbeiten.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

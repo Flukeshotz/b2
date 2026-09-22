@@ -1,0 +1,67 @@
+{
+  "id": "src_anleitung_uebergabe",
+  "kind": "text",
+  "title": "Anleitung: Neue Übergabe-Checkliste",
+  "hook": "Eine neue Anleitung für die Schichtübergabe — mit drei Ausnahmen, die leicht zu übersehen sind.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Teil 5 — schriftliche Anweisung verstehen",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "implicit_cohesion"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "Bedingungssätze in Anleitungen: nur falls, es sei denn, sofern nicht",
+      "Reihenfolge markieren: zunächst, anschließend, erst danach, zuletzt"
+    ],
+    "primary_capability": "structure",
+    "secondary_capabilities": []
+  },
+  "script": [
+    {
+      "de": "Ab sofort gilt für die Schichtübergabe folgender Ablauf:\n\nZunächst trägt die abgebende Person alle offenen Punkte in das digitale Übergabeprotokoll ein. Das gilt für jede Übergabe, unabhängig davon, wie ruhig die Schicht war — nur falls es sich um eine reine Kurzübergabe von weniger als fünf Minuten handelt, genügt ein mündlicher Hinweis ohne Eintrag.\n\nAnschließend liest die übernehmende Person das Protokoll durch, bevor das Gespräch beginnt. Es sei denn, das System ist ausnahmsweise nicht erreichbar — in diesem Fall wird die mündliche Übergabe wie bisher durchgeführt, und der Eintrag erfolgt nachträglich durch die abgebende Person, sobald das System wieder funktioniert.\n\nErst danach findet das eigentliche Übergabegespräch statt. Dabei werden ausschließlich Punkte besprochen, die im Protokoll als „dringend“ markiert sind, sofern nicht die übernehmende Person von sich aus weitere Fragen hat.\n\nZuletzt bestätigt die übernehmende Person die Übergabe mit ihrer Unterschrift im Protokoll — auch dann, wenn keine dringenden Punkte vorlagen. Eine Übergabe ohne diese Unterschrift gilt als nicht abgeschlossen, selbst wenn das Gespräch vollständig stattgefunden hat.",
+      "when": "",
+      "handle": "anleitung",
+      "speaker": "Anleitung"
+    }
+  ],
+  "transcript": "Ab sofort gilt für die Schichtübergabe folgender Ablauf:\n\nZunächst trägt die abgebende Person alle offenen Punkte in das digitale Übergabeprotokoll ein. Das gilt für jede Übergabe, unabhängig davon, wie ruhig die Schicht war — nur falls es sich um eine reine Kurzübergabe von weniger als fünf Minuten handelt, genügt ein mündlicher Hinweis ohne Eintrag.\n\nAnschließend liest die übernehmende Person das Protokoll durch, bevor das Gespräch beginnt. Es sei denn, das System ist ausnahmsweise nicht erreichbar — in diesem Fall wird die mündliche Übergabe wie bisher durchgeführt, und der Eintrag erfolgt nachträglich durch die abgebende Person, sobald das System wieder funktioniert.\n\nErst danach findet das eigentliche Übergabegespräch statt. Dabei werden ausschließlich Punkte besprochen, die im Protokoll als „dringend“ markiert sind, sofern nicht die übernehmende Person von sich aus weitere Fragen hat.\n\nZuletzt bestätigt die übernehmende Person die Übergabe mit ihrer Unterschrift im Protokoll — auch dann, wenn keine dringenden Punkte vorlagen. Eine Übergabe ohne diese Unterschrift gilt als nicht abgeschlossen, selbst wenn das Gespräch vollständig stattgefunden hat.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: denn, wenn, falls, sofern, sobald, und. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch.",
+      "level: script only warns on lexical_range — Abstrakte Nomen: ausnahmsweise, erreichbar. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T08:33:44.363Z",
+  "updated_at": "2026-09-16T08:33:44.363Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

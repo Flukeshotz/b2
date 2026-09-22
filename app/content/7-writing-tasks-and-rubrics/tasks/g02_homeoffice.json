@@ -1,0 +1,38 @@
+{
+  "id": "g02_homeoffice",
+  "rubric_id": 1,
+  "prompt_de": "Sie haben online einen Artikel über Homeoffice gelesen. Unter dem Artikel finden Sie folgenden Kommentar:\n\n„Homeoffice ist nur etwas für Menschen, die nicht gerne mit anderen zusammenarbeiten. Wer wirklich Karriere machen will, muss im Büro sein.\"\n\nSchreiben Sie einen Forumsbeitrag von ca. 180 Wörtern. Gehen Sie dabei auf folgende Punkte ein:\n1. Ihre eigene Meinung zum Homeoffice.\n2. Ein Argument, das für Ihre Position spricht.\n3. Ein Gegenargument und Ihre Reaktion darauf.\n4. Ein Vorschlag, wie Arbeitgeber damit umgehen sollten.",
+  "content_points": [
+    {
+      "id": "meinung",
+      "detector": "(meiner meinung nach|ich finde|ich denke|ich glaube|ich bin (der (meinung|ansicht)|daf(ü|ue)r|dagegen)|aus meiner sicht|meines erachtens)",
+      "label_de": "Eigene Meinung"
+    },
+    {
+      "id": "argument",
+      "detector": "(ein (wichtiges )?argument|zum einen|einerseits|erstens|dafür spricht|ein vorteil|der vorteil)",
+      "label_de": "Ein Argument dafür"
+    },
+    {
+      "id": "gegen",
+      "detector": "(andererseits|zwar|allerdings|kritiker|man k(ö|oe)nnte einwenden|dagegen spricht|ein nachteil|nat(ü|ue)rlich stimmt es)",
+      "label_de": "Gegenargument und Reaktion"
+    },
+    {
+      "id": "vorschlag",
+      "detector": "(ich schlage vor|man sollte|w(ä|ae)re es sinnvoll|mein vorschlag|sollte man|k(ö|oe)nnte man)",
+      "label_de": "Vorschlag"
+    }
+  ],
+  "target_words": 180,
+  "source": "authored",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p12",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #12",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zur Smartphone-Nutzung in der Familie.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zur Smartphone-Nutzung in der Familie.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zur Smartphone-Nutzung in der Familie.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zur Smartphone-Nutzung in Familien.",
+              "Nennen Sie Gründe, warum Smartphones im Familienalltag so präsent sind.",
+              "Nennen Sie Möglichkeiten, gemeinsame Regeln für die Nutzung zu finden.",
+              "Nennen Sie Vorteile solcher Regeln für Kinder und Erwachsene."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zur Smartphone-Nutzung in Familien.",
+              "Nennen Sie Gründe, warum Smartphones im Familienalltag so präsent sind.",
+              "Nennen Sie Möglichkeiten, gemeinsame Regeln für die Nutzung zu finden.",
+              "Nennen Sie Vorteile solcher Regeln für Kinder und Erwachsene."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Meinung klar formulieren (z. B. Fluch und Segen, maßvoll nutzen) und nicht nur die Leitpunkte abarbeiten.",
+              "Gründe differenziert darlegen (Beruf, Organisation, Unterhaltung, soziale Kontakte) und mit Beispielen veranschaulichen.",
+              "Konkrete, umsetzbare Regeln vorschlagen (z. B. handyfreie Zeiten, gemeinsame 'Handygarage') und erklären, wie man sie aushandelt.",
+              "Vorteile für beide Seiten getrennt nennen (z. B. Kinder: bessere Konzentration; Erwachsene: Vorbildfunktion, mehr echte Gespräche).",
+              "Text mit Einleitung (Bezug zum Thema) und Schluss (Appell/Zusammenfassung) versehen; Konnektoren wie 'einerseits... andererseits', 'zudem', 'daher' nutzen."
+            ],
+            "expected_answer": "Liebe Forumsmitglieder,\n\nzum Thema Smartphone-Nutzung in der Familie möchte ich gerne meine Gedanken teilen, denn ich finde, es ist eines der wichtigsten Themen unserer Zeit. Meiner Meinung nach sind Smartphones Fluch und Segen zugleich. Einerseits erleichtern sie unseren Alltag enorm, andererseits können sie das Familienleben stark belasten, wenn sie unkontrolliert genutzt werden.\n\nDie ständige Präsenz der Geräte hat aus meiner Sicht mehrere Gründe. Zum einen sind sie für viele Eltern ein unverzichtbares Arbeitsmittel, um auch von zu Hause aus erreichbar zu sein. Zum anderen dienen sie der Organisation des Familienalltags, etwa durch gemeinsame Kalender oder Einkaufslisten. Nicht zu vergessen ist die Unterhaltungsfunktion: Nach einem anstrengenden Tag greifen sowohl Erwachsene als auch Kinder schnell zum Handy, um abzuschalten oder sich mit Freunden auszutauschen.\n\nUm zu verhindern, dass jedes Familienmitglied in seiner eigenen digitalen Welt versinkt, halte ich gemeinsame Regeln für unerlässlich. Diese sollten nicht von oben herab bestimmt, sondern in einem offenen Gespräch ausgehandelt werden. Eine gute Möglichkeit ist beispielsweise die Einführung einer „Handygarage“, in der alle Geräte während der Mahlzeiten und nach einer bestimmten Uhrzeit am Abend liegen. Zudem könnte man handyfreie Familienzeiten vereinbaren, die für gemeinsame Aktivitäten reserviert sind.\n\nDie Vorteile solcher Absprachen sind enorm. Für Kinder bedeuten klare Grenzen weniger Ablenkung bei den Hausaufgaben und mehr Raum für Kreativität und echte soziale Kontakte. Erwachsene profitieren ebenfalls, denn sie werden ihrer Vorbildfunktion gerecht und erleben wieder bewusstere, ungestörte Momente mit ihren Kindern. Letztendlich stärken diese Regeln den familiären Zusammenhalt und sorgen für eine gesündere Balance zwischen digitaler und realer Welt.\n\nViele Grüße,\nAnna",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

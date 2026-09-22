@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p10",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #10",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Gesundheitsdaten aus Apps stärker geschützt werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung/Ablehnung) und strukturierter Aufbau mit Einleitung, 2–3 Argumenten und einem kurzen Fazit.",
+              "Verwendung von B2-Redemitteln zur Meinungsäußerung (z.B. 'Ich bin der festen Überzeugung, dass...', 'Ein weiterer wichtiger Aspekt ist...') und zur Abwägung ('Zwar..., aber...').",
+              "Konkrete Beispiele und Erläuterungen zu Datenschutz, Nutzen für die Forschung und möglichen Missbrauch (z.B. durch Arbeitgeber oder Versicherungen).",
+              "Hypothetische Formulierungen und Konjunktiv II ('könnte', 'würde', 'hätte zur Folge'), um abstrakte Szenarien zu beschreiben.",
+              "Ein ausgewogener, aber dennoch meinungsstarker Schluss, der die Hauptargumente kurz bündelt und einen Ausblick oder Appell enthält."
+            ],
+            "expected_answer": "Vielen Dank für die Einladung zur heutigen Debatte. Ich möchte gleich zu Beginn klar Stellung beziehen: Ich bin der festen Überzeugung, dass Gesundheitsdaten aus Apps unbedingt stärker geschützt werden müssen. Die aktuelle Situation, in der persönlichste Informationen oft unzureichend gesichert sind, halte ich für höchst problematisch. Ich möchte meine Position mit drei zentralen Argumenten untermauern. Erstens geht es um das Grundrecht auf informationelle Selbstbestimmung. Wenn ich eine Gesundheits-App nutze, vertraue ich ihr intimste Details an – meinen Herzrhythmus, meinen Schlaf, vielleicht sogar meine psychische Verfassung. Es kann nicht sein, dass diese Daten ohne mein explizites Wissen und meine ausdrückliche Zustimmung an Dritte weitergegeben oder zu Werbezwecken genutzt werden. Wir würden ja auch nicht wollen, dass jemand ungefragt unser Tagebuch liest. Ein zweiter, vielleicht noch beängstigenderer Punkt ist das Risiko der Diskriminierung. Stellen Sie sich einmal vor, Ihre Krankenversicherung oder ein potenzieller Arbeitgeber bekäme Zugriff auf diese Informationen. Theoretisch könnte eine Versicherung die Beiträge erhöhen oder jemanden ablehnen, nur weil die App unregelmäßigen Schlaf oder einen leicht erhöhten Ruhepuls aufzeichnet. Das wäre ein gläserner Mensch, dessen Lebenschancen durch Algorithmen beeinflusst werden. Dieses Szenario ist keineswegs Science-Fiction, sondern eine reale Gefahr, wenn wir keine strengen gesetzlichen Hürden einziehen. Drittens möchte ich jedoch auch die andere Seite der Medaille betrachten, denn ich verstehe das Argument, dass diese Daten für die medizinische Forschung extrem wertvoll sein könnten. Mit riesigen, anonymisierten Datensätzen ließen sich Krankheiten vielleicht früher erkennen oder neue Therapien entwickeln. Aber, und das ist der entscheidende Punkt, diese Nutzung muss an absolute, unumstößliche Bedingungen geknüpft sein. Anonymisierung muss wirklich Anonymisierung bedeuten und nicht nur ein schwaches Pseudonym, das leicht zu knacken ist. Die Entscheidung, ob meine Daten für Forschungszwecke gespendet werden, muss eine bewusste, aktive Entscheidung von mir sein – ein sogenanntes Opt-in-Verfahren, nicht eine versteckte Klausel im Kleingedruckten, der ich versehentlich zustimme. Zusammenfassend lässt sich sagen, dass der potenzielle Nutzen für die Allgemeinheit nicht das individuelle Recht auf Privatsphäre aushebeln darf. Wir brauchen dringend eine schärfere, transparente Regulierung, die die Bürger schützt und ihnen die volle Kontrolle über ihre sensibelsten Daten zurückgibt. Vielen Dank für Ihre Aufmerksamkeit.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

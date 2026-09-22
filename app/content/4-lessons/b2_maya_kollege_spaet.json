@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_kollege_spaet",
+  "order_index": 34,
+  "icon": "💬",
+  "title": "Ein Kollege kommt wiederholt zu spät",
+  "capability": "naming a repeated pattern factually and reaching a fix",
+  "proof": "Ein Kollege kommt wiederholt zu spät",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_kollege_spaet"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

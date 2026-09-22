@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p9",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #9",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Viele Mitarbeitende im Büro klagen über Rückenschmerzen und Stress. Die Leitung möchte einen Monat lang kurze Gesundheitspausen testen, ohne dass die Arbeit liegen bleibt. Planen Sie Übungen, Zeiten, Räume, Motivation und Auswertung.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nGesundheitspausen im Büro testen",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Struktur: Einleitung (Begrüßung, Thema nennen), Hauptteil (konkrete Vorschläge zu Übungen, Zeit, Raum, Motivation und Auswertung), Schluss (Zusammenfassung und Einladung zur Diskussion).",
+              "Konkrete und realistische Vorschläge machen, z. B. Übungen für Nacken und Rücken direkt am Schreibtisch, einen festen Zeitrahmen von 10 Minuten täglich nennen.",
+              "Typische Redemittel der Planung und Vorschläge nutzen: „Ich schlage vor, dass...“, „Wie wäre es, wenn...?“, „Am besten wäre...“, „Wir sollten...“, „Ich könnte mir vorstellen, dass...“.",
+              "Aufgabenstellung vollständig abdecken: Übungen, Zeiten, Räume, Motivation und Auswertung ansprechen.",
+              "Partner/in direkt ansprechen und zur gemeinsamen Entwicklung auffordern: „Was hältst du davon?“, „Hast du noch andere Ideen?“."
+            ],
+            "expected_answer": "Also, ich finde die Idee der Geschäftsleitung, einen Monat lang Gesundheitspausen zu testen, wirklich ausgezeichnet. Lass uns doch mal gemeinsam überlegen, wie wir das am besten organisieren können, ohne dass die Arbeit liegen bleibt. Ich habe mir schon ein paar Gedanken gemacht und würde dir gerne meine Vorschläge vorstellen. Was hältst du davon, wenn wir jeden Tag eine feste Zeit von nur zehn Minuten einplanen, zum Beispiel um 11 Uhr vormittags? Das ist kurz genug, um den Arbeitsfluss nicht zu stören, aber lang genug, um etwas zu bewirken. Bezüglich der Übungen schlage ich vor, dass wir uns auf zwei Hauptprobleme konzentrieren: den Rücken und die Stressreduktion. Ein Physiotherapeut aus der Belegschaft oder ein Video-Tutorial könnte einfache Dehnübungen für Nacken und Schultern anleiten, die man direkt am Schreibtisch machen kann. Für die Entspannung könnten wir eine kurze Atemübung oder eine Fantasiereise anbieten. Als Raum stelle ich mir vor, dass wir dafür den kleinen Konferenzraum nutzen. Der ist meistens um die Zeit frei und bietet genug Platz, damit man auch mal aufstehen und sich bewegen kann. Für Kollegen, die lieber im Büro bleiben möchten, könnten wir die Übungen parallel per Intranet streamen. Ein ganz wichtiger Punkt ist natürlich die Motivation. Wie wäre es, wenn wir das Ganze als gemeinsames Teamevent aufziehen? Wir könnten eine Art Stempelkarte einführen – für jede Teilnahme gibt es einen Stempel, und wer zehn Stempel voll hat, bekommt eine kleine gesunde Überraschung, vielleicht einen Obstkorb für die Abteilung. Das schafft einen spielerischen Anreiz. Und schließlich zur Auswertung: Am Ende des Testmonats sollten wir unbedingt eine kurze, anonyme Online-Umfrage machen. Darin fragen wir nach dem Wohlbefinden, der Akzeptanz und Verbesserungsvorschlägen. Die Ergebnisse fassen wir dann für die Leitung zusammen. Ich könnte mir vorstellen, dass das ein voller Erfolg wird. Aber das ist jetzt nur meine erste Ideensammlung. Was meinst du dazu? Hast du noch andere Vorschläge oder sollen wir das gemeinsam weiter ausarbeiten?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

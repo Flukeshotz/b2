@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-22",
+  "board": "custom",
+  "title": "Hörverstehen — Planung einer Teamfeier",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Planung einer Teamfeier",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_22_teamfeier.mp3",
+        "duration_seconds": 36.2,
+        "voices": "mia+conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war der erste Vorschlag von Kollegin 1?",
+          "options": [
+            "Die Feier im Büro selbst.",
+            "Die Feier draußen im Park.",
+            "Die Feier in einem Restaurant."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Feier draußen im Park."
+          },
+          "explanation": "\"Sollen wir die Teamfeier draußen im Park machen …\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum spricht Kollege 2 gegen die Feier im Park?",
+          "options": [
+            "Weil der Park zu weit entfernt ist.",
+            "Wegen des Risikos schlechten Wetters.",
+            "Weil er lieber italienisch essen möchte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wegen des Risikos schlechten Wetters."
+          },
+          "explanation": "\"wenn es regnet, haben wir ein Problem. Ein Restaurant wäre sicherer.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kollegin 1 lehnt das Argument von Kollege 2 zum Wetterrisiko ab.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Stimmt, das Wetterrisiko hatte ich nicht bedacht.\" — sie stimmt zu, nicht ab."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer übernimmt am Ende welche Aufgabe?",
+          "options": [
+            "Kollegin 1 bucht das Restaurant allein.",
+            "Beide kümmern sich gemeinsam nur um die Einladungen.",
+            "Kollege 2 fragt beim Restaurant an, Kollegin 1 kümmert sich um Einladungen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Kollege 2 fragt beim Restaurant an, Kollegin 1 kümmert sich um Einladungen."
+          },
+          "explanation": "\"Ich frage dort nach Verfügbarkeit … dann kümmere ich mich parallel um die Einladungen.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-23",
+  "board": "custom",
+  "title": "Hörverstehen — Kollegen uneinig über das Vorgehen bei einem Projekt",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Kollegen uneinig über das Vorgehen bei einem Projekt",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_23_projektvorgehen.mp3",
+        "duration_seconds": 33.8,
+        "voices": "klaus+jan"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt Kollege 1 zuerst vor?",
+          "options": [
+            "Das Projekt in kleinen wöchentlichen Etappen mit frühem Kundenfeedback abarbeiten.",
+            "Das ganze Projekt auf einmal abzuschließen.",
+            "Das Projekt an eine andere Firma abzugeben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Projekt in kleinen wöchentlichen Etappen mit frühem Kundenfeedback abarbeiten."
+          },
+          "explanation": "\"dass wir das Projekt in kleinen wöchentlichen Etappen abarbeiten, damit wir früh Feedback vom Kunden bekommen.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum ist Kollege 2 zunächst skeptisch?",
+          "options": [
+            "Weil Rückmeldungen dieses Kunden erfahrungsgemäß lange dauern.",
+            "Weil ihm die Etappen zu klein sind.",
+            "Weil er das Projekt für unnötig hält."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil Rückmeldungen dieses Kunden erfahrungsgemäß lange dauern."
+          },
+          "explanation": "\"bei diesem Kunden dauert jede Rückmeldung erfahrungsgemäß über eine Woche. Dann warten wir ständig.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Auf welchen Kompromiss einigen sich die beiden?",
+          "options": [
+            "In Etappen arbeiten, aber parallel weiterarbeiten statt auf jede Rückmeldung zu warten.",
+            "Komplett auf das Kundenfeedback zu verzichten.",
+            "Das Projekt zu verschieben, bis der Kunde schneller antwortet."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "In Etappen arbeiten, aber parallel weiterarbeiten statt auf jede Rückmeldung zu warten."
+          },
+          "explanation": "\"in Etappen arbeiten, aber nicht auf jede Rückmeldung warten, sondern parallel weiterarbeiten und später anpassen.\""
+        }
+      ]
+    }
+  ]
+}

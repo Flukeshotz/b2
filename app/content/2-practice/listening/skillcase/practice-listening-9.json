@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-9",
+  "board": "custom",
+  "title": "Hörverstehen — Rat: Wohnung kündigen wegen Schimmel",
+  "minutes": 10,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Rat: Wohnung kündigen wegen Schimmel",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_9_wohnungskuendigung.mp3",
+        "duration_seconds": 49.7,
+        "voices": "mia+ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist das Problem der Anruferin?",
+          "options": [
+            "Ein Nachbarschaftsstreit wegen Lärm.",
+            "Zu hohe Miete.",
+            "Schimmel im Badezimmer, auf den der Vermieter nicht reagiert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Schimmel im Badezimmer, auf den der Vermieter nicht reagiert."
+          },
+          "explanation": "\"In meiner Wohnung ist seit zwei Monaten Schimmel im Badezimmer, und der Vermieter reagiert nicht.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was rät die Beraterin als ersten konkreten Schritt?",
+          "options": [
+            "Ein eingeschriebenes Schreiben mit einer Frist von zwei Wochen senden.",
+            "Sofort fristlos kündigen.",
+            "Die Miete komplett einstellen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ein eingeschriebenes Schreiben mit einer Frist von zwei Wochen senden."
+          },
+          "explanation": "\"zuerst ein eingeschriebenes Schreiben mit einer klaren Frist von zwei Wochen zu senden\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Beraterin hält eine sofortige fristlose Kündigung für die beste erste Option.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Fristlos wäre riskant, ohne vorher klare Schritte gegangen zu sein.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Unter welcher Bedingung hält die Beraterin eine fristlose Kündigung für möglich?",
+          "options": [
+            "Sofort, ohne weitere Schritte.",
+            "Nur nach einem Gerichtsurteil.",
+            "Wenn der Vermieter auch nach Ablauf der gesetzten Frist nicht reagiert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Wenn der Vermieter auch nach Ablauf der gesetzten Frist nicht reagiert."
+          },
+          "explanation": "\"Dann kann eine fristlose Kündigung tatsächlich infrage kommen — aber erst dann.\""
+        }
+      ]
+    }
+  ]
+}

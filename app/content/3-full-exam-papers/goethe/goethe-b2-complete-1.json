@@ -1,0 +1,340 @@
+{
+  "id": "goethe-b2-complete-1",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket",
+  "minutes": 58,
+  "source": "Skillcase, authored. Composed exam-format practice paper for Goethe B2 (Lesen, Hören, Schreiben, Sprechen) — not an official Goethe paper. Hören reuses Übungsset 1's transcript and audio.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen, solange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr mehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur Arbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter unterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu sein. Niemand sagt es offen, aber wer abends um acht keine E-Mail beantwortet, gilt schnell als wenig engagiert. Die Grenze zwischen Arbeit und Freizeit verschwimmt genau dort, wo sie eigentlich klarer werden sollte.\n\nEin Kollege hat kürzlich vorgeschlagen, feste \"Nicht-erreichbar\"-Zeiten im Kalender einzutragen. Das halte ich für einen guten Ansatz — nicht, weil die Freiheit falsch wäre, sondern weil sie ohne klare Regeln zulasten der eigenen Erholung geht.\n\nZurück zur Stechuhr möchte ich trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie hat sich die Einstellung des Autors zur Vertrauensarbeitszeit entwickelt?",
+          "options": [
+            "Er lehnt sie inzwischen komplett ab.",
+            "Er sieht sie inzwischen differenzierter als am Anfang.",
+            "Er hat seine Meinung nicht geändert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er sieht sie inzwischen differenzierter als am Anfang."
+          },
+          "explanation": "Er war zunächst begeistert (\"Am Anfang war ich begeistert\"), sieht es jetzt aber \"nüchterner\" — eine differenziertere Sicht, keine Ablehnung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Autor sagt, dass niemand offen verlangt, ständig erreichbar zu sein.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Niemand sagt es offen\" — genau das beschreibt der Text."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt der Kollege des Autors konkret vor?",
+          "options": [
+            "Wieder eine Stechuhr einzuführen.",
+            "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten.",
+            "Die Vertrauensarbeitszeit ganz abzuschaffen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten."
+          },
+          "explanation": "\"…feste 'Nicht-erreichbar'-Zeiten im Kalender einzutragen.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was bedeutet im Text die Wendung \"zu schaffen machen\"?",
+          "options": [
+            "etwas neu erschaffen",
+            "jemandem Mühe oder Sorgen bereiten",
+            "etwas reparieren"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "jemandem Mühe oder Sorgen bereiten"
+          },
+          "explanation": "\"Zu schaffen machen\" ist eine feste Wendung für \"Sorgen/Mühe bereiten\" — nicht wörtlich zu verstehen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen zur Vertrauensarbeitszeit treffen laut Text zu?",
+          "options": [
+            "Vertrauensarbeitszeit erleichtert private Termine.",
+            "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+            "Der Autor möchte zur Stechuhr zurückkehren.",
+            "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+          ],
+          "payload": {
+            "options": [
+              "Vertrauensarbeitszeit erleichtert private Termine.",
+              "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+              "Der Autor möchte zur Stechuhr zurückkehren.",
+              "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Vertrauensarbeitszeit erleichtert private Termine.",
+              "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit."
+            ]
+          },
+          "explanation": "\"Seit einem Jahr…\" und \"Auch Arzttermine…lassen sich leichter unterbringen.\" Der Autor will ausdrücklich NICHT zur Stechuhr zurück, und feste Zeiten sind nur ein Vorschlag, keine eingeführte Regel."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Kurzvortrag: Ergebnisse eines Mitarbeitergesprächs",
+      "instruction": "Hören Sie den Kurzvortrag einmal und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe_hoeren_1_mitarbeitergespraech.mp3",
+        "duration_seconds": 39.7,
+        "voices": "conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie viele Mitarbeitergespräche wurden insgesamt geführt?",
+          "options": [
+            "84",
+            "48",
+            "8"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "84"
+          },
+          "explanation": "\"Insgesamt wurden 84 Gespräche geführt.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war der am häufigsten genannte Wunsch?",
+          "options": [
+            "Mehr Klarheit über Aufstiegsmöglichkeiten.",
+            "Flexiblere Arbeitszeiten.",
+            "Ein höheres Gehalt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Mehr Klarheit über Aufstiegsmöglichkeiten."
+          },
+          "explanation": "\"Der am häufigsten genannte Wunsch war mehr Klarheit über Aufstiegsmöglichkeiten.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Flexiblere Arbeitszeiten wurden genauso oft genannt wie Aufstiegsmöglichkeiten.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"An zweiter Stelle … allerdings mit deutlichem Abstand\" — nicht gleich häufig."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat den Personalleiter positiv überrascht?",
+          "options": [
+            "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit.",
+            "Die niedrige Teilnahmequote.",
+            "Der Wunsch nach mehr Homeoffice."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit."
+          },
+          "explanation": "\"Positiv überrascht hat uns, dass die Zufriedenheit mit der Zusammenarbeit im Team … spürbar gestiegen ist.\""
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Forumsbeitrag: Großraumbüros",
+      "instruction": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In einem Online-Forum wird diskutiert, ob Großraumbüros die Zusammenarbeit fördern oder eher stören. Schreiben Sie einen Beitrag für das Forum.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Sagen Sie, was Sie von Großraumbüros halten.",
+              "Nennen Sie einen Vorteil und einen Nachteil.",
+              "Machen Sie einen konkreten Verbesserungsvorschlag."
+            ],
+            "min_words": 180,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 200
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie von Großraumbüros halten.",
+              "Nennen Sie einen Vorteil und einen Nachteil.",
+              "Machen Sie einen konkreten Verbesserungsvorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare persönliche Positionierung zu Großraumbüros im ersten Satz.",
+              "Jeweils ein konkreter Vorteil und Nachteil mit Beispiel oder Begründung, nicht nur Nennung.",
+              "Ein realistischer, konkreter Verbesserungsvorschlag (z. B. Raumkonzept, Regeln, Technik).",
+              "Typische B2-Redemittel: Meinung äußern (‚Ich bin der Ansicht...‘), abwägen (‚Einerseits... andererseits...‘), Vorschlag machen (‚Ich würde vorschlagen...‘, ‚Man könnte...‘).",
+              "Struktur: Einleitung – Vorteil – Nachteil – Verbesserungsvorschlag – kurzer Schlusssatz."
+            ],
+            "expected_answer": "Hallo zusammen,\n\nich habe die Diskussion über Großraumbüros mit Interesse verfolgt und möchte gerne meine Erfahrungen dazu teilen. Ich bin der Ansicht, dass Großraumbüros grundsätzlich eine gute Idee sind, aber in der Praxis oft schlecht umgesetzt werden.\n\nEinerseits fördern sie definitiv die Zusammenarbeit. Wenn man schnell eine Frage an einen Kollegen hat, kann man sich einfach umdrehen und muss nicht erst eine E-Mail schreiben oder durch das ganze Gebäude laufen. Dieser informelle Austausch macht das Team enger und beschleunigt viele Prozesse. Andererseits ist der Lärmpegel ein riesiger Nachteil. Bei uns im Büro telefonieren ständig mehrere Leute gleichzeitig, und es ist fast unmöglich, sich länger auf eine komplexe Aufgabe zu konzentrieren. Das führt bei mir persönlich oft zu Stress und Kopfschmerzen.\n\nMein konkreter Verbesserungsvorschlag wäre, das Büro in verschiedene Zonen aufzuteilen. Man könnte einen offenen Bereich für Teamarbeit und Kommunikation einrichten und daneben einen abgetrennten Ruheraum, in dem absolutes Handy- und Gesprächsverbot herrscht. So könnte jeder Mitarbeiter je nach Aufgabe selbst entscheiden, wo er gerade arbeiten möchte. Ich bin überzeugt, dass dies die Produktivität und die Zufriedenheit aller deutlich steigern würde.\n\nViele Grüße\nAnna S.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Strukturieren Sie Ihren Beitrag klar (Einleitung, persönliche Ansicht, Vor- und Nachteile mit Begründung, persönliches Beispiel und ein konkreter Verbesserungsvorschlag). Achten Sie auf B2-Konnektoren und korrekte Satzstrukturen im Nebensatz."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Kurzvortrag: Homeoffice-Vorgaben",
+      "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Sollten Unternehmen ihren Mitarbeitenden vorschreiben dürfen, wie oft sie im Homeoffice arbeiten? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung/Ablehnung/Differenzierung) mit Überleitung zur Argumentation.",
+              "Zwei bis drei ausführliche, logisch verknüpfte Argumente mit konkretem Beispiel (z. B. Teamarbeit, Work-Life-Balance, Kontrollverlust).",
+              "Aufgreifen eines möglichen Gegenarguments mit Entkräftung, um Mehrperspektivität zu zeigen.",
+              "Zusammenfassung der eigenen Position und ein kurzer, pointierter Schlusssatz (Fazit/Ausblick).",
+              "Typische B2-Redemittel: Konjunktiv II (wäre, könnte), Nebensätze (während, obwohl, da), Modalverben, Meinungsformeln (Meiner Ansicht nach..., Ich vertrete den Standpunkt...)."
+            ],
+            "expected_answer": "Meiner Ansicht nach sollten Unternehmen nicht pauschal vorschreiben dürfen, wie oft ihre Mitarbeitenden im Homeoffice arbeiten, sondern dies gemeinsam mit ihnen im Dialog regeln. Ich vertrete den Standpunkt, dass eine starre Quote weder den modernen Arbeitsanforderungen noch den individuellen Bedürfnissen der Beschäftigten gerecht wird. Zunächst einmal hat die Pandemie eindrucksvoll bewiesen, dass produktives Arbeiten von zu Hause aus in sehr vielen Branchen problemlos möglich ist. Wenn ein Unternehmen nun ohne Rücksprache eine feste Anzahl an Präsenztagen verordnet, ignoriert es diese gewonnene Flexibilität. Besonders für Eltern oder pflegende Angehörige wäre eine solche Vorschrift eine enorme Belastung, da sie private Verpflichtungen und Beruf kaum noch vereinbaren könnten. Ein konkretes Beispiel: Eine alleinerziehende Mutter könnte an zwei Tagen pro Woche konzentriert von zu Hause aus arbeiten und müsste nicht jedes Mal eine stundenlange Betreuung organisieren. Eine starre Regelung würde hier wertvolle Lebensqualität zerstören. Darüber hinaus kann eine erzwungene Anwesenheit im Büro sogar kontraproduktiv sein. Viele Tätigkeiten, die hohe Konzentration erfordern, lassen sich im Großraumbüro deutlich schlechter erledigen als im ruhigen Arbeitszimmer. Wenn der Arbeitgeber hier vorschreibt, dass man dreimal pro Woche kommen muss, nur um gesehen zu werden, leidet am Ende die Qualität der Arbeit. Natürlich verstehe ich das Gegenargument, dass der persönliche Austausch und die Teamkreativität unter zu viel Homeoffice leiden können. Spontane Gespräche an der Kaffeemaschine oder kreative Brainstormings lassen sich digital nur schwer ersetzen. Allerdings lässt sich dieses Problem durch kluge hybride Modelle lösen, ohne dass die Geschäftsführung autoritär Anwesenheit erzwingt. Man könnte beispielsweise feste Teamtage vereinbaren, an denen alle freiwillig ins Büro kommen, um genau diesen sozialen Zusammenhalt zu pflegen. Der entscheidende Unterschied ist hier die Partizipation: Die Mitarbeitenden werden nicht gezwungen, sondern gestalten den Prozess mit. Zusammenfassend bin ich der festen Überzeugung, dass Vertrauen und Flexibilität die Grundlage moderner Arbeit sein sollten. Ein Unternehmen, das seinen Beschäftigten vorschreibt, wie oft sie vor Ort sein müssen, riskiert Demotivation und die Abwanderung von Talenten. Stattdessen sollte man auf maßgeschneiderte Teamlösungen setzen, die sowohl die Unternehmensziele als auch die menschlichen Bedürfnisse berücksichtigen. Nur so bleibt man als Arbeitgeber langfristig attraktiv.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Klar gegliederter Kurzvortrag mit Einleitung, Argumenten für und wider, eigener Positionierung und Schlussfolgerung. Nutzen Sie B2-Redemittel zur Meinungsäußerung und sprechen Sie frei und flüssig."
+        }
+      ]
+    }
+  ]
+}

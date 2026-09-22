@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_teamleitung_kritik",
+  "order_index": 22,
+  "icon": "💬",
+  "title": "Kritik an der letzten Abgabe",
+  "capability": "accepting valid criticism while correcting one inaccurate point",
+  "proof": "Kritik an der letzten Abgabe",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_teamleitung_kritik"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

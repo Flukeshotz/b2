@@ -1,0 +1,798 @@
+{
+  "id": "core-2026b-v2",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V2",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Wenn die Technik mitdenkt",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit dem Frühjahr läuft bei uns ein System, das eingehende Rechnungen automatisch\nvorsortiert und den richtigen Abteilungen zuordnet.\n\nIch habe das anfangs offen abgelehnt. Nicht, weil ich etwas gegen Technik hätte, sondern\nweil ich schon zweimal erlebt habe, wie solche Programme eingeführt und nach einem Jahr\nwieder abgeschafft wurden. Die Arbeit blieb dann an denselben Leuten hängen wie vorher.\n\nDiesmal ist es anders gelaufen, und das hat mich ehrlich überrascht. Das System nimmt uns\ndie stumpfeste Arbeit tatsächlich ab. Entscheidend war allerdings nicht die Software,\nsondern dass wir vorher zwei Wochen lang aufgeschrieben haben, welche Fälle überhaupt\nvorkommen. Ohne diese Vorarbeit hätte das Programm dieselben Fehler gemacht wie wir, nur\nschneller.\n\nWas ich nach wie vor kritisch sehe, ist der Umgang mit Ausnahmen. Alles, was nicht ins\nRaster passt, landet in einem Sammelordner, den sich am Ende doch wieder jemand von Hand\nansieht. Offiziell gibt es diesen Ordner gar nicht.\n\nZurück zum alten Verfahren möchte ich trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet der Autor das neue System insgesamt?",
+          "options": [
+            "Er hält es für gescheitert, wie die früheren Programme.",
+            "Er hält es für nützlich, sieht aber einen ungelösten Punkt.",
+            "Er findet, es habe die Arbeit nur auf andere verlagert."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er hält es für nützlich, sieht aber einen ungelösten Punkt."
+          },
+          "explanation": "Er möchte „nicht zurück zum alten Verfahren“, kritisiert aber weiterhin den Umgang mit Ausnahmen. Der Schlusssatz allein genügt für das Urteil nicht."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Autor lehnte das System zunächst ab, weil er Technik grundsätzlich ablehnt.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Nicht, weil ich etwas gegen Technik hätte, sondern weil ich schon zweimal erlebt habe, wie solche Programme … wieder abgeschafft wurden.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt der Autor ein?",
+          "options": [
+            "Dass seine anfängliche Ablehnung sich diesmal nicht bestätigt hat.",
+            "Dass der Sammelordner inzwischen überflüssig geworden ist.",
+            "Dass die Software mehr geleistet hat als die Vorarbeit."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass seine anfängliche Ablehnung sich diesmal nicht bestätigt hat."
+          },
+          "explanation": "„Diesmal ist es anders gelaufen, und das hat mich ehrlich überrascht.“ Das Eingeständnis betrifft seine Ablehnung — den Sammelordner kritisiert er weiter, und die Vorarbeit stellt er ausdrücklich über die Software."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worauf führt der Autor den Erfolg zurück?",
+          "options": [
+            "Auf die Qualität der eingesetzten Software.",
+            "Auf die zwei Wochen Vorarbeit im Team.",
+            "Auf die Erfahrung aus den früheren Projekten."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Auf die zwei Wochen Vorarbeit im Team."
+          },
+          "explanation": "„Entscheidend war allerdings nicht die Software, sondern dass wir vorher zwei Wochen lang aufgeschrieben haben, welche Fälle überhaupt vorkommen.“ Der Text nennt die naheliegende Ursache und verwirft sie."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Der Autor hat frühere Projekte dieser Art scheitern sehen.",
+            "Ausnahmefälle werden weiterhin von Hand bearbeitet.",
+            "Das jetzige System wurde nach einem Jahr wieder abgeschafft.",
+            "Der Autor war von Anfang an für die Einführung."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Der Autor hat frühere Projekte dieser Art scheitern sehen.",
+              "Ausnahmefälle werden weiterhin von Hand bearbeitet.",
+              "Das jetzige System wurde nach einem Jahr wieder abgeschafft.",
+              "Der Autor war von Anfang an für die Einführung."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Der Autor hat frühere Projekte dieser Art scheitern sehen.",
+              "Ausnahmefälle werden weiterhin von Hand bearbeitet."
+            ]
+          },
+          "explanation": "„… wie solche Programme eingeführt und nach einem Jahr wieder abgeschafft wurden“ bezieht sich auf FRÜHERE Projekte, nicht auf dieses; und der Sammelordner wird „von Hand“ angesehen."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Er beschreibt das neue System.",
+              "Er nennt den Punkt, der ihn weiterhin stört.",
+              "Er begründet seine anfängliche Ablehnung.",
+              "Er erklärt, warum es diesmal funktioniert hat."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2,
+              3,
+              1
+            ],
+            "text": [
+              "Er beschreibt das neue System.",
+              "Er begründet seine anfängliche Ablehnung.",
+              "Er erklärt, warum es diesmal funktioniert hat.",
+              "Er nennt den Punkt, der ihn weiterhin stört."
+            ]
+          },
+          "explanation": "System → Begründung der Ablehnung → Erklärung des Erfolgs → verbleibende Kritik. Der Text kippt in der Mitte von Ablehnung zu Zustimmung."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Am Telefon. Ein Mitarbeiter der Buchhaltung ruft die IT-Abteilung an.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v2_itstoerung.mp3",
+        "duration_seconds": 49.5,
+        "voices": "conrad+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Mitarbeiter",
+          "text": "Guten Tag, hier Bauer aus der Buchhaltung. Bei mir lässt sich das Rechnungssystem seit heute Morgen nicht mehr öffnen."
+        },
+        {
+          "speaker": "IT-Abteilung",
+          "text": "Bauer, Buchhaltung … einen Moment. Ja, das Problem hatten wir heute schon dreimal. Es liegt nicht an Ihrem Rechner, sondern am Server."
+        },
+        {
+          "speaker": "Mitarbeiter",
+          "text": "Also muss ich nichts weiter machen?"
+        },
+        {
+          "speaker": "IT-Abteilung",
+          "text": "Doch, eine Sache: Melden Sie sich einmal ab und wieder an. Aber bitte erst nach zwölf Uhr. Vorher bringt es nichts, wir spielen bis dahin noch ein Update auf."
+        },
+        {
+          "speaker": "Mitarbeiter",
+          "text": "Habe ich Sie richtig verstanden — vor zwölf soll ich es gar nicht erst versuchen?"
+        },
+        {
+          "speaker": "IT-Abteilung",
+          "text": "Genau. Ich weiß, das ist ärgerlich, wenn Termine anstehen. Aber ein Neustart vor dem Update würde die Sache eher verschlimmern."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was soll der Mitarbeiter tun?",
+          "options": [
+            "Nichts — das Problem löst sich von selbst.",
+            "Sich sofort abmelden und wieder anmelden.",
+            "Sich erst nach zwölf Uhr abmelden und wieder anmelden."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sich erst nach zwölf Uhr abmelden und wieder anmelden."
+          },
+          "explanation": "Auf „Also muss ich nichts weiter machen?“ folgt „Doch, eine Sache“ — und die Uhrzeit ist die entscheidende Einschränkung, die erst danach kommt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagiert die IT-Mitarbeiterin auf die Lage des Anrufers?",
+          "options": [
+            "Sie zeigt Verständnis, bleibt aber bei ihrer Anweisung.",
+            "Sie hält das Problem für unwichtig.",
+            "Sie macht dem Anrufer einen Vorwurf."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie zeigt Verständnis, bleibt aber bei ihrer Anweisung."
+          },
+          "explanation": "„Ich weiß, das ist ärgerlich, wenn Termine anstehen. Aber ein Neustart vor dem Update würde die Sache eher verschlimmern.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Problem liegt am Rechner des Anrufers.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Es liegt nicht an Ihrem Rechner, sondern am Server.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum soll der Mitarbeiter mit dem Neustart warten?",
+          "options": [
+            "Weil bis dahin ein Update aufgespielt wird.",
+            "Weil die IT-Abteilung erst mittags erreichbar ist.",
+            "Weil das System vor zwölf Uhr gesperrt ist."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil bis dahin ein Update aufgespielt wird."
+          },
+          "explanation": "„Vorher bringt es nichts, wir spielen bis dahin noch ein Update auf.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Habe ich Sie richtig verstanden — vor zwölf gar nicht erst versuchen?“",
+              "„Ich weiß, das ist ärgerlich, wenn Termine anstehen.“",
+              "„Es liegt nicht an Ihrem Rechner, sondern am Server.“"
+            ],
+            "right": [
+              "Verständnis zeigen",
+              "sich vergewissern",
+              "eine Ursache nennen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Habe ich Sie richtig verstanden — vor zwölf gar nicht erst versuchen?“ → sich vergewissern",
+              "„Ich weiß, das ist ärgerlich, wenn Termine anstehen.“ → Verständnis zeigen",
+              "„Es liegt nicht an Ihrem Rechner, sondern am Server.“ → eine Ursache nennen"
+            ]
+          },
+          "explanation": "Die Rückfrage sichert das eigene Verständnis ab — auf B2 eine eigene Funktion und nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Lösung ist schnell. Sie passt nicht zu unseren Fällen.",
+            "Die Lösung ist zwar schnell, sie passt aber nicht zu unseren Fällen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie widersprechen einem Vorschlag, ohne ihn ganz abzuwerten."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Lösung ist zwar schnell, sie passt aber nicht zu unseren Fällen."
+          },
+          "explanation": "„zwar … aber“ räumt den Vorteil ein und setzt den Einwand dagegen. Zwei Sätze nebeneinander lassen offen, wie sie zusammenhängen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir brauchen eine zweite Prüfstufe im System.",
+            "Eine zweite Prüfstufe im System wäre vielleicht sinnvoll."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen gegenüber der IT eine Änderung ins Gespräch, ohne sie zu fordern."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Eine zweite Prüfstufe im System wäre vielleicht sinnvoll."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Forderung einen Vorschlag, über den noch gesprochen werden kann."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Während dem Update ist das System nicht erreichbar.",
+            "Während des Updates ist das System nicht erreichbar."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Störungsmeldung an alle Abteilungen."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Während des Updates ist das System nicht erreichbar."
+          },
+          "explanation": "Gesprochen hört man „während dem“ häufig. Geschrieben verlangt „während“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Einführung wird verschoben, weil die Fallliste noch unvollständig ist und das System sonst dieselben Fehler übernehmen würde.",
+            "Die Einführung wird verschoben. Die Fallliste ist unvollständig. Das System würde Fehler übernehmen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen in einer E-Mail, warum die Einführung verschoben wird."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Einführung wird verschoben, weil die Fallliste noch unvollständig ist und das System sonst dieselben Fehler übernehmen würde."
+          },
+          "explanation": "Auf B2 wird die Folge im Satzgefüge mitgedacht statt in drei nebeneinandergestellten Hauptsätzen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die Abteilung hat den Vorschlag zunächst in Frage ___, inzwischen aber Vertrauen zu dem System ___.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "gestellt"
+                ]
+              },
+              {
+                "accepted": [
+                  "gefasst"
+                ]
+              }
+            ],
+            "text": [
+              "gestellt",
+              "gefasst"
+            ]
+          },
+          "explanation": "„etwas in Frage stellen“ und „Vertrauen fassen“ — feste Nomen-Verb-Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Rechnungen erfolgt jetzt automatisch; nur die ___ der Ausnahmen dauert noch.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Sortierung",
+                  "Zuordnung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Bearbeitung"
+                ]
+              }
+            ],
+            "text": [
+              "Sortierung / Zuordnung",
+              "Bearbeitung"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Sortierung“ und „Bearbeitung“ gehören zum B2-Wortschatz; „das Sortieren“ und „das Machen“ wären die A2-Ersatzformen."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "Kritik",
+              "einen Vorschlag",
+              "zur Sprache",
+              "unter Druck"
+            ],
+            "right": [
+              "machen",
+              "üben",
+              "stehen",
+              "bringen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 3,
+              "3": 2
+            },
+            "text": [
+              "Kritik → üben",
+              "einen Vorschlag → machen",
+              "zur Sprache → bringen",
+              "unter Druck → stehen"
+            ]
+          },
+          "explanation": "Kritik üben · einen Vorschlag machen · zur Sprache bringen · unter Druck stehen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Können Sie da mal draufgucken? Bei uns geht gerade nichts.",
+            "Ich bitte Sie, die Störung zu prüfen; bei uns ist das System derzeit nicht erreichbar."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die IT-Leitung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich bitte Sie, die Störung zu prüfen; bei uns ist das System derzeit nicht erreichbar."
+          },
+          "explanation": "„draufgucken“ und „geht nichts“ gehören ins Gespräch. In einer E-Mail an die Leitung kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Darf ich die Zahlen kurz zu Ende erklären? Danach wird der Punkt klarer.",
+            "Die Zahlen stimmen. Punkt.",
+            "Wenn Sie mir nicht glauben, lassen wir es."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In einer Besprechung stellt jemand Ihre Zahlen in Frage, bevor Sie sie erklärt haben."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Darf ich die Zahlen kurz zu Ende erklären? Danach wird der Punkt klarer."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag und bietet zugleich die Klärung an — ohne Rückzug und ohne Konfrontation. Die zweite Option blockt ab, die dritte gibt das Wort auf."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, zu welchem Urteil der Autor des Forumsbeitrags über das neue System kommt und welcher Punkt für ihn offen bleibt.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die das revidierte Urteil UND den offenen Punkt (Umgang mit Ausnahmen) nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die das revidierte Urteil UND den offenen Punkt (Umgang mit Ausnahmen) nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Nennen Sie das revidierte Urteil des Autors (z. B. positive Neubewertung, aber nicht uneingeschränkt).",
+              "Benennen Sie konkret den offen gebliebenen Punkt (Umgang mit Ausnahmen/Sonderfällen).",
+              "Verwenden Sie indirekte Rede (Konjunktiv I oder II) zur Distanzierung.",
+              "Formulieren Sie präzise in 2–3 Sätzen, ohne den Text nachzuerzählen."
+            ],
+            "expected_answer": "Der Autor kommt zu dem Schluss, dass das neue System insgesamt besser sei als zunächst angenommen. Allerdings bleibe für ihn offen, wie in der Praxis mit unvorhergesehenen Ausnahmen umgegangen werden solle.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Die IT schreibt Ihnen: „Das Update läuft heute, danach bitte einmal neu anmelden.“ Sie wissen nicht, ab wann genau das gilt und ob Sie bis dahin weiterarbeiten können. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und keine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und keine Meinung.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Fragen stellen (z. B. mit Konjunktiv II oder Modalpartikeln wie ‚denn‘, ‚eigentlich‘).",
+              "Gezielt nach dem genauen Startzeitpunkt des Updates fragen.",
+              "Nachfragen, ob ein Weiterarbeiten bis zum Update-Start möglich ist.",
+              "Angemessene Anrede und Grußformel verwenden (E-Mail-Stil)."
+            ],
+            "expected_answer": "Hallo, vielen Dank für die Info. Könnten Sie mir bitte sagen, ab wann genau das Update läuft? Und darf ich bis dahin noch ganz normal weiterarbeiten? Viele Grüße",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob Routineaufgaben künftig von Software übernommen werden sollen. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Meinungsäußerung zur Automatisierung von Routineaufgaben (dafür/dagegen/differenziert).",
+              "Mindestens zwei gut ausgebaute Argumente mit Beispielen oder logischer Begründung.",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position (Relativierung/Konzession).",
+              "Konkreter, praktikabler Vorschlag für die betriebliche Umsetzung.",
+              "Typische B2-Redemittel: Meinung äußern (‚Ich bin der festen Überzeugung...‘), Argumente verknüpfen (‚Ein weiterer Vorteil...‘), Konzession (‚Allerdings muss man zugeben...‘), Vorschlag (‚Daher schlage ich vor...‘)."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich bin der festen Überzeugung, dass die Übernahme von Routineaufgaben durch Software eine große Chance für uns ist. Einerseits würde sie uns von monotonen Tätigkeiten entlasten, sodass wir uns anspruchsvolleren Projekten widmen können. Andererseits sinkt dadurch die Fehlerquote, da Maschinen bei Standardprozessen präziser arbeiten. Allerdings muss man zugeben, dass dies auf Kosten der persönlichen Kontrolle gehen kann und manche Kollegen Sorge vor dem Verlust ihres Arbeitsplatzes haben. Daher schlage ich vor, eine Pilotphase mit einer Abteilung zu starten und parallel ein Weiterbildungsprogramm anzubieten, damit alle Mitarbeiter von der neuen Technologie profitieren.\n\nViele Grüße\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "In manchen Betrieben entscheidet die IT-Abteilung allein, welche Programme eingeführt werden; in anderen entscheiden die Fachabteilungen mit. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der Meinung, dass...')",
+              "Mindestens zwei gut ausgeführte Argumente für die gewählte Seite (z. B. Praxistauglichkeit, Akzeptanz, Effizienz)",
+              "Einen Nachteil der anderen Möglichkeit konkret benennen und kurz erklären",
+              "Typische B2-Redemittel nutzen: 'Ein wesentlicher Vorteil ist...', 'Hinzu kommt, dass...', 'Allerdings muss man einräumen, dass...', 'Daher halte ich es für sinnvoller...'",
+              "Strukturierter Aufbau: Meinung – Argumente – Zugeständnis – kurzes Fazit"
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass die Fachabteilungen bei der Einführung neuer Programme unbedingt mitentscheiden sollten, weil sie die Software später täglich nutzen müssen. Ein wesentlicher Vorteil ist die Praxistauglichkeit. Die Mitarbeiter in den Fachabteilungen kennen ihre Arbeitsabläufe genau und wissen, welche Funktionen wirklich benötigt werden. Wenn die IT-Abteilung allein entscheidet, besteht die Gefahr, dass ein technisch perfektes Programm eingeführt wird, das aber in der Praxis völlig ungeeignet ist. Hinzu kommt die Akzeptanz der Mitarbeiter. Wenn sie von Anfang an in den Entscheidungsprozess einbezogen werden, fühlen sie sich ernst genommen und sind viel motivierter, sich mit der neuen Software auseinanderzusetzen. Allerdings muss ich einräumen, dass eine alleinige Entscheidung durch die IT-Abteilung den Vorteil der Schnelligkeit und einheitlicher Sicherheitsstandards hat. Wenn jede Fachabteilung eigene Wünsche durchsetzen will, kann das zu einem Wildwuchs an verschiedenen Programmen führen, was die Wartung extrem erschwert. Trotz dieses Nachteils halte ich die Mitbestimmung der Fachabteilungen für sinnvoller, denn das beste Programm nützt nichts, wenn es im Alltag nicht funktioniert oder boykottiert wird.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

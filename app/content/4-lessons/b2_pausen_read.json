@@ -1,0 +1,123 @@
+{
+  "id": "b2_pausen_read",
+  "order_index": 67,
+  "icon": "📄",
+  "title": "Pausenregelung: feste Zeiten oder flexibel?",
+  "capability": "setting advantages against disadvantages, in order",
+  "proof": "Pausenregelung: feste Zeiten oder flexibel?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Pausenregelung: feste Zeiten oder flexibel?",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Ein Forum. Fünf Beiträge, vier Leute — die Frage: feste Pausenzeit für alle, oder soll das jeder selbst entscheiden?",
+            "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+          ]
+        },
+        {
+          "t": "read_source",
+          "sourceId": "src_pausen"
+        },
+        {
+          "q": "Wer erklärt, welches Problem die neue Regel eigentlich lösen sollte?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 2,
+          "explain": "Birgit_Stationsleitung nennt den konkreten Grund für die Regel: dass sich vorher niemand traute zu gehen, wenn viel los war. Die anderen äußern nur ihre eigene Reaktion auf die Regel, nicht die ursprüngliche Absicht dahinter.",
+          "options": [
+            "melanie",
+            "oskar",
+            "birgit",
+            "tarek"
+          ],
+          "sourceId": "src_pausen",
+          "capability": "compare"
+        },
+        {
+          "q": "Wer fragt gezielt nach, was ein vager Ausdruck eigentlich bedeutet?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 3,
+          "explain": "Tarek M. fragt direkt: „Was genau meinen Sie mit ‚alle gleichzeitig weg‘?“ Die anderen äußern eigene Positionen, aber keiner bittet zuerst um eine Präzisierung.",
+          "options": [
+            "melanie",
+            "oskar",
+            "birgit",
+            "tarek"
+          ],
+          "sourceId": "src_pausen",
+          "capability": "compare"
+        },
+        {
+          "q": "Diese Aussage von Oskar_L — was ist sie?",
+          "t": "readq",
+          "mode": "stance",
+          "quote": "am Ende hat die Hälfte gar keine richtige Pause gemacht, sondern nur zwischendurch etwas gegessen",
+          "answer": 1,
+          "explain": "„Die Hälfte“ klingt wie eine Zahl, ist hier aber ein Eindruck ohne Quelle — niemand hat das gezählt. Das unterscheidet sich von Priyas oder Birgits Aussagen, die auf eine konkrete, benennbare Beobachtung verweisen.",
+          "options": [
+            "Ein Beleg: er stützt sie mit einer nachprüfbaren Zahl.",
+            "Eine Behauptung: sie klingt konkret, ist aber nicht belegt.",
+            "Ein Zugeständnis: er gibt Melanies Position teilweise recht."
+          ],
+          "sourceId": "src_pausen",
+          "capability": "argue"
+        },
+        {
+          "q": "Tarek M. schreibt diese Frage direkt als Antwort auf Birgits Beitrag. Wie steht sie zu Birgits Erklärung?",
+          "t": "readq",
+          "mode": "relation",
+          "quote": "Was genau meinen Sie mit „alle gleichzeitig weg“?",
+          "answer": 1,
+          "explain": "Tarek stellt Birgits Motiv (niemand soll sich schuldig fühlen) nicht infrage — er fragt nach einer konkreten Folge, die daraus entstehen könnte: dass eine halbe Stunde niemand ansprechbar ist. Das ist ein Einwand gegen die Umsetzung, nicht gegen die Absicht.",
+          "options": [
+            "Sie widerspricht Birgits Begründung insgesamt.",
+            "Sie akzeptiert die Begründung, hinterfragt aber eine praktische Konsequenz davon.",
+            "Sie bestätigt, dass die Regel gut funktioniert.",
+            "Sie wiederholt Birgits Aussage mit anderen Worten."
+          ],
+          "sourceId": "src_pausen",
+          "capability": "structure"
+        },
+        {
+          "q": "Tareks Frage nach der Erreichbarkeit bleibt im Thread unbeantwortet. Was zeigt das über den eigentlichen Streitpunkt?",
+          "t": "readq",
+          "mode": "implication",
+          "answer": 1,
+          "explain": "Melanies letzter Beitrag greift genau diese offene Frage auf, statt sie zu beantworten — ein Hinweis darauf, dass die Erreichbarkeit während der Pause tatsächlich nicht geregelt wurde, bevor die Regel eingeführt wurde.",
+          "options": [
+            "Dass Tarek die Regel grundsätzlich ablehnt.",
+            "Dass eine wichtige praktische Frage bei der Einführung offenbar nicht geklärt wurde.",
+            "Dass Birgit die Frage absichtlich ignoriert."
+          ],
+          "sourceId": "src_pausen",
+          "capability": "compare"
+        },
+        {
+          "q": "Warum schreibt Melanie T. das ganz am Ende?",
+          "t": "readq",
+          "mode": "intention",
+          "quote": "Mich stört gar nicht die feste Zeit an sich — mich stört, dass niemand gesagt hat, wie die Erreichbarkeit während der Pause geregelt ist.",
+          "answer": 1,
+          "explain": "Ihr erster Beitrag klingt wie eine grundsätzliche Ablehnung der festen Zeit. Am Ende wird klar: sie hätte damit kein Problem, wenn die Erreichbarkeit geregelt wäre. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin fester Pausenzeiten. Das ist sie nicht.",
+          "options": [
+            "Um zuzugeben, dass ihre erste Beschwerde übertrieben war.",
+            "Um klarzustellen, dass sie nicht die feste Zeit ablehnt, sondern eine offene praktische Frage stellt.",
+            "Um Oskar_L vorzuwerfen, dass er die Regel zu unkritisch sieht.",
+            "Um vorzuschlagen, ganz auf Pausen zu verzichten."
+          ],
+          "sourceId": "src_pausen",
+          "capability": "compare"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-7",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 7 — Verben mit fester Präposition",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich ___ meiner Kollegin sehr für die Unterstützung.",
+          "options": [
+            "danke",
+            "bin dankbar",
+            "bedanke mich bei"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "danke"
+          },
+          "explanation": "\"Danken\" ist ein Dativverb: \"ich danke jemandem\", ohne Präposition."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie ___ sich sehr ___ die neue Regelung.",
+          "options": [
+            "interessiert … für",
+            "freut … über",
+            "freut … auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "freut … über"
+          },
+          "explanation": "\"Sich freuen über etwas\" (Gegenwart/Vergangenheit) im Unterschied zu \"sich freuen auf\" (Zukünftiges)."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wir müssen uns dringend ___ das Problem ___.",
+          "options": [
+            "achten … auf",
+            "kümmern … um",
+            "sorgen … für"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "kümmern … um"
+          },
+          "explanation": "Feste Verbindung: \"sich kümmern um etwas\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er hat ___ dem Fortbildungskurs ___.",
+          "options": [
+            "an … teilgenommen",
+            "in … eingenommen",
+            "bei … mitgemacht"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "an … teilgenommen"
+          },
+          "explanation": "\"Teilnehmen an etwas (Dativ)\" ist die feste Verbindung."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Ergebnis ___ vor allem ___ die gute Vorbereitung ___.",
+          "options": [
+            "beruht … in …",
+            "ist … auf … zurückzuführen",
+            "hängt … an … ab"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ist … auf … zurückzuführen"
+          },
+          "explanation": "\"Etwas ist auf etwas zurückzuführen\" = die Ursache benennen."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich kann mich nicht mehr ___ das Gespräch ___.",
+          "options": [
+            "denken … über",
+            "wissen … von",
+            "erinnern … an"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "erinnern … an"
+          },
+          "explanation": "\"Sich erinnern an etwas (Akkusativ)\" ist die Standardverbindung."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Pflegekraft hat sich ___ die Entscheidung des Arztes ___.",
+          "options": [
+            "auf … geärgert",
+            "über … beschwert",
+            "an … gewöhnt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "über … beschwert"
+          },
+          "explanation": "\"Sich beschweren über etwas\" ist die feste Verbindung; \"sich ärgern über\" bräuchte \"über\", nicht \"auf\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wir sollten ___ realistische Ziele ___ und nicht zu viel versprechen.",
+          "options": [
+            "uns … verlassen auf",
+            "uns … beziehen auf",
+            "uns … konzentrieren auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "uns … konzentrieren auf"
+          },
+          "explanation": "\"Sich konzentrieren auf etwas\" passt inhaltlich zu \"realistische Ziele setzen und verfolgen\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das neue System ist ___ mehreren Modulen ___.",
+          "options": [
+            "an … angepasst",
+            "aus … zusammengesetzt",
+            "mit … verbunden"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "aus … zusammengesetzt"
+          },
+          "explanation": "\"Aus etwas zusammengesetzt/bestehen\" beschreibt, woraus etwas gebaut ist."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich habe mich ___ die Fortbildung ___, weil sie mir wichtig erschien.",
+          "options": [
+            "für … entschieden",
+            "an … erinnert",
+            "auf … gefreut"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "für … entschieden"
+          },
+          "explanation": "\"Sich entscheiden für etwas\" ist die feste Verbindung für eine getroffene Wahl."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Erfolg der Maßnahme ___ sehr ___ einer guten Kommunikation ___.",
+          "options": [
+            "besteht … aus …",
+            "beruht … auf …",
+            "hängt … von … ab"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "hängt … von … ab"
+          },
+          "explanation": "\"Abhängen von etwas\" ist hier die passende, im Alltag gebräuchlichste feste Verbindung."
+        }
+      ]
+    }
+  ]
+}

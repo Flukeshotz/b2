@@ -1,0 +1,89 @@
+{
+  "id": "telc-b2-hoeren-1",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Hören, Übungsset 1",
+  "minutes": 6,
+  "source": "Skillcase, original transcript and audio (Azure Neural TTS). Exam-format practice for telc B2 Hörverstehen — not an official telc recording.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Durchsage: Änderung der Kantinenöffnungszeiten",
+      "instruction": "Hören Sie die Durchsage einmal und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc_hoeren_1_kantine.mp3",
+        "duration_seconds": 41.2,
+        "voices": "katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bis wann ist die Kantine künftig geöffnet?",
+          "options": [
+            "Bis 15:30 Uhr.",
+            "Bis 14:00 Uhr.",
+            "Bis 13:30 Uhr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Bis 15:30 Uhr."
+          },
+          "explanation": "\"künftig bis fünfzehn Uhr dreißig geöffnet.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das warme Mittagessen wird auch nach 13:30 Uhr noch ausgegeben.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"das warme Mittagessen wird … weiterhin nur bis dreizehn Uhr dreißig ausgegeben.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurden die Öffnungszeiten geändert?",
+          "options": [
+            "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.",
+            "Wegen gestiegener Kosten.",
+            "Wegen einer neuen gesetzlichen Vorschrift."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst."
+          },
+          "explanation": "\"Grund … sind die vielen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.\""
+        }
+      ]
+    }
+  ]
+}

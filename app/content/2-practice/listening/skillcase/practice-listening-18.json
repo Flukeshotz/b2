@@ -1,0 +1,89 @@
+{
+  "id": "practice-listening-18",
+  "board": "custom",
+  "title": "Hörverstehen — Podcast: Nachhaltigkeit im Büroalltag",
+  "minutes": 7,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Podcast: Nachhaltigkeit im Büroalltag",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_18_nachhaltigkeit.mp3",
+        "duration_seconds": 39.9,
+        "voices": "ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut der Studie der größte Faktor beim Energieverbrauch eines Bürogebäudes?",
+          "options": [
+            "Heizen und Kühlen der Büroflächen.",
+            "Papierverbrauch.",
+            "Mülltrennung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Heizen und Kühlen der Büroflächen."
+          },
+          "explanation": "\"bei der Energie fürs Heizen und Kühlen … die für rund sechzig Prozent des gesamten Energieverbrauchs … verantwortlich ist.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Papier und Müll machen laut Studie den größten Anteil am Energieverbrauch aus.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Papier und Müll machen dagegen zusammen nur etwa fünf Prozent aus.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was empfiehlt die Podcasterin Unternehmen, die wirklich etwas bewirken wollen?",
+          "options": [
+            "Nur noch auf Mülltrennung setzen.",
+            "Zuerst in bessere Isolierung und Heizsysteme investieren.",
+            "Komplett auf Heizung verzichten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Zuerst in bessere Isolierung und Heizsysteme investieren."
+          },
+          "explanation": "\"sollten zuerst in bessere Isolierung und effizientere Heizsysteme investieren, bevor sie sich auf kleinere … Maßnahmen konzentrieren.\""
+        }
+      ]
+    }
+  ]
+}

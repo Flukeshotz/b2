@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p14",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #14",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Schulen später am Morgen beginnen?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (eindeutiges Ja/Nein mit kurzer Begründung).",
+              "Mindestens zwei ausführliche Argumente mit Beispielen oder persönlichen Erfahrungen (z. B. Schlafrhythmus Jugendlicher, Konzentrationsfähigkeit, Familienlogistik).",
+              "Aufgreifen eines möglichen Gegenarguments und begründete Entkräftung (z. B. Vereinbarkeit mit Elternberufen).",
+              "Zusammenfassung und abschließender Appell oder Vorschlag (z. B. Modellversuche).",
+              "Typische B2-Redemittel: Konjunktiv II (wäre, könnte), Nebensätze (weil, obwohl, sodass), Diskursmarker (Einerseits... andererseits..., Hinzu kommt..., Dem lässt sich entgegenhalten...)."
+            ],
+            "expected_answer": "Also, ich möchte mich gleich zu Beginn klar positionieren: Ich bin absolut der Meinung, dass Schulen später am Morgen beginnen sollten, und zwar nicht nur eine Viertelstunde, sondern idealerweise erst gegen neun Uhr. Der Hauptgrund dafür liegt in der wissenschaftlich belegten Veränderung des Schlafrhythmus bei Jugendlichen. In der Pubertät verschiebt sich die innere Uhr einfach nach hinten, sodass die meisten Jugendlichen vor 23 Uhr kaum einschlafen können. Wenn sie dann gezwungen sind, um sechs oder halb sieben aufzustehen, um pünktlich um acht in der Schule zu sein, entsteht ein chronisches Schlafdefizit. Das ist nicht nur eine Frage der Bequemlichkeit, sondern hat handfeste negative Konsequenzen. Man kann sich doch nicht ernsthaft wünschen, dass übermüdete Schüler in der ersten Stunde Mathematik komplexe Formeln verstehen. Ihre Konzentrationsfähigkeit und ihre kognitive Leistungsfähigkeit sind dann einfach massiv eingeschränkt. Ich selbst erinnere mich gut an meine Schulzeit, wo die ersten beiden Stunden oft wie im Nebel an mir vorbeigezogen sind, und das ging den meisten meiner Mitschüler genauso. Ein späterer Beginn würde daher nicht nur die Lernleistung, sondern auch die psychische Gesundheit der Jugendlichen erheblich verbessern. Ein weiterer Aspekt ist die Sicherheit. Gerade im Winter, wenn es morgens noch stockdunkel und oft glatt ist, wäre es viel sicherer, wenn die Schüler nicht in der Dämmerung zur Schule hetzen müssten, sondern bei Tageslicht. Nun wird oft das Gegenargument angeführt, dass ein späterer Schulbeginn nicht mit den Arbeitszeiten der Eltern vereinbar sei. Dem lässt sich jedoch entgegenhalten, dass Schulen Betreuungsangebote in Form einer betreuten Lernzeit oder eines stillen Lesecafés ab der gewohnten Zeit anbieten könnten. Das wäre eine flexible Lösung für die Familien, die darauf angewiesen sind, ohne den Unterrichtsbeginn für alle starr vor acht Uhr zu belassen. Zusammenfassend gesagt, überwiegen aus meiner Sicht die Vorteile eines späteren Schulbeginns für die Gesundheit und die Lernfähigkeit der Schüler deutlich. Ich appelliere deshalb dafür, zumindest Modellversuche an Schulen zu starten, um diesen Ansatz endlich praxisnah zu erproben und nicht nur theoretisch darüber zu debattieren.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

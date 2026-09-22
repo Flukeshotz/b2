@@ -1,0 +1,119 @@
+{
+  "id": "practice-reading-20",
+  "board": "custom",
+  "title": "Leseverstehen — Interview: Ein Jahr im betrieblichen Mentoring-Programm",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Interview: Ein Jahr im betrieblichen Mentoring-Programm",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "REDAKTION: Sie nehmen seit einem Jahr am Mentoring-Programm teil, zunächst als Mentee. Wie kam der Kontakt zustande?\n\nHERR OKONKWO: Zunächst musste ich mich für das Programm bewerben und ein kurzes Gespräch mit der Personalentwicklung führen, in dem meine Ziele besprochen wurden. Danach hat man mich mit einer Mentorin aus einer anderen Abteilung zusammengebracht — das war mir wichtig, weil ich einen Blick von außen auf mein Team wollte. Anschließend trafen wir uns die ersten Monate wöchentlich, dann alle zwei Wochen, sobald sich eine gewisse Routine eingespielt hatte.\n\nREDAKTION: Was hat Ihnen das Programm konkret gebracht?\n\nHERR OKONKWO: Vor allem eine ehrliche, aber wohlwollende Außenperspektive. Meine Mentorin hat mir zum Beispiel gezeigt, dass ich in Besprechungen oft zu schnell nachgab, wenn jemand widersprach — ein blinder Fleck, den mir sonst niemand so direkt gesagt hätte.\n\nREDAKTION: Würden Sie das Programm weiterempfehlen?\n\nHERR OKONKWO: Auf jeden Fall, allerdings nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen. Wer nur Bestätigung sucht, ist beim Mentoring an der falschen Adresse.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum war es Herrn Okonkwo wichtig, eine Mentorin aus einer anderen Abteilung zu bekommen?",
+          "options": [
+            "Weil es in seiner eigenen Abteilung keine Mentorin gab.",
+            "Weil das Programm das so vorschreibt.",
+            "Weil er einen Blick von außen auf sein Team wollte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Weil er einen Blick von außen auf sein Team wollte."
+          },
+          "explanation": "\"das war mir wichtig, weil ich einen Blick von außen auf mein Team wollte\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Treffen fanden das ganze Jahr über wöchentlich statt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"die ersten Monate wöchentlich, dann alle zwei Wochen\" — die Frequenz änderte sich."
+        },
+        {
+          "item_no": 3,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Schritte, wie der Mentoring-Kontakt laut Herrn Okonkwo zustande kam, in die richtige Reihenfolge.",
+          "options": null,
+          "payload": {
+            "items": [
+              "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+              "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+              "Wöchentliche Treffen in den ersten Monaten",
+              "Übergang zu Treffen alle zwei Wochen"
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+              "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+              "Wöchentliche Treffen in den ersten Monaten",
+              "Übergang zu Treffen alle zwei Wochen"
+            ]
+          },
+          "explanation": "Der Text nennt die Schritte in genau dieser Reihenfolge: Bewerbung/Gespräch → Zuordnung → wöchentliche Treffen → zweiwöchige Treffen."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Unter welcher Bedingung empfiehlt Herr Okonkwo das Programm weiter?",
+          "options": [
+            "Nur für Mitarbeitende in Führungspositionen.",
+            "Nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen.",
+            "Nur, wenn man bereits Erfahrung mit Mentoring hat."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen."
+          },
+          "explanation": "\"allerdings nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen\"."
+        }
+      ]
+    }
+  ]
+}

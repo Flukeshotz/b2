@@ -1,0 +1,141 @@
+{
+  "id": "telc-b2-sprachbausteine-t1-s2",
+  "board": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 1 — Grammatik & Bindeglieder, Satz 2",
+  "minutes": 17,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 4,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprachbausteine Teil 1 — Grammatik & Bindeglieder",
+      "instruction": "Wählen Sie das passende Wort für jede Lücke.",
+      "minutes": 17,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Liebe Clara,\n\nentschuldige, dass ich mich erst heute melde. In den letzten Wochen war im Stadtteilzentrum viel los. Der Lesetreff, [1] ich dir erzählt hatte, ist jetzt gestartet. Die Idee entstand schon im Winter, als viele ältere Bewohner sagten, sie wollten nicht nur Bücher ausleihen, sondern auch über Geschichten ins Gespräch kommen. Genau deshalb sollte der Treff offen und unkompliziert bleiben. Am ersten Abend kamen so viele Leute, [2] wir zusätzliche Stühle aus dem Keller holen mussten. Besonders gefreut hat mich, dass auch mehrere Jugendliche dabei waren, [3] sonst kaum an solchen Angeboten teilnehmen.\n\nZuerst war ich unsicher, ob ich die Gruppe leiten [4], weil ich so etwas noch nie gemacht hatte. Frau Neumann meinte aber, ich solle es versuchen. Sie hat mir eine Mappe gegeben, in [5] alle Hinweise für die Moderation stehen. Außerdem erklärte sie mir, worauf ich achten müsse, wenn ein Gespräch plötzlich stockt.\n\nNach der ersten Stunde war mir [6], was die Teilnehmenden am meisten brauchen: nicht perfekte Literaturanalysen, sondern Zeit zum Sprechen. Deshalb habe ich die Texte kürzer ausgewählt und jeweils Fragen vorbereitet, [7] auch ruhigere Personen leichter einsteigen können.\n\nFür nächsten Monat planen wir einen kleinen Abend mit Musik. Ich kümmere mich um die Einladung und wäre froh, [8] du vielleicht ein Foto für den Aushang machen könntest. Falls du Zeit hast, komm doch vorbei; deine Meinung wäre mir wichtig. Ohne deine Tipps hätte ich mich wahrscheinlich nicht [9], die Leitung zu übernehmen.\n\nIch schreibe dir am Wochenende noch [10] darüber, wie der zweite Termin gelaufen ist.\n\nLiebe Grüße\nNora",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Lücke 6: Wählen Sie die richtige Lösung",
+          "options": [
+            "recht",
+            "klar",
+            "fremd"
+          ],
+          "payload": {
+            "blankNumber": 6
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "fremd"
+          },
+          "explanation": "Die richtige Antwort ist c) \"fremd\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Lücke 7: Wählen Sie die richtige Lösung",
+          "options": [
+            "an denen",
+            "deren",
+            "mit denen"
+          ],
+          "payload": {
+            "blankNumber": 7
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "an denen"
+          },
+          "explanation": "Die richtige Antwort ist a) \"an denen\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Lücke 8: Wählen Sie die richtige Lösung",
+          "options": [
+            "wenn",
+            "obwohl",
+            "während"
+          ],
+          "payload": {
+            "blankNumber": 8
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "obwohl"
+          },
+          "explanation": "Die richtige Antwort ist b) \"obwohl\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Lücke 9: Wählen Sie die richtige Lösung",
+          "options": [
+            "zutrauen",
+            "traute",
+            "getraut"
+          ],
+          "payload": {
+            "blankNumber": 9
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "getraut"
+          },
+          "explanation": "Die richtige Antwort ist c) \"getraut\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Lücke 10: Wählen Sie die richtige Lösung",
+          "options": [
+            "dagegen",
+            "ausführlich",
+            "vergeblich"
+          ],
+          "payload": {
+            "blankNumber": 10
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "dagegen"
+          },
+          "explanation": "Die richtige Antwort ist a) \"dagegen\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

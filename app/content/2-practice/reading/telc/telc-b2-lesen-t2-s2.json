@@ -1,0 +1,141 @@
+{
+  "id": "telc-b2-lesen-t2-s2",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 2 — Textverständnis & Multiple-Choice, Satz 2",
+  "minutes": 20,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 2,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 2 — Textverständnis & Multiple-Choice",
+      "instruction": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "minutes": 20,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Kühle Orte für heiße Tage\n\nAn sehr heißen Tagen zeigt sich, dass Stadtplanung nicht nur aus Straßen, Häusern und Verkehr besteht. Immer mehr Kommunen suchen nach Orten, an denen Menschen ohne Eintritt und ohne Konsumzwang abkühlen können. Früher galten Brunnen, Schattenplätze und begrünte Höfe eher als angenehme Ergänzung. Heute werden sie Teil einer Gesundheitsstrategie. Besonders ältere Menschen, kleine Kinder und Beschäftigte im Freien geraten bei längeren Hitzeperioden unter Druck, auch wenn sie keine akute Krankheit haben.\n\nEine westdeutsche Stadt hat im vergangenen Sommer sogenannte Kühle-Routen getestet. Sie verbinden Bibliotheken, Kirchen, Parks und öffentliche Gebäude, die tagsüber zugänglich sind. Auf Stadtplänen werden nicht nur Wege markiert, sondern auch Trinkmöglichkeiten, Sitzgelegenheiten und Toiletten. Die Idee wirkt einfach, doch sie verändert den Blick auf öffentliche Räume. Ein klimatisiertes Einkaufszentrum ist zwar kühl, hilft aber nur bedingt, wenn man dort etwas kaufen soll oder sich nicht willkommen fühlt.\n\nDie schwierigste Frage ist die Verteilung. In der Innenstadt gibt es oft repräsentative Plätze, die politisch sichtbar sind. In dicht bebauten Wohnvierteln fehlen dagegen Bäume, und Innenhöfe sind privat. Planerinnen berichten, dass kleine Maßnahmen dort manchmal mehr bewirken als teure Vorzeigeprojekte: helle Markisen an Bushaltestellen, geöffnete Schulhöfe am Nachmittag oder Wasserstellen an Sportplätzen. Solche Lösungen sind weniger spektakulär, erreichen aber Menschen, die den ganzen Tag im Quartier bleiben.\n\nGleichzeitig entstehen Konflikte. Wer einen Schulhof öffnet, muss Reinigung, Lärmschutz und Haftung klären. Wer Wasser versprüht, verbraucht Ressourcen und braucht Wartung. Kritiker warnen deshalb vor schnellen Symbolmaßnahmen, die auf Fotos gut aussehen, im Alltag aber kaum gepflegt werden. In einer Stadt wurden mobile Schattensegel nach wenigen Wochen abgebaut, weil niemand zuständig war, sie bei Wind zu sichern. Das Beispiel zeigt, dass Anpassung nicht nur aus Anschaffung besteht, sondern aus Betrieb.\n\nSoziale Netze als Hitzeschutz\n\nSoziale Einrichtungen spielen beim Hitzeschutz eine eigene Rolle. Einige Seniorentreffs verlängern an heißen Tagen ihre Öffnungszeiten, andere stellen nur einen Raum bereit, weil Personal fehlt. Ehrenamtliche können unterstützen, aber nicht dauerhaft professionelle Verantwortung ersetzen. Deshalb arbeiten manche Kommunen mit Apotheken, Hausarztpraxen und Nachbarschaftsvereinen zusammen. Sie geben Hinweise, wo Menschen tagsüber hingehen können, und achten darauf, wer bei Hitze besonders selten die Wohnung verlässt.\n\nNeben Gebäuden rücken auch Wege in den Blick. Wer zu einer kühlen Bibliothek laufen muss, aber unterwegs keinen Schatten findet, erreicht den Schutzraum möglicherweise zu spät oder gar nicht. Deshalb prüfen manche Städte inzwischen ganze Alltagsketten: Wohnung, Haltestelle, Markt, Arztpraxis und Park. Dabei fällt auf, dass besonders einfache Dinge wie Trinkbrunnen oder Sitzbänke nur dann helfen, wenn sie regelmäßig kontrolliert werden und nicht gerade während der heißesten Stunden gesperrt sind.\n\nFür die Planung werden zunehmend lokale Daten genutzt. Temperaturmessungen in engen Straßen zeigen oft andere Belastungen als offizielle Wetterstationen am Stadtrand. Gleichzeitig warnen Fachleute davor, nur auf Zahlen zu schauen. Gespräche mit Bewohnerinnen und Bewohnern erklären, welche Orte gemieden werden, wo Angst vor Lärm besteht und welche Treffpunkte trotz Hitze wichtig bleiben.\n\nViele Städte testen solche Pläne zunächst in einzelnen Quartieren. Das ist langsamer als eine große Kampagne, zeigt aber schneller, ob ein Weg wirklich benutzt wird und wer trotz Angebot nicht erreicht wird.\n\nAm Ende entscheidet sich die Qualität solcher Programme nicht an der Zahl der markierten Orte. Wichtig ist, ob sie erreichbar, zuverlässig und für unterschiedliche Gruppen tatsächlich nutzbar sind. Eine kühle Stadt entsteht also nicht durch einzelne technische Tricks. Sie entsteht, wenn Verwaltung, soziale Arbeit und Stadtgestaltung gemeinsam planen und dabei auch unscheinbare Orte ernst nehmen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum werden Kühle-Routen eingerichtet?",
+          "options": [
+            "Damit zentrale Einkaufs- und Freizeitbereiche auch an heißen Tagen attraktiv bleiben.",
+            "Damit öffentliche Gebäude in besonders belasteten Vierteln technische Kühlung anbieten.",
+            "Damit Menschen ohne Kaufpflicht erreichbare Pausenorte finden."
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "Damit Menschen ohne Kaufpflicht erreichbare Pausenorte finden."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Damit Menschen ohne Kaufpflicht erreichbare Pausenorte finden.\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Problem beschreibt der Text bei Einkaufszentren?",
+          "options": [
+            "Sie sind zwar kühl, aber nicht immer als öffentlicher Schutzraum geeignet.",
+            "Sie sind oft weniger direkt mit Wohnvierteln verbunden.",
+            "Sie bieten zu wenige Sitzplätze für ältere Menschen."
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie sind zwar kühl, aber nicht immer als öffentlicher Schutzraum geeignet."
+          },
+          "explanation": "Die richtige Antwort ist a) \"Sie sind zwar kühl, aber nicht immer als öffentlicher Schutzraum geeignet.\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was wird über dicht bebaute Wohnviertel gesagt?",
+          "options": [
+            "Dort sind teure Vorzeigeplätze leichter umzusetzen.",
+            "Dort können kleine praktische Maßnahmen besonders wichtig sein.",
+            "Dort sollten Wasserstellen entlang stark genutzter touristischer Wege Vorrang erhalten."
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Dort können kleine praktische Maßnahmen besonders wichtig sein."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Dort können kleine praktische Maßnahmen besonders wichtig sein.\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wofür steht das Beispiel mit den Schattensegeln?",
+          "options": [
+            "Für den Erfolg mobiler Technik bei langfristiger Hitze.",
+            "Für den Vorteil privater Lösungen gegenüber kommunalen Projekten.",
+            "Für die Bedeutung von Zuständigkeit und Pflege nach der Anschaffung."
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "Für die Bedeutung von Zuständigkeit und Pflege nach der Anschaffung."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Für die Bedeutung von Zuständigkeit und Pflege nach der Anschaffung.\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Bedingung macht Hitzeschutzprogramme nach dem Text glaubwürdig?",
+          "options": [
+            "Sie müssen neben Karten auch Betrieb, Erreichbarkeit und soziale Kontakte sichern.",
+            "Sie müssen sich auf öffentlich zugängliche Innenräume in zentralen Einkaufsbereichen beschränken.",
+            "Sie müssen zuerst in sichtbaren Innenstadtbereichen beginnen."
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie müssen neben Karten auch Betrieb, Erreichbarkeit und soziale Kontakte sichern."
+          },
+          "explanation": "Die richtige Antwort ist a) \"Sie müssen neben Karten auch Betrieb, Erreichbarkeit und soziale Kontakte sichern.\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bisherige_erfahrung",
+  "de": "Welche Erfahrungen haben Sie in der Pflege bereits gesammelt?",
+  "category": "experience",
+  "sourced": true,
+  "assesses": "Scope of practice, and whether you can describe clinical work in German.",
+  "trap": "Listing job titles instead of describing what you actually did.",
+  "strong": "Ward type, patient numbers, the tasks you owned.",
+  "followUp": "Beschreiben Sie mir einen typischen Frühdienst bei Ihnen — von Anfang bis Ende.",
+  "model_answer": null
+}

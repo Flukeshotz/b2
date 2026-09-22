@@ -1,0 +1,551 @@
+[
+  {
+    "id": "argue",
+    "label": "Argue a position",
+    "de": "effektive Argumentation",
+    "learner": "building an argument someone could disagree with",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.5",
+        "quote": "Effektive Argumentation"
+      },
+      {
+        "board": "telc",
+        "ref": "Handbuch §3 / CEFR S. 79",
+        "quote": "überzeugend argumentieren und auf komplexe Argumentationen anderer reagieren"
+      }
+    ],
+    "resources": [
+      "claim + support structures",
+      "argument connectors",
+      "evaluative lexis",
+      "hedging: weitgehend, in der Regel, lässt sich nicht pauschal sagen",
+      "abstract and formal lexis; noun-verb collocations"
+    ],
+    "checks": [
+      "sentence_complexity",
+      "lexical_range",
+      "repetition",
+      "nvv"
+    ],
+    "experiences": [
+      "maya",
+      "writing",
+      "reading",
+      "listening",
+      "vocabulary",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Schriftlicher Ausdruck; Mündlich Aufgabe 1",
+      "telc": "Schriftlicher Ausdruck; Sprechen Teil 3"
+    }
+  },
+  {
+    "id": "justify",
+    "label": "Give reasons and consequences",
+    "de": "begründen und verteidigen",
+    "learner": "backing up what you said, and saying what follows from it",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.2.2",
+        "quote": "Stellung nehmen"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 74",
+        "quote": "Standpunkte durch relevante Erklärungen und Argumente klar begründen und verteidigen"
+      }
+    ],
+    "resources": [
+      "kausal connectors",
+      "weil / denn / da register distinction",
+      "konsekutiv: folglich, somit, sodass — see NOTE_KONSEKUTIV"
+    ],
+    "checks": [
+      "connector_range"
+    ],
+    "experiences": [
+      "writing",
+      "maya",
+      "grammar",
+      "reading",
+      "listening"
+    ],
+    "exam": {
+      "goethe": "Schriftlicher Ausdruck",
+      "telc": "Schriftlicher Ausdruck"
+    }
+  },
+  {
+    "id": "concede",
+    "label": "Concede, then disagree",
+    "de": "einräumen, dann widersprechen",
+    "learner": "giving the other side something before you make your point",
+    "evidence": "ours",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.2.3",
+        "quote": "zustimmen und ablehnen",
+        "note": "nearest named function; not concession"
+      },
+      {
+        "board": "—",
+        "ref": "our interpretation",
+        "quote": "derived from reacting to others' arguments + connector_range"
+      }
+    ],
+    "resources": [
+      "obwohl, trotzdem, dennoch, zwar…aber, allerdings, jedoch",
+      "verb-final after obwohl; verb-second after trotzdem"
+    ],
+    "checks": [
+      "connector_range"
+    ],
+    "experiences": [
+      "grammar",
+      "writing",
+      "maya",
+      "listening",
+      "reading"
+    ],
+    "exam": {
+      "goethe": "Schriftlicher Ausdruck",
+      "telc": "Kommunikative Gestaltung"
+    }
+  },
+  {
+    "id": "compare",
+    "label": "Weigh two sides",
+    "de": "vergleichen, abwägen",
+    "learner": "setting advantages against disadvantages, in order",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.2.2, §4.5",
+        "quote": "vergleichen … Vor- und Nachteile systematisch"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 62",
+        "quote": "Sachverhalte klar und systematisch beschreiben"
+      }
+    ],
+    "resources": [
+      "adversativ connectors",
+      "einerseits…andererseits",
+      "comparatives"
+    ],
+    "checks": [
+      "comparative_structure",
+      "connector_range"
+    ],
+    "experiences": [
+      "writing",
+      "maya",
+      "grammar",
+      "reading",
+      "listening"
+    ],
+    "exam": {
+      "goethe": "Schriftlicher Ausdruck",
+      "telc": "Schriftlicher Ausdruck"
+    }
+  },
+  {
+    "id": "speculate",
+    "label": "Suggest without demanding",
+    "de": "Möglichkeiten ausdrücken",
+    "learner": "proposing something so it lands as a suggestion, not an order",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.2.2 and §4.2.3",
+        "quote": "Möglichkeiten ausdrücken",
+        "note": "listed twice — production and interaction"
+      },
+      {
+        "board": "telc",
+        "ref": "Handbuch §3",
+        "quote": "auch Hypothesen werden formuliert"
+      }
+    ],
+    "resources": [
+      "Konjunktiv II",
+      "man könnte…",
+      "es wäre sinnvoll, wenn…",
+      "modal verbs of possibility"
+    ],
+    "checks": [
+      "speculative_language",
+      "konjunktiv2"
+    ],
+    "experiences": [
+      "grammar",
+      "maya",
+      "writing",
+      "reading",
+      "listening"
+    ],
+    "exam": {
+      "goethe": "Mündlich Aufgabe 2",
+      "telc": "Sprechen Teil 3 — Problemlösung"
+    }
+  },
+  {
+    "id": "exemplify",
+    "label": "Back it with an example",
+    "de": "mit Beispielen abstützen",
+    "learner": "making it concrete with something that actually happened",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.2.2",
+        "quote": "Beispiele geben"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 125 Themenentwicklung",
+        "quote": "wichtige Aspekte ausführen und mit relevanten Beispielen abstützen"
+      }
+    ],
+    "resources": [
+      "etwa, beispielsweise, so etwa",
+      "narrative past for a concrete instance"
+    ],
+    "checks": [
+      "concrete_example"
+    ],
+    "experiences": [
+      "writing",
+      "maya",
+      "interview",
+      "reading"
+    ],
+    "exam": {
+      "goethe": "Mündlich Aufgabe 1",
+      "telc": "Sprechen Teil 1"
+    }
+  },
+  {
+    "id": "structure",
+    "label": "Structure what you say",
+    "de": "Textaufbau, Planung",
+    "learner": "putting your points in an order a reader can follow",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.1",
+        "quote": "Textwissen … bewertet mit dem Kriterium Textaufbau",
+        "note": "a named marking criterion"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 62",
+        "quote": "wichtige Punkte hervorheben"
+      }
+    ],
+    "resources": [
+      "discourse framing",
+      "topic sentences",
+      "salience marking",
+      "paragraphing",
+      "covering the Leitpunkte the task actually set"
+    ],
+    "checks": [
+      "email_form",
+      "word_count",
+      "content_points"
+    ],
+    "experiences": [
+      "writing",
+      "reading",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Textaufbau (criterion)",
+      "telc": "Kommunikative Gestaltung"
+    }
+  },
+  {
+    "id": "maintain_discussion",
+    "label": "Hold your ground in a discussion",
+    "de": "Durchhaltevermögen im Diskurs",
+    "learner": "staying in the conversation when someone pushes back",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.5, §4.1",
+        "quote": "Durchhaltevermögen im Diskurs",
+        "note": "also the named speaking criterion Diskussionsfähigkeit"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 78–80",
+        "quote": "bei einer lebhaften Diskussion unter Muttersprachlern mithalten"
+      }
+    ],
+    "resources": [
+      "turn-taking",
+      "holding the floor",
+      "Versatzstücke to buy time — CEFR's own example: „Das ist eine schwierige Frage“"
+    ],
+    "checks": [],
+    "experiences": [
+      "maya",
+      "interview"
+    ],
+    "exam": {
+      "goethe": "Diskussionsfähigkeit (criterion)",
+      "telc": "Sprechen Teil 2/3"
+    }
+  },
+  {
+    "id": "react_unexpected",
+    "label": "Handle an unexpected turn",
+    "de": "unerwartete Gesprächsverläufe",
+    "learner": "coping when the conversation goes somewhere you didn't plan",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "telc",
+        "ref": "Handbuch §4",
+        "quote": "unerwartete Gesprächsverläufe … fehlende Kohärenz"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 80",
+        "quote": "sich auf Aussagen und Folgerungen anderer Sprecher beziehen, daran anknüpfen"
+      }
+    ],
+    "resources": [
+      "uptake markers",
+      "reformulation",
+      "checking questions"
+    ],
+    "checks": [],
+    "experiences": [
+      "maya"
+    ],
+    "exam": {
+      "goethe": "Mündlich Aufgabe 2",
+      "telc": "Sprechen Teil 2"
+    }
+  },
+  {
+    "id": "adapt_register",
+    "label": "Pitch it for the reader",
+    "de": "soziolinguistisches Wissen",
+    "learner": "sounding right for who you're writing to",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.1",
+        "quote": "ein Gespür … für Register und Natürlichkeit"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 79",
+        "quote": "Formalität ist den Umständen angemessen"
+      }
+    ],
+    "resources": [
+      "genitive prepositions",
+      "nominalisation",
+      "Anrede/Grußformel conventions",
+      "avoiding colloquialism in writing"
+    ],
+    "checks": [
+      "register",
+      "genitiv_praep",
+      "email_form",
+      "professional_register",
+      "patient_register"
+    ],
+    "experiences": [
+      "grammar",
+      "writing",
+      "maya",
+      "vocabulary",
+      "reading"
+    ],
+    "exam": {
+      "goethe": "Ausdrucksfähigkeit",
+      "telc": "Kommunikative Gestaltung"
+    }
+  },
+  {
+    "id": "understand_speech",
+    "label": "Follow real spoken German",
+    "de": "Hörverstehen unter erschwerten Bedingungen",
+    "learner": "following German spoken at real speed, by real people",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "telc",
+        "ref": "Handbuch §4.1.2",
+        "quote": "unter erschwerten Bedingungen (Umgebungsgeräusche, Abweichungen von der Standardsprache)"
+      },
+      {
+        "board": "telc",
+        "ref": "Handbuch §4.1",
+        "quote": "Interviews, auch mit Dialektsprechern"
+      }
+    ],
+    "resources": [
+      "regional variation",
+      "false starts and self-interruption",
+      "cohesion inferred from context rather than marked"
+    ],
+    "checks": [],
+    "experiences": [
+      "listening",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Hören Aufgabe 1 (once) und 2 (twice)",
+      "telc": "Hörverstehen Teil 1–3"
+    }
+  },
+  {
+    "id": "language_awareness",
+    "label": "Notice and fix your own German",
+    "de": "Sprachbewusstsein",
+    "learner": "spotting the mistake you keep making, and fixing it next time",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.5",
+        "quote": "Sprachbewusstsein",
+        "note": "third defining feature of the level"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 131",
+        "quote": "sich seine Hauptfehler merken",
+        "note": "self-monitoring — how the level operationalises it"
+      }
+    ],
+    "resources": [
+      "self-correction",
+      "recognising a known personal error",
+      "rewriting to fix it"
+    ],
+    "checks": [],
+    "experiences": [
+      "writing_rewrite",
+      "grammar",
+      "maya",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Korrektheit",
+      "telc": "Korrektheit"
+    }
+  },
+  {
+    "id": "summarise",
+    "label": "Say the gist in your own words",
+    "de": "zusammenfassen",
+    "learner": "pulling the point out of something long, without retelling all of it",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.5",
+        "quote": "Informationen zusammenfassen und weitergeben"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 96 (Verarbeitung von Texten)",
+        "quote": "Hauptpunkte zusammenfassen"
+      },
+      {
+        "book": "Kontext B2",
+        "ref": "K7 M4, K12 M4, S04",
+        "quote": "Informationen aus verschiedenen Quellen schriftlich zusammenfassen"
+      },
+      {
+        "book": "Aspekte neu B2",
+        "ref": "K8 M2, K10 M2",
+        "quote": "Strategie: Notizen für Zusammenfassungen nutzen"
+      }
+    ],
+    "resources": [
+      "Die Texte behandeln das Thema …",
+      "Die Hauptpunkte lassen sich folgendermaßen zusammenfassen: …",
+      "Zusammenfassend kann man sagen, …",
+      "nominalisation to compress a clause into a phrase"
+    ],
+    "checks": [],
+    "experiences": [
+      "reading",
+      "writing",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Lesen/Hören → Schreiben; Sprechen Teil 1",
+      "telc": "Schriftlicher Ausdruck; Mündlich Teil 1"
+    }
+  },
+  {
+    "id": "ask_followup",
+    "label": "Ask when you have not understood",
+    "de": "nachfragen",
+    "learner": "asking the question that stops a misunderstanding becoming a mistake",
+    "evidence": "explicit",
+    "sources": [
+      {
+        "board": "goethe",
+        "ref": "Prüfungsziele §4.5",
+        "quote": "um Klärung bitten",
+        "note": "interaction strategies"
+      },
+      {
+        "board": "telc",
+        "ref": "CEFR S. 87 (Um Klärung bitten)",
+        "quote": "nachfragen, ob man das, was der Sprecher sagte, richtig verstanden hat"
+      },
+      {
+        "book": "Kontext B2",
+        "ref": "Redemittel im Überblick, K1 M4 / K3 M2 / K4 M2",
+        "quote": "Rückfragen stellen"
+      },
+      {
+        "book": "Kontext B2",
+        "ref": "K12 M2",
+        "quote": "Tipp in der Prüfung: Nachfragen stellen"
+      }
+    ],
+    "resources": [
+      "Habe ich Sie richtig verstanden, dass …?",
+      "Was verstehen Sie unter …?",
+      "Könnten Sie das genauer erklären?",
+      "Mir ist noch nicht ganz klar, was Sie mit … meinen.",
+      "Können Sie dafür ein Beispiel nennen?"
+    ],
+    "checks": [],
+    "experiences": [
+      "maya",
+      "speaking",
+      "listening",
+      "exam"
+    ],
+    "exam": {
+      "goethe": "Mündlich Teil 2 (Interaktion)",
+      "telc": "Mündlich Teil 2/3"
+    }
+  }
+]

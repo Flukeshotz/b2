@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t1-p12",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #12",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Sport in der Freizeit\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Einleitung mit Begrüßung und Nennung des gewählten Themas (z. B. Thema 1: Individualsport vs. Mannschaftssport).",
+              "Strukturierte Darstellung von 2–3 Hauptaspekten mit persönlichen Erfahrungen oder Beispielen (z. B. Motivation, soziale Kontakte, Gesundheit).",
+              "Abwägung von Vor- und Nachteilen unter Verwendung typischer B2-Redemittel (z. B. 'Einerseits... andererseits...', 'Im Vergleich zu...').",
+              "Logischer Schluss mit einer persönlichen Schlussfolgerung oder Empfehlung und einem abrundenden Satz, der zum Gespräch überleitet."
+            ],
+            "expected_answer": "Guten Tag zusammen, ich freue mich, heute im Rahmen unseres Seminars einen kurzen Vortrag zum Thema 'Sport in der Freizeit' zu halten. Ich habe mich für Thema 1 entschieden: 'Individualsport versus Mannschaftssport – was ist besser?'\n\nZunächst möchte ich auf die Vorteile von Individualsport eingehen. Ich persönlich gehe zum Beispiel dreimal pro Woche joggen. Was ich daran besonders schätze, ist die absolute Flexibilität. Ich bin weder an feste Trainingszeiten noch an einen bestimmten Ort gebunden. Wenn ich nach einem stressigen Arbeitstag den Kopf freibekommen möchte, schnüre ich einfach meine Laufschuhe und kann sofort loslegen. Ein weiterer Pluspunkt ist meiner Meinung nach, dass man sich voll und ganz auf die eigenen Ziele konzentrieren kann, ohne auf schwächere oder stärkere Teammitglieder Rücksicht nehmen zu müssen. Allerdings hat die Sache auch einen Haken: Es erfordert eine Menge Selbstdisziplin. Wenn der innere Schweinehund mal wieder zubeißt, gibt es niemanden, der einen motiviert.\n\nUnd damit komme ich zum Mannschaftssport. Ich habe früher in einem Volleyballverein gespielt, und das war eine völlig andere Erfahrung. Der größte Vorteil liegt hier eindeutig im sozialen Bereich. Man gehört zu einer festen Gemeinschaft, man feiert Siege gemeinsam und fängt sich nach Niederlagen gegenseitig auf. Diese sozialen Kontakte sind ein unglaublich starker Motivationsfaktor. Man geht auch dann zum Training, wenn man eigentlich keine Lust hat, weil man seine Mitspieler nicht im Stich lassen will. Ein Nachteil ist jedoch der organisatorische Aufwand. Feste Trainingszeiten und Spieltage am Wochenende lassen sich nicht immer problemlos mit dem Berufs- und Familienleben vereinbaren.\n\nZusammenfassend lässt sich sagen, dass beide Formen ihre Berechtigung haben. Es kommt wirklich darauf an, was man persönlich sucht: Sucht man Ruhe und Unabhängigkeit, ist Individualsport ideal. Steht der Teamgeist und die soziale Interaktion im Vordergrund, ist man in einer Mannschaft besser aufgehoben. Für mich ist die Mischung entscheidend, um körperlich und mental fit zu bleiben. Vielen Dank für Ihre Aufmerksamkeit, ich freue mich auf Ihre Fragen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

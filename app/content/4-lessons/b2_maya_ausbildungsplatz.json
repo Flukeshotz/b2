@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_ausbildungsplatz",
+  "order_index": 21,
+  "icon": "💬",
+  "title": "Ausbildung statt Studium?",
+  "capability": "defending an opinion against a family generalisation with concrete examples",
+  "proof": "Ausbildung statt Studium?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_ausbildungsplatz"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

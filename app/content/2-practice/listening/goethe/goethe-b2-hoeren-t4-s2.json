@@ -1,0 +1,177 @@
+{
+  "id": "goethe-b2-hoeren-t4-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 4 — Akademischer Vortrag / Vorlesung, Satz 2",
+  "minutes": 12,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 7,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 4 — Akademischer Vortrag / Vorlesung",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil4-set2.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein Leihladen soll vor allem ...",
+          "options": [
+            "neue Produkte günstiger verkaufen.",
+            "private Keller leer räumen.",
+            "seltener benötigte Dinge gemeinsam nutzbar machen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "seltener benötigte Dinge gemeinsam nutzbar machen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"seltener benötigte Dinge gemeinsam nutzbar machen.\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut Vortrag bei der Auswahl der Gegenstände wichtig?",
+          "options": [
+            "Sie müssen Nachfrage und Wartung zugleich erfüllen.",
+            "Sie sollen möglichst groß und teuer sein.",
+            "Sie sollen aus privaten Spenden stammen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie müssen Nachfrage und Wartung zugleich erfüllen."
+          },
+          "explanation": "Die richtige Antwort ist a) \"Sie müssen Nachfrage und Wartung zugleich erfüllen.\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Seltene Nutzung eines Gegenstands bedeutet ...",
+          "options": [
+            "dass er automatisch verliehen werden sollte.",
+            "nicht automatisch für eine Ausleihe geeignet.",
+            "dass er besser verkauft als repariert wird."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "nicht automatisch für eine Ausleihe geeignet."
+          },
+          "explanation": "Die richtige Antwort ist b) \"nicht automatisch für eine Ausleihe geeignet.\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum reicht eine Online-Liste nicht aus?",
+          "options": [
+            "Weil die Gegenstände sonst zu langsam ausgeliehen werden.",
+            "Weil ältere Menschen grundsätzlich keine Listen nutzen.",
+            "Weil viele Nutzer eine Einweisung oder Beratung brauchen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Weil viele Nutzer eine Einweisung oder Beratung brauchen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Weil viele Nutzer eine Einweisung oder Beratung brauchen.\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Gebühr im Leihladen ...",
+          "options": [
+            "finanziert vor allem Pflege und Kontrolle.",
+            "soll den Gewinn der Kommune erhöhen.",
+            "wird nur bei verspäteter Rückgabe verlangt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "finanziert vor allem Pflege und Kontrolle."
+          },
+          "explanation": "Die richtige Antwort ist a) \"finanziert vor allem Pflege und Kontrolle.\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was meint Hoffmann mit einer Kultur des Zurückbringens?",
+          "options": [
+            "Nutzer sollen geliehene Dinge möglichst spät zurückgeben.",
+            "Die Ausleihe endet, sobald ein Gegenstand bezahlt ist.",
+            "Verantwortung gehört auch nach der Nutzung dazu."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Ausleihe endet, sobald ein Gegenstand bezahlt ist."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Die Ausleihe endet, sobald ein Gegenstand bezahlt ist.\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Rolle spielen Workshops?",
+          "options": [
+            "Sie ersetzen die Ausleihe komplizierter Geräte.",
+            "Sie erleichtern den Einstieg in unbekannte Geräte.",
+            "Sie kontrollieren, wer etwas ausleihen darf."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie kontrollieren, wer etwas ausleihen darf."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Sie kontrollieren, wer etwas ausleihen darf.\"."
+        }
+      ]
+    }
+  ]
+}

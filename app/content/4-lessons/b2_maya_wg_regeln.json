@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_wg_regeln",
+  "order_index": 25,
+  "icon": "💬",
+  "title": "Klare Regeln für die Küche",
+  "capability": "comparing approaches and proposing a workable compromise",
+  "proof": "Klare Regeln für die Küche",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_wg_regeln"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

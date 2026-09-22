@@ -1,0 +1,67 @@
+{
+  "id": "goethe-b2-schreiben-2",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Schreiben, Übungsset 2",
+  "minutes": 30,
+  "source": "Skillcase, authored. Exam-format practice for Goethe B2 Schreiben Teil 1 — not an official Goethe task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Forumsbeitrag: Digitale Kommunikation im Alltag",
+      "instruction": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In einem Online-Forum wird diskutiert, ob digitale Kommunikation (E-Mails, Messenger, Videokonferenzen) den persönlichen Kontakt im Berufsleben verdrängt. Schreiben Sie einen Beitrag für das Forum.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.",
+              "Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.",
+              "Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können."
+            ],
+            "min_words": 180,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 200
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.",
+              "Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.",
+              "Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung: Ersetzt oder ergänzt? (These mit Begründung)",
+              "Je einen konkreten Vorteil und Nachteil mit Beispiel nennen",
+              "Einen praktischen Vorschlag für die Kombination von digital und persönlich machen",
+              "Typische B2-Redemittel: 'Einerseits... andererseits', 'Meiner Erfahrung nach', 'Ich plädiere für'"
+            ],
+            "expected_answer": "Liebe Forenmitglieder,\n\nich möchte gerne an der Diskussion teilnehmen, ob digitale Kommunikation den persönlichen Kontakt im Berufsleben verdrängt. Meiner Meinung nach ergänzt sie ihn eher, als dass sie ihn ersetzt. Ich bin überzeugt, dass beide Formen ihre Berechtigung haben und sich ideal kombinieren lassen.\n\nEinerseits bietet die digitale Kommunikation einen großen Vorteil: die Flexibilität. Man kann ortsunabhängig und oft zeitsparend Informationen austauschen, ohne lange Anfahrtswege in Kauf nehmen zu müssen. Andererseits gibt es auch einen entscheidenden Nachteil, nämlich die fehlende nonverbale Kommunikation. Missverständnisse entstehen viel schneller, weil Mimik und Gestik nicht sichtbar sind und der Tonfall in Textnachrichten oft falsch interpretiert wird.\n\nDamit persönlicher und digitaler Austausch gut zusammenpassen, schlage ich ein hybrides Modell vor. Regelmäßige Teambesprechungen sollten nach Möglichkeit in Präsenz stattfinden, um den sozialen Zusammenhalt zu stärken und Vertrauen aufzubauen. Für den alltäglichen, schnellen Informationsaustausch eignen sich hingegen Messenger und E-Mails hervorragend. So kann man die Vorteile beider Welten nutzen, ohne auf das Zwischenmenschliche verzichten zu müssen.\n\nViele Grüße\nAnna",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Klar gegliederter Forumsbeitrag (Einleitung, Erläuterung der Vor- und Nachteile mit Begründung, eigenes Beispiel sowie konkrete Synthese für den Berufsalltag). Achten Sie auf B2-Konnektoren (z. B. einerseits/andererseits, zwar...aber) und treffende Fachbegriffe zur Arbeitswelt."
+        }
+      ]
+    }
+  ]
+}

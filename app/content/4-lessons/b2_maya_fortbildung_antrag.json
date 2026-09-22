@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_fortbildung_antrag",
+  "order_index": 37,
+  "icon": "💬",
+  "title": "Eine Fortbildung beantragen",
+  "capability": "connecting a request to concrete needs and accepting a staged yes",
+  "proof": "Eine Fortbildung beantragen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_fortbildung_antrag"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

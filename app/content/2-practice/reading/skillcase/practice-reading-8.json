@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-8",
+  "board": "custom",
+  "title": "Leseverstehen — Interview: Quereinstieg in die IT mit 42",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Interview: Quereinstieg in die IT mit 42",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "REDAKTION: Sie haben mit 42 Jahren Ihre Ausbildung als Bankkauffrau aufgegeben und sind in die IT-Branche gewechselt. Was hat den Ausschlag gegeben?\n\nFRAU MORAWEK: Ehrlich gesagt war es keine spontane Entscheidung, sondern ein schleichender Prozess. Ich habe in der Bank zunehmend gemerkt, dass mich genau die Prozesse interessierten, die im Hintergrund liefen — also die Software, nicht das Kundengespräch. Irgendwann habe ich abends angefangen, online Programmierkurse zu machen, erst aus Neugier, dann immer ernsthafter.\n\nREDAKTION: War der Umstieg schwierig?\n\nFRAU MORAWEK: Fachlich ja, menschlich noch mehr. Ich saß plötzlich in Kursen mit 22-Jährigen, die drei Jahre Informatikstudium hinter sich hatten, und ich mit meinen Excel-Kenntnissen. Am Anfang habe ich mich oft gefragt, ob ich zu alt für den Neuanfang bin.\n\nREDAKTION: Und heute?\n\nFRAU MORAWEK: Heute sehe ich es umgekehrt: Meine zwanzig Berufsjahre waren kein Nachteil, sondern ein Vorteil. Ich verstehe, wie ein Unternehmen tickt, wie man mit Kunden kommuniziert, wie man unter Druck ruhig bleibt. Das bringt kein Bootcamp bei. Jüngeren würde ich sagen: Unterschätzt nicht, was ihr aus einem ganz anderen Berufsleben mitbringt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beschreibt Frau Morawek ihre Entscheidung zum Berufswechsel?",
+          "options": [
+            "Als Entscheidung, die ihr aufgezwungen wurde.",
+            "Als spontanen, plötzlichen Entschluss.",
+            "Als schleichenden Prozess, nicht als spontane Entscheidung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Als schleichenden Prozess, nicht als spontane Entscheidung."
+          },
+          "explanation": "\"keine spontane Entscheidung, sondern ein schleichender Prozess\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Morawek fand den Umstieg nur fachlich, nicht aber menschlich schwierig.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Fachlich ja, menschlich noch mehr.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sieht Frau Morawek heute als Vorteil ihres Quereinstiegs?",
+          "options": [
+            "Ihr jüngeres Alter im Vergleich zu Kollegen.",
+            "Ihre technischen Programmierkenntnisse von Anfang an.",
+            "Ihre bisherige Berufserfahrung mit Kunden und Druck."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ihre bisherige Berufserfahrung mit Kunden und Druck."
+          },
+          "explanation": "\"Meine zwanzig Berufsjahre waren kein Nachteil, sondern ein Vorteil.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Rat gibt Frau Morawek jüngeren Quereinsteigern?",
+          "options": [
+            "Nicht unterschätzen, was man aus einem anderen Berufsleben mitbringt.",
+            "Sich nicht mit jüngeren Kollegen vergleichen.",
+            "Erst ein vollständiges Studium abschließen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Nicht unterschätzen, was man aus einem anderen Berufsleben mitbringt."
+          },
+          "explanation": "\"Unterschätzt nicht, was ihr aus einem ganz anderen Berufsleben mitbringt.\""
+        }
+      ]
+    }
+  ]
+}

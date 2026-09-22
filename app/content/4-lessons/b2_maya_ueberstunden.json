@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_ueberstunden",
+  "order_index": 13,
+  "icon": "💬",
+  "title": "Zu viele Überstunden",
+  "capability": "arguing for a fair overtime system under budget pushback",
+  "proof": "Zu viele Überstunden",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_ueberstunden"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

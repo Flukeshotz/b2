@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p2",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #2",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollte Reparieren finanziell stärker gefördert werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung/Ablehnung mit Begründung)",
+              "Mindestens zwei ausformulierte Argumente mit Beispielen (z.B. ökologisch: Ressourcenschonung, Müllvermeidung; ökonomisch: Förderung lokaler Handwerksbetriebe; sozial: Schaffung von Arbeitsplätzen, Bildungsaspekt)",
+              "Aufgreifen eines möglichen Gegenarguments mit Widerlegung (z.B. hohe Kosten vs. langfristige Einsparungen)",
+              "Zusammenfassung und abschließender Appell/Vorschlag für konkrete Maßnahmen (z.B. Reparaturbonus, Mehrwertsteuersenkung)",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z.B. 'Ich bin der festen Überzeugung, dass...', 'Ein weiterer wichtiger Aspekt ist...', 'Man könnte zwar einwenden, dass..., aber...', 'Zusammenfassend lässt sich sagen...')"
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass Reparieren finanziell deutlich stärker gefördert werden sollte, und zwar aus ökologischen, aber auch aus wirtschaftlichen und sozialen Gründen. In unserer heutigen Wegwerfgesellschaft ist es ja leider oft so, dass eine Neuanschaffung günstiger ist als eine fachgerechte Reparatur. Das ist ein fatales Signal, das dringend korrigiert werden muss. Ein erstes starkes Argument ist der Umweltschutz. Jedes Produkt, das wir reparieren und länger nutzen, muss nicht neu produziert werden. Das spart eine enorme Menge an Ressourcen, Energie und Wasser und vermeidet gleichzeitig Müll, besonders den problematischen Elektroschrott. Wenn der Staat zum Beispiel einen Reparaturbonus einführen würde, ähnlich wie es in Österreich bereits der Fall ist, wäre das ein direkter Anreiz für die Verbraucher, das Handy mit dem kaputten Display doch zum Fachmann zu bringen, anstatt es wegzuwerfen. Ein zweiter wichtiger Aspekt ist die Stärkung der lokalen Wirtschaft. Von einer höheren Reparaturquote würden vor allem kleine und mittelständische Handwerksbetriebe, Schneidereien oder Elektronikwerkstätten profitieren. Das schafft und sichert Arbeitsplätze direkt vor Ort, die man nicht einfach ins Ausland verlagern kann. Zudem geht es hier auch um den Erhalt von wertvollem Fachwissen, das sonst verloren geht. Man könnte natürlich einwenden, dass solche Subventionen den Staat viel Geld kosten und vielleicht die Kaufkraft für neue, effizientere Produkte sinkt. Aber dieses Argument greift meiner Meinung nach zu kurz. Die Entsorgung von Müll und die Beseitigung von Umweltschäden kosten die Gesellschaft langfristig ein Vielfaches. Außerdem könnten die Kosten durch eine reduzierte Mehrwertsteuer auf Reparaturdienstleistungen, wie es die EU ja bereits ermöglicht, relativ einfach gegenfinanziert werden. Zusammenfassend lässt sich sagen, dass die Förderung von Reparaturen eine Investition in die Zukunft ist. Sie verbindet ökologische Nachhaltigkeit mit wirtschaftlicher Vernunft und sozialer Verantwortung. Ich appelliere daher an die Politik, nicht nur über Kreislaufwirtschaft zu reden, sondern durch konkrete finanzielle Anreize das Reparieren endlich wieder attraktiver zu machen als das gedankenlose Wegwerfen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

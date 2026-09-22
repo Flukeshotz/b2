@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-9",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 9 — Wortbildung",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"prüfen\":",
+          "options": [
+            "die Prüfung",
+            "der Prüf",
+            "das Prüfen ist seltener"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Prüfung"
+          },
+          "explanation": "Verb + \"-ung\" ist das häufigste Muster für Vorgangsnomen: \"die Prüfung\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"möglich\":",
+          "options": [
+            "das Mögliche nur",
+            "die Möglichkeit",
+            "die Möglichung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "die Möglichkeit"
+          },
+          "explanation": "Adjektiv + \"-keit\" bildet das Abstraktum: \"die Möglichkeit\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"sich beschweren\":",
+          "options": [
+            "das Beschwert",
+            "die Beschwerde",
+            "die Beschwerung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "die Beschwerde"
+          },
+          "explanation": "Unregelmäßige, aber sehr gebräuchliche Nominalisierung: \"die Beschwerde\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"verantwortlich\":",
+          "options": [
+            "der Verantwortliche bezeichnet die Person",
+            "die Verantwortlichkeit ist seltener",
+            "die Verantwortung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "der Verantwortliche bezeichnet die Person"
+          },
+          "explanation": "\"Die Verantwortung\" ist die Eigenschaft/Aufgabe, \"der/die Verantwortliche\" die Person, die sie trägt — beide Nominalisierungen existieren, mit unterschiedlicher Bedeutung."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"sich entscheiden\":",
+          "options": [
+            "die Entscheidheit",
+            "das Entschiedene",
+            "die Entscheidung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die Entscheidung"
+          },
+          "explanation": "\"Die Entscheidung\" ist die reguläre Nominalisierung mit \"-ung\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"häufig\":",
+          "options": [
+            "die Häufigkeit",
+            "das Häufige",
+            "die Häufung meint etwas anderes"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Häufigkeit"
+          },
+          "explanation": "\"Häufigkeit\" beschreibt, wie oft etwas vorkommt; \"Häufung\" beschreibt eine Ansammlung — unterschiedliche Bedeutungen."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"sich verändern\":",
+          "options": [
+            "die Verändertheit",
+            "das Verändern nur",
+            "die Veränderung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die Veränderung"
+          },
+          "explanation": "\"Die Veränderung\" ist die Standardnominalisierung."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"genau\":",
+          "options": [
+            "das Genaue nur",
+            "die Genauigkeit",
+            "die Genauheit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "die Genauigkeit"
+          },
+          "explanation": "\"Genauigkeit\" ist die korrekte Bildung mit \"-igkeit\" nach Adjektiven auf \"-au\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"anwenden\":",
+          "options": [
+            "die Anwendung",
+            "das Angewendete",
+            "die Anwendbarkeit beschreibt etwas anderes"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Anwendung"
+          },
+          "explanation": "\"Die Anwendung\" ist der Vorgang; \"Anwendbarkeit\" beschreibt, OB etwas anwendbar ist — feine, aber wichtige Unterscheidung."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"sich verbessern\":",
+          "options": [
+            "die Besserheit",
+            "die Verbesserung",
+            "das Verbesserte"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "die Verbesserung"
+          },
+          "explanation": "\"Die Verbesserung\" ist die reguläre Nominalisierung."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nomen zu \"flexibel\":",
+          "options": [
+            "die Flexibilität",
+            "die Flexibelheit",
+            "das Flexible nur"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Flexibilität"
+          },
+          "explanation": "Fremdwörter auf \"-bel\" bilden das Abstraktum meist mit \"-ilität\": \"die Flexibilität\"."
+        }
+      ]
+    }
+  ]
+}

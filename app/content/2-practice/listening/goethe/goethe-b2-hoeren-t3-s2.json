@@ -1,0 +1,156 @@
+{
+  "id": "goethe-b2-hoeren-t3-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 2",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil3-set2.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Digitale Anträge sollen Wege sparen, aber Beratung nicht ersetzen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Moderator"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Moderator\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Digitale Angebote funktionieren nicht automatisch für alle.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Frau Seidel"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Frau Seidel\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er/Sie nennt zuerst das Alter als mögliche Ursache.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Herr Brandt"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Herr Brandt\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Unklare Hinweise sind eine größere Hürde als neue Funktionen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Moderator"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Moderator\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Routinefälle brauchen andere Hilfe als unklare Beratungssituationen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Frau Seidel"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Frau Seidel\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er/Sie wünscht sich weniger Angst durch gespeicherte Zwischenschritte.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Herr Brandt"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Herr Brandt\"."
+        }
+      ]
+    }
+  ]
+}

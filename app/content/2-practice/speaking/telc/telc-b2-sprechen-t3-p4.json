@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t3-p4",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #4",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Ihre Sprachschule plant an einem Samstag einen Workshop-Tag für B2-Lernende. Gewünscht sind mehr mündliche Übung, Tipps zum Schreiben und Prüfungsvorbereitung. Es stehen drei Klassenräume, zwei Lehrkräfte und ein kleines Budget für Kopien und Getränke zur Verfügung.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nWorkshop-Tag in der Sprachschule",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Zeitlichen Ablauf des Samstags klar strukturieren (z. B. 3 Blöcke à 90 Min.) und die drei Räume sinnvoll den Themen zuweisen.",
+              "Konkrete Vorschläge zur Aufteilung der zwei Lehrkräfte machen (z. B. Team-Teaching, Rotation) und die Rolle von Lernenden als Helfer einplanen.",
+              "Realistische Nutzung des Budgets beschreiben (Kopien für Arbeitsblätter, Wasser/Tee) und Alternativen bei Knappheit vorschlagen.",
+              "Typische Redemittel für Planungsdialoge verwenden: Vorschläge machen („Wie wäre es, wenn...“), zustimmen („Das finde ich sinnvoll.“), Alternativen abwägen („Einerseits..., andererseits...“)."
+            ],
+            "expected_answer": "Also, ich habe mir überlegt, wie wir den Workshop-Tag am Samstag am besten organisieren könnten. Wir haben ja drei Räume, zwei Lehrkräfte und ein kleines Budget – das ist zwar nicht üppig, aber ich glaube, damit lässt sich ein wirklich sinnvoller Tag gestalten. Mein Vorschlag wäre, den Tag in drei Blöcke von jeweils eineinhalb Stunden aufzuteilen, zum Beispiel von 9:00 bis 10:30 Uhr, dann von 10:45 bis 12:15 Uhr und nach einer Mittagspause noch einmal von 13:00 bis 14:30 Uhr. So bleibt der Tag kompakt, aber nicht zu anstrengend. In jedem Block könnten wir parallel drei verschiedene Workshops anbieten, sodass die Lernenden je nach Bedarf wählen können. Ein Raum wäre für mündliche Übungen reserviert, ein zweiter für Schreibtipps und der dritte für Prüfungsvorbereitung. Was die zwei Lehrkräfte betrifft, dachte ich, dass eine Person den mündlichen Workshop übernimmt und die andere zwischen Schreiben und Prüfungsvorbereitung wechselt. Allerdings bräuchten wir dann noch eine Aufsicht oder Moderation für den dritten Raum. Vielleicht könnten wir eine erfahrene Lernende oder einen Lernenden aus einem höheren Kurs bitten, dort einfache Übungen zu begleiten, zum Beispiel eine Schreibwerkstatt mit Partnerkorrektur. Das entlastet uns und fördert gleichzeitig das selbstständige Lernen. Einerseits wäre das praktisch, andererseits müssten wir natürlich sicherstellen, dass die Materialien dafür klar und selbsterklärend sind. Was das Budget angeht, schlage ich vor, das Geld hauptsächlich für Kopien von Arbeitsblättern und für Getränke wie Wasser und Tee zu verwenden. Wenn es knapp wird, könnten die Teilnehmer selbst einen kleinen Beitrag mitbringen, etwa eine Thermoskanne Tee oder ein paar Kekse. Das schafft auch gleich eine nette Atmosphäre. Für die Prüfungsvorbereitung fände ich es sinnvoll, einen Probe-Test unter realistischen Bedingungen zu simulieren, also mit Zeitlimit und klaren Anweisungen. Die Auswertung könnten wir dann gemeinsam im Plenum besprechen, das spart Zeit und alle profitieren von den typischen Fehlern. Insgesamt denke ich, dass dieser Plan realistisch ist, weil er die vorhandenen Ressourcen gut nutzt und trotzdem eine abwechslungsreiche Mischung aus Übungen, Tipps und Prüfungstraining bietet. Was meinst du dazu? Vielleicht hast du noch eine Idee, wie wir die Pausen gestalten könnten, um das Ganze noch kommunikativer zu machen?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

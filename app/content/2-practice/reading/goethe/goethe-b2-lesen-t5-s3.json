@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-lesen-t5-s3",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 3",
+  "minutes": 11,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "instruction": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Benutzungsordnung der Offenen Werkstatt Am Gleis\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nVerbrauchsmaterialien wie Holz, Acrylglas, Schleifpapier und 3-D-Druck-Filament werden nach tatsächlichem Verbrauch abgerechnet. Eigene Materialien dürfen nur verwendet werden, wenn sie vor Beginn von der Werkstattleitung freigegeben wurden.\n\n**Paragraph 28**\nMaschinen mit erhöhtem Verletzungsrisiko dürfen erst nach einer persönlichen Sicherheitsunterweisung genutzt werden. Die Unterweisung wird im Nutzerkonto vermerkt und gilt nur für die jeweils genannten Geräte. Wer länger als sechs Monate nicht in der Werkstatt gearbeitet hat, kann zu einer erneuten Unterweisung verpflichtet werden. Die Weitergabe des eigenen Zugangschips oder das Arbeiten unter fremdem Namen ist nicht zulässig. Die Werkstattleitung kann die Freigabe einzelner Geräte zusätzlich zeitlich begrenzen.\n\n**Paragraph 29**\nFür Lasercutter, CNC-Fräse und Siebdrucktisch müssen Zeitfenster im Buchungssystem belegt werden. Eine Person darf pro Woche höchstens zwei Zeitfenster für dasselbe Gerät reservieren. Stornierungen sind bis 24 Stunden vorher möglich. Erscheint eine Nutzerin oder ein Nutzer mehr als 15 Minuten zu spät, kann das Zeitfenster ohne Ersatz an andere Wartende vergeben werden. Unbegründet versäumte Zeitfenster werden im Nutzerkonto vermerkt. Die Werkstattleitung kann in begründeten Ausnahmefällen zusätzliche Zeiten freigeben.\n\n**Paragraph 30**\nSchäden an Werkzeugen, Maschinen oder ausgeliehenem Zubehör sind sofort dem Werkstattdienst zu melden. Wer Geräte entgegen der Einweisung verwendet oder Warnhinweise missachtet, haftet für die daraus entstehenden Kosten. Normale Abnutzung wird nicht berechnet. Für privat mitgebrachte Materialien übernimmt die Werkstatt keine Gewähr, auch wenn sie vor Ort bearbeitet werden. Für Schäden durch ungeeignete eigene Materialien haftet die nutzende Person selbst.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Einweisung",
+            "B: Materialkosten",
+            "C: Maschinenbuchung",
+            "D: Sicherheitskleidung",
+            "E: Haftung",
+            "F: Öffnungszeiten",
+            "G: Gäste",
+            "H: Lagerung"
+          ],
+          "payload": {
+            "context": "Benutzungsordnung der Offenen Werkstatt Am Gleis\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nVerbrauchsmaterialien wie Holz, Acrylglas, Schleifpapier und 3-D-Druck-Filament werden nach tatsächlichem Verbrauch abgerechnet. Eigene Materialien dürfen nur verwendet werden, wenn sie vor Beginn von der Werksta..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Einweisung"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Einweisung\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Einweisung",
+            "B: Materialkosten",
+            "C: Maschinenbuchung",
+            "D: Sicherheitskleidung",
+            "E: Haftung",
+            "F: Öffnungszeiten",
+            "G: Gäste",
+            "H: Lagerung"
+          ],
+          "payload": {
+            "context": "Benutzungsordnung der Offenen Werkstatt Am Gleis\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nVerbrauchsmaterialien wie Holz, Acrylglas, Schleifpapier und 3-D-Druck-Filament werden nach tatsächlichem Verbrauch abgerechnet. Eigene Materialien dürfen nur verwendet werden, wenn sie vor Beginn von der Werksta..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Einweisung"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Einweisung\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Einweisung",
+            "B: Materialkosten",
+            "C: Maschinenbuchung",
+            "D: Sicherheitskleidung",
+            "E: Haftung",
+            "F: Öffnungszeiten",
+            "G: Gäste",
+            "H: Lagerung"
+          ],
+          "payload": {
+            "context": "Benutzungsordnung der Offenen Werkstatt Am Gleis\n\nBeispiel: 0 Lösung b\n\n**Paragraph 0**\nVerbrauchsmaterialien wie Holz, Acrylglas, Schleifpapier und 3-D-Druck-Filament werden nach tatsächlichem Verbrauch abgerechnet. Eigene Materialien dürfen nur verwendet werden, wenn sie vor Beginn von der Werksta..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Einweisung"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Einweisung\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        }
+      ]
+    }
+  ]
+}

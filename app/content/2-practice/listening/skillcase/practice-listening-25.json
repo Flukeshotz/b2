@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-25",
+  "board": "custom",
+  "title": "Hörverstehen — Beim Arzt: Terminvereinbarung",
+  "minutes": 7,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Beim Arzt: Terminvereinbarung",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_25_arzttermin.mp3",
+        "duration_seconds": 42,
+        "voices": "katja+jan"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum ruft der Patient in der Praxis an?",
+          "options": [
+            "Er möchte einen Termin absagen.",
+            "Er benötigt ein Attest für die Arbeit.",
+            "Er braucht eine Nachkontrolle wegen anhaltender Schmerzen nach einer Operation."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Er braucht eine Nachkontrolle wegen anhaltender Schmerzen nach einer Operation."
+          },
+          "explanation": "\"ich bräuchte einen Termin zur Nachkontrolle nach meiner Operation … Ich habe leicht anhaltende Schmerzen.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Optionen bietet die Praxis an?",
+          "options": [
+            "Nur einen Termin in zwei Wochen.",
+            "Nur eine telefonische Beratung.",
+            "Übermorgen um 9:30 Uhr oder noch heute als Notfall."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Übermorgen um 9:30 Uhr oder noch heute als Notfall."
+          },
+          "explanation": "\"Ich hätte übermorgen um neun Uhr dreißig … oder … heute noch als Notfall.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Patient entscheidet sich für den Notfalltermin noch heute.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Die Schmerzen sind nicht akut, übermorgen reicht mir völlig.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was soll der Patient zum Termin mitbringen?",
+          "options": [
+            "Eine Überweisung vom Hausarzt.",
+            "Seine Entlassungsunterlagen aus dem Krankenhaus.",
+            "Ein aktuelles Blutbild."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Seine Entlassungsunterlagen aus dem Krankenhaus."
+          },
+          "explanation": "\"Bitte bringen Sie Ihre Entlassungsunterlagen aus dem Krankenhaus mit.\""
+        }
+      ]
+    }
+  ]
+}

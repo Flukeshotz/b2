@@ -1,0 +1,176 @@
+{
+  "id": "telc-b2-lesen-t1-s1",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 1 — Zuordnung von Überschriften, Satz 1",
+  "minutes": 18,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 1 — Zuordnung von Überschriften",
+      "instruction": "Lesen Sie die Texte und wählen Sie die passende Überschrift.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Die Personalabteilung eines mittelgroßen Architekturbüros hat ihre Beschäftigten gefragt, wie sie nach drei Jahren wechselnder Arbeitsmodelle arbeiten möchten. Die überraschende Antwort: Fast niemand will jeden Tag im Büro sitzen, aber auch kaum jemand möchte ausschließlich von zu Hause aus arbeiten. Junge Eltern schätzen die ruhigeren Vormittage am heimischen Schreibtisch, während neue Mitarbeitende angeben, sie lernten im Büro schneller, wer wofür zuständig sei. Die Geschäftsleitung führt deshalb keine feste Anwesenheitspflicht ein, sondern Teamtage, an denen alle an gemeinsamen Entwürfen arbeiten. Für konzentrierte Einzelaufgaben bleiben zwei flexible Tage pro Woche. Ortsunabhängigkeit bleibt ein Gewinn, solange sie nicht zur Vereinzelung führt. Entscheidend ist nicht die Anzahl der Homeoffice-Tage, sondern ob Aufgaben, Erfahrung und soziale Kontakte zusammenpassen. Gleichzeitig verlangt das Modell mehr Planung als früher: Wer spontan Rat braucht, muss wissen, wann die passenden Kolleginnen erreichbar sind. Die Teams prüfen regelmäßig, ob ihre Absprachen noch funktionieren. Auffällig ist außerdem, dass die Diskussion weniger über Vertrauen als über Sichtbarkeit geführt wird. Wer selten im Büro ist, fürchtet, bei Entscheidungen übergangen zu werden. Das Büro bekommt dadurch eine neue Funktion: Es ist nicht mehr tägliche Pflicht, sondern ein bewusst gewählter Ort für Abstimmung, Lernen und Zugehörigkeit.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Personalabteilung eines mittelgroßen Architekturbüros hat ihre Beschäftigten gefragt, wie sie nach drei Jahren wechselnder Arbeitsmodelle arbeiten möchten. Die überraschende Antwort: Fast niemand ...",
+          "options": [
+            "A: Wenn Nähe neu organisiert werden muss",
+            "B: Neustart über Umwege statt gerader Karriere",
+            "C: Digitale Werkzeuge verändern Besprechungen",
+            "D: Erfahrungswissen sichern, bevor es verschwindet",
+            "E: Mehr Freiheit, aber nicht für alle gleich",
+            "F: Vier Tage Arbeit: Chancen und offene Fragen",
+            "G: Generationenwechsel im Betrieb organisieren",
+            "H: Konflikte vermeiden durch klarere Nachrichten",
+            "I: Berufseinstieg ohne klassischen Abschluss",
+            "J: Weiterbildung ohne finanzielle Nachteile"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Wenn Nähe neu organisiert werden muss"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Wenn Nähe neu organisiert werden muss\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Als die Druckerei, in der Karsten zwölf Jahre gearbeitet hatte, schloss, wollte er zunächst möglichst schnell wieder eine ähnliche Stelle finden. Erst nach mehreren erfolglosen Bewerbungen begann er, ...",
+          "options": [
+            "A: Wenn Nähe neu organisiert werden muss",
+            "B: Neustart über Umwege statt gerader Karriere",
+            "C: Digitale Werkzeuge verändern Besprechungen",
+            "D: Erfahrungswissen sichern, bevor es verschwindet",
+            "E: Mehr Freiheit, aber nicht für alle gleich",
+            "F: Vier Tage Arbeit: Chancen und offene Fragen",
+            "G: Generationenwechsel im Betrieb organisieren",
+            "H: Konflikte vermeiden durch klarere Nachrichten",
+            "I: Berufseinstieg ohne klassischen Abschluss",
+            "J: Weiterbildung ohne finanzielle Nachteile"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Neustart über Umwege statt gerader Karriere"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Neustart über Umwege statt gerader Karriere\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In vielen Betrieben werden Absprachen heute schneller geschrieben als ausgesprochen. Das spart Zeit, schafft aber neue Reibungen. Eine kurze Nachricht wie „Bitte bis morgen erledigen“ kann als freundl...",
+          "options": [
+            "A: Wenn Nähe neu organisiert werden muss",
+            "B: Neustart über Umwege statt gerader Karriere",
+            "C: Digitale Werkzeuge verändern Besprechungen",
+            "D: Erfahrungswissen sichern, bevor es verschwindet",
+            "E: Mehr Freiheit, aber nicht für alle gleich",
+            "F: Vier Tage Arbeit: Chancen und offene Fragen",
+            "G: Generationenwechsel im Betrieb organisieren",
+            "H: Konflikte vermeiden durch klarere Nachrichten",
+            "I: Berufseinstieg ohne klassischen Abschluss",
+            "J: Weiterbildung ohne finanzielle Nachteile"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Digitale Werkzeuge verändern Besprechungen"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Digitale Werkzeuge verändern Besprechungen\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wenn langjährige Beschäftigte in Rente gehen, verschwinden oft nicht nur Namen aus dem Telefonverzeichnis. In einer städtischen Gärtnerei wusste eine Mitarbeiterin zum Beispiel genau, welche Beete bei...",
+          "options": [
+            "A: Wenn Nähe neu organisiert werden muss",
+            "B: Neustart über Umwege statt gerader Karriere",
+            "C: Digitale Werkzeuge verändern Besprechungen",
+            "D: Erfahrungswissen sichern, bevor es verschwindet",
+            "E: Mehr Freiheit, aber nicht für alle gleich",
+            "F: Vier Tage Arbeit: Chancen und offene Fragen",
+            "G: Generationenwechsel im Betrieb organisieren",
+            "H: Konflikte vermeiden durch klarere Nachrichten",
+            "I: Berufseinstieg ohne klassischen Abschluss",
+            "J: Weiterbildung ohne finanzielle Nachteile"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Erfahrungswissen sichern, bevor es verschwindet"
+          },
+          "explanation": "Die richtige Antwort ist d) \"Erfahrungswissen sichern, bevor es verschwindet\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein Beratungsunternehmen hat seine Büroflächen halbiert und dabei gemerkt, dass weniger Schreibtische nicht automatisch weniger Austausch bedeuten müssen. Früher saßen alle täglich im selben Gebäude, ...",
+          "options": [
+            "A: Wenn Nähe neu organisiert werden muss",
+            "B: Neustart über Umwege statt gerader Karriere",
+            "C: Digitale Werkzeuge verändern Besprechungen",
+            "D: Erfahrungswissen sichern, bevor es verschwindet",
+            "E: Mehr Freiheit, aber nicht für alle gleich",
+            "F: Vier Tage Arbeit: Chancen und offene Fragen",
+            "G: Generationenwechsel im Betrieb organisieren",
+            "H: Konflikte vermeiden durch klarere Nachrichten",
+            "I: Berufseinstieg ohne klassischen Abschluss",
+            "J: Weiterbildung ohne finanzielle Nachteile"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 4,
+            "text": "E: Mehr Freiheit, aber nicht für alle gleich"
+          },
+          "explanation": "Die richtige Antwort ist e) \"Mehr Freiheit, aber nicht für alle gleich\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

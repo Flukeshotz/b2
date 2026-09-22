@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-lesen-t4-s3",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 4 — Standpunkte (Leserbriefe & Forenbeiträge), Satz 3",
+  "minutes": 12,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 4 — Standpunkte (Leserbriefe & Forenbeiträge)",
+      "instruction": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Sie lesen in einer Zeitschrift Meinungsäußerungen zu künstlicher Intelligenz in Schule und Beruf. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Perfekte Unterlagen zeigen nicht alles",
+          "options": [
+            "A: Ich nutze KI manchmal, um einen Anfang zu finden, wenn ich vor einem leeren Dokument sitze. Danach muss ich aber selbst entscheiden, was passt und was falsch klingt. Gefährlich wird es, wenn man den Vorschlag für fertiges Denken hält. Als Werkzeug kann KI helfen, aber sie ersetzt keine eigene Position. Bei einem Bewerbungsschreiben hat mir so ein erster Entwurf einmal geholfen. Rita, Mannheim",
+            "B: Mich stört, wie sorglos manche KI-Texte übernehmen. Gerade in Schule und Ausbildung müssen Schülerinnen lernen, Quellen zu prüfen und Behauptungen zu belegen. Ein schön formulierter Absatz ist noch lange nicht wahr. Wer KI verwendet, sollte deshalb offenlegen können, woher Informationen stammen und was selbst überprüft wurde. Das gilt besonders, wenn Zahlen oder Zitate sehr überzeugend klingen. Lukas, Kiel",
+            "C: Wir reden über KI, als hätten alle denselben Zugang. In Wirklichkeit können manche Familien für gute Programme, schnelle Geräte und Nachhilfe bezahlen, andere nicht. Wenn Lehrkräfte KI-Aufgaben geben, ohne diese Unterschiede mitzudenken, wird Bildung ungerechter. Technik kann fördern, aber nur, wenn die Bedingungen für alle vergleichbar sind. In meiner Nachhilfegruppe sehe ich diese Unterschiede jede Woche. Samira, Gera",
+            "D: Im Beruf kann KI viel beschleunigen, aber sie gibt keine menschliche Rückmeldung. Ein Programm merkt nicht, ob ein Kunde verärgert ist oder ob ein Teammitglied nur aus Höflichkeit zustimmt. Gerade beim Lernen brauche ich Menschen, die nachfragen und auch Zwischentöne erkennen. Automatische Antworten bleiben dafür zu glatt. Ein echtes Gespräch nach einer Präsentation hat mir einmal mehr geholfen als jede Korrektur. Peter, Bonn",
+            "E: Ich finde es bequem, wenn Programme Aufgaben sortieren oder Texte vorschlagen. Trotzdem darf man Verantwortung nicht an die Maschine abgeben. Am Ende unterschreibt ein Mensch den Bericht, bewertet eine Arbeit oder entscheidet über eine Bewerbung. Wer KI nutzt, muss auch für Fehler einstehen, die dadurch entstehen. Bei Bewerbungen kann so ein Fehler für Betroffene ernste Folgen haben. Maja, Erfurt",
+            "F: In meiner Firma schreiben inzwischen viele ihre Bewerbungen mit KI. Das macht Texte ordentlicher, aber auch ähnlicher. Für Personalabteilungen wird es schwieriger zu erkennen, wer wirklich zu einer Stelle passt. Vielleicht brauchen wir deshalb wieder mehr persönliche Gespräche, statt nur perfekt formulierte Unterlagen zu vergleichen. Nach drei fast gleichen Anschreiben fällt Individualität kaum noch auf. Oskar, Passau",
+            "G: Verbote helfen wenig, weil KI längst im Alltag angekommen ist. Sinnvoller wäre, klare Regeln zu vereinbaren: Wann ist Unterstützung erlaubt, wann muss sie genannt werden, und welche Aufgaben sollen bewusst ohne KI entstehen? Transparenz nimmt dem Thema den Reiz des Heimlichen und macht ehrliches Lernen eher möglich. Eine klare Schulregel würde viele heimliche Tricks sofort überflüssig machen. Deniz, Hannover",
+            "H: Ich sehe KI besonders bei Routinen positiv. Wenn Protokolle, erste Entwürfe oder Tabellen schneller entstehen, bleibt mehr Zeit für Ideen, Gespräche und kreative Lösungen. Natürlich muss man Ergebnisse prüfen. Aber nicht jede technische Hilfe ist Denkfaulheit. Manchmal schafft sie erst den Raum, in dem Menschen besser denken können. Im Projektmanagement spart das manchmal einen ganzen Vormittag Vorarbeit. Katrin, Würzburg"
+          ],
+          "payload": {
+            "context": "Sie lesen in einer Zeitschrift Meinungsäußerungen zu künstlicher Intelligenz in Schule und Beruf. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Wir reden über KI, als hätten alle denselben Zugang. In Wirklichkeit können manche Familien für gute Programme, schnelle Geräte und Nachhilfe bezahlen, andere nicht. Wenn Lehrkräfte KI-Aufgaben geben, ohne diese Unterschiede mitzudenken, wird Bildung ungerechter. Technik kann fördern, aber nur, wenn die Bedingungen für alle vergleichbar sind. In meiner Nachhilfegruppe sehe ich diese Unterschiede jede Woche. Samira, Gera"
+          },
+          "explanation": "Die richtige Antwort ist c (Kommentar C). Dieser Beitrag vertritt den Standpunkt: \"Perfekte Unterlagen zeigen nicht alles\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gute Formulierungen ersetzen keine Belege",
+          "options": [
+            "A: Ich nutze KI manchmal, um einen Anfang zu finden, wenn ich vor einem leeren Dokument sitze. Danach muss ich aber selbst entscheiden, was passt und was falsch klingt. Gefährlich wird es, wenn man den Vorschlag für fertiges Denken hält. Als Werkzeug kann KI helfen, aber sie ersetzt keine eigene Position. Bei einem Bewerbungsschreiben hat mir so ein erster Entwurf einmal geholfen. Rita, Mannheim",
+            "B: Mich stört, wie sorglos manche KI-Texte übernehmen. Gerade in Schule und Ausbildung müssen Schülerinnen lernen, Quellen zu prüfen und Behauptungen zu belegen. Ein schön formulierter Absatz ist noch lange nicht wahr. Wer KI verwendet, sollte deshalb offenlegen können, woher Informationen stammen und was selbst überprüft wurde. Das gilt besonders, wenn Zahlen oder Zitate sehr überzeugend klingen. Lukas, Kiel",
+            "C: Wir reden über KI, als hätten alle denselben Zugang. In Wirklichkeit können manche Familien für gute Programme, schnelle Geräte und Nachhilfe bezahlen, andere nicht. Wenn Lehrkräfte KI-Aufgaben geben, ohne diese Unterschiede mitzudenken, wird Bildung ungerechter. Technik kann fördern, aber nur, wenn die Bedingungen für alle vergleichbar sind. In meiner Nachhilfegruppe sehe ich diese Unterschiede jede Woche. Samira, Gera",
+            "D: Im Beruf kann KI viel beschleunigen, aber sie gibt keine menschliche Rückmeldung. Ein Programm merkt nicht, ob ein Kunde verärgert ist oder ob ein Teammitglied nur aus Höflichkeit zustimmt. Gerade beim Lernen brauche ich Menschen, die nachfragen und auch Zwischentöne erkennen. Automatische Antworten bleiben dafür zu glatt. Ein echtes Gespräch nach einer Präsentation hat mir einmal mehr geholfen als jede Korrektur. Peter, Bonn",
+            "E: Ich finde es bequem, wenn Programme Aufgaben sortieren oder Texte vorschlagen. Trotzdem darf man Verantwortung nicht an die Maschine abgeben. Am Ende unterschreibt ein Mensch den Bericht, bewertet eine Arbeit oder entscheidet über eine Bewerbung. Wer KI nutzt, muss auch für Fehler einstehen, die dadurch entstehen. Bei Bewerbungen kann so ein Fehler für Betroffene ernste Folgen haben. Maja, Erfurt",
+            "F: In meiner Firma schreiben inzwischen viele ihre Bewerbungen mit KI. Das macht Texte ordentlicher, aber auch ähnlicher. Für Personalabteilungen wird es schwieriger zu erkennen, wer wirklich zu einer Stelle passt. Vielleicht brauchen wir deshalb wieder mehr persönliche Gespräche, statt nur perfekt formulierte Unterlagen zu vergleichen. Nach drei fast gleichen Anschreiben fällt Individualität kaum noch auf. Oskar, Passau",
+            "G: Verbote helfen wenig, weil KI längst im Alltag angekommen ist. Sinnvoller wäre, klare Regeln zu vereinbaren: Wann ist Unterstützung erlaubt, wann muss sie genannt werden, und welche Aufgaben sollen bewusst ohne KI entstehen? Transparenz nimmt dem Thema den Reiz des Heimlichen und macht ehrliches Lernen eher möglich. Eine klare Schulregel würde viele heimliche Tricks sofort überflüssig machen. Deniz, Hannover",
+            "H: Ich sehe KI besonders bei Routinen positiv. Wenn Protokolle, erste Entwürfe oder Tabellen schneller entstehen, bleibt mehr Zeit für Ideen, Gespräche und kreative Lösungen. Natürlich muss man Ergebnisse prüfen. Aber nicht jede technische Hilfe ist Denkfaulheit. Manchmal schafft sie erst den Raum, in dem Menschen besser denken können. Im Projektmanagement spart das manchmal einen ganzen Vormittag Vorarbeit. Katrin, Würzburg"
+          ],
+          "payload": {
+            "context": "Sie lesen in einer Zeitschrift Meinungsäußerungen zu künstlicher Intelligenz in Schule und Beruf. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Ich nutze KI manchmal, um einen Anfang zu finden, wenn ich vor einem leeren Dokument sitze. Danach muss ich aber selbst entscheiden, was passt und was falsch klingt. Gefährlich wird es, wenn man den Vorschlag für fertiges Denken hält. Als Werkzeug kann KI helfen, aber sie ersetzt keine eigene Position. Bei einem Bewerbungsschreiben hat mir so ein erster Entwurf einmal geholfen. Rita, Mannheim"
+          },
+          "explanation": "Die richtige Antwort ist a (Kommentar A). Dieser Beitrag vertritt den Standpunkt: \"Gute Formulierungen ersetzen keine Belege\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Technik kann Bildungsunterschiede verstärken",
+          "options": [
+            "A: Ich nutze KI manchmal, um einen Anfang zu finden, wenn ich vor einem leeren Dokument sitze. Danach muss ich aber selbst entscheiden, was passt und was falsch klingt. Gefährlich wird es, wenn man den Vorschlag für fertiges Denken hält. Als Werkzeug kann KI helfen, aber sie ersetzt keine eigene Position. Bei einem Bewerbungsschreiben hat mir so ein erster Entwurf einmal geholfen. Rita, Mannheim",
+            "B: Mich stört, wie sorglos manche KI-Texte übernehmen. Gerade in Schule und Ausbildung müssen Schülerinnen lernen, Quellen zu prüfen und Behauptungen zu belegen. Ein schön formulierter Absatz ist noch lange nicht wahr. Wer KI verwendet, sollte deshalb offenlegen können, woher Informationen stammen und was selbst überprüft wurde. Das gilt besonders, wenn Zahlen oder Zitate sehr überzeugend klingen. Lukas, Kiel",
+            "C: Wir reden über KI, als hätten alle denselben Zugang. In Wirklichkeit können manche Familien für gute Programme, schnelle Geräte und Nachhilfe bezahlen, andere nicht. Wenn Lehrkräfte KI-Aufgaben geben, ohne diese Unterschiede mitzudenken, wird Bildung ungerechter. Technik kann fördern, aber nur, wenn die Bedingungen für alle vergleichbar sind. In meiner Nachhilfegruppe sehe ich diese Unterschiede jede Woche. Samira, Gera",
+            "D: Im Beruf kann KI viel beschleunigen, aber sie gibt keine menschliche Rückmeldung. Ein Programm merkt nicht, ob ein Kunde verärgert ist oder ob ein Teammitglied nur aus Höflichkeit zustimmt. Gerade beim Lernen brauche ich Menschen, die nachfragen und auch Zwischentöne erkennen. Automatische Antworten bleiben dafür zu glatt. Ein echtes Gespräch nach einer Präsentation hat mir einmal mehr geholfen als jede Korrektur. Peter, Bonn",
+            "E: Ich finde es bequem, wenn Programme Aufgaben sortieren oder Texte vorschlagen. Trotzdem darf man Verantwortung nicht an die Maschine abgeben. Am Ende unterschreibt ein Mensch den Bericht, bewertet eine Arbeit oder entscheidet über eine Bewerbung. Wer KI nutzt, muss auch für Fehler einstehen, die dadurch entstehen. Bei Bewerbungen kann so ein Fehler für Betroffene ernste Folgen haben. Maja, Erfurt",
+            "F: In meiner Firma schreiben inzwischen viele ihre Bewerbungen mit KI. Das macht Texte ordentlicher, aber auch ähnlicher. Für Personalabteilungen wird es schwieriger zu erkennen, wer wirklich zu einer Stelle passt. Vielleicht brauchen wir deshalb wieder mehr persönliche Gespräche, statt nur perfekt formulierte Unterlagen zu vergleichen. Nach drei fast gleichen Anschreiben fällt Individualität kaum noch auf. Oskar, Passau",
+            "G: Verbote helfen wenig, weil KI längst im Alltag angekommen ist. Sinnvoller wäre, klare Regeln zu vereinbaren: Wann ist Unterstützung erlaubt, wann muss sie genannt werden, und welche Aufgaben sollen bewusst ohne KI entstehen? Transparenz nimmt dem Thema den Reiz des Heimlichen und macht ehrliches Lernen eher möglich. Eine klare Schulregel würde viele heimliche Tricks sofort überflüssig machen. Deniz, Hannover",
+            "H: Ich sehe KI besonders bei Routinen positiv. Wenn Protokolle, erste Entwürfe oder Tabellen schneller entstehen, bleibt mehr Zeit für Ideen, Gespräche und kreative Lösungen. Natürlich muss man Ergebnisse prüfen. Aber nicht jede technische Hilfe ist Denkfaulheit. Manchmal schafft sie erst den Raum, in dem Menschen besser denken können. Im Projektmanagement spart das manchmal einen ganzen Vormittag Vorarbeit. Katrin, Würzburg"
+          ],
+          "payload": {
+            "context": "Sie lesen in einer Zeitschrift Meinungsäußerungen zu künstlicher Intelligenz in Schule und Beruf. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden."
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Im Beruf kann KI viel beschleunigen, aber sie gibt keine menschliche Rückmeldung. Ein Programm merkt nicht, ob ein Kunde verärgert ist oder ob ein Teammitglied nur aus Höflichkeit zustimmt. Gerade beim Lernen brauche ich Menschen, die nachfragen und auch Zwischentöne erkennen. Automatische Antworten bleiben dafür zu glatt. Ein echtes Gespräch nach einer Präsentation hat mir einmal mehr geholfen als jede Korrektur. Peter, Bonn"
+          },
+          "explanation": "Die richtige Antwort ist d (Kommentar D). Dieser Beitrag vertritt den Standpunkt: \"Technik kann Bildungsunterschiede verstärken\"."
+        }
+      ]
+    }
+  ]
+}

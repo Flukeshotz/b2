@@ -1,0 +1,131 @@
+{
+  "id": "exp_einarbeitung_read",
+  "source_id": "src_einarbeitung",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Einarbeitung neuer Kolleginnen: wer bezahlt die Zeit?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: wie wird die Zeit für die Einarbeitung neuer Kolleginnen eingeplant?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_einarbeitung"
+    },
+    {
+      "q": "Wer beschreibt eine offizielle Regelung, die in der Praxis nicht so funktioniert wie geplant?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 1,
+      "explain": "Robert_H beschreibt eine Regel (reduzierte Aufgaben für Mentorinnen), die auf dem Papier gut klingt, aber „in der Praxis“ trotzdem dazu führt, dass eine Person beides gleichzeitig macht. Carla beschreibt dagegen eine Situation ganz ohne offizielle Regel.",
+      "options": [
+        "carla",
+        "robert",
+        "gisela",
+        "peter"
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer erklärt eine organisatorische Einschränkung aus der Perspektive der Leitung?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Gisela_Stationsleitung erklärt, warum reduzierte Aufgaben für Mentorinnen bei der aktuellen Personallage nicht immer möglich sind — aus der Position, die diese Entscheidung tatsächlich trifft.",
+      "options": [
+        "carla",
+        "robert",
+        "gisela",
+        "peter"
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "compare"
+    },
+    {
+      "q": "Dieser Satz von Peter_W — was macht er vor allem?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Das ist kein Grund, das ist eine Ausrede — mit Verlaub.",
+      "answer": 1,
+      "explain": "Peter zweifelt nicht an den Fakten der Personallage — er zweifelt daran, ob diese Fakten die einzige oder ausreichende Erklärung sind. Das ist ein feiner, aber wichtiger Unterschied: er könnte trotzdem zustimmen, dass die Lage angespannt ist.",
+      "options": [
+        "Er bestreitet, dass Gisela die Personallage korrekt beschreibt.",
+        "Er bestreitet, dass die Personallage die einzig mögliche Erklärung für das Problem ist.",
+        "Er stimmt Gisela vollständig zu."
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Satz zu Peters vorherigem Satz über die „Ausrede“?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "Erst wenn genug Personal gesichert ist, kann Einarbeitung überhaupt funktionieren.",
+      "answer": 1,
+      "explain": "Der erste Satz behauptet nur, dass die Erklärung nicht ausreicht. Der zweite Satz erklärt WARUM: ohne ausreichend Personal ist Einarbeitung strukturell unmöglich, egal wie die Regel formuliert ist.",
+      "options": [
+        "Er widerspricht dem vorherigen Satz.",
+        "Er liefert die Begründung, warum Peter die Erklärung für unzureichend hält.",
+        "Er wiederholt den vorherigen Satz mit anderen Worten.",
+        "Er wechselt komplett das Thema."
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "structure"
+    },
+    {
+      "q": "Carla schreibt, sie hätte das Wort „Ausrede“ nicht gewählt, stimmt Peter aber inhaltlich zu. Was zeigt das über ihre Position?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Sie trennt den Inhalt (dem sie zustimmt) von der Wortwahl (die sie anders gewählt hätte). Das zeigt eine differenzierte Position, die weder volle Zustimmung noch Ablehnung ist.",
+      "options": [
+        "Dass sie Peters Argument insgesamt ablehnt.",
+        "Dass sie den Inhalt seines Arguments teilt, aber eine andere Tonlage bevorzugt.",
+        "Dass sie sich noch keine eigene Meinung gebildet hat."
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Carla N. das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht, dass Gisela ehrlich über die Personallage spricht — mich stört, dass die Einarbeitungszeit trotzdem offiziell so eingeplant wird, als gäbe es das Problem nicht.",
+      "answer": 1,
+      "explain": "Sie lobt Gisela sogar für die Ehrlichkeit über die Personallage — ihr Problem liegt woanders: dass die offizielle Planung diese Realität ignoriert. Wer nur ihren ersten Beitrag liest, könnte sie für eine generelle Kritikerin der Station halten. Das ist sie nicht.",
+      "options": [
+        "Um Gisela vorzuwerfen, dass sie unehrlich ist.",
+        "Um klarzustellen, dass ihr eigentliches Problem die Lücke zwischen offizieller Planung und ehrlich beschriebener Realität ist, nicht die Personallage selbst.",
+        "Um zuzugeben, dass ihre erste Beschwerde übertrieben war.",
+        "Um vorzuschlagen, die Einarbeitung ganz abzuschaffen."
+      ],
+      "sourceId": "src_einarbeitung",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:15:46.091Z",
+  "updated_at": "2026-09-16T07:15:46.091Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

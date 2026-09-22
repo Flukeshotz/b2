@@ -1,0 +1,123 @@
+{
+  "id": "telc-b2-lesen-2",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Lesen, Übungsset 2",
+  "minutes": 15,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Leseverstehen — not an official telc question.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Meinungsartikel: Brauchen wir noch Arbeitszeugnisse?",
+      "instruction": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "In kaum einem anderen Land wird dem Arbeitszeugnis so viel Bedeutung beigemessen wie in Deutschland. Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis — und viele prüfen jedes Wort darin mit derselben Sorgfalt, mit der ein Jurist einen Vertrag liest.\n\nBefürworter sagen, das Zeugnis schütze den Arbeitnehmer: Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige. Außerdem gebe es Bewerbern eine Möglichkeit, ihre Erfahrung gegenüber einem neuen Arbeitgeber zu belegen, ohne sich allein auf ein Vorstellungsgespräch verlassen zu müssen.\n\nKritiker halten dagegen, das System sei längst eine Formalität ohne echte Aussagekraft. Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten, und die Pflicht zur \"wohlwollenden\" Formulierung mache eine ehrliche Bewertung fast unmöglich. Einige große Technologieunternehmen sind deshalb dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\n\nEine endgültige Lösung zeichnet sich nicht ab. Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben — ob es gelesen wird, ist eine andere Frage.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In Deutschland hat jeder Arbeitnehmer nach dem Ausscheiden aus einem Unternehmen Anspruch auf ein qualifiziertes Arbeitszeugnis.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sagen Befürworter über den Nutzen des Arbeitszeugnisses?",
+          "options": [
+            "Es dokumentiere Leistung und schütze den Arbeitnehmer.",
+            "Es ersetze das Vorstellungsgespräch vollständig.",
+            "Es sei wichtiger als ein Arbeitsvertrag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Es dokumentiere Leistung und schütze den Arbeitnehmer."
+          },
+          "explanation": "\"Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kritiker meinen, die Formulierungen in Arbeitszeugnissen seien leicht verständlich.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten\" — das Gegenteil von leicht verständlich."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was haben einige große Technologieunternehmen verändert?",
+          "options": [
+            "Sie bieten statt Zeugnissen nur Referenzkontakte an.",
+            "Sie vergeben ausschließlich digitale Zeugnisse.",
+            "Sie haben das Vorstellungsgespräch abgeschafft."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie bieten statt Zeugnissen nur Referenzkontakte an."
+          },
+          "explanation": "\"…dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sagt der Text über die Zukunft des Arbeitszeugnisses?",
+          "options": [
+            "Es wird abgeschafft, sobald das Arbeitsrecht geändert wird.",
+            "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben.",
+            "Alle Unternehmen werden auf Referenzkontakte umstellen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben."
+          },
+          "explanation": "\"Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben.\""
+        }
+      ]
+    }
+  ]
+}

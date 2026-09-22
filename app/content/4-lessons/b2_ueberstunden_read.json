@@ -1,0 +1,123 @@
+{
+  "id": "b2_ueberstunden_read",
+  "order_index": 65,
+  "icon": "📄",
+  "title": "Überstunden: auszahlen oder abbauen?",
+  "capability": "setting advantages against disadvantages, in order",
+  "proof": "Überstunden: auszahlen oder abbauen?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Überstunden: auszahlen oder abbauen?",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Ein Forum. Fünf Beiträge, vier Leute — die Frage: Überstunden auszahlen oder als freie Zeit nehmen?",
+            "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+          ]
+        },
+        {
+          "t": "read_source",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "q": "Wer erklärt eine Regel mit einer wirtschaftlichen Überlegung, nicht mit einer persönlichen Meinung?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 2,
+          "explain": "Dennis K. nennt einen konkreten wirtschaftlichen Grund — Auszahlung ist für den Betrieb meist teurer — und macht daraus keine persönliche Überzeugung, sondern eine Kalkulation. Franzi_R äußert dagegen eine persönliche Einschätzung, kein Rechenmodell.",
+          "options": [
+            "leon",
+            "franzi",
+            "dennis",
+            "priya2"
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "compare"
+        },
+        {
+          "q": "Wer beschreibt eine Lösung, die bei ihr schon eingeführt wurde und funktioniert?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 3,
+          "explain": "Priya S. berichtet von einer bereits bestehenden Regelung — individuelle Wahl zwischen Auszahlung und Freizeit — und nennt sogar, dass die Kosten kaum gestiegen sind. Die anderen beschreiben nur die jeweils eigene, unveränderte Situation.",
+          "options": [
+            "leon",
+            "franzi",
+            "dennis",
+            "priya2"
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "compare"
+        },
+        {
+          "q": "Dieser Satz von Franzi_R — was ist er?",
+          "t": "readq",
+          "mode": "stance",
+          "quote": "Am Ende des Jahres hat kaum noch jemand das Gefühl, dass sich die Mehrarbeit gelohnt hat.",
+          "answer": 1,
+          "explain": "„Kaum noch jemand“ ist ein Eindruck, keine Zahl — es klingt überzeugend, ist aber nicht überprüfbar. Priya S. macht es an anderer Stelle anders: sie nennt eine tatsächliche Beobachtung aus ihrem Betrieb.",
+          "options": [
+            "Ein Beleg: er stützt ihre Position mit einer nachprüfbaren Zahl.",
+            "Eine Behauptung: sie klingt plausibel, ist aber nicht belegt.",
+            "Ein Zugeständnis: sie gibt Leon B. teilweise recht."
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "argue"
+        },
+        {
+          "q": "Priya S. schreibt zuerst: „Das mag für die Kalkulation gelten, für die Beschäftigten aber nicht unbedingt.“ Wie steht die Frage danach zu diesem Satz?",
+          "t": "readq",
+          "mode": "relation",
+          "quote": "Ist das wirklich so eindeutig?",
+          "answer": 2,
+          "explain": "Der erste Satz grenzt Dennis' Erklärung bereits ein. Die Frage danach verstärkt genau diesen Zweifel, ohne neue Information zu liefern — erst im nächsten Satz kommt das Beispiel aus ihrem Betrieb.",
+          "options": [
+            "Sie widerspricht dem Satz davor.",
+            "Sie belegt ihn mit einem Beispiel.",
+            "Sie bekräftigt den Zweifel, den der Satz davor schon eingeführt hat.",
+            "Sie wiederholt ihn mit anderen Worten."
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "structure"
+        },
+        {
+          "q": "Priya S. erwähnt, dass die Kosten bei ihrer Regelung kaum gestiegen sind. Was folgt daraus für Dennis' Argument?",
+          "t": "readq",
+          "mode": "implication",
+          "answer": 1,
+          "explain": "Dennis begründet den Freizeitausgleich mit Kosten. Priyas Beispiel zeigt, dass Wahlfreiheit nicht automatisch teurer sein muss — sein Argument gilt also nicht zwingend gegen jede Alternative, auch wenn es für seine eigene Situation stimmen mag.",
+          "options": [
+            "Dass Dennis' Zahlen grundsätzlich falsch sind.",
+            "Dass die wirtschaftliche Begründung nicht zwingend gegen Wahlfreiheit spricht.",
+            "Dass ihr Betrieb generell mehr Geld zur Verfügung hat."
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "compare"
+        },
+        {
+          "q": "Warum schreibt Leon B. das ganz am Ende?",
+          "t": "readq",
+          "mode": "intention",
+          "quote": "Mich stört gar nicht so sehr der Freizeitausgleich an sich — mich stört, dass niemand gefragt wurde, was zu wem passt.",
+          "answer": 1,
+          "explain": "Sein erster Beitrag klingt wie eine klare Forderung nach Auszahlung. Am Ende zeigt sich: er will keine neue Einheitsregel, sondern Wahlfreiheit — genau das, was Priyas Beispiel schon zeigt. Wer nur seinen ersten Beitrag liest, hält ihn für einen Gegner des Freizeitausgleichs. Das ist er nicht.",
+          "options": [
+            "Um zuzugeben, dass seine erste Forderung falsch war.",
+            "Um klarzustellen, dass er nicht die Auszahlung fordert, sondern Wahlfreiheit.",
+            "Um Dennis K. vorzuwerfen, dass er zu wenig rechnet.",
+            "Um vorzuschlagen, Überstunden ganz abzuschaffen."
+          ],
+          "sourceId": "src_ueberstunden",
+          "capability": "compare"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

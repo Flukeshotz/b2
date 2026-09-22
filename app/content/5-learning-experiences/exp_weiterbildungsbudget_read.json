@@ -1,0 +1,131 @@
+{
+  "id": "exp_weiterbildungsbudget_read",
+  "source_id": "src_weiterbildungsbudget",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Weiterbildungsbudget: pro Kopf oder nach Bedarf?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: Weiterbildungsbudget für alle gleich, oder nach Bedarf?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "q": "Wer äußert eine Sorge über das Entscheidungsverfahren bei einer Bedarfsvergabe?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 1,
+      "explain": "Hakan_T fragt, wer bei einer Bedarfsvergabe entscheidet, wessen Bedarf größer ist, und befürchtet Willkür ohne klare Kriterien. Die anderen sprechen über die Wirkung des jetzigen oder eines möglichen Systems, nicht über das Entscheidungsverfahren selbst.",
+      "options": [
+        "elena",
+        "hakan",
+        "petra2",
+        "michael2"
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer relativiert die eigene positive Erfahrung von sich aus?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Petra_L2 berichtet von einer guten eigenen Erfahrung, fügt aber selbst hinzu, das könnte „einfach Glück“ gewesen sein, und will es nicht verallgemeinern.",
+      "options": [
+        "elena",
+        "hakan",
+        "petra2",
+        "michael2"
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Elena_W mit dieser Aussage?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Einfach zu verwalten schon, gerecht aber nicht unbedingt",
+      "answer": 1,
+      "explain": "Sie gibt zu, dass die Regel einfach zu verwalten ist — bestreitet aber, dass Einfachheit automatisch Gerechtigkeit bedeutet. Beide Eigenschaften werden getrennt bewertet.",
+      "options": [
+        "Sie bestreitet, dass die aktuelle Regel einfach ist.",
+        "Sie trennt zwei verschiedene Qualitäten einer Regel und erkennt nur eine davon an.",
+        "Sie fordert, die Regel sofort abzuschaffen."
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Satz zu Petras vorherigem Beitrag?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "Ob das in der Praxis für alle so fair läuft wie bei Petra, wage ich allerdings zu bezweifeln.",
+      "answer": 1,
+      "explain": "Michael bestreitet Petras Erfahrung nicht — er zweifelt nur daran, dass sie repräsentativ für alle ist, besonders für Personen, die sich seltener trauen, ihren Bedarf laut zu äußern.",
+      "options": [
+        "Er bezweifelt, dass Petras Erfahrung wirklich stattgefunden hat.",
+        "Er akzeptiert Petras Erfahrung, bezweifelt aber, dass sie für alle gilt.",
+        "Er wiederholt Petras Aussage zustimmend.",
+        "Er wechselt zu einem neuen Thema."
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "structure"
+    },
+    {
+      "q": "Michael erwähnt, dass „leiser Sprechende“ bei einer Bedarfsvergabe benachteiligt sein könnten. Was folgt daraus für Petras Argument?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Petras Erfolg bei der Bedarfsvergabe könnte auch daran liegen, dass sie ihren Bedarf klar äußern konnte — eine Fähigkeit, die nicht alle gleichermaßen haben. Das schwächt die Verallgemeinerbarkeit ihrer Erfahrung, ohne sie infrage zu stellen.",
+      "options": [
+        "Dass Petras Argument grundsätzlich falsch ist.",
+        "Dass Petras Erfahrung zwar echt ist, aber nicht automatisch für Personen mit anderem Auftreten gilt.",
+        "Dass Petra absichtlich benachteiligt wurde."
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Elena_W das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht die Idee einer bedarfsgerechten Verteilung an sich — mich stört, dass dabei genau die leiser Sprechenden übersehen werden könnten.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag kritisiert das jetzige Pro-Kopf-System. Am Ende zeigt sich: sie befürwortet Bedarfsvergabe grundsätzlich, sieht aber durch Michaels Einwand eine Lücke — und schlägt eine Kombination aus beidem vor.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Kritik am System falsch war.",
+        "Um klarzustellen, dass sie Bedarfsvergabe nicht ablehnt, sondern eine Schwäche darin beheben will.",
+        "Um Hakan_T vorzuwerfen, dass er zu misstrauisch ist.",
+        "Um vorzuschlagen, das Budget ganz abzuschaffen."
+      ],
+      "sourceId": "src_weiterbildungsbudget",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:57:43.266Z",
+  "updated_at": "2026-09-16T07:57:43.266Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

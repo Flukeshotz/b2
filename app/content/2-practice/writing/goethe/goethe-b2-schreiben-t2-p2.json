@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p2",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #2",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie nehmen an einer beruflichen Fortbildung teil. Wegen eines Bahnstreiks sind Sie zu spät gekommen und haben den Anfang eines Workshops verpasst. Schreiben Sie eine Nachricht an den Kursleiter, Herrn Braun.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie nehmen an einer beruflichen Fortbildung teil. Wegen eines Bahnstreiks sind Sie zu spät gekommen und haben den Anfang eines Workshops verpasst. Schreiben Sie eine Nachricht an den Kursleiter, Herrn Braun.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie nehmen an einer beruflichen Fortbildung teil. Wegen eines Bahnstreiks sind Sie zu spät gekommen und haben den Anfang eines Workshops verpasst. Schreiben Sie eine Nachricht an den Kursleiter, Herrn Braun.",
+            "guidance": [
+              "Bitten Sie um die wichtigsten Informationen vom Anfang.",
+              "Entschuldigen Sie sich für Ihre Verspätung.",
+              "Fragen Sie nach, ob Sie etwas nachholen sollen.",
+              "Erklären Sie den Grund."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bitten Sie um die wichtigsten Informationen vom Anfang.",
+              "Entschuldigen Sie sich für Ihre Verspätung.",
+              "Fragen Sie nach, ob Sie etwas nachholen sollen.",
+              "Erklären Sie den Grund."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge behandeln: zuerst Entschuldigung und Grund, dann Bitte um Infos, dann Nachfrage zum Nachholen.",
+              "Höfliche, formelle Anrede und Grußformel verwenden (E-Mail-Stil).",
+              "Konkrete Redemittel für B2 nutzen: 'Es tut mir aufrichtig leid', 'aufgrund von', 'wäre ich Ihnen sehr dankbar, wenn...', 'Könnten Sie mir bitte mitteilen...'.",
+              "Sprachliche Verknüpfungen einsetzen (z. B. 'Daher', 'Zudem', 'In diesem Zusammenhang'), um einen flüssigen Text zu schreiben."
+            ],
+            "expected_answer": "Sehr geehrter Herr Braun,\n\nich möchte mich aufrichtig bei Ihnen dafür entschuldigen, dass ich heute Morgen so verspätet zum Workshop erschienen bin. Der Grund dafür war ein unangekündigter Bahnstreik, aufgrund dessen mein Zug komplett ausfiel und ich auf ein Taxi ausweichen musste, was leider sehr lange gedauert hat.\n\nDa ich den gesamten Anfang verpasst habe, wäre ich Ihnen sehr dankbar, wenn Sie mir die wichtigsten Informationen kurz zusammenfassen könnten. Insbesondere interessiert mich, ob es eine Vorstellungsrunde gab und welche zentralen Themen und Ziele für den Tag festgelegt wurden. Zudem würde ich gerne wissen, ob ich bestimmte Inhalte oder Übungen, die ich versäumt habe, eigenständig nachholen sollte.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

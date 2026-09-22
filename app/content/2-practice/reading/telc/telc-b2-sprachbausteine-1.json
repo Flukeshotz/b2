@@ -1,0 +1,152 @@
+{
+  "id": "telc-b2-sprachbausteine-1",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Sprachbausteine, Übungsset 1",
+  "minutes": 15,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Sprachbausteine — not an official telc question.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Weiterbildung im Berufsalltag",
+      "instruction": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Viele Beschäftigte wünschen sich mehr Weiterbildung, (1) ___ ihnen dafür oft die Zeit fehlt. Der Arbeitgeber müsste solche Angebote nicht nur ermöglichen, (2) ___ auch aktiv fördern. (3) ___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden. Wichtig ist, dass die Weiterbildung tatsächlich (4) ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist. Nur so lässt sich verhindern, dass die (5) ___ Zeit ohne echten Nutzen bleibt. Am Ende profitieren (6) ___ das Unternehmen als auch die Beschäftigten selbst davon.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 1: \"…mehr Weiterbildung, ___ ihnen dafür oft die Zeit fehlt.\"",
+          "options": [
+            "obwohl",
+            "weil",
+            "damit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "obwohl"
+          },
+          "explanation": "Konzessiv: der Wunsch besteht TROTZ fehlender Zeit — \"obwohl\" leitet den Gegensatz ein."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 2: \"…nicht nur ermöglichen, ___ auch aktiv fördern.\"",
+          "options": [
+            "sondern",
+            "aber",
+            "oder"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sondern"
+          },
+          "explanation": "Zweiteiliger Konnektor \"nicht nur…sondern auch\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 3: \"___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden.\"",
+          "options": [
+            "Anstelle",
+            "Trotz",
+            "Während"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Anstelle"
+          },
+          "explanation": "\"Anstelle\" (Genitivpräposition) passt inhaltlich: EIN Angebot ersetzt das andere. \"Trotz\"/\"Während\" sind ebenfalls Genitivpräpositionen, ergeben hier aber keinen Sinn."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 4: \"…dass die Weiterbildung tatsächlich ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist.\"",
+          "options": [
+            "auf",
+            "für",
+            "mit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "auf"
+          },
+          "explanation": "Feste Verb-Präposition-Verbindung: \"etwas auf etwas abstimmen\" (+Akkusativ)."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 5: \"…dass die ___ Zeit ohne echten Nutzen bleibt.\"",
+          "options": [
+            "investierte",
+            "investierende",
+            "investiert"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "investierte"
+          },
+          "explanation": "Partizip-II-Adjektiv, korrekt endend: \"die investierte Zeit\" (die Zeit, die investiert WURDE)."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 6: \"Am Ende profitieren ___ das Unternehmen als auch die Beschäftigten selbst davon.\"",
+          "options": [
+            "sowohl",
+            "weder",
+            "entweder"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sowohl"
+          },
+          "explanation": "Zweiteiliger Konnektor \"sowohl…als auch\"."
+        }
+      ]
+    }
+  ]
+}

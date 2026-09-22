@@ -1,0 +1,201 @@
+{
+  "id": "telc-b2-sprachbausteine-t2-s3",
+  "board": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 2 — Wortschatz & Lückentext, Satz 3",
+  "minutes": 17,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 5,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprachbausteine Teil 2 — Wortschatz & Lückentext",
+      "instruction": "Wählen Sie das passende Wort für jede Lücke.",
+      "minutes": 17,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Termine nur noch online\nBürgerämter suchen den Ausgleich zwischen Digitalisierung und Beratung\n\nViele Bürgerämter vergeben Termine inzwischen nur noch über ein Online-Portal. [1] Wartezeiten kürzer werden, müssen die Anliegen bereits bei der Buchung möglichst genau ausgewählt werden. Wer keine eigene E-Mail-Adresse hat, [2] telefonisch Unterstützung erhalten, allerdings nicht in jeder Gemeinde. Vor allem ältere Menschen oder Zugewanderte sind darauf angewiesen, dass die Hinweise im Portal verständlich formuliert sind.\n\nBei der Buchung sollte man [3] achten, alle notwendigen Unterlagen bereitzuhalten. Ein Termin gilt [4] dann als bestätigt, wenn die Nachricht mit der Terminnummer angekommen ist. Manche Anliegen lassen sich [5] eines Besuchs auch per Post erledigen, etwa einfache Bescheinigungen. [6] sind komplizierte Fälle weiterhin persönlich zu klären. Das betrifft zum Beispiel Fälle, in denen Originaldokumente geprüft oder mehrere Unterschriften abgegeben werden müssen.\n\nWer einen Termin nicht wahrnehmen kann, sollte ihn rechtzeitig absagen. [7] bleibt der Platz blockiert, obwohl andere Personen dringend warten. Die Verwaltung rechnet [8] vielen Nachfragen, weil die neuen Regeln noch ungewohnt sind. Langfristig soll das System den Service [9], [10] Bürgerinnen und Bürger klare Hinweise erhalten und die Portale zuverlässig funktionieren.\n\nDie Umstellung zeigt, dass digitale Verwaltung nicht nur eine technische Frage ist. Sie verändert auch, wie verständlich Abläufe erklärt werden müssen. Ein gutes Portal spart Zeit, aber nur dann, wenn die Sprache klar ist und bei Fehlern schnelle Hilfe angeboten wird. Deshalb testen einige Kommunen ihre Seiten inzwischen mit Bürgergruppen, bevor neue Funktionen freigeschaltet werden. So lassen sich missverständliche Begriffe und unnötige Schritte früh erkennen. Für die Beschäftigten bedeutet das allerdings auch, dass telefonische Rückfragen weiterhin eingeplant werden müssen. Denn ein digitaler Zugang ersetzt nicht automatisch Beratung, wenn Unterlagen fehlen oder Formulare missverstanden werden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 1: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "payload": {
+            "blankNumber": 1
+          },
+          "suggested_answer": {
+            "key": 10,
+            "text": "K: Sonst"
+          },
+          "explanation": "Die richtige Antwort ist k) \"Sonst\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 2: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "payload": {
+            "blankNumber": 2
+          },
+          "suggested_answer": {
+            "key": 11,
+            "text": "L: bei"
+          },
+          "explanation": "Die richtige Antwort ist l) \"bei\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 3: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "payload": {
+            "blankNumber": 3
+          },
+          "suggested_answer": {
+            "key": 12,
+            "text": "M: verbessern"
+          },
+          "explanation": "Die richtige Antwort ist m) \"verbessern\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 4: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "payload": {
+            "blankNumber": 4
+          },
+          "suggested_answer": {
+            "key": 13,
+            "text": "N: dafür"
+          },
+          "explanation": "Die richtige Antwort ist n) \"dafür\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 5: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "payload": {
+            "blankNumber": 5
+          },
+          "suggested_answer": {
+            "key": 14,
+            "text": "O: obwohl"
+          },
+          "explanation": "Die richtige Antwort ist o) \"obwohl\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

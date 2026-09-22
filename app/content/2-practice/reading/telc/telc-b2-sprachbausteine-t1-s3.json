@@ -1,0 +1,141 @@
+{
+  "id": "telc-b2-sprachbausteine-t1-s3",
+  "board": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 1 — Grammatik & Bindeglieder, Satz 3",
+  "minutes": 17,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 4,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprachbausteine Teil 1 — Grammatik & Bindeglieder",
+      "instruction": "Wählen Sie das passende Wort für jede Lücke.",
+      "minutes": 17,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Sehr geehrte Damen und Herren,\n\nseit Januar nehme ich an Ihrem Abendkurs „Deutsch im Beruf“ teil. Bisher war ich mit dem Unterricht sehr zufrieden. Leider wurde uns vergangene Woche mitgeteilt, [1] der Kurs ab Mai in einen anderen Stadtteil verlegt wird. Für einige Teilnehmende, zu [2] auch ich gehöre, bedeutet das eine deutlich längere Anfahrt. Ein Teil der Gruppe hat kleine Kinder oder späte Arbeitszeiten; für sie ist jeder zusätzliche Umstieg ein echtes Problem.\n\nIch verstehe, dass Räume manchmal anders genutzt werden müssen. Trotzdem bitte ich Sie, die Entscheidung noch einmal [3]. Der neue Unterrichtsort ist abends nur mit zwei Bussen erreichbar. Wenn einer davon ausfällt, kommt man kaum pünktlich an. Gerade Teilnehmende, die nach der Arbeit direkt zum Kurs fahren, [4] dadurch regelmäßig Zeit verlieren.\n\nAußerdem wurde in der Kursbeschreibung ausdrücklich angegeben, dass der Unterricht zentral stattfinden [5]. Auf dieser Grundlage habe ich mich angemeldet. Ich hätte sonst vielleicht einen Onlinekurs gewählt. Könnten Sie uns bitte mitteilen, [6] es eine Alternative im bisherigen Gebäude gibt oder ob wenigstens ein späterer Beginn möglich wäre?\n\nFalls die Verlegung endgültig bleibt, wäre ich Ihnen dankbar, wenn Sie erklären könnten, [7] eine teilweise Erstattung der Gebühr möglich ist. Einige Termine werde ich unter diesen Bedingungen vermutlich nicht besuchen können.\n\nIch hoffe auf eine Lösung, [8] für beide Seiten tragbar ist. Bitte senden Sie Ihre Antwort an die Adresse, [9] ich bei der Anmeldung angegeben habe. Für eine Rückmeldung bis Ende der Woche wäre ich Ihnen sehr [10].\n\nMit freundlichen Grüßen\nAndrei Popescu",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 1: Wählen Sie die richtige Lösung",
+          "options": [
+            "ob",
+            "dass",
+            "weil"
+          ],
+          "payload": {
+            "blankNumber": 1
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "dass"
+          },
+          "explanation": "Die richtige Antwort ist b) \"dass\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 2: Wählen Sie die richtige Lösung",
+          "options": [
+            "denen",
+            "deren",
+            "die"
+          ],
+          "payload": {
+            "blankNumber": 2
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "die"
+          },
+          "explanation": "Die richtige Antwort ist c) \"die\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 3: Wählen Sie die richtige Lösung",
+          "options": [
+            "prüfen",
+            "geprüft",
+            "zu prüfen"
+          ],
+          "payload": {
+            "blankNumber": 3
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "prüfen"
+          },
+          "explanation": "Die richtige Antwort ist a) \"prüfen\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 4: Wählen Sie die richtige Lösung",
+          "options": [
+            "würde",
+            "würden",
+            "wurden"
+          ],
+          "payload": {
+            "blankNumber": 4
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "würden"
+          },
+          "explanation": "Die richtige Antwort ist b) \"würden\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 3] Lücke 5: Wählen Sie die richtige Lösung",
+          "options": [
+            "sollte",
+            "sollten",
+            "habe"
+          ],
+          "payload": {
+            "blankNumber": 5
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "habe"
+          },
+          "explanation": "Die richtige Antwort ist c) \"habe\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

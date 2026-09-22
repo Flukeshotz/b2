@@ -1,0 +1,11 @@
+{
+  "id": "luecke",
+  "de": "Sie haben eine Zeit lang nicht als Pflegekraft gearbeitet. Können Sie mir sagen, warum?",
+  "category": "difficult",
+  "sourced": false,
+  "assesses": "Composure. There is no right answer — only answering without stopping.",
+  "trap": "Going silent, or apologising for the gap.",
+  "strong": "Name it, say what you did in that time, move on.",
+  "followUp": "Und was haben Sie in dieser Zeit gemacht, um fachlich auf dem Stand zu bleiben?",
+  "model_answer": null
+}

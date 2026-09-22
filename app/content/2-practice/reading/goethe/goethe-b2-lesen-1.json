@@ -1,0 +1,141 @@
+{
+  "id": "goethe-b2-lesen-1",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Lesen, Übungsset 1",
+  "minutes": 15,
+  "source": "Skillcase, authored. Exam-format practice for Goethe B2 Lesen — not an official Goethe question.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen, solange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr mehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur Arbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter unterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu sein. Niemand sagt es offen, aber wer abends um acht keine E-Mail beantwortet, gilt schnell als wenig engagiert. Die Grenze zwischen Arbeit und Freizeit verschwimmt genau dort, wo sie eigentlich klarer werden sollte.\n\nEin Kollege hat kürzlich vorgeschlagen, feste \"Nicht-erreichbar\"-Zeiten im Kalender einzutragen. Das halte ich für einen guten Ansatz — nicht, weil die Freiheit falsch wäre, sondern weil sie ohne klare Regeln zulasten der eigenen Erholung geht.\n\nZurück zur Stechuhr möchte ich trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie hat sich die Einstellung des Autors zur Vertrauensarbeitszeit entwickelt?",
+          "options": [
+            "Er lehnt sie inzwischen komplett ab.",
+            "Er sieht sie inzwischen differenzierter als am Anfang.",
+            "Er hat seine Meinung nicht geändert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er sieht sie inzwischen differenzierter als am Anfang."
+          },
+          "explanation": "Er war zunächst begeistert (\"Am Anfang war ich begeistert\"), sieht es jetzt aber \"nüchterner\" — eine differenziertere Sicht, keine Ablehnung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Autor sagt, dass niemand offen verlangt, ständig erreichbar zu sein.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Niemand sagt es offen\" — genau das beschreibt der Text."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt der Kollege des Autors konkret vor?",
+          "options": [
+            "Wieder eine Stechuhr einzuführen.",
+            "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten.",
+            "Die Vertrauensarbeitszeit ganz abzuschaffen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten."
+          },
+          "explanation": "\"…feste 'Nicht-erreichbar'-Zeiten im Kalender einzutragen.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was bedeutet im Text die Wendung \"zu schaffen machen\"?",
+          "options": [
+            "etwas neu erschaffen",
+            "jemandem Mühe oder Sorgen bereiten",
+            "etwas reparieren"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "jemandem Mühe oder Sorgen bereiten"
+          },
+          "explanation": "\"Zu schaffen machen\" ist eine feste Wendung für \"Sorgen/Mühe bereiten\" — nicht wörtlich zu verstehen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen zur Vertrauensarbeitszeit treffen laut Text zu?",
+          "options": [
+            "Vertrauensarbeitszeit erleichtert private Termine.",
+            "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+            "Der Autor möchte zur Stechuhr zurückkehren.",
+            "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+          ],
+          "payload": {
+            "options": [
+              "Vertrauensarbeitszeit erleichtert private Termine.",
+              "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+              "Der Autor möchte zur Stechuhr zurückkehren.",
+              "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Vertrauensarbeitszeit erleichtert private Termine.",
+              "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit."
+            ]
+          },
+          "explanation": "\"Seit einem Jahr…\" und \"Auch Arzttermine…lassen sich leichter unterbringen.\" Der Autor will ausdrücklich NICHT zur Stechuhr zurück, und feste Zeiten sind nur ein Vorschlag, keine eingeführte Regel."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "team_beschreibung",
+  "de": "Wie würde Ihr jetziges Team Sie beschreiben?",
+  "category": "personal",
+  "sourced": true,
+  "assesses": "Whether your self-description survives being put in someone else's mouth.",
+  "trap": "Three adjectives with nothing behind them.",
+  "strong": "Two or three qualities, each with a moment a colleague would actually recall.",
+  "followUp": "Und was würde Ihre Stationsleitung anders sehen?",
+  "model_answer": null
+}

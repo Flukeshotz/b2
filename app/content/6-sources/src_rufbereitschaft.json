@@ -1,0 +1,100 @@
+{
+  "id": "src_rufbereitschaft",
+  "kind": "text",
+  "title": "Rufbereitschaft: wer übernimmt sie?",
+  "hook": "Fünf Beiträge zu einer Aufgabe, die niemand gern macht — und trotzdem regelmäßig bei denselben Leuten landet.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Verteilung als unfair markieren, ohne jemanden zu beschuldigen: das verteilt sich einfach ungleich, das liegt an niemandem persönlich",
+      "eine Lösung befürworten, aber ihre Grenzen benennen: das würde helfen, löst aber nicht alles",
+      "eine Frage stellen, die eine Annahme hinterfragt: warum eigentlich immer die gleichen?",
+      "ein Zugeständnis mit einer Bedingung verbinden: ich mache das gern öfter, wenn es fair verteilt ist"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Mir ist aufgefallen, dass ich in den letzten drei Monaten deutlich öfter Rufbereitschaft hatte als andere aus dem Team. Warum eigentlich immer die gleichen? Ich will mich nicht drücken, aber es sollte doch gleichmäßig verteilt sein.",
+      "when": "Do 19:15",
+      "handle": "sandra",
+      "speaker": "Sandra_H"
+    },
+    {
+      "de": "Das verteilt sich einfach ungleich, das liegt an niemandem persönlich — wer flexibel ist und in der Nähe wohnt, wird automatisch öfter gefragt. Es ist keine böswillige Entscheidung, sondern eher eine praktische.",
+      "when": "Do 20:30",
+      "handle": "andre",
+      "speaker": "André_K"
+    },
+    {
+      "de": "Wir haben tatsächlich keine feste Rotation, sondern fragen immer die Person, die am ehesten erreichbar scheint. Das erklärt, warum es sich bei manchen häuft — aber es macht es nicht automatisch gerecht.",
+      "when": "Fr 08:00",
+      "handle": "birthe",
+      "speaker": "Birthe_Stationsleitung"
+    },
+    {
+      "de": "Eine feste Rotation würde helfen, löst aber nicht alles: manche haben private Gründe, warum bestimmte Wochen besser oder schlechter passen. Eine starre Liste würde das ignorieren.",
+      "when": "Fr 10:45",
+      "handle": "lukas",
+      "speaker": "Lukas_F"
+    },
+    {
+      "de": "Lukas' Einwand ist berechtigt, das sehe ich ein. Mich stört gar nicht, dass es flexibel gehandhabt wird — mich stört, dass es dabei kein Limit gibt. Ich mache das gern öfter, wenn es fair verteilt ist und niemand dauerhaft mehr trägt als der Rest.",
+      "when": "Fr 13:20",
+      "handle": "sandra",
+      "speaker": "Sandra_H"
+    }
+  ],
+  "transcript": "Mir ist aufgefallen, dass ich in den letzten drei Monaten deutlich öfter Rufbereitschaft hatte als andere aus dem Team. Warum eigentlich immer die gleichen? Ich will mich nicht drücken, aber es sollte doch gleichmäßig verteilt sein.\n\nDas verteilt sich einfach ungleich, das liegt an niemandem persönlich — wer flexibel ist und in der Nähe wohnt, wird automatisch öfter gefragt. Es ist keine böswillige Entscheidung, sondern eher eine praktische.\n\nWir haben tatsächlich keine feste Rotation, sondern fragen immer die Person, die am ehesten erreichbar scheint. Das erklärt, warum es sich bei manchen häuft — aber es macht es nicht automatisch gerecht.\n\nEine feste Rotation würde helfen, löst aber nicht alles: manche haben private Gründe, warum bestimmte Wochen besser oder schlechter passen. Eine starre Liste würde das ignorieren.\n\nLukas' Einwand ist berechtigt, das sehe ich ein. Mich stört gar nicht, dass es flexibel gehandhabt wird — mich stört, dass es dabei kein Limit gibt. Ich mache das gern öfter, wenn es fair verteilt ist und niemand dauerhaft mehr trägt als der Rest.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: wenn, und, aber, oder, dass. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch.",
+      "level: script only warns on sentence_complexity — Ø 13.9 Wörter pro Satz, 2 verschiedene Nebensatz-Einleitungen (dass, wenn)."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:54:10.631Z",
+  "updated_at": "2026-09-16T07:54:10.631Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-14",
+  "board": "custom",
+  "title": "Leseverstehen — Projektstatus-Update per E-Mail",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Projektstatus-Update per E-Mail",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Betreff: Statusupdate Projekt \"Digitale Patientenakte\" — KW 14\n\nLiebes Projektteam,\n\nkurzer Zwischenstand vor unserem Termin am Freitag: Die Migration der Bestandsdaten aus dem alten System ist zu 85 Prozent abgeschlossen und liegt damit leicht vor Plan. Die verbleibenden 15 Prozent betreffen vor allem Altdaten aus den Jahren vor 2015, deren Formatierung manuell nachbearbeitet werden muss.\n\nEin Problem hat sich beim Datenabgleich mit der Abrechnungssoftware gezeigt: Etwa 200 Patientendatensätze weisen widersprüchliche Versicherungsnummern auf. Bevor wir hier automatisch bereinigen, möchten wir das gemeinsam mit dem Abrechnungsteam klären, da eine falsche automatische Korrektur später zu Abrechnungsfehlern führen könnte.\n\nDer ursprüngliche Zeitplan für den Go-Live bleibt aus heutiger Sicht realistisch, sofern die Klärung mit dem Abrechnungsteam bis Ende nächster Woche erfolgt. Sollte sich das verzögern, müssten wir den Go-Live um zwei bis drei Wochen verschieben.\n\nBitte bringt am Freitag eure aktuellen Testergebnisse aus der zweiten Testphase mit — das erleichtert die Priorisierung der letzten offenen Punkte erheblich.\n\nViele Grüße\nProjektleitung",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie weit ist die Migration der Bestandsdaten laut Update fortgeschritten?",
+          "options": [
+            "50 Prozent, im Plan.",
+            "85 Prozent, leicht vor Plan.",
+            "100 Prozent, abgeschlossen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "85 Prozent, leicht vor Plan."
+          },
+          "explanation": "\"zu 85 Prozent abgeschlossen und liegt damit leicht vor Plan\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die widersprüchlichen Versicherungsnummern sollen automatisch bereinigt werden, ohne Rücksprache mit dem Abrechnungsteam.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Bevor wir hier automatisch bereinigen, möchten wir das gemeinsam mit dem Abrechnungsteam klären.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wird bei den widersprüchlichen Versicherungsnummern nicht sofort automatisch korrigiert?",
+          "options": [
+            "Weil das technisch nicht möglich ist.",
+            "Weil das Abrechnungsteam das Projekt ablehnt.",
+            "Weil eine falsche Korrektur später zu Abrechnungsfehlern führen könnte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Weil eine falsche Korrektur später zu Abrechnungsfehlern führen könnte."
+          },
+          "explanation": "\"da eine falsche automatische Korrektur später zu Abrechnungsfehlern führen könnte\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Unter welcher Bedingung bleibt der ursprüngliche Go-Live-Zeitplan realistisch?",
+          "options": [
+            "Wenn die Klärung mit dem Abrechnungsteam bis Ende nächster Woche erfolgt.",
+            "Wenn die Migration zu 100 Prozent sofort abgeschlossen wird.",
+            "Wenn das Projektteam am Freitag nicht zusammenkommt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wenn die Klärung mit dem Abrechnungsteam bis Ende nächster Woche erfolgt."
+          },
+          "explanation": "\"sofern die Klärung mit dem Abrechnungsteam bis Ende nächster Woche erfolgt\"."
+        }
+      ]
+    }
+  ]
+}

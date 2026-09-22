@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-13",
+  "board": "custom",
+  "title": "Leseverstehen — Aushang: Zufahrtsänderung wegen Bauarbeiten",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Aushang: Zufahrtsänderung wegen Bauarbeiten",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "WICHTIGER HINWEIS FÜR ALLE BESCHÄFTIGTEN UND BESUCHER\n\nAb kommendem Montag beginnen die angekündigten Bauarbeiten am Haupteingang. Für die Dauer der Baumaßnahme (voraussichtlich sechs Wochen) gilt Folgendes:\n\n• Die Hauptzufahrt über die Bahnhofstraße ist gesperrt.\n• Die Einfahrt erfolgt ausschließlich über den Seiteneingang an der Werkstraße.\n• Der bisherige Besucherparkplatz entfällt vorübergehend; Ausweichparkplätze stehen auf dem Gelände der benachbarten Spedition zur Verfügung (Zufahrt über Werkstraße 12).\n• Mitarbeitende mit Fahrrad nutzen weiterhin den gewohnten Zugang über den Hinterhof.\n\nWir bitten alle Beschäftigten, mit zusätzlichen 10 bis 15 Minuten Fahrzeit einzuplanen, insbesondere in den ersten Tagen der Umstellung. Lieferungen für die Warenannahme sind ab Montag ausschließlich zwischen 7 und 9 Uhr über die Werkstraße möglich; abweichende Lieferzeiten sind vorab mit dem Facility Management abzustimmen.\n\nBei Fragen wenden Sie sich an das Facility Management, Durchwahl -420.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie lange sollen die Bauarbeiten voraussichtlich dauern?",
+          "options": [
+            "Sechs Tage",
+            "Sechs Monate",
+            "Sechs Wochen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sechs Wochen"
+          },
+          "explanation": "\"voraussichtlich sechs Wochen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der bisherige Besucherparkplatz bleibt während der Bauarbeiten normal nutzbar.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Der bisherige Besucherparkplatz entfällt vorübergehend\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Über welchen Zugang gelangen Mitarbeitende mit dem Fahrrad weiterhin zum Gelände?",
+          "options": [
+            "Über die Werkstraße wie Lieferfahrzeuge.",
+            "Über den gewohnten Zugang am Hinterhof.",
+            "Über den Parkplatz der Spedition."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Über den gewohnten Zugang am Hinterhof."
+          },
+          "explanation": "\"Mitarbeitende mit Fahrrad nutzen weiterhin den gewohnten Zugang über den Hinterhof.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was muss bei Lieferungen außerhalb der Zeiten 7–9 Uhr beachtet werden?",
+          "options": [
+            "Sie erfolgen automatisch über den Seiteneingang.",
+            "Sie sind grundsätzlich nicht mehr möglich.",
+            "Sie müssen vorab mit dem Facility Management abgestimmt werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie müssen vorab mit dem Facility Management abgestimmt werden."
+          },
+          "explanation": "\"abweichende Lieferzeiten sind vorab mit dem Facility Management abzustimmen\"."
+        }
+      ]
+    }
+  ]
+}

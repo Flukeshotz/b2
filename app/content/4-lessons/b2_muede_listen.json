@@ -1,0 +1,104 @@
+{
+  "id": "b2_muede_listen",
+  "order_index": 48,
+  "icon": "🎧",
+  "title": "Warum sind wir immer müde?",
+  "capability": "following German spoken at real speed, by real people",
+  "proof": "Warum sind wir immer müde?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Warum sind wir immer müde?",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Ein Radiogespräch. Ein Schlafforscher und eine Pflegerin – und sie sind sich nicht einig.",
+            "You will hear it twice: once whole, then in sections. Same as the real exam."
+          ]
+        },
+        {
+          "t": "listen_source",
+          "mode": "whole",
+          "plays": 2,
+          "sourceId": "src_muede"
+        },
+        {
+          "q": "Worüber sind sich Dr. Bergmann und Frau Krause am Ende einig?",
+          "t": "sourceq",
+          "ms": 406000,
+          "kind": "main_idea",
+          "answer": 1,
+          "explain": "Am Ende sagt Frau Krause, sie wünsche sich Planbarkeit – und Dr. Bergmann stimmt ihr ausdrücklich zu: „Vorhersehbarkeit ist einer der stärksten Faktoren, die wir kennen.“",
+          "options": [
+            "Dass gute Schlafgewohnheiten wichtiger sind als der Dienstplan.",
+            "Dass planbare Dienstpläne mehr bringen würden als Ratschläge.",
+            "Dass kürzere Nachtschichten die beste Lösung sind."
+          ],
+          "sourceId": "src_muede"
+        },
+        {
+          "q": "Was hat sich für Frau Krause mit dem Alter verändert?",
+          "t": "sourceq",
+          "ms": 246000,
+          "kind": "detail",
+          "answer": 2,
+          "explain": "Mit dreiundzwanzig hat sie nach dem Nachtdienst vier Stunden geschlafen und ist abends weggegangen. Heute braucht sie zwei Tage.",
+          "options": [
+            "Sie schläft insgesamt weniger als früher.",
+            "Sie arbeitet inzwischen weniger Nachtschichten.",
+            "Sie braucht nach einer Nachtschicht länger, bis sie sich erholt hat."
+          ],
+          "sourceId": "src_muede"
+        },
+        {
+          "q": "Warum sind kürzere Nachtschichten aus Sicht von Frau Krause ein Problem?",
+          "t": "sourceq",
+          "ms": 0,
+          "kind": "detail",
+          "answer": 0,
+          "explain": "„Kürzere Schichten heißt mehr Übergaben. Und jede Übergabe kostet Zeit, in der niemand am Bett steht.“ Die beiden anderen Punkte kommen vor – aber als Argumente FÜR kürzere Schichten.",
+          "options": [
+            "Weil mehr Übergaben Zeit kosten, in der niemand bei den Patienten ist.",
+            "Weil die Beschäftigten sich dann schlechter erholen.",
+            "Weil in den frühen Morgenstunden mehr Fehler passieren."
+          ],
+          "sourceId": "src_muede"
+        },
+        {
+          "q": "Nachdem Dr. Bergmann sagt „Zurzeit: kaum jemand“, antwortet Frau Krause nur: „Sehen Sie.“ Was will sie damit sagen?",
+          "t": "sourceq",
+          "ms": 391000,
+          "kind": "inference",
+          "answer": 1,
+          "explain": "Sie hat vorher gesagt, es ändere sich nichts. Er räumt ein, dass sich kaum jemand darum kümmert. „Sehen Sie“ heißt hier: genau das war mein Punkt.",
+          "options": [
+            "Dass sie seine Antwort nicht verstanden hat.",
+            "Dass er ihr gerade selbst recht gegeben hat.",
+            "Dass sie seinen Vorschlag gut findet."
+          ],
+          "sourceId": "src_muede"
+        },
+        {
+          "q": "Wie reagiert Dr. Bergmann auf ihren Einwand zu den Übergaben?",
+          "t": "sourceq",
+          "ms": 0,
+          "kind": "attitude",
+          "answer": 2,
+          "explain": "„Das ist ein Punkt, den ich in der Diskussion selten höre, und er ist berechtigt.“ Er widerspricht nicht – er räumt ein, dass die Forschung diesen Effekt oft erst hinterher sieht.",
+          "options": [
+            "Er weist den Einwand zurück.",
+            "Er wechselt das Thema.",
+            "Er gibt ihr recht und räumt eine Lücke in der Forschung ein."
+          ],
+          "sourceId": "src_muede"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

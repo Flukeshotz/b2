@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_uebergabe_unklar",
+  "order_index": 33,
+  "icon": "💬",
+  "title": "Eine unklare Angabe bei der Übergabe",
+  "capability": "asking a precise clarifying question instead of guessing",
+  "proof": "Eine unklare Angabe bei der Übergabe",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_uebergabe_unklar"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

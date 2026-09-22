@@ -1,0 +1,127 @@
+{
+  "id": "exp_handynutzung_chunks",
+  "source_id": "src_handynutzung",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Absicht von Wirkung zu trennen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "So gemeint war es sicher nicht, angekommen ist es trotzdem so.",
+      "it certainly wasn't meant that way, but that's how it came across anyway",
+      "🔗"
+    ],
+    [
+      "Für X sehe ich das ein — sonst eigentlich nicht.",
+      "for X I can see that — otherwise not really",
+      "🔗"
+    ],
+    [
+      "Mit zweierlei Maß gemessen, oder sehe ich das falsch?",
+      "measured with double standards, or am I wrong?",
+      "🔗"
+    ],
+    [
+      "Mir ist aufgefallen, dass … Unterstellen will ich niemandem etwas.",
+      "I noticed that … I don't mean to accuse anyone of anything",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man Kritik äußert, ohne anzugreifen."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "so_gemeint_war_es_nicht_angekommen_ist_es_so",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "fuer_x_sehe_ich_das_ein_sonst_eigentlich_nicht",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "q": "Wie reagieren Sie?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A trennt Absicht und Wirkung — genau die Situation. B passt inhaltlich nicht: es geht nicht um eine Ausnahme. C würde eine Ungleichbehandlung unterstellen, die hier gar nicht das Thema ist.",
+      "options": [
+        "So gemeint war es sicher nicht, angekommen ist es trotzdem so.",
+        "Für Notfälle sehe ich das ein — sonst eigentlich nicht.",
+        "Mit zweierlei Maß gemessen, oder sehe ich das falsch?"
+      ],
+      "exercises": [
+        "so_gemeint_war_es_nicht_angekommen_ist_es_so"
+      ],
+      "situation": "Eine Ankündigung von Ihnen kam bei Ihrem Team ganz anders an, als Sie es gemeint hatten. Sie wollen das anerkennen, ohne die Entscheidung selbst zurückzunehmen."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "mit_zweierlei_mass_gemessen_oder_sehe_ich_das_falsch",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "aufgefallen_unterstellen_will_ich_niemandem_etwas",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "q": "Wie sprechen Sie es an?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A markiert die Beobachtung als Beobachtung und schließt ausdrücklich eine Unterstellung aus — genau die Situation. B und C passen inhaltlich nicht: hier geht es nicht um eine Absicht-Wirkung-Trennung oder eine akzeptierte Ausnahme.",
+      "options": [
+        "Mir ist aufgefallen, dass die Regel unterschiedlich gilt. Unterstellen will ich niemandem etwas.",
+        "So gemeint war es sicher nicht.",
+        "Für diesen Fall sehe ich das ein."
+      ],
+      "exercises": [
+        "aufgefallen_unterstellen_will_ich_niemandem_etwas"
+      ],
+      "situation": "Ihnen ist aufgefallen, dass eine Regel bei einer Kollegin nie durchgesetzt wird, bei Ihnen aber schon. Sie wollen das ansprechen, ohne jemandem Absicht zu unterstellen."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "mit_zweierlei_mass_gemessen_oder_sehe_ich_das_falsch",
+      "hint": "Formulieren Sie es als Frage, nicht als Vorwurf.",
+      "context": "Ihnen ist aufgefallen, dass eine Regel für zwei Gruppen unterschiedlich gilt. Sprechen Sie das an, ohne direkt anzugreifen.",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "fuer_x_sehe_ich_das_ein_sonst_eigentlich_nicht",
+      "hint": "Erst den akzeptierten Fall nennen, dann die allgemeine Ablehnung.",
+      "context": "Eine neue Regel gilt bei Ihnen sehr allgemein. Sie würden sie nur für einen bestimmten Ausnahmefall akzeptieren, sonst nicht.",
+      "sourceId": "src_handynutzung"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:21:24.934Z",
+  "updated_at": "2026-09-16T07:21:24.934Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

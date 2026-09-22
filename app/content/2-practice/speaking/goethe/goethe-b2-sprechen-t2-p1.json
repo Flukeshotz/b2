@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t2-p1",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #1",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Städte mehr Trinkbrunnen auf öffentlichen Plätzen einrichten?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (dafür/dagegen) und strukturierter Aufbau mit Einleitung, 2-3 Argumenten und einem kurzen Fazit.",
+              "Verwendung von Konnektoren und typischen B2-Redemitteln zur Strukturierung (z.B. 'Einerseits... andererseits...', 'Hinzu kommt, dass...', 'Zusammenfassend lässt sich sagen...').",
+              "Konkrete und nachvollziehbare Argumente, die über reine Alltagserfahrung hinausgehen (z.B. gesundheitliche Aspekte, Umweltaspekte, soziale Gerechtigkeit, Stadtplanung).",
+              "Flüssige, natürliche Ausdrucksweise mit einigen komplexeren Satzstrukturen (Nebensätze, Infinitivkonstruktionen) und treffendem Wortschatz (z.B. 'Nachhaltigkeit', 'Lebensqualität', 'Plastikmüll vermeiden')."
+            ],
+            "expected_answer": "Vielen Dank für die interessante Frage. Ich persönlich bin absolut dafür, dass Städte mehr Trinkbrunnen auf öffentlichen Plätzen einrichten sollten, und ich sehe darin eine Vielzahl von Vorteilen. Zunächst einmal ist der Zugang zu kostenlosem Trinkwasser ein grundlegendes Menschenrecht und ein wichtiger Beitrag zur sozialen Gerechtigkeit. Gerade an heißen Sommertagen, die aufgrund des Klimawandels immer häufiger werden, ist es essenziell, dass alle Bürger, unabhängig von ihrem Einkommen, die Möglichkeit haben, sich zu erfrischen und ausreichend zu trinken. Man denke nur an Obdachlose oder Menschen, die sich unterwegs kein teures Flaschenwasser leisten können. Ein weiterer entscheidender Punkt ist der ökologische Aspekt. Indem wir flächendeckend Trinkbrunnen anbieten, können wir den Konsum von Wasser in Plastikflaschen drastisch reduzieren. Das würde nicht nur die Menge an Plastikmüll verringern, sondern auch den CO2-Ausstoß, der durch die Produktion und den Transport dieser Flaschen entsteht. Das ist ein konkreter Schritt in Richtung einer nachhaltigeren und umweltfreundlicheren Stadt. Darüber hinaus steigern Trinkbrunnen auch die allgemeine Lebensqualität und machen eine Stadt lebenswerter. Sie laden zum Verweilen ein und können öffentliche Plätze aufwerten. Ein schön gestalteter Brunnen kann sogar zu einem Treffpunkt werden und das soziale Miteinander fördern. Natürlich muss man auch die Gegenargumente ernst nehmen, wie zum Beispiel die Bedenken hinsichtlich der Hygiene oder die anfänglichen Kosten für die Installation und Wartung. Aber ich bin überzeugt, dass moderne Filtersysteme und regelmäßige Kontrollen diese hygienischen Bedenken ausräumen können. Und was die Kosten betrifft, so bin ich der Meinung, dass es sich um eine langfristige Investition in die Gesundheit der Bürger und den Umweltschutz handelt, die sich auf jeden Fall lohnt. Zusammenfassend lässt sich also sagen, dass die Vorteile von mehr öffentlichen Trinkbrunnen – nämlich soziale Gerechtigkeit, Umweltschutz und eine höhere Lebensqualität – die möglichen Nachteile bei Weitem überwiegen. Daher appelliere ich an die Stadtplaner, dieses einfache, aber effektive Mittel viel häufiger einzusetzen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

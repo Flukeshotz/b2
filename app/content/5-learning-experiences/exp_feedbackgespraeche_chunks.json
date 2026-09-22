@@ -1,0 +1,127 @@
+{
+  "id": "exp_feedbackgespraeche_chunks",
+  "source_id": "src_feedbackgespraeche",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Zustimmung und Skepsis zu trennen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "justify"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Öfter heißt nicht automatisch besser.",
+      "more often doesn't automatically mean better",
+      "🔗"
+    ],
+    [
+      "Das hat schon Vorteile, das gebe ich zu — überzeugt mich trotzdem nicht ganz.",
+      "that does have advantages, I'll admit — it still doesn't fully convince me",
+      "🔗"
+    ],
+    [
+      "Konkret befürchte ich, dass …",
+      "specifically, I'm worried that …",
+      "🔗"
+    ],
+    [
+      "Dafür müsste allerdings sichergestellt sein, dass …",
+      "for that, though, it would have to be ensured that …",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man Zustimmung und Zweifel gleichzeitig ausdrückt."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "oefter_heisst_nicht_automatisch_besser",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "konkret_befuerchte_ich_dass",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "q": "Wie widersprechen Sie der Annahme?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A bestreitet direkt die Annahme hinter dem Vorschlag — genau die Situation. B nennt eine andere, konkretere Sorge, passt aber weniger gut zur allgemeinen Annahme. C setzt schon eine Bedingung, bevor die Grundannahme überhaupt diskutiert wurde.",
+      "options": [
+        "Öfter heißt nicht automatisch besser.",
+        "Konkret befürchte ich, dass wir dann keine Zeit mehr für die Arbeit haben.",
+        "Dafür müsste allerdings sichergestellt sein, dass alle kommen."
+      ],
+      "exercises": [
+        "oefter_heisst_nicht_automatisch_besser"
+      ],
+      "situation": "Ein Kollege schlägt vor, Teambesprechungen von einmal im Monat auf jede Woche zu erhöhen, weil „mehr Austausch immer gut ist“. Sie sind skeptisch, dass die Qualität mithält."
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "hat_schon_vorteile_ueberzeugt_mich_trotzdem_nicht",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "dafuer_muesste_allerdings_sichergestellt_sein",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "q": "Wie drücken Sie beides aus?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A erkennt die Vorteile an UND behält die Skepsis — genau Ihre Position. B passt inhaltlich nicht zu einem neuen System, das nicht um Häufigkeit geht. C ist eine reine Sorge ohne das vorherige Zugeständnis.",
+      "options": [
+        "Das hat schon Vorteile, das gebe ich zu — überzeugt mich trotzdem nicht ganz.",
+        "Öfter heißt nicht automatisch besser.",
+        "Konkret befürchte ich, dass es nicht funktioniert."
+      ],
+      "exercises": [
+        "hat_schon_vorteile_ueberzeugt_mich_trotzdem_nicht"
+      ],
+      "situation": "Ein neues System wird vorgeschlagen. Sie erkennen echte Vorteile an, sind aber insgesamt noch nicht überzeugt."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "dafuer_muesste_allerdings_sichergestellt_sein",
+      "hint": "Die Bedingung als Voraussetzung formulieren, nicht als Forderung.",
+      "context": "Sie könnten einem Vorschlag bei der Arbeit zustimmen — aber nur, wenn vorher eine bestimmte Sache geklärt wird. Formulieren Sie diese Bedingung.",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "konkret_befuerchte_ich_dass",
+      "hint": "Nennen Sie genau, was im schlechtesten Fall passieren könnte.",
+      "context": "Sie haben eine vage Sorge zu einer geplanten Änderung bei der Arbeit. Machen Sie sie konkret.",
+      "sourceId": "src_feedbackgespraeche"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:38:19.287Z",
+  "updated_at": "2026-09-16T07:38:19.287Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

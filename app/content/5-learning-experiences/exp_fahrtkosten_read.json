@@ -1,0 +1,131 @@
+{
+  "id": "exp_fahrtkosten_read",
+  "source_id": "src_fahrtkosten",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Fahrtkostenzuschuss für Wechselschicht",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: warum bekommt nur die Frühschicht einen Fahrtkostenzuschuss?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "q": "Wer erklärt, unter welchen historischen Umständen die Regel entstanden ist?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Carola_Personalabteilung erklärt, dass die Regel aus einer Zeit stammt, als durchgehende Nachtschicht die Ausnahme war. Die anderen sprechen über die heutige Situation, nicht über die Entstehung der Regel.",
+      "options": [
+        "monika",
+        "thorsten",
+        "carola",
+        "ben"
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer stützt seine Position mit einem konkreten Vergleich zu einem anderen Arbeitgeber?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Ben_bewerbung berichtet von einem früheren Arbeitgeber mit einer anderen, umfassenderen Regelung. Die anderen sprechen über die aktuelle Situation bei ihnen, ohne einen externen Vergleich.",
+      "options": [
+        "monika",
+        "thorsten",
+        "carola",
+        "ben"
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Thorsten_B mit diesem Satz, bevor er im nächsten Satz widerspricht?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Auf dem Papier klingt das fair — Frühschicht ist objektiv am schwierigsten mit dem Bus zu erreichen.",
+      "answer": 1,
+      "explain": "Er beginnt mit einer echten Anerkennung der Logik — die Regel „klingt fair“ und die Begründung ist „objektiv“ nachvollziehbar. Erst danach folgt der Einwand zur Praxis.",
+      "options": [
+        "Er lehnt die Regel von Anfang an vollständig ab.",
+        "Er erkennt die ursprüngliche Logik der Regel ausdrücklich an.",
+        "Er behauptet, die Regel sei nie sinnvoll gewesen."
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Satz zu Thorstens vorherigem Satz über die Logik der Regel?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "In der Praxis sieht es allerdings anders aus, wie du sagst: Nachtschicht hat oft überhaupt keine Verbindung, nicht nur eine seltene.",
+      "answer": 1,
+      "explain": "Er bestreitet nicht, dass die ursprüngliche Logik nachvollziehbar war — er zeigt nur, dass sie ein wichtiges Detail übersieht: der Unterschied zwischen „selten“ und „gar nicht vorhanden“.",
+      "options": [
+        "Er widerspricht der Logik, die er selbst gerade anerkannt hat.",
+        "Er lässt die Logik bestehen und zeigt, dass sie in der Praxis nicht ausreicht.",
+        "Er wiederholt den vorherigen Satz mit anderen Worten.",
+        "Er wechselt komplett das Thema."
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "structure"
+    },
+    {
+      "q": "Carola schreibt, es sei ihr „neu“, dass sich die Situation geändert hat. Was folgt daraus für die aktuelle Regel?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Wenn selbst die Personalabteilung von der veränderten Situation überrascht ist, spricht das eher für eine Regel, die niemand bewusst überprüft hat, als für eine absichtliche Benachteiligung.",
+      "options": [
+        "Dass die Regel absichtlich nie aktualisiert wurde.",
+        "Dass die Regel möglicherweise nicht aus bösem Willen, sondern aus fehlender Überprüfung veraltet ist.",
+        "Dass Carola die Beschwerden für unwichtig hält."
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Monika_R das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht, dass es überhaupt eine Regel gibt — mich stört, dass sie auf einer Annahme beruht, die inzwischen nicht mehr stimmt.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine grundsätzliche Kritik am Zuschuss-System. Am Ende zeigt sich: sie will nicht, dass es keine Regel gibt — sie will, dass die Regel auf aktuellen Fakten beruht. Wer nur ihren ersten Beitrag liest, unterschätzt die Präzision ihrer Position.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Beschwerde falsch war.",
+        "Um klarzustellen, dass ihr eigentliches Problem eine veraltete Annahme ist, nicht die Existenz der Regel selbst.",
+        "Um Carola vorzuwerfen, absichtlich unfair zu handeln.",
+        "Um vorzuschlagen, den Zuschuss ganz abzuschaffen."
+      ],
+      "sourceId": "src_fahrtkosten",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:56:00.334Z",
+  "updated_at": "2026-09-16T07:56:00.334Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

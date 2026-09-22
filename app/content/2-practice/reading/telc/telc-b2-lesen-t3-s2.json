@@ -1,0 +1,191 @@
+{
+  "id": "telc-b2-lesen-t3-s2",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 2",
+  "minutes": 18,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 3,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "instruction": "Finden Sie für jede Situation die passende Anzeige.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Ein Jugendlicher sucht einen bezahlten Praktikumsplatz bei Veranstaltungen und möchte danach bei großen Konzerten arbeiten.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein Jugendlicher sucht einen bezahlten Praktikumsplatz bei Veranstaltungen und möchte danach bei großen Konzerten arbeiten.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 5,
+            "text": "f"
+          },
+          "explanation": "Die richtige Antwort ist f) \"f\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Tobias soll demnächst Vereinsabende strukturieren und sucht Training für Gesprächsleitung, nicht für Theater.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 6,
+            "text": "g"
+          },
+          "explanation": "Die richtige Antwort ist g) \"g\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Mara möchte bei einem sozialen Essen helfen, hat aber keine Ausbildung in der Gastronomie und sucht kein Geld.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 7,
+            "text": "h"
+          },
+          "explanation": "Die richtige Antwort ist h) \"h\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein Freund will bei einem Viertelprojekt hinter der Szene Termine und Tonnotizen unterstützen, ohne aufzutreten.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 8,
+            "text": "i"
+          },
+          "explanation": "Die richtige Antwort ist i) \"i\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Kranz möchte mit ihrem eigenen Gerät Gespräche per Kamera und grundlegende Bedienung üben; eine technische Prüfung braucht sie nicht.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 9,
+            "text": "j"
+          },
+          "explanation": "Die richtige Antwort ist j) \"j\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

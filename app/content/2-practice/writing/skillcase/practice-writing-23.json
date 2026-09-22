@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-23",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 23 — Kurznachricht: Krankmeldung an den Vorgesetzten",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie sind kurzfristig erkrankt und können heute nicht zur Arbeit kommen. Schreiben Sie eine kurze, angemessene Nachricht an Ihre Führungskraft.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Melden Sie sich möglichst früh am Tag.",
+              "Nennen Sie kurz, dass Sie krank sind, ohne Details zur Diagnose.",
+              "Erwähnen Sie, ob dringende Aufgaben offen sind."
+            ],
+            "register": "halbformell",
+            "min_words": 50,
+            "rubric_id": 8,
+            "task_type": "workplace_message",
+            "rubric_key": "kurzantwort",
+            "target_words": 70
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Melden Sie sich möglichst früh am Tag.",
+              "Nennen Sie kurz, dass Sie krank sind, ohne Details zur Diagnose.",
+              "Erwähnen Sie, ob dringende Aufgaben offen sind."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Frühzeitige und klare Krankmeldung mit Anrede und Grußformel",
+              "Knappe, sachliche Mitteilung der Arbeitsunfähigkeit ohne medizinische Details",
+              "Proaktiver Hinweis zu offenen, dringenden Aufgaben und ggf. Vertretungsvorschlag",
+              "Höfliche Abschlussformel mit Genesungswunsch oder Angebot für Rückfragen"
+            ],
+            "expected_answer": "Sehr geehrte Frau Müller,\n\nleider muss ich mich für heute krankmelden. Mir geht es gesundheitlich nicht gut, und ich kann nicht zur Arbeit kommen. Ich werde umgehend einen Arzt aufsuchen und Sie über die voraussichtliche Dauer informieren. Bezüglich des Projektberichts, der heute fertig werden sollte: Die wichtigsten Daten habe ich gestern bereits an Herrn Schmidt weitergeleitet, sodass es hier keine Verzögerung geben sollte. Bei dringenden Fragen bin ich per E-Mail erreichbar.\n\nVielen Dank für Ihr Verständnis und viele Grüße\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

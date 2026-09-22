@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-19",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 19 — Formeller Antrag: Fester Parkplatz",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Schreiben Sie einen formellen Antrag an die Verwaltung Ihres Arbeitgebers auf Zuteilung eines festen Parkplatzes, mit Begründung.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie einen konkreten, sachlichen Grund.",
+              "Verwenden Sie eine formelle Anrede und einen formellen Schluss.",
+              "Formulieren Sie den Antrag klar und direkt."
+            ],
+            "register": "formell",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "formal_request",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie einen konkreten, sachlichen Grund.",
+              "Verwenden Sie eine formelle Anrede und einen formellen Schluss.",
+              "Formulieren Sie den Antrag klar und direkt."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Formelle Briefform: Betreffzeile, korrekte Anrede (Sehr geehrte Damen und Herren), passender Gruß (Mit freundlichen Grüßen).",
+              "Klare Antragsstellung im ersten Satz mit direktem Bezug zum Anliegen (fester Parkplatz).",
+              "Sachliche Begründung mit konkretem, nachvollziehbarem Grund (z. B. Schichtdienst, Materialtransport, gesundheitliche Einschränkung).",
+              "Verwendung typischer Redemittel der formellen Bitte (‚Ich beantrage hiermit...‘, ‚Ich bitte um Zuteilung...‘, ‚Zur Begründung führe ich an...‘)."
+            ],
+            "expected_answer": "Betreff: Antrag auf Zuteilung eines festen Mitarbeiterparkplatzes\n\nSehr geehrte Damen und Herren,\n\nhiermit beantrage ich die Zuteilung eines festen Parkplatzes auf dem Firmengelände. Zur Begründung führe ich an, dass ich aufgrund meiner Tätigkeit im Außendienst regelmäßig Firmenfahrzeuge übernehme und häufig mit schwerem Präsentationsmaterial beladen muss. Ein wohnortnaher, reservierter Stellplatz würde den täglichen Transport erheblich erleichtern und meine Arbeitsabläufe effizienter gestalten. Zudem bin ich auf pünktliche Abfahrtszeiten angewiesen, die durch die oft langwierige Parkplatzsuche gefährdet werden. Ich bitte um wohlwollende Prüfung meines Anliegens und stehe für Rückfragen gern zur Verfügung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "exp_urlaubsplanung_chunks",
+  "source_id": "src_urlaubsplanung",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze für eine Regel, die man anpassen will, nicht abschaffen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Als Prinzip finde ich das richtig, in diesem Fall aber …",
+      "as a principle I think that's right, but in this case …",
+      "🔗"
+    ],
+    [
+      "Die Regel stammt noch aus einer Zeit, als …",
+      "the rule dates back to a time when …",
+      "🔗"
+    ],
+    [
+      "Ein Mittelweg wäre doch, …",
+      "a middle ground would be …",
+      "🔗"
+    ],
+    [
+      "Mich stört gar nicht X als Prinzip — mich stört, dass es bei Y keine Ausnahme gibt.",
+      "it's not X as a principle that bothers me — what bothers me is there's no exception for Y",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man eine Regel anpassen will, statt sie abzuschaffen."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "als_prinzip_richtig_in_diesem_fall_aber",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "die_regel_stammt_noch_aus_einer_zeit_als",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "q": "Wie fangen Sie an?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A erklärt die Herkunft, bevor irgendein Urteil folgt — genau die Situation. B urteilt sofort, ohne die Herkunft zu erklären. C schlägt schon eine Lösung vor, bevor überhaupt der Kontext geklärt ist.",
+      "options": [
+        "Die Regel stammt noch aus einer Zeit, als …",
+        "Als Prinzip finde ich das falsch.",
+        "Ein Mittelweg wäre doch, die Regel sofort abzuschaffen."
+      ],
+      "exercises": [
+        "die_regel_stammt_noch_aus_einer_zeit_als"
+      ],
+      "situation": "Eine alte Regel bei Ihnen im Betrieb wirkt inzwischen nicht mehr zeitgemäß. Sie wollen erklären, warum sie überhaupt entstanden ist, ohne sie einfach nur zu kritisieren."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "ein_mittelweg_waere_doch",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "stoert_nicht_prinzip_sondern_fehlende_ausnahme",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "q": "Wie sagen Sie, worum es Ihnen wirklich geht?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A akzeptiert das Prinzip vollständig und benennt nur die eine fehlende Ausnahme — genau Ihre Position. B lehnt das Prinzip insgesamt ab, was Sie nicht wollen. C erklärt nur die Herkunft, ohne Ihr eigentliches Anliegen zu nennen.",
+      "options": [
+        "Mich stört gar nicht die Schichtplanung als Prinzip — mich stört, dass es bei Notlagen keine Ausnahme gibt.",
+        "Als Prinzip finde ich das falsch, in jedem Fall.",
+        "Die Regel stammt noch aus einer ganz anderen Zeit."
+      ],
+      "exercises": [
+        "stoert_nicht_prinzip_sondern_fehlende_ausnahme"
+      ],
+      "situation": "Sie akzeptieren eine allgemeine Regel bei der Schichtplanung vollständig — nur für einen einzigen Fall (z. B. eine akute familiäre Notlage) fehlt Ihnen eine Ausnahme."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "ein_mittelweg_waere_doch",
+      "hint": "Formulieren Sie den Kompromiss als Vorschlag, nicht als Forderung.",
+      "context": "Zwei Kollegen streiten über eine Regel. Sie sehen eine Lösung, die beiden Seiten teilweise gerecht wird. Schlagen Sie sie vor.",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "als_prinzip_richtig_in_diesem_fall_aber",
+      "hint": "Erst das Prinzip verteidigen, dann den Einzelfall anerkennen.",
+      "context": "Eine Regel bei Ihnen ist im Allgemeinen sinnvoll, trifft aber einen bestimmten Kollegen besonders hart. Äußern Sie beides in einem Gedankengang.",
+      "sourceId": "src_urlaubsplanung"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:18:28.925Z",
+  "updated_at": "2026-09-16T07:18:28.925Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

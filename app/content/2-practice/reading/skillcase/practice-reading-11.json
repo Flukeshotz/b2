@@ -1,0 +1,127 @@
+{
+  "id": "practice-reading-11",
+  "board": "custom",
+  "title": "Leseverstehen — Kurzbericht: Auswertung der Fortbildungsumfrage",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Kurzbericht: Auswertung der Fortbildungsumfrage",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Im März wurde unter allen Mitarbeitenden eine anonyme Umfrage zum internen Fortbildungsangebot durchgeführt. Die Rücklaufquote lag bei 68 Prozent, was als aussagekräftig gilt.\n\nZentrale Ergebnisse: 72 Prozent der Befragten gaben an, dass sie sich mehr fachspezifische Fortbildungen wünschen, insbesondere im Bereich digitaler Werkzeuge. Nur 31 Prozent nutzten im vergangenen Jahr tatsächlich ein Fortbildungsangebot — als Hauptgrund für die Nichtteilnahme wurde mit 54 Prozent \"zeitliche Überlastung im Arbeitsalltag\" genannt, deutlich vor \"fehlendem Interesse\" mit 9 Prozent.\n\nBemerkenswert ist der Unterschied zwischen Abteilungen: In der Verwaltung nahmen 46 Prozent der Mitarbeitenden mindestens eine Fortbildung wahr, in der Produktion waren es nur 18 Prozent. Ein möglicher Grund liegt in der Schichtplanung, die in der Produktion kaum Spielraum für Fortbildungstage lässt.\n\nDie Personalabteilung empfiehlt auf Basis dieser Ergebnisse, Fortbildungen künftig stärker in die reguläre Arbeitszeit zu integrieren, statt sie als zusätzliches, freiwilliges Angebot außerhalb der Schicht zu behandeln.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie hoch war die Rücklaufquote der Umfrage?",
+          "options": [
+            "68 Prozent",
+            "31 Prozent",
+            "72 Prozent"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "68 Prozent"
+          },
+          "explanation": "\"Die Rücklaufquote lag bei 68 Prozent\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der häufigste genannte Grund für Nichtteilnahme an Fortbildungen war fehlendes Interesse.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Hauptgrund war \"zeitliche Überlastung\" (54%), nicht \"fehlendes Interesse\" (9%)."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Unterschied zeigt der Bericht zwischen Verwaltung und Produktion?",
+          "options": [
+            "Es gab keinen nennenswerten Unterschied.",
+            "In der Produktion gab es mehr Fortbildungsangebote.",
+            "In der Verwaltung nahmen deutlich mehr Mitarbeitende Fortbildungen wahr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "In der Verwaltung nahmen deutlich mehr Mitarbeitende Fortbildungen wahr."
+          },
+          "explanation": "46% (Verwaltung) gegenüber 18% (Produktion)."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Erklärung nennt der Bericht für diesen Abteilungsunterschied?",
+          "options": [
+            "Die Schichtplanung lässt in der Produktion kaum Spielraum für Fortbildungstage.",
+            "Es gibt in der Produktion keine passenden Angebote.",
+            "Die Produktion hat generell weniger Interesse an Weiterbildung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Schichtplanung lässt in der Produktion kaum Spielraum für Fortbildungstage."
+          },
+          "explanation": "\"Ein möglicher Grund liegt in der Schichtplanung, die … kaum Spielraum … lässt.\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was empfiehlt die Personalabteilung als Konsequenz?",
+          "options": [
+            "Das Fortbildungsangebot komplett streichen.",
+            "Fortbildungen stärker in die reguläre Arbeitszeit integrieren.",
+            "Nur noch freiwillige Fortbildungen außerhalb der Schicht anbieten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Fortbildungen stärker in die reguläre Arbeitszeit integrieren."
+          },
+          "explanation": "\"empfiehlt … Fortbildungen künftig stärker in die reguläre Arbeitszeit zu integrieren\"."
+        }
+      ]
+    }
+  ]
+}

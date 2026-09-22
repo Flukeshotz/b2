@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-9",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 9 — Partizipialkonstruktionen & N-Deklination",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ die Lage kennend, entschied sie sich für die vorsichtigere Option.",
+          "options": [
+            "Die Lage kennend",
+            "Kennend die Lage",
+            "Die Lage gekannt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Lage kennend"
+          },
+          "explanation": "Partizip-I-Konstruktion am Satzanfang: \"Die Lage kennend, …\" ersetzt einen Nebensatz (\"Weil sie die Lage kannte\")."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie hat vergessen, ___ Bescheid zu sagen.",
+          "options": [
+            "mit mir",
+            "mich",
+            "mir"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "mir"
+          },
+          "explanation": "\"Jemandem Bescheid sagen\" ist ein Dativverb."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Kollege, ___ genannt, war eigentlich abwesend.",
+          "options": [
+            "als Verantwortlicher",
+            "als Verantwortliche",
+            "als Verantwortlich"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "als Verantwortlicher"
+          },
+          "explanation": "Substantiviertes Adjektiv nach \"als\" bei maskulinem Bezug: \"als Verantwortlicher\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich habe keine Zeit, das Protokoll ___.",
+          "options": [
+            "gelesen",
+            "zu lesen",
+            "lesen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "zu lesen"
+          },
+          "explanation": "\"Zeit haben, etwas zu tun\" verlangt den Infinitiv mit \"zu\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Experte, den wir konsultiert haben, ist ein ___.",
+          "options": [
+            "Kollege",
+            "Kollegin",
+            "Kollegen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Kollege"
+          },
+          "explanation": "\"Der Kollege\" ist Nominativ; die N-Deklination betrifft nur die anderen Fälle (den/dem/des Kollegen)."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich habe mit dem ___ über den Fall gesprochen.",
+          "options": [
+            "Kollegen",
+            "Kollege",
+            "Kolleg"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Kollegen"
+          },
+          "explanation": "N-Deklination: \"der Kollege\" bekommt im Dativ die Endung \"-n\": \"dem Kollegen\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Man bat den ___, seine Einschätzung zu wiederholen.",
+          "options": [
+            "Experte",
+            "Expert",
+            "Experten"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Experten"
+          },
+          "explanation": "N-Deklination im Akkusativ: \"den Experten\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Statt lange zu diskutieren, ___ sie sofort zu handeln.",
+          "options": [
+            "begann",
+            "beginnt zu",
+            "anfangen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "begann"
+          },
+          "explanation": "\"Statt … zu\" + Hauptsatz im Präteritum: \"statt zu diskutieren, begann sie …\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ genügend Informationen zu haben, traf er die Entscheidung allein.",
+          "options": [
+            "Statt",
+            "Anstatt dass",
+            "Ohne"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ohne"
+          },
+          "explanation": "\"Ohne … zu\" beschreibt das Fehlen einer erwarteten Handlung/Bedingung."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie bat den ___, ihr das Vorgehen zu erklären.",
+          "options": [
+            "Kunde",
+            "Kund",
+            "Kunden"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Kunden"
+          },
+          "explanation": "N-Deklination im Akkusativ: \"der Kunde\" → \"den Kunden\"."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er vermied es, ___ auf die Frage zu antworten.",
+          "options": [
+            "direkt",
+            "direkten",
+            "direkte"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "direkt"
+          },
+          "explanation": "\"Direkt\" ist hier ein Adverb (unveränderlich), kein deklinierbares Adjektiv."
+        }
+      ]
+    }
+  ]
+}

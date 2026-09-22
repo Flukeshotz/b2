@@ -1,0 +1,123 @@
+{
+  "id": "b2_dienstkleidung_read",
+  "order_index": 69,
+  "icon": "📄",
+  "title": "Dienstkleidung: wer zahlt dafür?",
+  "capability": "setting advantages against disadvantages, in order",
+  "proof": "Dienstkleidung: wer zahlt dafür?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Dienstkleidung: wer zahlt dafür?",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Ein Forum. Fünf Beiträge, vier Leute — die Frage: wer zahlt für die Dienstkleidung?",
+            "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+          ]
+        },
+        {
+          "t": "read_source",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "q": "Wer erklärt die rechtliche Seite der Frage, ohne selbst eine Meinung dazu zu äußern?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 2,
+          "explain": "Helene K. legt die rechtliche Lage dar — wann ein Anspruch besteht und wann nicht —, ohne zu sagen, ob sie das für richtig oder falsch hält. Die anderen äußern jeweils eine klare eigene Position.",
+          "options": [
+            "sonja",
+            "matteo",
+            "helene",
+            "yusuf"
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "compare"
+        },
+        {
+          "q": "Wer trennt ausdrücklich zwischen dem, was rechtlich gilt, und dem, was fair ist?",
+          "t": "readq",
+          "mode": "attribute",
+          "answer": 3,
+          "explain": "Yusuf D. sagt es direkt: „Das mag rechtlich stimmen, hat aber mit der Frage, was fair ist, eigentlich wenig zu tun.“ Er akzeptiert Helenes rechtliche Aussage, hält sie aber für die falsche Frage.",
+          "options": [
+            "sonja",
+            "matteo",
+            "helene",
+            "yusuf"
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "compare"
+        },
+        {
+          "q": "Sonjas erster Beitrag — was ist er vor allem?",
+          "t": "readq",
+          "mode": "stance",
+          "quote": "Ist das bei euch auch so? Ich finde das ehrlich gesagt nicht in Ordnung.",
+          "answer": 1,
+          "explain": "Sie äußert zunächst nur ein allgemeines Unbehagen. Was sie konkret stört, wird erst in ihrem letzten Beitrag deutlich — und es ist nicht das, was ihr erster Satz vermuten lässt.",
+          "options": [
+            "Eine rechtliche Einschätzung, die sich später als falsch herausstellt.",
+            "Eine persönliche Reaktion, deren genauer Grund erst am Ende des Threads klar wird.",
+            "Ein Vorschlag für eine neue Regel."
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "argue"
+        },
+        {
+          "q": "Wie steht Yusufs Satz zu Helenes Beitrag davor?",
+          "t": "readq",
+          "mode": "relation",
+          "quote": "Das mag rechtlich stimmen, hat aber mit der Frage, was fair ist, eigentlich wenig zu tun.",
+          "answer": 1,
+          "explain": "„Das mag rechtlich stimmen“ akzeptiert Helenes Punkt vollständig. Der Rest des Satzes ändert nur, welche Frage als relevant gilt — von „was ist vorgeschrieben“ zu „was ist gerecht“.",
+          "options": [
+            "Er bestreitet, dass Helenes rechtliche Darstellung korrekt ist.",
+            "Er akzeptiert Helenes Darstellung vollständig und verschiebt nur den Maßstab, an dem er die Frage misst.",
+            "Er wiederholt Helenes Aussage mit anderen Worten.",
+            "Er wechselt das Thema komplett."
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "structure"
+        },
+        {
+          "q": "Matteo erwähnt, dass sein Betrieb einen festen jährlichen Betrag zahlt. Was folgt daraus für Sonjas letzten Beitrag?",
+          "t": "readq",
+          "mode": "implication",
+          "answer": 1,
+          "explain": "Sie schreibt ausdrücklich, dass sie mit Matteos Modell „sogar leben“ könnte. Das zeigt: das Geld selbst ist nicht ihr Hauptproblem — sonst würde sie Matteos Lösung nicht so leicht akzeptieren.",
+          "options": [
+            "Dass sie Matteos Modell für unbrauchbar hält.",
+            "Dass sie mit einer ähnlichen Lösung zufrieden wäre — ihr eigentliches Problem liegt woanders.",
+            "Dass ihr Betrieb genau dasselbe Modell einführen muss."
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "compare"
+        },
+        {
+          "q": "Warum schreibt Sonja W. das ganz am Ende?",
+          "t": "readq",
+          "mode": "intention",
+          "quote": "Mich stört gar nicht so sehr das Geld an sich — bei Matteos Modell mit dem festen Betrag könnte ich sogar leben. Mich stört, dass bei uns niemand überhaupt erklärt hat, warum es so geregelt ist.",
+          "answer": 1,
+          "explain": "Ihr erster Beitrag klingt wie eine Forderung nach mehr Geld. Am Ende zeigt sich: fehlende Transparenz ist ihr eigentliches Problem, nicht die Höhe der Kosten. Wer nur ihren ersten Satz liest, missversteht ihre Position.",
+          "options": [
+            "Um zuzugeben, dass ihre erste Beschwerde falsch war.",
+            "Um klarzustellen, dass sie nicht in erster Linie mehr Geld fordert, sondern eine Erklärung vermisst.",
+            "Um Helene K. vorzuwerfen, die Regel erfunden zu haben.",
+            "Um vorzuschlagen, ganz auf Dienstkleidung zu verzichten."
+          ],
+          "sourceId": "src_dienstkleidung",
+          "capability": "compare"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

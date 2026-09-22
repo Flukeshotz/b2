@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_praktikumsplatz_aendert",
+  "order_index": 28,
+  "icon": "💬",
+  "title": "Der Praktikumsplatz wurde geändert",
+  "capability": "recognising a 'small change' is actually significant, and reacting",
+  "proof": "Der Praktikumsplatz wurde geändert",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_praktikumsplatz_aendert"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t3-p2",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #2",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Im Stadtteil soll ein Reparaturnachmittag stattfinden. Bewohnerinnen und Bewohner bringen kleine defekte Dinge wie Lampen, Kleidung oder Fahrradzubehör mit. Es gibt nur zwei Räume, wenige Werkzeuge und drei freiwillige Helferinnen und Helfer. Planen Sie einen sicheren und nützlichen Ablauf.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nReparaturnachmittag im Nachbarschaftshaus",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Begrüßung und positive Einleitung zum Ziel des Nachmittags (Nachhaltigkeit, Gemeinschaft).",
+              "Konkrete Vorschläge zur Organisation: Anmeldung, Raumaufteilung (z.B. Elektro, Textil, Mechanik) und Sicherheitsaspekte (Haftung, Strom).",
+              "Verwendung von Modalverben im Konjunktiv II (wir könnten, sollten, müssten) und Vorschlagsformulierungen (Ich schlage vor, Wie wäre es, wenn…).",
+              "Aktives Einbeziehen der Partnerin/des Partners durch Fragen (Was meinst du dazu?, Hältst du das für realistisch?)."
+            ],
+            "expected_answer": "Also, ich finde die Idee mit dem Reparaturnachmittag wirklich klasse, das stärkt die Nachbarschaft und ist gleichzeitig nachhaltig. Damit das Ganze aber nicht im Chaos endet, sollten wir uns jetzt einen realistischen Ablauf überlegen, gerade weil unsere Mittel ja begrenzt sind. Ich habe mir schon ein paar Gedanken gemacht. Zuerst einmal müssten wir die Sicherheit großschreiben. Ich schlage vor, dass wir vorab über einen Aushang oder die lokale Social-Media-Gruppe kommunizieren, dass ausschließlich Kleingeräte mitgebracht werden dürfen und dass jede Person für ihre Sachen selbst haftet. Das nimmt uns etwas Druck. Was hältst du davon? Für die Organisation vor Ort stelle ich mir eine klare Raumaufteilung vor. Wir haben ja nur zwei Räume. Wie wäre es, wenn wir Raum Eins für alles mit Strom und Mechanik nutzen, also Lampen, Toaster oder Fahrradzubehör, und Raum Zwei für Textilien, wo man in Ruhe nähen kann? So vermeiden wir, dass jemand mit einer öligen Fahrradkette auf einen frisch geflickten Pullover stößt. Da wir nur drei Helfer haben, sollten wir mit einem Anmeldesystem arbeiten, vielleicht mit Zeitfenstern von einer Stunde, damit nicht alle auf einmal kommen. Einer der Freiwilligen könnte am Eingang stehen, die Leute kurz registrieren und eine erste Sichtung machen: Ist der Schaden überhaupt vor Ort behebbar? Das spart später Frust. Die anderen beiden könnten dann jeweils einen Raum betreuen. Wichtig wäre auch eine klare Regel: Die Bewohner sollen nicht nur ihre kaputten Sachen abgeben, sondern aktiv mithelfen. Das ist ja der Gedanke dahinter – Hilfe zur Selbsthilfe. So lernen sie etwas und die Freiwilligen sind eher Moderatoren als Dienstleister. Ach ja, und wir brauchen natürlich eine kleine Grundausstattung. Ich könnte ein paar Schraubenzieher und eine Kiste mit Nähzeug mitbringen. Vielleicht könntest du dich um eine Verlängerungskabeltrommel und einen Mehrfachstecker kümmern? Dann könnten wir im Vorfeld noch eine Liste mit den vorhandenen Werkzeugen machen, damit die Helfer wissen, was da ist. Meinst du, das ist so machbar? Ich glaube, mit dieser Struktur könnten wir einen entspannten und vor allem sicheren Nachmittag auf die Beine stellen, ohne dass wir uns übernehmen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

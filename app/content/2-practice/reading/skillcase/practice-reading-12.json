@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-12",
+  "board": "custom",
+  "title": "Leseverstehen — Zwei Stimmen: Sollten Handys in Meetings verboten werden?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Zwei Stimmen: Sollten Handys in Meetings verboten werden?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "STIMME 1 — TEAMLEITERIN: Ich habe vor drei Monaten ein Handyverbot für unsere wöchentlichen Meetings eingeführt, und der Unterschied ist deutlich spürbar. Vorher haben ständig Leute nebenbei E-Mails gecheckt, Diskussionen mussten wiederholt werden, weil jemand nicht zugehört hatte. Jetzt dauern unsere Meetings zwar im Schnitt zehn Minuten länger, aber wir müssen fast nichts mehr wiederholen — unterm Strich sparen wir Zeit.\n\nSTIMME 2 — TEAMMITGLIED: Ich verstehe das Anliegen, aber ich finde das Verbot zu pauschal. Manchmal muss ich während eines Meetings kurz auf eine dringende Nachricht eines Kunden reagieren — das kostet mich fünf Sekunden, kein Verbot ändert daran etwas, außer dass ich mich jetzt schlecht fühle, wenn ich draufschaue. Ein sinnvollerer Weg wäre, klare Ausnahmen zu definieren, statt ein absolutes Verbot durchzusetzen.\n\nSTIMME 1: Das Argument mit dringenden Kundennachrichten verstehe ich, aber genau solche \"Ausnahmen\" waren vorher das Problem — jeder hielt seine eigene Nachricht für dringend genug. Ich bin offen für eine klar definierte Ausnahme, etwa für die Rufbereitschaft, aber nicht für ein System, das auf Selbsteinschätzung beruht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Erfahrung berichtet die Teamleiterin seit dem Handyverbot?",
+          "options": [
+            "Die Meetings dauern zwar länger, aber es muss weniger wiederholt werden.",
+            "Die Meetings sind viel kürzer geworden.",
+            "Die Mitarbeitenden sind seither unzufriedener."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Meetings dauern zwar länger, aber es muss weniger wiederholt werden."
+          },
+          "explanation": "\"dauern … zehn Minuten länger, aber wir müssen fast nichts mehr wiederholen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Teammitglied lehnt das Handyverbot vollständig ab und möchte es abschaffen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Es versteht das Anliegen, kritisiert nur die Pauschalität und schlägt Ausnahmen vor — keine vollständige Ablehnung."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt das Teammitglied als Alternative zum absoluten Verbot vor?",
+          "options": [
+            "Die komplette Abschaffung von Meetings.",
+            "Ein noch strengeres Verbot mit Strafen.",
+            "Klare, definierte Ausnahmen statt eines pauschalen Verbots."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Klare, definierte Ausnahmen statt eines pauschalen Verbots."
+          },
+          "explanation": "\"Ein sinnvollerer Weg wäre, klare Ausnahmen zu definieren\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagiert die Teamleiterin auf den Vorschlag des Teammitglieds?",
+          "options": [
+            "Sie räumt das Argument teilweise ein, bleibt aber bei einer klar begrenzten statt einer selbst eingeschätzten Ausnahme.",
+            "Sie stimmt dem Vorschlag vollständig ohne Einschränkung zu.",
+            "Sie lehnt jede Ausnahme kategorisch ab."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie räumt das Argument teilweise ein, bleibt aber bei einer klar begrenzten statt einer selbst eingeschätzten Ausnahme."
+          },
+          "explanation": "\"Ich bin offen für eine klar definierte Ausnahme … aber nicht für ein System, das auf Selbsteinschätzung beruht.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-20",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 20 — Beschwerde: Verspätete Gehaltsabrechnung",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihre Gehaltsabrechnung ist zum dritten Mal in Folge verspätet angekommen. Schreiben Sie eine sachliche Beschwerde an die Personalabteilung.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Beschreiben Sie das wiederholte Muster (dreimal in Folge).",
+              "Bleiben Sie sachlich und konkret.",
+              "Fordern Sie eine Erklärung und eine Lösung für die Zukunft."
+            ],
+            "register": "formell",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "complaint",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Beschreiben Sie das wiederholte Muster (dreimal in Folge).",
+              "Bleiben Sie sachlich und konkret.",
+              "Fordern Sie eine Erklärung und eine Lösung für die Zukunft."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Sachliche Betreffzeile und korrekte Anrede (z. B. ‚Sehr geehrte Damen und Herren‘).",
+              "Konkrete Beschreibung des Problems: dreimalige Verspätung mit genauen Monaten/Daten nennen.",
+              "Auswirkung kurz benennen (z. B. Planungsunsicherheit), dabei sachlich bleiben – keine emotionalen Vorwürfe.",
+              "Klare Aufforderung: Erklärung der Ursache und verbindliche Lösung für pünktlichen Erhalt in der Zukunft.",
+              "Höflicher Schlusssatz mit Grußformel und vollständigem Namen."
+            ],
+            "expected_answer": "Betreff: Wiederholt verspätete Gehaltsabrechnung\n\nSehr geehrte Damen und Herren,\n\nhiermit möchte ich Sie auf ein wiederkehrendes Problem aufmerksam machen. Meine Gehaltsabrechnung ist nun bereits den dritten Monat in Folge verspätet eingetroffen, konkret in den Monaten März, April und Mai dieses Jahres. Stets erhielt ich die Unterlagen erst um den 10. des Folgemonats, was meine private Finanzplanung erheblich erschwert.\n\nIch bitte Sie daher um eine kurze Erklärung, worauf diese wiederholte Verzögerung zurückzuführen ist. Zudem wäre ich Ihnen dankbar, wenn Sie mir verbindlich mitteilen könnten, wie die pünktliche Zustellung künftig sichergestellt wird.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Vorname Nachname]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

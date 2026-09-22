@@ -1,0 +1,151 @@
+{
+  "id": "exp_muede_grammar",
+  "source_id": "src_muede",
+  "kind": "grammar",
+  "ord": 2,
+  "title": "Erst zugeben, dann widersprechen",
+  "minutes": 10,
+  "primary_capability": "concede",
+  "secondary_capabilities": [
+    "argue"
+  ],
+  "checks": [
+    "connector_range"
+  ],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Frau Krause widerspricht dem Schlafforscher dreimal — und jedes Mal gibt sie zuerst etwas zu.",
+        "Zuerst schauen wir, warum das wirkt. Die Form kommt danach."
+      ]
+    },
+    {
+      "q": "Was hält Frau Krause von dem, was der Schlafforscher gesagt hat?",
+      "t": "readq",
+      "mode": "meaning",
+      "quote": "Das stimmt ja alles. Nur – bei uns auf Station ist das eben nicht das Problem.",
+      "answer": 1,
+      "explain": "„Das stimmt ja alles.“ Sie bestreitet nichts. Ihr Einwand ist ein anderer: Für ihre Station beschreibt seine Erklärung nicht das, woran es liegt.",
+      "options": [
+        "Sie hält es für falsch.",
+        "Sie hält es für richtig — nur nicht für ihr Problem.",
+        "Sie hat es nicht verstanden."
+      ],
+      "sourceId": "src_muede",
+      "capability": "concede"
+    },
+    {
+      "q": "Warum sagt sie das, bevor sie ihren Einwand bringt?",
+      "t": "readq",
+      "mode": "meaning",
+      "quote": "Doch, sie bringen schon etwas, das will ich gar nicht kleinreden.",
+      "answer": 0,
+      "explain": "Wer sofort widerspricht, wird als Gegner gehört und nicht als Argument. Indem sie zuerst etwas gelten lässt, nimmt sie der Gegenseite die einfachste Antwort — „Sie sind ja grundsätzlich dagegen“ — und ihr Einwand muss beantwortet werden.",
+      "options": [
+        "Damit ihr Einwand nicht wie Widerspruch um jeden Preis klingt.",
+        "Weil sie ihre Meinung geändert hat.",
+        "Weil sie höflich sein muss, ohne es zu meinen."
+      ],
+      "sourceId": "src_muede",
+      "capability": "concede"
+    },
+    {
+      "q": "Nach welchem Satz ist es schwerer, einfach dagegenzuhalten?",
+      "t": "gcontrast",
+      "lead": "Derselbe Einwand, zweimal.",
+      "answer": 1,
+      "explain": "A lässt sich mit „doch, ist es“ beantworten — es steht Behauptung gegen Behauptung. Bei B hat sie die Forschung schon anerkannt; wer jetzt antwortet, muss auf ihre Station eingehen. Das Zugeständnis kostet sie nichts und verengt die Antwort des anderen.",
+      "options": [
+        "A",
+        "B",
+        "Kein Unterschied"
+      ],
+      "sourceId": "src_muede",
+      "variants": [
+        {
+          "de": "Bei uns auf Station ist das nicht das Problem.",
+          "label": "A"
+        },
+        {
+          "de": "Das stimmt ja alles. Nur – bei uns auf Station ist das nicht das Problem.",
+          "label": "B"
+        }
+      ]
+    },
+    {
+      "q": "Welcher Satz ist schwerer zu widerlegen?",
+      "t": "gcontrast",
+      "lead": "Und noch einmal, mit einer Maßnahme, die tatsächlich etwas bringt.",
+      "answer": 1,
+      "explain": "C ist angreifbar, weil es nicht stimmt: die Stunde hilft ja. D gibt genau das zu und verschiebt den Streit auf die Menge — und dort hat sie recht. Ein Zugeständnis, das der Wahrheit entspricht, macht das eigene Argument härter, nicht weicher.",
+      "options": [
+        "C",
+        "D",
+        "Beide gleich"
+      ],
+      "sourceId": "src_muede",
+      "variants": [
+        {
+          "de": "Die eine Stunde hilft mir nicht.",
+          "label": "C"
+        },
+        {
+          "de": "Die eine Stunde, die ich dazugewinne, hilft mir zwar – aber sie ersetzt nicht die drei, die mir fehlen.",
+          "label": "D"
+        }
+      ]
+    },
+    {
+      "t": "gform",
+      "lead": "Die Form ist eine Klammer aus zwei Teilen.",
+      "rule": "Wer mit <b>zwar</b> anfängt, muss <b>aber</b> nachliefern. Ohne den zweiten Teil bleibt nur die Zustimmung stehen.",
+      "label": "zwar … aber",
+      "parts": [
+        {
+          "de": "Die Stunde hilft mir zwar –",
+          "note": "was Sie gelten lassen",
+          "role": "Zugeständnis"
+        },
+        {
+          "de": "aber sie ersetzt die drei nicht.",
+          "note": "und was trotzdem gilt",
+          "role": "Einwand"
+        }
+      ],
+      "extras": [
+        "Ohne „zwar“ geht es genauso: <b>Das stimmt.</b> <b>Nur</b> – bei uns ist das anders.",
+        "Statt „aber“ auch: <b>nur</b>, <b>allerdings</b>, <b>trotzdem</b>."
+      ]
+    },
+    {
+      "t": "guse",
+      "hint": "Erst das, was Sie gelten lassen. Dann das, was trotzdem nicht passt.",
+      "check": "concede_first",
+      "quote": "Das stimmt ja alles. Nur – bei uns auf Station ist das eben nicht das Problem.",
+      "context": "Jemand erklärt Ihnen etwas über Ihre Arbeit, das im Grundsatz stimmt — aber an Ihrer Situation vorbeigeht. Antworten Sie so, dass die Person Ihnen zuhört.",
+      "sourceId": "src_muede"
+    },
+    {
+      "t": "guse",
+      "hint": "Geben Sie zu, was sie bringt. Und sagen Sie dann, was sie nicht ersetzt.",
+      "check": "concede_first",
+      "quote": "Doch, sie bringen schon etwas, das will ich gar nicht kleinreden.",
+      "context": "Bei Ihnen wurde eine Maßnahme eingeführt, die tatsächlich etwas gebracht hat — nur längst nicht genug. Sagen Sie das, ohne die Maßnahme schlechtzureden.",
+      "sourceId": "src_muede"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_muede_grammar",
+  "created_at": "2026-09-05T13:37:48.612Z",
+  "updated_at": "2026-09-09T08:03:49.678Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

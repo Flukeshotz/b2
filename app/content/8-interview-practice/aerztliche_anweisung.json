@@ -1,0 +1,11 @@
+{
+  "id": "aerztliche_anweisung",
+  "de": "Was tun Sie, wenn Sie mit einer ärztlichen Anweisung nicht einverstanden sind?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you can escalate without either obeying blindly or going around the doctor.",
+  "trap": "Saying you would simply carry it out. Silent compliance is a patient-safety answer they do not want.",
+  "strong": "Ask, state the concern with a reason, document it, escalate up the line if unresolved.",
+  "followUp": "Und wenn die Ärztin auf der Anweisung besteht?",
+  "model_answer": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "src_artikel_telearbeit",
+  "kind": "text",
+  "title": "Telearbeit in der Pflege: ein Widerspruch?",
+  "hook": "Ein Sachtext, bei dem genau hinsehen wichtiger ist als schnell lesen: manches steht da, manches nicht — und der Unterschied ist die eigentliche Aufgabe.",
+  "theme": 7,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "telc Lesen Teil 3 — Richtig/Falsch/Text sagt dazu nichts",
+    "theme": 7,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "zwischen expliziter Aussage und fehlender Information unterscheiden",
+      "eine Verallgemeinerung von einer konkreten Aussage im Text trennen"
+    ],
+    "primary_capability": "structure",
+    "secondary_capabilities": []
+  },
+  "script": [
+    {
+      "de": "Telearbeit gilt in vielen Berufen inzwischen als Selbstverständlichkeit. In der Pflege dagegen wirkt der Begriff auf den ersten Blick wie ein Widerspruch — schließlich erfordert die direkte Betreuung von Patientinnen und Patienten physische Anwesenheit. Ein genauerer Blick zeigt jedoch, dass ein erheblicher Teil der Arbeitszeit in der Pflege aus administrativen Tätigkeiten besteht, die grundsätzlich ortsunabhängig erledigt werden könnten: Dienstplanung, Dokumentation, Fortbildungsorganisation, Qualitätsmanagement.\n\nEinige Einrichtungen haben in den letzten Jahren begonnen, genau diese Tätigkeiten testweise ins Homeoffice zu verlagern — allerdings ausschließlich für Personal in koordinierenden oder leitenden Funktionen, nicht für das direkt patientennah tätige Pflegepersonal. Die bisherigen Rückmeldungen aus diesen Pilotprojekten fallen gemischt aus: Während die Flexibilität grundsätzlich positiv bewertet wird, berichten mehrere Einrichtungen von einem spürbaren Rückgang des informellen fachlichen Austauschs zwischen den Teams.\n\nEine oft übersehene Nebenwirkung betrifft die Sichtbarkeit dieser Arbeit innerhalb der Organisation: Wer im Homeoffice Dienstpläne erstellt, wird von den Kolleginnen und Kollegen vor Ort seltener direkt wahrgenommen, was in einzelnen Fällen zu einer unterschätzten Arbeitsbelastung geführt hat. Diese Tätigkeiten galten schon vor der Einführung von Homeoffice als wenig sichtbar, weil sie meist außerhalb der eigentlichen Stationsarbeit stattfanden — das Homeoffice hat dieses bereits bestehende Problem eher verstärkt als neu geschaffen.\n\nOb sich Telearbeit in der Pflege langfristig auf weitere Tätigkeitsbereiche ausweiten lässt, ist unter Fachleuten umstritten. Fest steht bislang nur, dass die pauschale Aussage, Pflege sei grundsätzlich nicht homeofficefähig, die tatsächliche Vielfalt der Tätigkeiten in diesem Berufsfeld nicht angemessen widerspiegelt.",
+      "when": "",
+      "handle": "text",
+      "speaker": "Text"
+    }
+  ],
+  "transcript": "Telearbeit gilt in vielen Berufen inzwischen als Selbstverständlichkeit. In der Pflege dagegen wirkt der Begriff auf den ersten Blick wie ein Widerspruch — schließlich erfordert die direkte Betreuung von Patientinnen und Patienten physische Anwesenheit. Ein genauerer Blick zeigt jedoch, dass ein erheblicher Teil der Arbeitszeit in der Pflege aus administrativen Tätigkeiten besteht, die grundsätzlich ortsunabhängig erledigt werden könnten: Dienstplanung, Dokumentation, Fortbildungsorganisation, Qualitätsmanagement.\n\nEinige Einrichtungen haben in den letzten Jahren begonnen, genau diese Tätigkeiten testweise ins Homeoffice zu verlagern — allerdings ausschließlich für Personal in koordinierenden oder leitenden Funktionen, nicht für das direkt patientennah tätige Pflegepersonal. Die bisherigen Rückmeldungen aus diesen Pilotprojekten fallen gemischt aus: Während die Flexibilität grundsätzlich positiv bewertet wird, berichten mehrere Einrichtungen von einem spürbaren Rückgang des informellen fachlichen Austauschs zwischen den Teams.\n\nEine oft übersehene Nebenwirkung betrifft die Sichtbarkeit dieser Arbeit innerhalb der Organisation: Wer im Homeoffice Dienstpläne erstellt, wird von den Kolleginnen und Kollegen vor Ort seltener direkt wahrgenommen, was in einzelnen Fällen zu einer unterschätzten Arbeitsbelastung geführt hat. Diese Tätigkeiten galten schon vor der Einführung von Homeoffice als wenig sichtbar, weil sie meist außerhalb der eigentlichen Stationsarbeit stattfanden — das Homeoffice hat dieses bereits bestehende Problem eher verstärkt als neu geschaffen.\n\nOb sich Telearbeit in der Pflege langfristig auf weitere Tätigkeitsbereiche ausweiten lässt, ist unter Fachleuten umstritten. Fest steht bislang nur, dass die pauschale Aussage, Pflege sei grundsätzlich nicht homeofficefähig, die tatsächliche Vielfalt der Tätigkeiten in diesem Berufsfeld nicht angemessen widerspiegelt.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": []
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T08:44:27.446Z",
+  "updated_at": "2026-09-16T08:44:27.446Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

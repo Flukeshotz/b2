@@ -1,0 +1,85 @@
+{
+  "id": "src_ueberschriften_pflege",
+  "kind": "text",
+  "title": "Vier Überschriften, vier Absätze",
+  "hook": "Vier kurze Absätze zu einem Thema — und mehr als eine Überschrift, die auf den ersten Blick passen könnte.",
+  "theme": 7,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "telc Lesen Teil 1 — Überschriften zuordnen",
+    "theme": 7,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "implicit_cohesion"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Überschrift als Zusammenfassung erkennen, nicht als Stichwortliste",
+      "einen Absatz auf seinen Kernpunkt reduzieren"
+    ],
+    "primary_capability": "structure",
+    "secondary_capabilities": []
+  },
+  "script": [
+    {
+      "de": "Eine aktuelle Erhebung unter Pflegekräften zeigt: Die Zahl der Bewerbungen auf offene Stellen ist gestiegen, seit mehrere Kliniken in der Region begonnen haben, feste Dienstpläne vier Wochen im Voraus zu veröffentlichen. Bewerberinnen und Bewerber gaben in Befragungen an, dass Planbarkeit für sie inzwischen wichtiger sei als ein höheres Gehalt allein.",
+      "when": "",
+      "handle": "p1",
+      "speaker": "Absatz 1"
+    },
+    {
+      "de": "Nicht jede Einrichtung kann sich diesem Trend allerdings anschließen. Kleinere Häuser mit knapper Personaldecke berichten, dass sich Dienstpläne wegen kurzfristiger Krankheitsausfälle kaum vier Wochen im Voraus verlässlich festlegen lassen — jede Änderung müsste sonst ständig neu kommuniziert werden, was den erhofften Vorteil zunichtemachen würde.",
+      "when": "",
+      "handle": "p2",
+      "speaker": "Absatz 2"
+    },
+    {
+      "de": "Ein Modellprojekt aus einer mittelgroßen Klinik zeigt einen möglichen Mittelweg: Der Dienstplan wird vier Wochen im Voraus veröffentlicht, gilt aber ausdrücklich als vorläufig. Änderungen sind weiterhin möglich, müssen jedoch spätestens 48 Stunden vorher mitgeteilt werden — außer bei echten Notfällen. Die Rückmeldungen der Beschäftigten fallen bisher überwiegend positiv aus.",
+      "when": "",
+      "handle": "p3",
+      "speaker": "Absatz 3"
+    },
+    {
+      "de": "Langfristig, so sind sich Expertinnen und Experten einig, wird sich am grundlegenden Problem wenig ändern, solange der Personalmangel in der Pflege bestehen bleibt. Bessere Planungswerkzeuge könnten die Situation zwar spürbar entschärfen — sie ersetzen aber keine zusätzlichen Arbeitskräfte, die in vielen Regionen schlicht fehlen.",
+      "when": "",
+      "handle": "p4",
+      "speaker": "Absatz 4"
+    }
+  ],
+  "transcript": "Absatz 1\nEine aktuelle Erhebung unter Pflegekräften zeigt: Die Zahl der Bewerbungen auf offene Stellen ist gestiegen, seit mehrere Kliniken in der Region begonnen haben, feste Dienstpläne vier Wochen im Voraus zu veröffentlichen. Bewerberinnen und Bewerber gaben in Befragungen an, dass Planbarkeit für sie inzwischen wichtiger sei als ein höheres Gehalt allein.\n\nAbsatz 2\nNicht jede Einrichtung kann sich diesem Trend allerdings anschließen. Kleinere Häuser mit knapper Personaldecke berichten, dass sich Dienstpläne wegen kurzfristiger Krankheitsausfälle kaum vier Wochen im Voraus verlässlich festlegen lassen — jede Änderung müsste sonst ständig neu kommuniziert werden, was den erhofften Vorteil zunichtemachen würde.\n\nAbsatz 3\nEin Modellprojekt aus einer mittelgroßen Klinik zeigt einen möglichen Mittelweg: Der Dienstplan wird vier Wochen im Voraus veröffentlicht, gilt aber ausdrücklich als vorläufig. Änderungen sind weiterhin möglich, müssen jedoch spätestens 48 Stunden vorher mitgeteilt werden — außer bei echten Notfällen. Die Rückmeldungen der Beschäftigten fallen bisher überwiegend positiv aus.\n\nAbsatz 4\nLangfristig, so sind sich Expertinnen und Experten einig, wird sich am grundlegenden Problem wenig ändern, solange der Personalmangel in der Pflege bestehen bleibt. Bessere Planungswerkzeuge könnten die Situation zwar spürbar entschärfen — sie ersetzen aber keine zusätzlichen Arbeitskräfte, die in vielen Regionen schlicht fehlen.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on sentence_complexity — Ø 21.3 Wörter pro Satz, 2 verschiedene Nebensatz-Einleitungen (dass, solange).",
+      "level: script only warns on lexical_range — Abstrakte Nomen: erhebung, planbarkeit, einrichtung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T08:34:54.845Z",
+  "updated_at": "2026-09-16T08:34:54.845Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

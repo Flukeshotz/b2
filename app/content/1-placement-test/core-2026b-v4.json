@@ -1,0 +1,797 @@
+{
+  "id": "core-2026b-v4",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V4",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Wie viel Kulanz ist zu viel?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Letzte Woche hat ein Kunde bei uns eine Lieferung reklamiert: drei von zwölf Paketen\nwaren beschädigt angekommen. Mein erster Gedanke war, das sei ein Einzelfall und der Kunde\nsolle sich an die Spedition wenden — schließlich hatten wir sauber verpackt.\n\nDann habe ich mir die Reklamationen der letzten drei Monate angesehen. Es waren nicht drei\nbeschädigte Pakete, es waren einundzwanzig, und fast alle kamen von derselben Route. Das hat\nmeine Sicht verändert. Es ging nicht mehr um einen einzelnen unglücklichen Kunden, sondern\num ein Problem, das wir selbst verursacht hatten.\n\nWir haben dem Kunden eine volle Rückerstattung angeboten, dazu einen Gutschein für die\nnächste Bestellung. Das war teurer, als ich wollte, aber richtig: Wer für unseren Fehler\nzahlt, sollte nicht auch noch dafür kämpfen müssen.\n\nWas mich trotzdem stört, ist die Spedition selbst. Wir haben sie zweimal auf die Route\nangesprochen, ohne eine klare Antwort zu bekommen. Solange sich daran nichts ändert, wird\nuns das Problem wieder einholen — Kulanz hin oder her.\n\nDen Vertrag kündigen würde ich deshalb trotzdem noch nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt der Autor die Lage am Ende?",
+          "options": [
+            "Er hält die Spedition für zuverlässig, sieht das Problem als gelöst.",
+            "Er hat kulant reagiert, sieht aber bei der Spedition weiterhin ein ungelöstes Problem.",
+            "Er findet, der Kunde habe übertrieben reagiert."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er hat kulant reagiert, sieht aber bei der Spedition weiterhin ein ungelöstes Problem."
+          },
+          "explanation": "Er würde den Vertrag „trotzdem noch nicht“ kündigen, kritisiert aber weiter die fehlende Antwort der Spedition. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Text kamen fast alle beschädigten Sendungen von derselben Route.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„fast alle kamen von derselben Route.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt der Autor ein?",
+          "options": [
+            "Dass es sich nicht um einen Einzelfall handelte, sondern um ein hausgemachtes Problem.",
+            "Dass die Spedition inzwischen zuverlässig liefert.",
+            "Dass der Kunde die beschädigten Pakete selbst verursacht hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass es sich nicht um einen Einzelfall handelte, sondern um ein hausgemachtes Problem."
+          },
+          "explanation": "„Es ging nicht mehr um einen einzelnen unglücklichen Kunden, sondern um ein Problem, das wir selbst verursacht hatten.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worauf führt der Autor seinen Sinneswandel zurück?",
+          "options": [
+            "Auf ein Gespräch mit dem Kunden.",
+            "Auf den Blick in die Reklamationen der letzten drei Monate.",
+            "Auf eine Beschwerde der Spedition."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Auf den Blick in die Reklamationen der letzten drei Monate."
+          },
+          "explanation": "„Dann habe ich mir die Reklamationen der letzten drei Monate angesehen.“ Der Text nennt diesen Blick als Auslöser für die veränderte Sicht."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Der Kunde erhielt eine volle Rückerstattung und einen Gutschein.",
+            "Die Spedition hat auf zwei Nachfragen klar geantwortet.",
+            "In drei Monaten gab es einundzwanzig beschädigte Sendungen.",
+            "Der Autor hat den Vertrag mit der Spedition bereits gekündigt."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Der Kunde erhielt eine volle Rückerstattung und einen Gutschein.",
+              "Die Spedition hat auf zwei Nachfragen klar geantwortet.",
+              "In drei Monaten gab es einundzwanzig beschädigte Sendungen.",
+              "Der Autor hat den Vertrag mit der Spedition bereits gekündigt."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2
+            ],
+            "text": [
+              "Der Kunde erhielt eine volle Rückerstattung und einen Gutschein.",
+              "In drei Monaten gab es einundzwanzig beschädigte Sendungen."
+            ]
+          },
+          "explanation": "„Rückerstattung … dazu einen Gutschein“ und „einundzwanzig“ Sendungen in drei Monaten stehen beide explizit im Text; die Spedition antwortete gerade NICHT klar, und gekündigt wurde nichts."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Er beschreibt die einzelne Reklamation.",
+              "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+              "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+              "Er benennt, was ihn an der Spedition weiterhin stört."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Er beschreibt die einzelne Reklamation.",
+              "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+              "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+              "Er benennt, was ihn an der Spedition weiterhin stört."
+            ]
+          },
+          "explanation": "Einzelfall → Muster erkannt → Entscheidung getroffen → verbleibende Kritik. Die einzige Reihenfolge, die dem Text als Argumentation folgt."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Im Kundenservice. Zwei Kollegen sprechen über eine Reklamation.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v4_reklamation.mp3",
+        "duration_seconds": 51.7,
+        "voices": "conrad+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollege A",
+          "text": "Die Reklamation von Frau Bauer — die wollten wir doch mit zwanzig Euro Gutschein abschließen, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Das war der erste Vorschlag, ja. Herr Weiss hat das aber noch mal angesehen, weil es schon ihre dritte Reklamation dieses Jahr ist. Jetzt sind es vierzig Euro, dazu die volle Rückerstattung."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Vierzig Euro also, nicht zwanzig. Und die Rückerstattung — kommt die separat?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Nein, beides zusammen auf einmal. Er hat nur eine Bedingung gestrichen: Sie muss das beschädigte Paket nicht mehr zurückschicken."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Moment, habe ich das richtig verstanden — sie behält das beschädigte Paket und bekommt trotzdem alles erstattet?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das bei der dritten Reklamation auch angemessen; sonst verlieren wir sie als Kundin ganz."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie hoch ist der Gutschein am Ende?",
+          "options": [
+            "Zwanzig Euro.",
+            "Vierzig Euro.",
+            "Er entfällt ganz."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Vierzig Euro."
+          },
+          "explanation": "Zwanzig Euro war der erste Vorschlag und wurde ersetzt: „Jetzt sind es vierzig Euro.“ Wer nur den ersten Betrag hört, antwortet falsch."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die neue Lösung?",
+          "options": [
+            "Sie hält sie für übertrieben.",
+            "Sie hält sie für angemessen.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie hält sie für angemessen."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das … auch angemessen“ — die Bewertung steht erst im letzten Satz, nach der Sachinformation."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Bauer muss das beschädigte Paket nicht zurückschicken.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„Sie muss das beschädigte Paket nicht mehr zurückschicken.“ Genau diese Bedingung wurde gestrichen."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der Vorschlag von Herrn Weiss noch einmal geändert?",
+          "options": [
+            "Weil es schon Frau Bauers dritte Reklamation dieses Jahr ist.",
+            "Weil das Paket versichert war.",
+            "Weil Frau Bauer sich beim Vorgesetzten beschwert hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil es schon Frau Bauers dritte Reklamation dieses Jahr ist."
+          },
+          "explanation": "„weil es schon ihre dritte Reklamation dieses Jahr ist.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das … angemessen.“",
+              "„Er hat nur eine Bedingung gestrichen.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das … angemessen.“ → eine Meinung äußern",
+              "„Er hat nur eine Bedingung gestrichen.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Lieferung kam beschädigt an. Das war unser Fehler.",
+            "Die Lieferung kam zwar beschädigt an, das war aber nicht allein unser Fehler."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen einer Beschwerde teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Lieferung kam zwar beschädigt an, das war aber nicht allein unser Fehler."
+          },
+          "explanation": "„zwar … aber“ räumt den Fehler ein und setzt zugleich die Einschränkung dagegen. Zwei Sätze nebeneinander zeigen kein Abwägen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir erstatten den vollen Betrag.",
+            "Man könnte den vollen Betrag erstatten."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen eine Lösung ins Gespräch, die noch verhandelbar bleiben soll."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte den vollen Betrag erstatten."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag, über den noch gesprochen werden kann."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wegen des beschädigten Pakets bitten wir um Stellungnahme.",
+            "Wegen dem beschädigten Paket bitten wir um Stellungnahme."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an die Spedition."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen des beschädigten Pakets bitten wir um Stellungnahme."
+          },
+          "explanation": "Gesprochen hört man „wegen dem“ ständig. Geschrieben verlangt „wegen“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Rückerstattung wurde genehmigt, weil die Reklamation berechtigt war und eine Ablehnung die Kundin verloren hätte.",
+            "Die Rückerstattung wurde genehmigt. Die Reklamation war berechtigt. Eine Ablehnung hätte die Kundin gekostet."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen in einer E-Mail, warum eine Rückerstattung genehmigt wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Rückerstattung wurde genehmigt, weil die Reklamation berechtigt war und eine Ablehnung die Kundin verloren hätte."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung nebeneinandergestellter Hauptsätze."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Der Kunde hat die Lieferung zunächst in Frage ___, nachdem er drei beschädigte Pakete ___ hatte.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "gestellt"
+                ]
+              },
+              {
+                "accepted": [
+                  "erhalten",
+                  "bekommen"
+                ]
+              }
+            ],
+            "text": [
+              "gestellt",
+              "erhalten / bekommen"
+            ]
+          },
+          "explanation": "„etwas in Frage stellen“ und „etwas erhalten/bekommen“ — feste Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Reklamation hat gezeigt, dass die ___ des Problems bei der Spedition liegt.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Prüfung",
+                  "Auswertung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Ursache"
+                ]
+              }
+            ],
+            "text": [
+              "Prüfung / Auswertung",
+              "Ursache"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Prüfung“ und präzise Nomen wie „Ursache“ gehören zum B2-Wortschatz; „das Prüfen“ und „der Grund davon“ wären der A2-Ersatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "eine Reklamation",
+              "Kulanz",
+              "zur Verfügung",
+              "in Anspruch"
+            ],
+            "right": [
+              "nehmen",
+              "bearbeiten",
+              "zeigen",
+              "stehen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 0
+            },
+            "text": [
+              "eine Reklamation → bearbeiten",
+              "Kulanz → zeigen",
+              "zur Verfügung → stehen",
+              "in Anspruch → nehmen"
+            ]
+          },
+          "explanation": "eine Reklamation bearbeiten · Kulanz zeigen · zur Verfügung stehen · etwas in Anspruch nehmen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Ich wollte nur kurz sagen, dass der Kunde ziemlich sauer war.",
+            "Ich möchte Sie darüber informieren, dass der Kunde sich deutlich beschwert hat."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die Geschäftsleitung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich möchte Sie darüber informieren, dass der Kunde sich deutlich beschwert hat."
+          },
+          "explanation": "„ziemlich sauer“ gehört ins Gespräch. In einer E-Mail an die Leitung kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Lassen Sie mich bitte kurz ausreden — dann ist die Lösung klarer.",
+            "Ich war noch nicht fertig! Hören Sie mir doch mal zu.",
+            "Wenn Sie nicht zuhören wollen, kann ich auch nichts machen."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "Ein Kunde unterbricht Sie am Telefon, bevor Sie die Lösung erklärt haben."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Lassen Sie mich bitte kurz ausreden — dann ist die Lösung klarer."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag sachlich, ohne Vorwurf und ohne ihn aufzugeben. Der Vorwurf eskaliert, das Aufgeben verschenkt das Wort."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung des Autors zur Reklamation entwickelt hat. Nennen Sie auch, was ihn weiterhin stört.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die den Sinneswandel (Einzelfall → strukturelles Problem) UND die verbleibende Kritik an der Spedition nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die den Sinneswandel (Einzelfall → strukturelles Problem) UND die verbleibende Kritik an der Spedition nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Den Wandel der Haltung klar benennen: von anfänglichem Verständnis für einen Einzelfall hin zur Erkenntnis eines systematischen Problems.",
+              "Die verbleibende Kritik konkret nennen: die mangelhafte Kommunikation und Unzuverlässigkeit der Spedition.",
+              "Eigene Formulierungen verwenden und den Text nicht nacherzählen.",
+              "Typische B2-Redemittel für Gegensätze nutzen (z. B. ‚während … anfangs‘, ‚jedoch‘, ‚inzwischen‘)."
+            ],
+            "expected_answer": "Während der Autor anfangs von einem bedauerlichen Einzelfall ausging, sieht er inzwischen ein strukturelles Problem beim Händler. Was ihn jedoch weiterhin stört, ist die unzuverlässige Spedition, die Termine nicht einhält und schlecht kommuniziert.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihr Kollege sagt: „Den Fall lösen wir wie die letzten Male.“ Sie sind nicht sicher, welchen Fall er meint und ob damit die volle Rückerstattung gemeint ist. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": [
+              "Zwei klar getrennte, höfliche Rückfragen formulieren (z. B. mit Konjunktiv II oder Modalpartikeln).",
+              "Konkret nach dem 'Fall' und der 'Vorgehensweise' fragen, nicht nur die Aussage wiederholen.",
+              "Den Bezug zur 'vollen Rückerstattung' explizit als Beispiel oder Möglichkeit nennen.",
+              "Angemessene Anrede und höfliche Einleitung verwenden (z. B. 'Entschuldigung, ...' oder 'Könntest du ...')."
+            ],
+            "expected_answer": "Entschuldigung, könntest du bitte kurz präzisieren, auf welchen konkreten Fall du dich beziehst? Meinst du damit auch die volle Rückerstattung wie beim letzten Mal?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob Kulanzentscheidungen wie volle Rückerstattungen künftig nur noch von der Führungsebene genehmigt werden dürfen. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zur Regelung (Zustimmung/Ablehnung) mit Begründung durch mindestens zwei Argumente (z. B. Kundenzufriedenheit, Effizienz, Mitarbeitermotivation).",
+              "Ehrliches Eingehen auf einen Nachteil der eigenen Position (z. B. Risiko von Missbrauch oder uneinheitlichen Entscheidungen).",
+              "Konkreter, praktikabler Lösungsvorschlag (z. B. Budgetgrenze, Leitfaden, Stichprobenkontrolle).",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung („Ich bin der festen Überzeugung, dass...“, „Ein wesentlicher Nachteil könnte jedoch sein...“, „Daher schlage ich vor...“)."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die geplante Regelung, Kulanzentscheidungen nur noch auf Führungsebene zu genehmigen, für problematisch. Erstens leidet darunter die Kundenzufriedenheit, weil einfache Anfragen unnötig verzögert werden. Zweitens demotiviert es unsere Servicemitarbeiter, wenn man ihnen jeglichen Entscheidungsspielraum entzieht und sie nicht mehr eigenverantwortlich handeln dürfen. Ein Nachteil meiner Position ist sicherlich das Risiko, dass Kulanz zu großzügig gewährt wird und uneinheitliche Entscheidungen entstehen. Daher schlage ich vor, einen klaren finanziellen Rahmen festzulegen: Bis zu einem Betrag von 50 Euro dürfen die Mitarbeiter selbstständig entscheiden, alles darüber hinaus muss von einer Führungskraft genehmigt werden.\n\nViele Grüße\nLisa Meier",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen geben Mitarbeitenden im Kundenservice das Recht, kleinere Reklamationen selbst und sofort zu lösen, statt jeden Fall an eine Führungskraft weiterzugeben. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der Meinung, dass ...').",
+              "Mindestens zwei gut ausgeführte Argumente für die eigene Position (z. B. Zeitersparnis, Mitarbeitermotivation, Kundenzufriedenheit).",
+              "Ein kurzer Hinweis auf einen Nachteil der abgelehnten Alternative (z. B. Risiko von Inkonsistenz).",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z. B. 'Einerseits ... andererseits', 'Hinzu kommt, dass ...', 'Allerdings muss man zugeben, dass ...')."
+            ],
+            "expected_answer": "Meiner Ansicht nach ist es deutlich sinnvoller, wenn Mitarbeitende im Kundenservice kleinere Reklamationen selbst und sofort lösen dürfen. Ich möchte diese Position mit zwei Hauptargumenten begründen. Erstens führt diese Handlungskompetenz zu einer enormen Zeitersparnis und steigert die Effizienz. Wenn ein Kunde mit einem kleinen Problem anruft, möchte er nicht tagelang auf eine Antwort warten, weil der Fall erst durch verschiedene Hierarchieebenen gehen muss. Eine sofortige Lösung, zum Beispiel ein kleiner Preisnachlass oder ein kostenloser Versand, hinterlässt einen viel professionelleren Eindruck. Zweitens wirkt sich diese Verantwortung positiv auf die Motivation der Angestellten aus. Sie fühlen sich ernst genommen und als vertrauenswürdige Experten, was ihre Arbeitszufriedenheit und damit auch die Servicequalität erhöht. Natürlich muss man zugeben, dass die zentrale Kontrolle durch eine Führungskraft ein gewisses Risiko von inkonsistenten Entscheidungen vermeidet. Allerdings überwiegen für mich die Vorteile der direkten Kundenorientierung und Flexibilität, da man für solche Fälle klare interne Richtlinien festlegen kann, um die Einheitlichkeit zu wahren.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

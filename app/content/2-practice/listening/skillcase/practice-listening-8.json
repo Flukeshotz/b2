@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-8",
+  "board": "custom",
+  "title": "Hörverstehen — Geschwister uneinig über das geerbte Haus",
+  "minutes": 9,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Geschwister uneinig über das geerbte Haus",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 9,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_8_erbschaft.mp3",
+        "duration_seconds": 51.8,
+        "voices": "katja+conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt die Schwester zu Beginn vor?",
+          "options": [
+            "Das Haus verkaufen.",
+            "Das Haus selbst bewohnen.",
+            "Das Haus sofort renovieren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Haus verkaufen."
+          },
+          "explanation": "\"Ich finde wirklich, wir sollten das Haus verkaufen.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Gegenvorschlag macht der Bruder zuerst?",
+          "options": [
+            "Das Haus vermieten statt verkaufen.",
+            "Das Haus an einen Nachbarn verschenken.",
+            "Das Haus sofort abreißen lassen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Haus vermieten statt verkaufen."
+          },
+          "explanation": "\"Ich könnte mir vorstellen, es zu vermieten, statt es komplett zu verkaufen.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Bruder räumt ein, dass das Argument der Schwester zum Verwaltungsaufwand berechtigt ist.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Zugegeben, das ist ein berechtigter Punkt.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worauf einigen sich die Geschwister am Ende des Gesprächs?",
+          "options": [
+            "Das Thema komplett zu vertagen.",
+            "Das Haus sofort zu verkaufen.",
+            "Angebote von Hausverwaltungen einzuholen, bevor sie entscheiden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Angebote von Hausverwaltungen einzuholen, bevor sie entscheiden."
+          },
+          "explanation": "\"Lass uns beide mal Angebote von Hausverwaltungen einholen, bevor wir entscheiden.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "exp_handynutzung_read",
+  "source_id": "src_handynutzung",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Handynutzung während der Arbeitszeit",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: ein neues Handyverbot am Arbeitsplatz.",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_handynutzung"
+    },
+    {
+      "q": "Wer erklärt, was die Regel ursprünglich ausgelöst hat?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Isabel_Stationsleitung nennt den konkreten Auslöser — einen einzelnen, wiederholten Vorfall — und erklärt damit die Herkunft der Regel. Die anderen äußern jeweils ihre Reaktion auf die Regel, nicht deren Ursprung.",
+      "options": [
+        "petra",
+        "daniel",
+        "isabel",
+        "felix"
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer weist auf eine mögliche Ungleichbehandlung zwischen zwei Gruppen hin?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Felix_B beobachtet, dass Führungskräfte ihr Handy weiterhin sichtbar haben dürfen, während der Rest des Teams es wegpacken muss — und benennt das ausdrücklich als mögliche Ungleichbehandlung.",
+      "options": [
+        "petra",
+        "daniel",
+        "isabel",
+        "felix"
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Felix mit dieser Frage vor allem?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Mit zweierlei Maß gemessen, oder sehe ich das falsch?",
+      "answer": 1,
+      "explain": "Die Frageform „oder sehe ich das falsch?“ hält ausdrücklich offen, dass es eine andere Erklärung geben könnte. Das unterscheidet die Aussage von einer festen Behauptung.",
+      "options": [
+        "Er behauptet mit Sicherheit, dass die Führungskräfte unfair handeln.",
+        "Er benennt eine Beobachtung als offene Frage, statt sie als sichere Tatsache zu präsentieren.",
+        "Er entschuldigt sich für seine vorherige Beobachtung."
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Satz zu Felix' Beobachtung über die Führungskräfte davor?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "Unterstellen will ich niemandem etwas, es ist mir nur aufgefallen.",
+      "answer": 1,
+      "explain": "Der Satz lässt die Beobachtung selbst stehen, schließt aber ausdrücklich aus, dass damit eine Anschuldigung gemeint ist. Das macht den Beitrag sachlicher, ohne den Punkt fallen zu lassen.",
+      "options": [
+        "Er verstärkt den Vorwurf gegen die Führungskräfte.",
+        "Er trennt die Beobachtung ausdrücklich von einer Unterstellung böser Absicht.",
+        "Er widerruft die Beobachtung vollständig.",
+        "Er wiederholt die Beobachtung mit anderen Worten."
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "structure"
+    },
+    {
+      "q": "Isabel erkennt an, dass die Regel „als Misstrauen“ angekommen ist, auch wenn sie nicht so gemeint war. Was folgt daraus für ihre eigene Position?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Sie sagt ausdrücklich „das kann ich nachvollziehen“ — sie nimmt die Wirkung ernst, ohne in diesem Beitrag anzukündigen, die Regel zu ändern. Beides ist möglich: Verständnis zeigen und trotzdem bei der Entscheidung bleiben.",
+      "options": [
+        "Dass sie die Beschwerden für unberechtigt hält.",
+        "Dass sie die Wirkung der Regel ernst nimmt, auch ohne die Regel selbst zurückzunehmen.",
+        "Dass sie die Regel sofort wieder abschaffen will."
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Petra L. das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht das Verbot an sich — mich stört, dass es nur für einen Teil des Teams gilt.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine grundsätzliche Kritik am Verbot. Am Ende zeigt sich: sie hätte mit einem Verbot für alle kein Problem — ihr Punkt ist Felix' Beobachtung zur Ungleichbehandlung. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin des Verbots. Das ist sie nicht.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Beschwerde übertrieben war.",
+        "Um klarzustellen, dass ihr eigentliches Problem die Ungleichbehandlung ist, nicht das Verbot selbst.",
+        "Um Daniel_R vorzuwerfen, dass er zu nachsichtig ist.",
+        "Um vorzuschlagen, das Verbot ganz aufzuheben."
+      ],
+      "sourceId": "src_handynutzung",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:21:24.931Z",
+  "updated_at": "2026-09-16T07:21:24.931Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

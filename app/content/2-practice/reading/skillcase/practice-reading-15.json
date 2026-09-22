@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-15",
+  "board": "custom",
+  "title": "Leseverstehen — Sollte das Duzen im Büro zur Pflicht werden?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Sollte das Duzen im Büro zur Pflicht werden?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Immer mehr Unternehmen führen eine unternehmensweite Duz-Kultur ein — nicht als Angebot, sondern als verbindliche Regel für alle, vom Praktikanten bis zur Geschäftsführung. Befürworter sehen darin ein Signal für flache Hierarchien und offene Kommunikation. Kritiker warnen, dass eine erzwungene Nähe genau das Gegenteil bewirken kann.\n\nEin Argument der Befürworter lautet: Das Sie schafft künstliche Distanz, die in modernen, projektbasierten Teams eher hinderlich als hilfreich ist. Wer seinen Vorgesetzten duzt, so die Annahme, traut sich eher, Kritik zu äußern oder eigene Ideen einzubringen.\n\nDiese Annahme ist allerdings nicht unumstritten. Eine Befragung unter Angestellten mehrerer Branchen ergab, dass sich fast ein Drittel der Befragten mit einer erzwungenen Duz-Regel unwohl fühlte — insbesondere ältere Mitarbeitende und solche aus Kulturkreisen, in denen die Anrede stärker mit Respekt verknüpft ist. Für sie fühlte sich das verordnete Duzen nicht wie Nähe an, sondern wie ein Verlust an professioneller Distanz, die sie bewusst schätzten.\n\nAm Ende bleibt die Frage, ob eine Unternehmenskultur überhaupt per Anrede verordnet werden kann — oder ob echte Offenheit sich eher an dem zeigt, WIE miteinander gesprochen wird, nicht WOMIT man sich anspricht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut Text das Hauptargument der Befürworter einer verbindlichen Duz-Kultur?",
+          "options": [
+            "Das Sie schafft künstliche Distanz, die die Kommunikation erschwert.",
+            "Das Duzen spart Zeit in E-Mails.",
+            "Das Duzen ist gesetzlich vorgeschrieben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Sie schafft künstliche Distanz, die die Kommunikation erschwert."
+          },
+          "explanation": "\"Das Sie schafft künstliche Distanz, die … eher hinderlich als hilfreich ist.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut der zitierten Befragung fühlten sich alle Befragten mit einer erzwungenen Duz-Regel wohl.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"fast ein Drittel der Befragten [fühlte] sich … unwohl\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer fühlte sich laut Befragung besonders unwohl mit der verordneten Duz-Regel?",
+          "options": [
+            "Nur Mitarbeitende in Führungspositionen.",
+            "Ausschließlich jüngere Mitarbeitende.",
+            "Insbesondere ältere Mitarbeitende und Personen aus bestimmten Kulturkreisen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Insbesondere ältere Mitarbeitende und Personen aus bestimmten Kulturkreisen."
+          },
+          "explanation": "\"insbesondere ältere Mitarbeitende und solche aus Kulturkreisen, in denen die Anrede stärker mit Respekt verknüpft ist\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche abschließende Frage wirft der Text auf?",
+          "options": [
+            "Ob ältere Mitarbeitende generell gekündigt werden sollten.",
+            "Ob das Duzen gesetzlich verboten werden sollte.",
+            "Ob eine Unternehmenskultur überhaupt per Anrede verordnet werden kann."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ob eine Unternehmenskultur überhaupt per Anrede verordnet werden kann."
+          },
+          "explanation": "Der Schlusssatz stellt genau diese offene Frage, ohne sie zu beantworten."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "telc-b2-lesen-t3-s1",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 1",
+  "minutes": 18,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 3,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "instruction": "Finden Sie für jede Situation die passende Anzeige.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Nina kann sich über ein halbes Jahr regelmäßig für jüngere Schulkinder engagieren, die sicherer mit Büchern werden sollen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nina kann sich über ein halbes Jahr regelmäßig für jüngere Schulkinder engagieren, die sicherer mit Büchern werden sollen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "a"
+          },
+          "explanation": "Die richtige Antwort ist a) \"a\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Paul möchte ein kaputtes Fahrrad kostenlos prüfen lassen und würde Ersatzteile selbst bezahlen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "b"
+          },
+          "explanation": "Die richtige Antwort ist b) \"b\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein 17-Jähriger will hinter den Kulissen kleiner Auftritte Ton und Beleuchtung sicher aufbauen lernen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "c"
+          },
+          "explanation": "Die richtige Antwort ist c) \"c\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Samira sucht eine offene Runde zum Reden in deutscher Sprache; feste Kursstunden oder Aufsicht für Kinder sind unwichtig.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "d"
+          },
+          "explanation": "Die richtige Antwort ist d) \"d\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine Kollegin hat Ableger übrig und möchte wenige davon gegen andere grüne Mitbringsel eintauschen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 4,
+            "text": "e"
+          },
+          "explanation": "Die richtige Antwort ist e) \"e\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

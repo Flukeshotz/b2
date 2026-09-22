@@ -1,0 +1,85 @@
+{
+  "id": "practice-reading-30",
+  "board": "custom",
+  "title": "Leseverstehen — Hausmitteilung: Vertretungsregelung während der Urlaubszeit",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Hausmitteilung: Vertretungsregelung während der Urlaubszeit",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "An alle Abteilungsleitungen\n\nMit Blick auf die bevorstehende Hauptreisezeit bitten wir, die Vertretungsregelungen bis spätestens zwei Wochen vor Urlaubsbeginn der jeweiligen Person schriftlich im Vertretungsplan zu hinterlegen.\n\nWichtig: Eine Vertretung darf nur benannt werden, wenn die vertretende Person die dafür nötigen Systemzugänge und Kenntnisse tatsächlich besitzt — eine rein formale Benennung ohne echte Handlungsfähigkeit hat sich in der Vergangenheit mehrfach als Problem erwiesen, etwa wenn dringende Freigaben tagelang liegen blieben.\n\nSollte in einer Abteilung keine geeignete interne Vertretung verfügbar sein, ist dies der Geschäftsleitung rechtzeitig zu melden, damit gegebenenfalls eine abteilungsübergreifende Lösung organisiert werden kann. \"Rechtzeitig\" bedeutet in diesem Zusammenhang mindestens vier Wochen vor dem betreffenden Urlaubszeitraum.\n\nFür Rückfragen zur Vertretungsplanung steht die Personalabteilung zur Verfügung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bis wann muss die Vertretungsregelung im Vertretungsplan hinterlegt werden?",
+          "options": [
+            "Spätestens zwei Wochen vor Urlaubsbeginn.",
+            "Spätestens vier Wochen nach Urlaubsende.",
+            "Erst am ersten Urlaubstag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Spätestens zwei Wochen vor Urlaubsbeginn."
+          },
+          "explanation": "\"bis spätestens zwei Wochen vor Urlaubsbeginn … schriftlich … hinterlegen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Text reicht eine rein formale Benennung einer Vertretung aus, auch ohne passende Systemzugänge.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"eine rein formale Benennung ohne echte Handlungsfähigkeit hat sich … mehrfach als Problem erwiesen\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was muss eine Abteilung tun, wenn keine geeignete interne Vertretung verfügbar ist?",
+          "options": [
+            "Nichts unternehmen, das Problem löst sich meist von selbst.",
+            "Dies der Geschäftsleitung mindestens vier Wochen vorher melden.",
+            "Den Urlaub der betroffenen Person automatisch streichen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Dies der Geschäftsleitung mindestens vier Wochen vorher melden."
+          },
+          "explanation": "\"ist dies der Geschäftsleitung rechtzeitig zu melden … 'Rechtzeitig' bedeutet … mindestens vier Wochen vor dem … Urlaubszeitraum.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-21",
+  "board": "custom",
+  "title": "Hörverstehen — Anruf beim Kundenservice wegen einer Rechnung",
+  "minutes": 7,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Anruf beim Kundenservice wegen einer Rechnung",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_21_kundenservice.mp3",
+        "duration_seconds": 41.5,
+        "voices": "jan+katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worüber beschwert sich der Kunde?",
+          "options": [
+            "Eine doppelte Zahlung.",
+            "Eine fehlende Rechnung.",
+            "Eine Rechnung, die höher ist als vertraglich vereinbart."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Eine Rechnung, die höher ist als vertraglich vereinbart."
+          },
+          "explanation": "\"ich habe eine Rechnung über achtzig Euro erhalten, aber laut meinem Vertrag sollte der monatliche Betrag nur fünfundvierzig Euro sein.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut Kundenservice der Grund für die höhere Rechnung?",
+          "options": [
+            "Eine Gebühr für ein zusätzlich aktiviertes Paket.",
+            "Eine allgemeine Preiserhöhung.",
+            "Ein Rechenfehler des Systems."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Eine Gebühr für ein zusätzlich aktiviertes Paket."
+          },
+          "explanation": "\"eine einmalige Gebühr für ein Zusatzpaket berechnet wurde, das vor drei Wochen aktiviert wurde.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie löst der Kundenservice das Problem?",
+          "options": [
+            "Das Paket wird deaktiviert und die Gebühr storniert.",
+            "Der Kunde muss die volle Summe trotzdem zahlen.",
+            "Der Vertrag wird komplett gekündigt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Paket wird deaktiviert und die Gebühr storniert."
+          },
+          "explanation": "\"Ich kann das Paket rückwirkend deaktivieren und die zusätzliche Gebühr … stornieren.\""
+        }
+      ]
+    }
+  ]
+}

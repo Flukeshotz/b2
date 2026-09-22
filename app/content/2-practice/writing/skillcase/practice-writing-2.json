@@ -1,0 +1,67 @@
+{
+  "id": "practice-writing-2",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 2 — Vergleichen und abwägen",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Manche Kliniken bieten flexible Arbeitszeiten an, andere feste Schichtpläne. Vergleichen Sie kurz die Vor- und Nachteile beider Modelle und sagen Sie, welches Sie persönlich bevorzugen würden.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie je einen Vorteil und einen Nachteil pro Modell.",
+              "Nutzen Sie Vergleichskonnektoren (einerseits … andererseits, im Gegensatz dazu).",
+              "Formulieren Sie am Ende Ihre eigene Präferenz."
+            ],
+            "min_words": 90,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie je einen Vorteil und einen Nachteil pro Modell.",
+              "Nutzen Sie Vergleichskonnektoren (einerseits … andererseits, im Gegensatz dazu).",
+              "Formulieren Sie am Ende Ihre eigene Präferenz."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Struktur: Einleitung, zwei Absätze zu den Modellen mit je einem Vor- und Nachteil, Schluss mit eigener Präferenz.",
+              "Vergleichskonnektoren verwenden: „einerseits … andererseits“, „im Gegensatz dazu“, „während“.",
+              "Konkrete Beispiele nennen: z. B. bessere Vereinbarkeit von Familie und Beruf vs. unregelmäßige Arbeitszeiten.",
+              "Eigene Meinung klar und begründet formulieren, z. B. „Ich persönlich würde … bevorzugen, weil …“."
+            ],
+            "expected_answer": "In vielen Kliniken gibt es unterschiedliche Arbeitszeitmodelle, die jeweils Vor- und Nachteile haben. Einerseits bieten flexible Arbeitszeiten den großen Vorteil, dass man Beruf und Privatleben besser vereinbaren kann, besonders wenn man Kinder betreuen muss. Andererseits kann diese Flexibilität dazu führen, dass die Arbeitszeiten unregelmäßig sind und man oft kurzfristig einspringen muss, was die Planbarkeit des Alltags erschwert. Im Gegensatz dazu ermöglichen feste Schichtpläne eine klare Struktur und langfristige Planung, was für viele Menschen weniger Stress bedeutet. Allerdings sind feste Schichten oft starr und lassen kaum Raum für persönliche Termine oder familiäre Verpflichtungen. Ich persönlich würde flexible Arbeitszeiten bevorzugen, weil mir die Freiheit, meine Arbeit selbst zu organisieren, wichtiger ist als ein strikter Rhythmus.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

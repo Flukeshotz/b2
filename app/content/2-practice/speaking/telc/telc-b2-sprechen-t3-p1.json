@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p1",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #1",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "In einer kleinen Firma beginnen sechs neue Kolleginnen und Kollegen. Sie sollen einen halben Begrüßungstag planen. Der normale Betrieb darf kaum gestört werden, der Besprechungsraum ist nur vormittags frei und das Budget für Snacks und Material ist begrenzt.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nBegrüßungstag für neue Kolleginnen und Kollegen",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Begrüßung mit klarem Zeitplan vorschlagen (z. B. 9–12 Uhr, da Raum nur vormittags frei).",
+              "Konkrete, kostengünstige Programmpunkte nennen (z. B. Vorstellungsrunde, kurzer Rundgang, Kaffee & belegte Brötchen).",
+              "Vorschlag zur Budgetschonung machen (z. B. jeder bringt etwas mit, nur Getränke werden gekauft).",
+              "Partner/in aktiv einbeziehen (Fragen stellen, auf Ideen reagieren, Alternativen diskutieren).",
+              "Typische Redemittel nutzen: „Ich schlage vor, dass …“, „Wie wäre es, wenn …?“, „Einigen wir uns darauf, dass …“"
+            ],
+            "expected_answer": "Also, ich habe mir schon ein paar Gedanken zu dem Begrüßungstag gemacht, und ich würde dir gerne meine Vorschläge vorstellen. Die größte Herausforderung ist ja, dass der normale Betrieb kaum gestört werden darf und der Besprechungsraum nur am Vormittag frei ist. Ich schlage deshalb vor, dass wir die ganze Veranstaltung von 9 bis 12 Uhr ansetzen, also wirklich nur einen kompakten halben Tag. Was hältst du davon? Dann könnten wir den Raum optimal nutzen und ab Mittag läuft alles wieder normal. Mein erster Gedanke zum Ablauf war, dass wir mit einer lockeren Vorstellungsrunde starten, vielleicht bei Kaffee und Tee. Jeder der sechs Neuen könnte sich kurz vorstellen, und die Teamleiter sind natürlich auch dabei. Danach, so gegen halb zehn, würde ich eine kurze Firmenpräsentation vorschlagen, aber wirklich nur die wichtigsten Punkte: Wer wir sind, was wir machen und die Unternehmenswerte. Das sollte nicht länger als 20 Minuten dauern. Anschließend könnten wir einen kleinen Rundgang durch die wichtigsten Abteilungen machen, damit die neuen Kollegen die Räumlichkeiten und die direkten Ansprechpartner schon mal sehen. Jetzt zum heiklen Punkt, dem Budget. Da es ja begrenzt ist, dachte ich, wir könnten die Kosten für das Catering niedrig halten, indem wir nicht alles extern bestellen. Wie wäre es, wenn wir nur die Getränke und vielleicht belegte Brötchen aus der Bäckerei kaufen und dann jeder aus dem bestehenden Team noch etwas Kleines mitbringt, zum Beispiel einen selbstgebackenen Kuchen oder Obst? Das schafft auch gleich eine persönliche Atmosphäre. Für die Materialien brauchen wir ja nicht viel, vielleicht ein paar ausgedruckte Handouts mit den wichtigsten Infos und einen kleinen Willkommensgruß auf dem Platz. Ich finde, das ist ein realistischer Plan, der die neuen Kollegen herzlich willkommen heißt, ohne den Betrieb groß zu stören oder das Budget zu sprengen. Was meinst du dazu? Hast du noch andere Ideen oder sollen wir das so gemeinsam festhalten?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t2-p4",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #4",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie unterstützen in Ihrem Betrieb die Planung eines kleinen Gesundheitstags. Ihre Kollegin hat um Vorschläge für den Ablauf gebeten. Schreiben Sie eine Nachricht an die Organisatorin, Frau Keller.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie unterstützen in Ihrem Betrieb die Planung eines kleinen Gesundheitstags. Ihre Kollegin hat um Vorschläge für den Ablauf gebeten. Schreiben Sie eine Nachricht an die Organisatorin, Frau Keller.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie unterstützen in Ihrem Betrieb die Planung eines kleinen Gesundheitstags. Ihre Kollegin hat um Vorschläge für den Ablauf gebeten. Schreiben Sie eine Nachricht an die Organisatorin, Frau Keller.",
+            "guidance": [
+              "Fragen Sie, welche Aufgaben noch offen sind.",
+              "Machen Sie einen Vorschlag für den Ablauf.",
+              "Bieten Sie Ihre Hilfe bei der Vorbereitung an.",
+              "Erklären Sie kurz, warum Ihr Vorschlag sinnvoll ist."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Fragen Sie, welche Aufgaben noch offen sind.",
+              "Machen Sie einen Vorschlag für den Ablauf.",
+              "Bieten Sie Ihre Hilfe bei der Vorbereitung an.",
+              "Erklären Sie kurz, warum Ihr Vorschlag sinnvoll ist."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge klar und ausführlich behandeln (z. B. zuerst nach offenen Aufgaben fragen, dann Vorschlag machen und begründen, zuletzt Hilfe anbieten).",
+              "Einen konkreten, nachvollziehbaren Ablaufvorschlag nennen (z. B. Zeitplan, Aktivität) und diesen kurz, aber überzeugend begründen.",
+              "Passende Redemittel für B2 verwenden: höfliche Fragen („Könnten Sie mir sagen, …?“), Vorschläge („Ich würde vorschlagen, …“), Begründungen („Dies hätte den Vorteil, dass …“) und Angebote („Gerne übernehme ich …“).",
+              "Korrekte Briefform mit Anrede, Einleitung, logisch verknüpften Absätzen und passendem Gruß einhalten.",
+              "Natürlicher, flüssiger Stil mit Nebensätzen, Konnektoren (da, deshalb, sodass) und treffendem Wortschatz (z. B. ‚Ablauf‘, ‚Workshop‘, ‚Entspannung‘, ‚aktive Pause‘)."
+            ],
+            "expected_answer": "Liebe Frau Keller,\n\nvielen Dank für Ihre Anfrage. Bevor ich meinen Vorschlag ausführe, würde mich interessieren, welche Aufgaben bei der Planung des Gesundheitstags noch offen sind. Könnten Sie mir dazu kurz Bescheid geben?\n\nFür den Ablauf schlage ich vor, den Tag mit einem gemeinsamen, gesunden Frühstück zu beginnen, da dies eine einladende Atmosphäre schafft und alle Teilnehmer motiviert. Anschließend könnten zwei parallele Workshops stattfinden, zum Beispiel „Rückenschule am Arbeitsplatz“ und „Stressbewältigung durch Achtsamkeit“. Dies hätte den Vorteil, dass die Kollegen je nach Interesse wählen können. Nach einer kurzen Pause wäre ein aktiver Teil, etwa ein geführter Spaziergang oder eine Yoga-Einheit, sinnvoll, um das Gelernte direkt in Bewegung umzusetzen. So wird der Tag abwechslungsreich und bietet sowohl Wissensvermittlung als auch praktische Entspannung.\n\nGerne unterstütze ich Sie bei der weiteren Vorbereitung, beispielsweise könnte ich die Räumlichkeiten reservieren oder die Referenten kontaktieren. Sagen Sie einfach Bescheid, wobei ich helfen kann.\n\nHerzliche Grüße\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

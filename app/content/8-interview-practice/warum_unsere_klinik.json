@@ -1,0 +1,11 @@
+{
+  "id": "warum_unsere_klinik",
+  "de": "Warum haben Sie sich gerade bei uns beworben?",
+  "category": "motivation",
+  "sourced": true,
+  "assesses": "Whether you looked them up. Employers expect you to know their focus areas.",
+  "trap": "An answer that would fit any hospital.",
+  "strong": "Naming something specific — a department, a care philosophy, a project.",
+  "followUp": "Was wissen Sie über unsere Station?",
+  "model_answer": null
+}

@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-6",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 6 — falsche Freunde",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich habe das Rezept bekommen.\" — \"das Rezept\" bedeutet hier:",
+          "options": [
+            "die ärztliche Verordnung für ein Medikament",
+            "beides ist im Deutschen dasselbe Wort",
+            "eine Kochanleitung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "beides ist im Deutschen dasselbe Wort"
+          },
+          "explanation": "\"Rezept\" ist im Deutschen tatsächlich ein Wort für beides — Kontext entscheidet, welche Bedeutung gemeint ist."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"sensibel\" vs. \"sensitiv\" — im Alltag beschreibt man einen einfühlsamen Menschen meist als:",
+          "options": [
+            "sensibel",
+            "sensitiv",
+            "beide sind hier gleich ungebräuchlich"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sensibel"
+          },
+          "explanation": "\"Sensibel\" ist das Alltagswort für einfühlsam/empfindsam; \"sensitiv\" wird eher in Fachkontexten (z.B. Messgeräte) verwendet."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich bin positiv überrascht.\" vs. \"Der Test ist positiv.\" — im medizinischen Kontext bedeutet \"positiv\":",
+          "options": [
+            "das Gegenteil von negativ im Sinne von schlecht",
+            "ein Nachweis wurde gefunden (kann eine schlechte Nachricht sein)",
+            "immer etwas Gutes"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ein Nachweis wurde gefunden (kann eine schlechte Nachricht sein)"
+          },
+          "explanation": "Im medizinischen Kontext heißt \"positiv\" oft \"nachgewiesen\", was klinisch schlecht sein kann — anders als die Alltagsbedeutung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"aktuell\" bedeutet im Deutschen:",
+          "options": [
+            "zurzeit, momentan",
+            "tatsächlich (wie engl. \"actually\")",
+            "wichtig"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "zurzeit, momentan"
+          },
+          "explanation": "\"Aktuell\" heißt \"zurzeit gültig/gegenwärtig\", nicht \"tatsächlich\" (falscher Freund zu engl. \"actually\")."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"eventuell\" bedeutet im Deutschen:",
+          "options": [
+            "am Ende, letztendlich (wie engl. \"eventually\")",
+            "möglicherweise",
+            "sicher"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "möglicherweise"
+          },
+          "explanation": "\"Eventuell\" heißt \"vielleicht\", nicht \"letztendlich\" — klassischer falscher Freund zu engl. \"eventually\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich kontrolliere den Blutdruck.\" — \"kontrollieren\" bedeutet hier:",
+          "options": [
+            "verbieten",
+            "messen/überprüfen",
+            "beherrschen/steuern"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "messen/überprüfen"
+          },
+          "explanation": "\"Kontrollieren\" heißt im Deutschen meist \"überprüfen\", nicht \"beherrschen\" wie im Englischen \"to control\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"das Gymnasium\" bezeichnet im Deutschen:",
+          "options": [
+            "einen Sportraum",
+            "eine weiterführende Schule",
+            "eine Sporthalle"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "eine weiterführende Schule"
+          },
+          "explanation": "\"Gymnasium\" ist ein Schultyp, nicht ein Sportraum wie engl. \"gymnasium\" — falscher Freund."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"die Konsequenz\" bedeutet im Deutschen meist:",
+          "options": [
+            "die Folge einer Handlung",
+            "der Beweis",
+            "die Beharrlichkeit (wie engl. \"consequence\" ≠ \"consistency\")"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Folge einer Handlung"
+          },
+          "explanation": "\"Konsequenz\" heißt \"Folge\"; wer \"konsequent\" ist, ist beharrlich — zwei verschiedene Wörter, die man nicht verwechseln sollte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"das Formular ausfüllen\" — \"ausfüllen\" bedeutet hier:",
+          "options": [
+            "das Formular unterschreiben",
+            "das Formular vernichten",
+            "die geforderten Angaben eintragen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die geforderten Angaben eintragen"
+          },
+          "explanation": "\"Ausfüllen\" heißt, die Felder eines Dokuments mit Angaben zu versehen."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Das ist mir sympathisch.\" — \"sympathisch\" bedeutet:",
+          "options": [
+            "ich habe Mitleid (wie engl. \"sympathetic\")",
+            "ich finde die Person/Sache angenehm",
+            "ich stimme zu"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ich finde die Person/Sache angenehm"
+          },
+          "explanation": "\"Sympathisch\" heißt \"angenehm/liebenswürdig\", nicht \"mitfühlend\" wie engl. \"sympathetic\" — falscher Freund."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich bin irritiert.\" bedeutet im Deutschen meist:",
+          "options": [
+            "ich bin verwirrt/leicht gestört",
+            "ich bin krank",
+            "ich bin wütend (wie engl. \"irritated\")"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "ich bin verwirrt/leicht gestört"
+          },
+          "explanation": "\"Irritiert\" heißt im Deutschen eher \"verwirrt/befremdet\", während engl. \"irritated\" stärker \"verärgert\" bedeutet."
+        }
+      ]
+    }
+  ]
+}

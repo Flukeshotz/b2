@@ -1,0 +1,34 @@
+{
+  "id": "b2_homeoffice_write",
+  "order_index": 57,
+  "icon": "✍️",
+  "title": "Schreiben, überarbeiten, vergleichen",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Homeoffice: zwei Tage im Büro — Pflicht oder Unsinn?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Schreiben, überarbeiten, vergleichen",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Jetzt Sie. Sie schreiben einen eigenen Beitrag in denselben Thread.",
+            "Danach sagen wir Ihnen EINE Sache, die ihn stärker machen würde — und Sie schreiben ihn noch einmal."
+          ]
+        },
+        {
+          "t": "write",
+          "taskId": "g04_homeoffice_thread",
+          "sourceId": "src_homeoffice",
+          "experienceId": "exp_homeoffice_write"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

@@ -1,0 +1,11 @@
+{
+  "id": "notfall",
+  "de": "Wie gehen Sie mit einem Notfall um?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you work to a standard and stay calm — both, not one.",
+  "trap": "Improvising. They want to hear a procedure.",
+  "strong": "A named sequence, plus who you call and when.",
+  "followUp": "Und wenn die Ärztin nicht erreichbar ist?",
+  "model_answer": null
+}

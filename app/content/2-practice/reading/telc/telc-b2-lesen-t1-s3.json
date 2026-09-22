@@ -1,0 +1,176 @@
+{
+  "id": "telc-b2-lesen-t1-s3",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 1 — Zuordnung von Überschriften, Satz 3",
+  "minutes": 18,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 1 — Zuordnung von Überschriften",
+      "instruction": "Lesen Sie die Texte und wählen Sie die passende Überschrift.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Eine Nachricht über angebliche Gebühren einer Paketfirma wirkt auf den ersten Blick glaubwürdig: Logo, Sendungsnummer und ein Link zur Zahlung. Gerade weil solche Mitteilungen alltäglich geworden sind, klicken viele Menschen schnell. Verbraucherzentralen beobachten, dass Betrugsversuche seltener durch schlechte Sprache auffallen als früher. Sie imitieren echte Abläufe, nutzen Namen bekannter Dienste und erzeugen leichten Zeitdruck. Einige Banken schicken deshalb keine allgemeinen Warnplakate mehr, sondern kurze Übungen in ihren Apps: Nutzer sollen echte und falsche Nachrichten vergleichen. Dabei zeigt sich, dass Misstrauen allein nicht reicht. Wer jede digitale Nachricht für gefährlich hält, verpasst auch wichtige Informationen. Sicherer wird man durch Gewohnheiten: Absender prüfen, Links nicht aus der Nachricht öffnen und bei Unsicherheit den Dienst direkt aufrufen. Vertrauen im Netz muss also immer wieder aktiv hergestellt werden. Die Übungen zeigen zudem, dass Sicherheit nicht allein eine technische Frage ist. Auch Routinen, Geduld und die Bereitschaft, einen vertrauten Ablauf kurz zu unterbrechen, gehören dazu. Die Übungen werden regelmäßig aktualisiert, weil Betrüger ihre Methoden schnell verändern. Wer einmal gelernt hat, nur auf Rechtschreibfehler zu achten, ist heute schlechter geschützt. Entscheidend ist deshalb nicht ein einzelner Warnhinweis, sondern die Fähigkeit, Abläufe zu hinterfragen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine Nachricht über angebliche Gebühren einer Paketfirma wirkt auf den ersten Blick glaubwürdig: Logo, Sendungsnummer und ein Link zur Zahlung. Gerade weil solche Mitteilungen alltäglich geworden sind...",
+          "options": [
+            "A: Glaubwürdigkeit braucht ständige Prüfung",
+            "B: Mehr Sicherheit durch bessere Zugangsdaten",
+            "C: Politische Diskussionen in sozialen Netzwerken",
+            "D: Digitale Hilfe braucht analoge Anlaufstellen",
+            "E: Verwaltung zwischen Online-Formular und Schalter",
+            "F: Datenschutz wird zur Frage des Alltagskomforts",
+            "G: Beratung beim Einkaufen trotz digitaler Angebote",
+            "H: Algorithmen sortieren mehr als nur Nachrichten",
+            "I: Computerprogramme als Autoren im Literaturbetrieb",
+            "J: Nachrichten brauchen Begegnung vor der Haustür"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Glaubwürdigkeit braucht ständige Prüfung"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Glaubwürdigkeit braucht ständige Prüfung\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer in einer Musik-App ein Lied hört, bekommt sofort weitere Vorschläge. Ähnliche Systeme entscheiden aber längst auch darüber, welche Wohnungen in Portalen zuerst erscheinen oder welche Stellenanzeig...",
+          "options": [
+            "A: Glaubwürdigkeit braucht ständige Prüfung",
+            "B: Mehr Sicherheit durch bessere Zugangsdaten",
+            "C: Politische Diskussionen in sozialen Netzwerken",
+            "D: Digitale Hilfe braucht analoge Anlaufstellen",
+            "E: Verwaltung zwischen Online-Formular und Schalter",
+            "F: Datenschutz wird zur Frage des Alltagskomforts",
+            "G: Beratung beim Einkaufen trotz digitaler Angebote",
+            "H: Algorithmen sortieren mehr als nur Nachrichten",
+            "I: Computerprogramme als Autoren im Literaturbetrieb",
+            "J: Nachrichten brauchen Begegnung vor der Haustür"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Mehr Sicherheit durch bessere Zugangsdaten"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Mehr Sicherheit durch bessere Zugangsdaten\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Viele Formulare können inzwischen online ausgefüllt werden. Für Menschen mit wenig digitaler Erfahrung ist das aber nicht automatisch einfacher. In einer Kreisstadt wurde deshalb ein „Digitalpunkt“ in...",
+          "options": [
+            "A: Glaubwürdigkeit braucht ständige Prüfung",
+            "B: Mehr Sicherheit durch bessere Zugangsdaten",
+            "C: Politische Diskussionen in sozialen Netzwerken",
+            "D: Digitale Hilfe braucht analoge Anlaufstellen",
+            "E: Verwaltung zwischen Online-Formular und Schalter",
+            "F: Datenschutz wird zur Frage des Alltagskomforts",
+            "G: Beratung beim Einkaufen trotz digitaler Angebote",
+            "H: Algorithmen sortieren mehr als nur Nachrichten",
+            "I: Computerprogramme als Autoren im Literaturbetrieb",
+            "J: Nachrichten brauchen Begegnung vor der Haustür"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Politische Diskussionen in sozialen Netzwerken"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Politische Diskussionen in sozialen Netzwerken\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine Fitness-App zählt Schritte, erinnert ans Trinken und vergleicht den Schlaf mit dem Durchschnitt anderer Nutzer. Viele Menschen empfinden solche Hinweise als motivierend. Gleichzeitig sammeln die ...",
+          "options": [
+            "A: Glaubwürdigkeit braucht ständige Prüfung",
+            "B: Mehr Sicherheit durch bessere Zugangsdaten",
+            "C: Politische Diskussionen in sozialen Netzwerken",
+            "D: Digitale Hilfe braucht analoge Anlaufstellen",
+            "E: Verwaltung zwischen Online-Formular und Schalter",
+            "F: Datenschutz wird zur Frage des Alltagskomforts",
+            "G: Beratung beim Einkaufen trotz digitaler Angebote",
+            "H: Algorithmen sortieren mehr als nur Nachrichten",
+            "I: Computerprogramme als Autoren im Literaturbetrieb",
+            "J: Nachrichten brauchen Begegnung vor der Haustür"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Digitale Hilfe braucht analoge Anlaufstellen"
+          },
+          "explanation": "Die richtige Antwort ist d) \"Digitale Hilfe braucht analoge Anlaufstellen\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine kleine Lokalzeitung hat ihre gedruckte Wochenendausgabe eingestellt, aber nicht aufgehört zu berichten. Stattdessen verschickt sie morgens einen kurzen Nachrichtenbrief per E-Mail und lädt einmal...",
+          "options": [
+            "A: Glaubwürdigkeit braucht ständige Prüfung",
+            "B: Mehr Sicherheit durch bessere Zugangsdaten",
+            "C: Politische Diskussionen in sozialen Netzwerken",
+            "D: Digitale Hilfe braucht analoge Anlaufstellen",
+            "E: Verwaltung zwischen Online-Formular und Schalter",
+            "F: Datenschutz wird zur Frage des Alltagskomforts",
+            "G: Beratung beim Einkaufen trotz digitaler Angebote",
+            "H: Algorithmen sortieren mehr als nur Nachrichten",
+            "I: Computerprogramme als Autoren im Literaturbetrieb",
+            "J: Nachrichten brauchen Begegnung vor der Haustür"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 4,
+            "text": "E: Verwaltung zwischen Online-Formular und Schalter"
+          },
+          "explanation": "Die richtige Antwort ist e) \"Verwaltung zwischen Online-Formular und Schalter\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

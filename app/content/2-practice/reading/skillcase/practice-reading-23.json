@@ -1,0 +1,127 @@
+{
+  "id": "practice-reading-23",
+  "board": "custom",
+  "title": "Leseverstehen — Kurzbericht: Kundenzufriedenheit im Vergleich",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Kurzbericht: Kundenzufriedenheit im Vergleich",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Die jährliche Kundenzufriedenheitsbefragung liegt in ausgewerteter Form vor. Die durchschnittliche Bewertung stieg von 3,9 auf 4,2 von 5 möglichen Punkten — der höchste Wert seit Beginn der Erhebung vor sechs Jahren.\n\nAm stärksten verbesserte sich die Bewertung der telefonischen Erreichbarkeit, die seit der Einführung eines Rückrufsystems im letzten Jahr von 3,4 auf 4,3 Punkte kletterte. Kundinnen und Kunden bewerteten insbesondere positiv, dass Rückrufe nun verlässlich innerhalb von zwei Stunden erfolgen, statt wie früher teilweise erst am nächsten Tag.\n\nEin Bereich bleibt jedoch zurück: Die Verständlichkeit schriftlicher Mitteilungen, etwa bei Vertragsänderungen, wurde nur mit 3,1 Punkten bewertet — nahezu unverändert gegenüber dem Vorjahr. In den offenen Kommentaren beklagten mehrere Befragte, dass wichtige Informationen \"in zu viel Fachsprache versteckt\" seien.\n\nDie Geschäftsführung hat daraufhin angekündigt, die Vorlagen für Kundenschreiben im kommenden Quartal gemeinsam mit einer externen Kommunikationsberaterin zu überarbeiten.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie hat sich die durchschnittliche Kundenzufriedenheit entwickelt?",
+          "options": [
+            "Sie stieg von 3,9 auf 4,2 Punkte — der höchste Wert seit sechs Jahren.",
+            "Sie blieb exakt unverändert.",
+            "Sie sank leicht im Vergleich zum Vorjahr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie stieg von 3,9 auf 4,2 Punkte — der höchste Wert seit sechs Jahren."
+          },
+          "explanation": "\"stieg von 3,9 auf 4,2 … der höchste Wert seit Beginn der Erhebung vor sechs Jahren\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Verständlichkeit schriftlicher Mitteilungen verbesserte sich im Vergleich zum Vorjahr deutlich.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"nahezu unverändert gegenüber dem Vorjahr\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was führte laut Bericht zur verbesserten Bewertung der telefonischen Erreichbarkeit?",
+          "options": [
+            "Die Einführung eines Rückrufsystems mit verlässlichen Rückrufzeiten.",
+            "Eine neue Telefonanlage mit kürzeren Wartemusiken.",
+            "Eine längere Erreichbarkeit der Hotline am Wochenende."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Einführung eines Rückrufsystems mit verlässlichen Rückrufzeiten."
+          },
+          "explanation": "\"seit der Einführung eines Rückrufsystems … Rückrufe nun verlässlich innerhalb von zwei Stunden erfolgen\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was kritisierten Befragte konkret an den schriftlichen Mitteilungen?",
+          "options": [
+            "Dass sie nur per Post und nicht per E-Mail ankommen.",
+            "Dass wichtige Informationen in zu viel Fachsprache versteckt seien.",
+            "Dass die Mitteilungen zu selten verschickt werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Dass wichtige Informationen in zu viel Fachsprache versteckt seien."
+          },
+          "explanation": "\"dass wichtige Informationen 'in zu viel Fachsprache versteckt' seien\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagiert die Geschäftsführung auf dieses Ergebnis?",
+          "options": [
+            "Sie kündigt eine Überarbeitung der Vorlagen mit externer Unterstützung an.",
+            "Sie ignoriert das Ergebnis, da der Gesamtwert gestiegen ist.",
+            "Sie streicht die schriftliche Kommunikation komplett."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie kündigt eine Überarbeitung der Vorlagen mit externer Unterstützung an."
+          },
+          "explanation": "\"hat … angekündigt, die Vorlagen … gemeinsam mit einer externen Kommunikationsberaterin zu überarbeiten\"."
+        }
+      ]
+    }
+  ]
+}

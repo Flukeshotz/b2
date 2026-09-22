@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t3-p15",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #15",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Ein Stadtteilzentrum möchte einen Fahrrad-Sicherheitsnachmittag anbieten. Familien, Pendler und Jugendliche sollen Tipps zu Licht, Helm, kleinen Reparaturen und sicheren Wegen bekommen. Der Hof ist groß, aber bei Regen gibt es nur einen kleinen Raum.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nFahrrad-Sicherheitsnachmittag im Stadtteil",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Begrüßung und positive Aufnahme des Themas, dann Überleitung zu einem konkreten ersten Vorschlag (z. B. Aufteilung in Stationen).",
+              "Realistische Organisation vorschlagen: Wetteralternativen (Pavillons, Raum für Theorie), Zeitplan (Nachmittag, 3-4 Stunden), Zielgruppen-Ansprache (Flyer, Social Media).",
+              "Aufgabenverteilung ansprechen: Wer könnte was übernehmen? (z. B. örtliche Fahrradwerkstatt, Polizei für Verkehrssicherheit, Ehrenamtliche für Kuchen/Café).",
+              "Typische Redemittel der Kooperation nutzen: 'Was hältst du davon, wenn...?', 'Wir könnten doch...', 'Am besten wäre es, wenn...', 'Hast du eine Idee, wie wir...?'."
+            ],
+            "expected_answer": "Also, ich finde die Idee mit dem Fahrrad-Sicherheitsnachmittag wirklich klasse, das ist ja ein Thema, das hier im Viertel viele betrifft. Ich habe mir schon ein paar Gedanken gemacht, wie wir das organisieren könnten. Was hältst du davon, wenn wir verschiedene Stationen auf dem Hof aufbauen? Zum Beispiel eine Ecke, wo man die Beleuchtung checken kann, eine für Helmberatung und vielleicht eine kleine Werkstatt für einfache Reparaturen, wie einen Platten flicken oder die Kette ölen. Da könnten wir doch den lokalen Fahrradladen fragen, ob sie jemanden schicken, der das ehrenamtlich macht. Das wäre eine echte Bereicherung.\n\nJetzt aber zum Knackpunkt: das Wetter. Der Hof ist toll, aber wenn es regnet, wird es mit dem kleinen Raum echt eng. Ich schlage vor, wir besorgen für alle Fälle zwei Pavillons, die sind schnell aufgebaut und gar nicht so teuer zu mieten. Den kleinen Innenraum könnten wir dann exklusiv für die Theorie nutzen, zum Beispiel für einen Kurzvortrag der Polizei über die gefährlichsten Stellen im Viertel und sichere Wege. Das wäre doch super, oder? Die Polizei kommt bestimmt gern für so eine Präventionsaktion.\n\nZeitlich würde ich einen Samstagnachmittag von 14 bis 17 Uhr vorschlagen, da haben Familien und Pendler am ehesten Zeit. Wir sollten das Ganze aber nicht zu steif planen, sondern eher als offenes Kommen und Gehen. So ein lockerer Rahmen kommt bei den Leuten besser an. Für die Jugendlichen könnten wir einen kleinen Wettbewerb machen, zum Beispiel wer am schnellsten einen Schlauch wechselt, das motiviert und macht Spaß.\n\nFür die Verpflegung frage ich mal im Nachbarschaftscafé an, ob sie einen Stand mit Kaffee und Kuchen machen wollen. Das schafft eine gemütliche Atmosphäre und lädt zum Verweilen ein. Hast du eine Idee, wie wir die Werbung am besten machen? Ich dachte an bunte Flyer in den Schulen und Kitas, und eine Ankündigung in der lokalen Facebook-Gruppe. Was meinst du? Lass uns doch mal eine konkrete Liste machen, wer was übernimmt, dann können wir nächste Woche mit der Planung richtig loslegen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

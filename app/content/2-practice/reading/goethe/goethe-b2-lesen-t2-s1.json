@@ -1,0 +1,194 @@
+{
+  "id": "goethe-b2-lesen-t2-s1",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 2 — Textrekonstruktion (Lücken im Text), Satz 1",
+  "minutes": 12,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 2 — Textrekonstruktion (Lücken im Text)",
+      "instruction": "Sie lesen in einer Zeitschrift einen Artikel über leisere Städte. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. Ärztinnen und Stadtplaner weisen darauf hin, dass dauernder Lärm Schlaf und Konzentration stören kann. Besonders betroffen sind Menschen, die an breiten Straßen wohnen oder nachts arbeiten und tagsüber Ruhe brauchen. Auch Kinder reagieren empfindlicher, wenn der Schulweg von ständigem Hupen oder Motorengeräuschen begleitet wird. [...10...] In mehreren Kommunen werden deshalb neue Konzepte getestet, die nicht nur den Verkehr betreffen, sondern auch Schulen, Innenhöfe und Einkaufsstraßen.\n\nEin Ansatz sind sogenannte Sommerstraßen. Für einige Wochen werden Parkplätze zu Spielflächen, Fahrradständern oder Sitzbereichen. Das Ziel ist nicht, Autos vollständig zu verbannen, sondern den Straßenraum anders zu nutzen. Für die Verwaltung sind solche Versuche praktisch, weil sie schnell eingerichtet und ebenso schnell verändert werden können. [...11...] Danach entscheiden Verwaltung und Anwohnerinnen, ob die Lösung dauerhaft bleiben kann oder ob sie nur in Ferienzeiten sinnvoll ist. Gerade diese Testphasen nehmen vielen Menschen die Sorge, dass sofort alles endgültig beschlossen wird. Außerdem liefern sie Daten darüber, wie sich Busse, Lieferdienste und Fußgänger tatsächlich verhalten. Solche Beobachtungen sind oft überzeugender als abstrakte Debatten im Rathaus.\n\nAuch ruhige Orte gewinnen an Bedeutung. Manche Bibliotheken öffnen abends ihre Innenhöfe, andere Städte stellen einfache Bänke in Nebenstraßen auf. Solche Plätze sind keine großen Parks, sondern kleine Unterbrechungen im dichten Alltag. [...12...] Wer erst lange danach suchen muss, nutzt sie im hektischen Alltag kaum. Deshalb werden solche Plätze inzwischen auf Stadtplänen markiert oder mit kleinen Schildern erklärt. Manche Städte verbinden sie sogar mit kurzen Fußwegen, damit ein ruhiger Ort nicht als isolierte Insel endet. So entsteht nicht nur weniger Lärm, sondern auch ein anderes Gefühl von Aufenthaltsqualität.\n\nBesonders schwierig bleibt der Wirtschaftsverkehr. Bäckereien, Pflegedienste und Handwerker können nicht einfach auf das Lastenrad umsteigen, auch wenn manche Wege damit möglich sind. Viele Betriebe weisen darauf hin, dass Lieferzeiten, Kühlung oder schwere Geräte berücksichtigt werden müssen. [...13...] In einigen Vierteln dürfen schwere Lieferwagen deshalb nur vormittags anfahren, während kleinere Fahrzeuge den ganzen Tag zugelassen sind. Für Geschäfte ist das ein Kompromiss, weil sie beliefert werden, die lautesten Fahrten aber planbarer werden.\n\nDigitale Anzeigen sollen zeigen, wann es auf einem Platz zu laut wird. Einige Cafés haben freiwillig leisere Musikzeiten eingeführt. Auch Veranstalter achten stärker darauf, wann Auf- und Abbau stattfinden. [...14...] Wenn Gäste das Gefühl haben, bevormundet zu werden, entstehen schnell neue Konflikte. Viele Projekte setzen deshalb zuerst auf Gespräche: Wer versteht, warum eine Regel eingeführt wird, hält sie eher ein. Oft entstehen dabei auch praktische Hinweise, etwa zu schlecht platzierten Schildern oder Lieferzeiten, die in der Planung übersehen wurden.\n\nDie erfolgreichsten Ansätze verbinden daher Planung, Information und die Bereitschaft, Gewohnheiten zu ändern. Sie versprechen keine stille Innenstadt und wollen auch keine leeren Plätze. [...15...] Eine lebendige Stadt bleibt hörbar, aber sie muss nicht überall und zu jeder Zeit laut sein. Ruhe bedeutet hier nicht Leere, sondern die Möglichkeit, sich im öffentlichen Raum ohne ständige Anspannung zu bewegen. Manchmal reicht dafür schon, dass Wege, Sitzplätze und Lieferzeiten besser aufeinander abgestimmt werden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 10?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf."
+          },
+          "explanation": "Die richtige Antwort ist c. Der Satz \"Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 11?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss."
+          },
+          "explanation": "Die richtige Antwort ist a. Der Satz \"Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 12?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 5,
+            "text": "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind."
+          },
+          "explanation": "Die richtige Antwort ist f. Der Satz \"Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 13?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten."
+          },
+          "explanation": "Die richtige Antwort ist d. Der Satz \"Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 14?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen."
+          },
+          "explanation": "Die richtige Antwort ist b. Der Satz \"Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 1] Welcher Satz passt in Lücke 15?",
+          "options": [
+            "A: Auf diese Weise entsteht mehr Platz, ohne dass die Straße sofort umgebaut werden muss.",
+            "B: Diese Einsicht verändert auch die Diskussion über Lieferverkehr und Baustellen.",
+            "C: Am Ende zeigt sich, dass Ruhe in der Stadt nicht mit Stillstand verwechselt werden darf.",
+            "D: Dabei geht es nicht nur darum, einzelne laute Quellen zu verbieten.",
+            "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.",
+            "F: Solche Rückzugsorte wirken nur, wenn sie gut erreichbar und deutlich gekennzeichnet sind.",
+            "G: Laute Ereignisse ziehen weiterhin viele Menschen an.",
+            "H: Dafür braucht es mehr als neue Schilder."
+          ],
+          "payload": {
+            "context": "Wenn die Stadt leiser werden will\nNeue Ideen gegen den Lärm im Alltag\n\nIn vielen Städten wird Lärm inzwischen fast wie ein Umweltproblem behandelt. Autos, Motorräder, Lieferwagen und volle Plätze gehören zwar zum städtischen Leben, doch für viele Menschen ist die ständige Geräuschkulisse belastend. ..."
+          },
+          "suggested_answer": {
+            "key": 4,
+            "text": "E: Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert."
+          },
+          "explanation": "Die richtige Antwort ist e. Der Satz \"Allerdings reicht Technik allein nicht aus, wenn niemand die neuen Regeln akzeptiert.\" stellt die inhaltliche und grammatikalische Verknüpfung im Text her."
+        }
+      ]
+    }
+  ]
+}

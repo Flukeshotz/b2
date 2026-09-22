@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p4",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #4",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zu ständiger Erreichbarkeit nach Feierabend.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zu ständiger Erreichbarkeit nach Feierabend.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zu ständiger Erreichbarkeit nach Feierabend.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zur Erreichbarkeit nach Feierabend.",
+              "Nennen Sie Gründe, warum Beschäftigte oft auch außerhalb der Arbeitszeit erreichbar sind.",
+              "Nennen Sie Möglichkeiten, klare Grenzen zwischen Arbeit und Freizeit zu schaffen.",
+              "Nennen Sie Vorteile solcher Grenzen für Beschäftigte und Arbeitgeber."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zur Erreichbarkeit nach Feierabend.",
+              "Nennen Sie Gründe, warum Beschäftigte oft auch außerhalb der Arbeitszeit erreichbar sind.",
+              "Nennen Sie Möglichkeiten, klare Grenzen zwischen Arbeit und Freizeit zu schaffen.",
+              "Nennen Sie Vorteile solcher Grenzen für Beschäftigte und Arbeitgeber."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Meinung klar äußern und begründen (z.B. Ablehnung der ständigen Erreichbarkeit wegen Stress/fehlender Erholung).",
+              "Gründe für Erreichbarkeit nennen (z.B. hohes Arbeitsaufkommen, Angst um Arbeitsplatz, schlechtes Gewissen, flexible Arbeitsmodelle).",
+              "Konkrete Maßnahmen zur Grenzziehung vorschlagen (z.B. Diensthandy ausschalten, feste Zeiten vereinbaren, E-Mail-Sperre nach 18 Uhr).",
+              "Vorteile für beide Seiten erläutern (z.B. höhere Motivation und Gesundheit der Beschäftigten, weniger Fehlzeiten und bessere Leistung für Arbeitgeber).",
+              "Typische B2-Redemittel verwenden: Meinung ausdrücken (Meiner Ansicht nach..., Ich vertrete den Standpunkt...), Gründe nennen (Ein wesentlicher Grund ist..., Hinzu kommt...), Vorschläge machen (Eine Möglichkeit wäre..., Darüber hinaus könnte man...), Vorteile beschreiben (Dies führt zu..., Davon profitieren sowohl... als auch...)."
+            ],
+            "expected_answer": "Betreff: Abschalten nach Feierabend – ein Muss für alle!\n\nLiebe Community,\n\nich bin auf diesen Thread gestoßen und möchte das Thema gern aufgreifen, denn es betrifft uns ja fast alle. Meiner Ansicht nach ist die ständige Erreichbarkeit nach Feierabend ein ernstzunehmendes Problem, das auf Dauer krank macht. Ich vertrete den Standpunkt, dass niemand rund um die Uhr für den Job verfügbar sein sollte, denn der Mensch braucht echte Ruhephasen, um neue Energie zu tanken.\n\nEs gibt verschiedene Gründe, warum viele Beschäftigte trotzdem auch außerhalb der Arbeitszeit erreichbar sind. Ein wesentlicher Grund ist sicherlich die Angst, etwas Wichtiges zu verpassen oder als nicht engagiert genug zu gelten. Hinzu kommt, dass in vielen Firmen die Arbeitslast so hoch ist, dass man glaubt, nicht alles in der regulären Zeit zu schaffen. Auch ein schlechtes Gewissen gegenüber Kollegen, die vielleicht noch arbeiten, spielt oft eine Rolle.\n\nUm klare Grenzen zu schaffen, gibt es jedoch einige praktische Möglichkeiten. Eine sehr effektive Maßnahme wäre, das Diensthandy nach Feierabend konsequent auszuschalten und berufliche E-Mails nicht mehr auf dem Privatrechner zu lesen. Darüber hinaus könnte man mit dem Team feste Zeiten vereinbaren, in denen keine Nachrichten verschickt werden, zum Beispiel nach 19 Uhr. Auch eine automatische Abwesenheitsnotiz, die auf den nächsten Arbeitstag verweist, kann Wunder wirken.\n\nSolche klaren Grenzen bringen enorme Vorteile, und zwar für beide Seiten. Für die Beschäftigten führt dies zu einer deutlich besseren Erholung und einem geringeren Stresslevel, was langfristig die Gesundheit schützt. Davon profitieren aber auch die Arbeitgeber, denn ausgeruhte und zufriedene Mitarbeiter sind motivierter, kreativer und machen weniger Fehler. Das reduziert letztlich den Krankenstand und steigert die Produktivität im Unternehmen.\n\nWas sind eure Erfahrungen mit diesem Thema? Ich freue mich auf eure Beiträge!\n\nViele Grüße\nMax",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

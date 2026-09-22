@@ -1,0 +1,339 @@
+{
+  "id": "goethe-b2-complete-2",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket 2",
+  "minutes": 58,
+  "source": "Skillcase, authored. Composed exam-format practice paper for Goethe B2 (Lesen, Hören, Schreiben, Sprechen) — not an official Goethe paper. Uses set-2 content throughout; Hören reuses Übungsset 2's transcript and audio.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Digitale Kompetenz — wer bildet sich wie weiter?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Als unsere Abteilung vor zwei Jahren auf eine neue Software umgestellt hat, gab es genau eine halbtägige Schulung. Wer danach noch Fragen hatte, war auf sich gestellt. Ich habe mir vieles über Videos im Internet beigebracht — nicht ideal, aber es hat funktioniert.\n\nInzwischen sehe ich das kritischer. Nicht jeder lernt gern allein vor dem Bildschirm, und \"man findet ja alles online\" ist eine bequeme Ausrede der Geschäftsführung, um in echte Weiterbildung nicht investieren zu müssen. Gerade Kolleginnen und Kollegen, die seit Jahrzehnten mit Papierakten gearbeitet haben, brauchen mehr als ein Erklärvideo.\n\nWas mich optimistisch stimmt: Seit diesem Jahr gibt es intern ein Mentoring-Programm. Wer sich in einem Bereich auskennt, gibt sein Wissen an eine Kollegin oder einen Kollegen weiter, die oder der neu einsteigt. Das kostet Zeit, aber die Ergebnisse sind spürbar besser als jedes Video.\n\nIch wünsche mir, dass Digitalkompetenz genauso ernst genommen wird wie fachliche Weiterbildung — mit festen Terminen, nicht nebenbei.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt die Autorin/der Autor die ursprüngliche Schulung zur neuen Software?",
+          "options": [
+            "Als völlig ausreichend.",
+            "Als zu kurz und ohne echte Unterstützung danach.",
+            "Als überflüssig, weil alles online zu finden war."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Als zu kurz und ohne echte Unterstützung danach."
+          },
+          "explanation": "\"…eine halbtägige Schulung. Wer danach noch Fragen hatte, war auf sich gestellt.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Autorin/der Autor hält \"man findet ja alles online\" für eine faire Position der Geschäftsführung.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"…eine bequeme Ausrede der Geschäftsführung, um in echte Weiterbildung nicht investieren zu müssen.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist seit diesem Jahr neu in der Abteilung?",
+          "options": [
+            "Eine zweite Software-Schulung.",
+            "Ein internes Mentoring-Programm.",
+            "Feste wöchentliche Videositzungen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ein internes Mentoring-Programm."
+          },
+          "explanation": "\"Seit diesem Jahr gibt es intern ein Mentoring-Programm.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was bedeutet im Text \"auf sich gestellt sein\"?",
+          "options": [
+            "von anderen unterstützt werden",
+            "allein zurechtkommen müssen",
+            "eine feste Aufgabe bekommen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "allein zurechtkommen müssen"
+          },
+          "explanation": "\"Auf sich gestellt sein\" heißt, ohne Hilfe zurechtkommen zu müssen — genau das beschreibt die Situation nach der Schulung."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen laut Text zu?",
+          "options": [
+            "Nicht jeder lernt gern allein vor dem Bildschirm.",
+            "Die Firma hat feste Weiterbildungstermine eingeführt.",
+            "Das Mentoring-Programm bringt spürbar bessere Ergebnisse als Videos.",
+            "Die Autorin/der Autor lehnt Videos zum Lernen grundsätzlich ab."
+          ],
+          "payload": {
+            "options": [
+              "Nicht jeder lernt gern allein vor dem Bildschirm.",
+              "Die Firma hat feste Weiterbildungstermine eingeführt.",
+              "Das Mentoring-Programm bringt spürbar bessere Ergebnisse als Videos.",
+              "Die Autorin/der Autor lehnt Videos zum Lernen grundsätzlich ab."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2
+            ],
+            "text": [
+              "Nicht jeder lernt gern allein vor dem Bildschirm.",
+              "Das Mentoring-Programm bringt spürbar bessere Ergebnisse als Videos."
+            ]
+          },
+          "explanation": "Beide Aussagen stehen wörtlich im Text; feste Termine sind ein WUNSCH am Ende, keine eingeführte Regel, und Videos werden nicht grundsätzlich abgelehnt, nur als unzureichend beschrieben."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Interview: Wechsel in die Selbstständigkeit",
+      "instruction": "Hören Sie das Interview einmal und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe_hoeren_2_selbststaendigkeit.mp3",
+        "duration_seconds": 44.8,
+        "voices": "mia+ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Albrecht hat sich spontan, ohne Vorbereitung, selbstständig gemacht.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Ganz im Gegenteil. Ich habe über ein Jahr lang nebenbei erste Kunden aufgebaut.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum konnte Frau Albrecht den Schritt in die Selbstständigkeit wagen?",
+          "options": [
+            "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit.",
+            "Wegen eines Kredits der Bank.",
+            "Wegen eines Erbes."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit."
+          },
+          "explanation": "\"Ohne dieses finanzielle Polster hätte ich mich das nicht getraut.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was nennt Frau Albrecht als größte Herausforderung am Anfang?",
+          "options": [
+            "Die Buchhaltung.",
+            "Die Kundengewinnung.",
+            "Die technische Ausstattung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Buchhaltung."
+          },
+          "explanation": "\"Eindeutig die Buchhaltung.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was würde Frau Albrecht rückblickend anders machen?",
+          "options": [
+            "Von Anfang an eine Steuerberaterin einbeziehen.",
+            "Später selbstständig werden.",
+            "Ganz auf die Selbstständigkeit verzichten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Von Anfang an eine Steuerberaterin einbeziehen."
+          },
+          "explanation": "\"Ich würde von Anfang an eine Steuerberaterin einbeziehen, statt das ein Jahr lang allein zu versuchen.\""
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Forumsbeitrag: Digitale Kommunikation im Alltag",
+      "instruction": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In einem Online-Forum wird diskutiert, ob digitale Kommunikation (E-Mails, Messenger, Videokonferenzen) den persönlichen Kontakt im Berufsleben verdrängt. Schreiben Sie einen Beitrag für das Forum.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.",
+              "Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.",
+              "Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können."
+            ],
+            "min_words": 180,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 200
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.",
+              "Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.",
+              "Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung: Ersetzt oder ergänzt? (These mit Begründung)",
+              "Je einen konkreten Vorteil und Nachteil mit Beispiel nennen (z. B. Flexibilität vs. fehlende Körpersprache)",
+              "Einen praktischen Vorschlag für die Kombination von digitalem und persönlichem Austausch machen",
+              "Typische B2-Redemittel verwenden: Meinung ausdrücken („Ich bin der Ansicht, dass…“), abwägen („Einerseits…, andererseits…“), Vorschlag formulieren („Ich würde vorschlagen, dass…“)"
+            ],
+            "expected_answer": "Hallo zusammen,\n\nich finde die Diskussion sehr spannend, denn dieses Thema betrifft uns ja alle im Arbeitsalltag. Meiner Meinung nach ersetzt die digitale Kommunikation den persönlichen Kontakt nicht, sondern ergänzt ihn vielmehr. Ich bin überzeugt, dass beide Formen ihre Berechtigung haben und sich ideal kombinieren lassen.\n\nEin großer Vorteil digitaler Kommunikation ist zweifellos die Flexibilität. Gerade bei internationalen Projekten ermöglichen Videokonferenzen einen schnellen Austausch, ohne dass man lange Reisen auf sich nehmen muss. Einerseits spart das enorm Zeit und Kosten, andererseits fehlt dabei jedoch oft die persönliche Ebene. Das ist für mich auch der entscheidende Nachteil: Missverständnisse entstehen leichter, weil Mimik und Gestik nur eingeschränkt wahrgenommen werden und die Atmosphäre eines echten Gesprächs verloren geht.\n\nDamit persönlicher und digitaler Austausch im Beruf gut zusammenpassen, würde ich ein hybrides Modell vorschlagen. Regelmäßige Team-Meetings könnten beispielsweise abwechselnd stattfinden: eine Woche digital, die nächste Woche in Präsenz. Zusätzlich halte ich es für sinnvoll, mindestens einmal im Quartal einen festen Termin für ein persönliches Treffen einzuplanen, bei dem nicht nur fachliche, sondern auch informelle Gespräche möglich sind. So bleibt der menschliche Kontakt erhalten und man profitiert trotzdem von den Vorteilen der digitalen Werkzeuge.\n\nWas meint ihr dazu?\n\nViele Grüße\nAnna",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Klar gegliederter Forumsbeitrag (Einleitung, Erläuterung der Vor- und Nachteile mit Begründung, eigenes Beispiel sowie konkrete Synthese für den Berufsalltag). Achten Sie auf B2-Konnektoren (z. B. einerseits/andererseits, zwar...aber) und treffende Fachbegriffe zur Arbeitswelt."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Kurzvortrag: Lebenslanges Lernen im Beruf",
+      "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden — auch in der Freizeit. Ist das fair? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (fair/unfair) und strukturierter Aufbau mit Einleitung, Hauptteil (Pro/Contra oder Argumentkette) und kurzem Schlusssatz.",
+              "Differenzierte Betrachtung: Trennung von beruflich notwendiger Weiterbildung (Arbeitszeit) und freiwilliger persönlicher Entwicklung (Freizeit).",
+              "Verwendung typischer B2-Redemittel: Meinung ausdrücken (‚Ich bin der festen Überzeugung...‘), Argumente verknüpfen (‚Ein weiterer Aspekt ist...‘, ‚Hinzu kommt...‘), abwägen (‚Einerseits... andererseits‘).",
+              "Konkrete, nachvollziehbare Beispiele aus der Arbeitswelt (z. B. IT, Pflege, neue Software) und Bezug zum eigenen Erfahrungsumfeld.",
+              "Flüssige, gut verständliche Aussprache mit natürlicher Satzmelodie und weitgehend korrekter Grammatik (Nebensätze, Konjunktiv II)."
+            ],
+            "expected_answer": "Ich möchte heute zu der Frage Stellung nehmen, ob es fair ist, dass viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden – und das auch in ihrer Freizeit. Ich persönlich finde diese Erwartung in dieser allgemeinen Form nicht fair, wobei ich die Notwendigkeit von Weiterbildung grundsätzlich voll und ganz verstehe. Meiner Meinung nach muss man hier ganz klar unterscheiden, um welche Art von Weiterbildung es sich handelt. Wenn ein Arbeitgeber von mir verlangt, dass ich eine neue Software lerne, eine neue Maschine bedienen kann oder mich aufgrund gesetzlicher Änderungen fortbilden muss, dann ist das eindeutig eine beruflich notwendige Qualifikation. In diesem Fall bin ich der festen Überzeugung, dass dies vollständig in der Arbeitszeit stattfinden muss und vom Arbeitgeber bezahlt werden sollte. Es kann nicht sein, dass man seine knappe Freizeit opfert, um Dinge zu lernen, die ausschließlich dem Unternehmen nutzen. Das wäre aus meiner Sicht eine klare Grenzüberschreitung und würde das Recht auf Erholung verletzen. Ein weiterer Aspekt ist die Work-Life-Balance. Gerade in der heutigen Zeit, in der viele Menschen unter Stress und ständiger Erreichbarkeit leiden, ist die Freizeit heilig. Sie dient der Regeneration, der Familie und den Hobbys. Wenn man diesen Raum systematisch für betriebliche Zwecke nutzt, steigt das Risiko für Burnout enorm. Hinzu kommt, dass nicht jeder die gleichen Voraussetzungen hat. Ein alleinerziehender Elternteil oder jemand, der Angehörige pflegt, hat abends oder am Wochenende schlichtweg nicht die Zeit für stundenlange Online-Kurse. Eine solche Erwartungshaltung ist daher auch sozial ungerecht. Andererseits möchte ich betonen, dass ich Weiterbildung im weiteren Sinne, also die persönliche Entwicklung, für sehr wertvoll halte. Wenn ich aus eigenem Antrieb einen Sprachkurs mache oder ein Buch über Kommunikation lese, dann tue ich das ja für mich selbst. Davon profitiert langfristig vielleicht auch mein Arbeitgeber, aber der Hauptnutzen liegt bei mir. Solche freiwilligen Aktivitäten in der Freizeit sind völlig in Ordnung und sogar wünschenswert. Zusammenfassend lässt sich sagen: Eine pauschale Erwartung, dass man sich in der Freizeit weiterbildet, lehne ich ab. Entscheidend ist die Freiwilligkeit und der Zweck. Unternehmen müssen eine klare Verantwortung für die fachliche Qualifizierung ihrer Mitarbeiter während der Arbeitszeit übernehmen. Nur so bleibt die Motivation erhalten und die Grenze zwischen Beruf und Privatleben gewahrt.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Flüssiger, kohärenter Kurzvortrag (ca. 3 Minuten) mit deutlicher Gliederung. Argumentieren Sie differenziert zur Verteilung von beruflicher Weiterbildung und Freizeit, formulieren Sie Ihre eigene Haltung klar und nutzen Sie Redemittel zur Argumentation und Nuancierung."
+        }
+      ]
+    }
+  ]
+}

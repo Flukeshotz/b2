@@ -1,0 +1,799 @@
+{
+  "id": "core-2026b-v7",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V7",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Wer bekommt das Weiterbildungsbudget?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Unser Weiterbildungsbudget wurde dieses Jahr um ein Drittel gekürzt. Meine erste\nReaktion war Ärger: Gerade jetzt, wo sich so viel in unserem Bereich verändert,\nwird an Fortbildung gespart.\n\nDann habe ich mir angesehen, wie das Budget in den letzten Jahren tatsächlich\ngenutzt wurde. Fast siebzig Prozent gingen an dieselben fünf Personen, die\nohnehin schon die erfahrensten im Team waren. Der Rest hat kaum etwas\nbeantragt — nicht, weil kein Interesse bestand, sondern weil niemand genau\nwusste, wie der Antrag funktioniert.\n\nMit dem kleineren Budget hat die Abteilungsleitung jetzt eine klare Regel\neingeführt: Jede Person hat Anspruch auf mindestens einen Kurs pro Jahr, und\nAnträge werden zuerst nach Bedarf, dann nach Eingangsdatum bearbeitet.\n\nWas mich weiterhin stört, ist die kurze Antragsfrist. Wer sich erst\nentscheiden muss, welcher Kurs wirklich passt, hat oft keine zwei Wochen Zeit\ndafür.\n\nDie Kürzung selbst würde ich trotzdem nicht mehr rückgängig machen wollen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt der Autor die Neuregelung insgesamt?",
+          "options": [
+            "Er hält sie für gescheitert und will die alte Verteilung zurück.",
+            "Er hält die neue Verteilung für gerechter, kritisiert aber weiterhin die Frist.",
+            "Er findet, das Budget hätte gar nicht gekürzt werden dürfen."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er hält die neue Verteilung für gerechter, kritisiert aber weiterhin die Frist."
+          },
+          "explanation": "Er würde die Kürzung „trotzdem nicht mehr rückgängig machen wollen“, kritisiert aber weiter die kurze Antragsfrist. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Fast siebzig Prozent des früheren Budgets gingen an dieselben fünf Personen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„Fast siebzig Prozent gingen an dieselben fünf Personen.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt der Autor ein?",
+          "options": [
+            "Dass seine anfängliche Empörung über die Kürzung nicht die ganze Geschichte war.",
+            "Dass die neue Regelung inzwischen wieder abgeschafft wurde.",
+            "Dass er selbst nie einen Kurs beantragt hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass seine anfängliche Empörung über die Kürzung nicht die ganze Geschichte war."
+          },
+          "explanation": "Der Blick auf die tatsächliche Nutzung verändert seine erste Reaktion — das Eingeständnis betrifft seine anfängliche Sicht, nicht die Kürzung selbst."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum haben viele früher kaum Budget beantragt?",
+          "options": [
+            "Weil niemand genau wusste, wie der Antrag funktioniert.",
+            "Weil kein Interesse an Fortbildung bestand.",
+            "Weil die Abteilungsleitung Anträge grundsätzlich ablehnte."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil niemand genau wusste, wie der Antrag funktioniert."
+          },
+          "explanation": "„nicht, weil kein Interesse bestand, sondern weil niemand genau wusste, wie der Antrag funktioniert.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Jede Person hat jetzt Anspruch auf mindestens einen Kurs pro Jahr.",
+            "Die Antragsfrist wurde nach Ansicht des Autors verlängert.",
+            "Anträge werden zuerst nach Bedarf bearbeitet.",
+            "Das Budget wurde in diesem Jahr erhöht."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Jede Person hat jetzt Anspruch auf mindestens einen Kurs pro Jahr.",
+              "Die Antragsfrist wurde nach Ansicht des Autors verlängert.",
+              "Anträge werden zuerst nach Bedarf bearbeitet.",
+              "Das Budget wurde in diesem Jahr erhöht."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2
+            ],
+            "text": [
+              "Jede Person hat jetzt Anspruch auf mindestens einen Kurs pro Jahr.",
+              "Anträge werden zuerst nach Bedarf bearbeitet."
+            ]
+          },
+          "explanation": "„Jede Person hat Anspruch auf mindestens einen Kurs“ und „zuerst nach Bedarf … bearbeitet“ stehen explizit im Text; die Frist wurde nicht verlängert, und das Budget wurde gekürzt, nicht erhöht."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Er beschreibt seinen ersten Ärger über die Kürzung.",
+              "Er erkennt am bisherigen Muster ein Verteilungsproblem.",
+              "Er beschreibt die neue, klarere Regel.",
+              "Er benennt, was ihn an der Frist weiterhin stört."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Er beschreibt seinen ersten Ärger über die Kürzung.",
+              "Er erkennt am bisherigen Muster ein Verteilungsproblem.",
+              "Er beschreibt die neue, klarere Regel.",
+              "Er benennt, was ihn an der Frist weiterhin stört."
+            ]
+          },
+          "explanation": "Ärger → erkanntes Muster → neue Regel → verbleibende Kritik. Der Text argumentiert nicht linear negativ, sondern dreht in der Mitte."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "In der Kaffeeküche. Zwei Kolleginnen sprechen über einen Fortbildungsantrag.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v7_weiterbildung.mp3",
+        "duration_seconds": 48.2,
+        "voices": "mia+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollegin A",
+          "text": "Du, dein Antrag für den Excel-Kurs — der war doch für nächsten Monat genehmigt, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "War die erste Zusage, ja. Herr Reimann hat das aber noch mal angepasst, weil der Kurs schon ausgebucht war. Jetzt bin ich für den Termin im übernächsten Monat eingetragen."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Übernächsten Monat also, nicht nächsten. Und das Budget dafür — bleibt das reserviert?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Ja, das ist für mich fest reserviert. Er hat nur eine Sache geändert: Ich muss den Teilnahmenachweis jetzt direkt nach dem Kurs einreichen, nicht erst am Jahresende."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Moment, habe ich das richtig verstanden — dein Platz ist sicher, nur der Termin und die Nachweisfrist haben sich geändert?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich die frühere Abgabe sogar besser; am Jahresende hätte ich das sicher vergessen."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann findet der Excel-Kurs für Kollegin B jetzt statt?",
+          "options": [
+            "Nächsten Monat.",
+            "Übernächsten Monat.",
+            "Erst im nächsten Jahr."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Übernächsten Monat."
+          },
+          "explanation": "Nächster Monat war die erste Zusage und wurde ersetzt: „Jetzt bin ich für den Termin im übernächsten Monat eingetragen.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die frühere Abgabefrist für den Nachweis?",
+          "options": [
+            "Sie hält sie für unpraktisch.",
+            "Sie hält sie für besser als die alte Regelung.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie hält sie für besser als die alte Regelung."
+          },
+          "explanation": "„Ehrlich gesagt finde ich die frühere Abgabe sogar besser“ — die Bewertung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Budget für Kollegin Bs Kurs ist nicht mehr reserviert.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Ja, das ist für mich fest reserviert.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der ursprüngliche Termin geändert?",
+          "options": [
+            "Weil der Kurs schon ausgebucht war.",
+            "Weil Kollegin B den Termin absagen wollte.",
+            "Weil das Budget nicht ausreichte."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil der Kurs schon ausgebucht war."
+          },
+          "explanation": "„weil der Kurs schon ausgebucht war.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich die frühere Abgabe sogar besser.“",
+              "„Er hat nur eine Sache geändert.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich die frühere Abgabe sogar besser.“ → eine Meinung äußern",
+              "„Er hat nur eine Sache geändert.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Das Budget wurde kleiner. Die Verteilung ist jetzt gerechter.",
+            "Das Budget wurde zwar kleiner, die Verteilung ist aber jetzt gerechter."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen der Kürzung teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das Budget wurde zwar kleiner, die Verteilung ist aber jetzt gerechter."
+          },
+          "explanation": "„zwar … aber“ räumt den Nachteil ein und setzt zugleich den Vorteil dagegen. Zwei Sätze nebeneinander zeigen kein Abwägen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir verlängern die Antragsfrist auf vier Wochen.",
+            "Man könnte die Antragsfrist auf vier Wochen verlängern."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen eine neue Antragsregel ins Gespräch, die noch verhandelbar bleiben soll."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte die Antragsfrist auf vier Wochen verlängern."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag, über den noch entschieden werden darf."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wegen des gekürzten Budgets bitten wir um eine klare Priorisierung.",
+            "Wegen dem gekürzten Budget bitten wir um eine klare Priorisierung."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an die Personalabteilung."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen des gekürzten Budgets bitten wir um eine klare Priorisierung."
+          },
+          "explanation": "Gesprochen hört man „wegen dem“ ständig. Geschrieben verlangt „wegen“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die neue Regel wurde eingeführt, weil das Budget zuvor ungleich verteilt war und viele gar nicht wussten, wie man es beantragt.",
+            "Die neue Regel wurde eingeführt. Das Budget war ungleich verteilt. Viele wussten nicht, wie man es beantragt."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen im Protokoll, warum die neue Regel eingeführt wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die neue Regel wurde eingeführt, weil das Budget zuvor ungleich verteilt war und viele gar nicht wussten, wie man es beantragt."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung nebeneinandergestellter Hauptsätze."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Der Antrag wurde nach kurzer Prüfung schließlich ___, nachdem die Abteilungsleitung Rücksprache ___ hatte.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "genehmigt",
+                  "bewilligt"
+                ]
+              },
+              {
+                "accepted": [
+                  "gehalten"
+                ]
+              }
+            ],
+            "text": [
+              "genehmigt / bewilligt",
+              "gehalten"
+            ]
+          },
+          "explanation": "„einen Antrag genehmigen/bewilligen“ und „Rücksprache halten“ — feste Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ des Budgets folgt jetzt festen Kriterien; nur die ___ der Ausnahmefälle dauert noch etwas länger.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Verteilung",
+                  "Vergabe"
+                ]
+              },
+              {
+                "accepted": [
+                  "Bearbeitung"
+                ]
+              }
+            ],
+            "text": [
+              "Verteilung / Vergabe",
+              "Bearbeitung"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Verteilung“ und präzise Nomen wie „Bearbeitung“ gehören zum B2-Wortschatz; „das Verteilen“ und „das Machen“ wären der A2-Ersatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "einen Antrag",
+              "Anspruch",
+              "zur Verfügung",
+              "in Betracht"
+            ],
+            "right": [
+              "ziehen",
+              "stellen",
+              "haben",
+              "stehen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 0
+            },
+            "text": [
+              "einen Antrag → stellen",
+              "Anspruch → haben",
+              "zur Verfügung → stehen",
+              "in Betracht → ziehen"
+            ]
+          },
+          "explanation": "einen Antrag stellen · Anspruch haben · zur Verfügung stehen · etwas in Betracht ziehen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Ich wollte nur kurz fragen, wie das jetzt mit dem Kurs läuft.",
+            "Ich möchte Sie bitten, mir den aktuellen Stand meines Antrags mitzuteilen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die Personalabteilung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich möchte Sie bitten, mir den aktuellen Stand meines Antrags mitzuteilen."
+          },
+          "explanation": "„nur kurz fragen“ und „wie das läuft“ gehören ins Gespräch. An die Personalabteilung kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Darf ich kurz erklären, warum ich diesen Kurs gewählt habe? Danach wird es klarer.",
+            "Das geht doch niemanden etwas an.",
+            "Wenn Sie meinen, ich hätte falsch gewählt, dann eben nicht."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In der Teambesprechung stellt jemand Ihre Kursauswahl in Frage, bevor Sie sie erklärt haben."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Darf ich kurz erklären, warum ich diesen Kurs gewählt habe? Danach wird es klarer."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag und bietet zugleich die Klärung an — ohne Rückzug und ohne Konfrontation. Die zweite Option blockt ab, die dritte gibt das Wort auf."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung des Autors zur Budgetkürzung entwickelt hat. Nennen Sie auch, was ihn weiterhin stört.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die den anfänglichen Ärger, die erkannte Ungleichverteilung, die neue Regel UND die verbleibende Kritik an der Frist nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die den anfänglichen Ärger, die erkannte Ungleichverteilung, die neue Regel UND die verbleibende Kritik an der Frist nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Den anfänglichen Ärger des Autors klar benennen (z. B. Empörung, Frustration).",
+              "Die erkannte Ungleichverteilung und die neue Regel als Wendepunkt in seiner Haltung darstellen.",
+              "Die verbleibende Kritik an der kurzen Umsetzungsfrist deutlich machen.",
+              "Typische B2-Redemittel verwenden: 'Zunächst war der Autor ...', 'Nachdem er jedoch ...', 'Was ihn weiterhin stört, ist ...'"
+            ],
+            "expected_answer": "Zunächst war der Autor über die Budgetkürzung empört, doch dann erkannte er die ungerechte Verteilung der Mittel. Die neue Regelung findet er daher sinnvoll. Was ihn jedoch weiterhin stört, ist die viel zu kurze Frist für die Umsetzung.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihre Abteilungsleitung schreibt: „Der Antrag muss bis Freitag eingereicht werden.“ Sie sind nicht sicher, ob das für alle Kurse gilt und was bei Verspätung passiert. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": [
+              "Zwei klar formulierte, indirekte Fragesätze (z. B. mit ‚ob‘) oder höfliche direkte Fragen mit Konjunktiv II (‚Könnten Sie mir sagen, …‘)",
+              "Inhaltlich: eine Frage zur Gültigkeit für alle Kurse, eine Frage zu den Konsequenzen bei Verspätung",
+              "Angemessene Anrede und Grußformel (E-Mail-Format)",
+              "Register: formell, höflich, aber nicht unterwürfig; typische Redemittel wie ‚Vielen Dank für die Information‘, ‚Ich hätte noch zwei Fragen‘"
+            ],
+            "expected_answer": "Vielen Dank für die Information. Könnten Sie mir bitte noch sagen, ob die Frist für alle Kurse gilt und was bei einer verspäteten Einreichung passieren würde? Vielen Dank und freundliche Grüße",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob das Weiterbildungsbudget künftig nur noch für Kurse mit direktem Bezug zur aktuellen Stelle genutzt werden darf. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare eigene Positionierung zur neuen Regelung (Zustimmung/Ablehnung/Differenzierung).",
+              "Zwei ausformulierte, logische Argumente für die eigene Position (z. B. Motivation, Fachkräftemangel, Innovationsfähigkeit).",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position (z. B. Kosten, fehlender direkter Nutzen) mit Relativierung.",
+              "Konkreter, praktikabler Lösungsvorschlag (z. B. Budget-Splitting, Entwicklungsklausel, Kontingent für fachfremde Kurse).",
+              "Typische B2-Redemittel: 'Ich bin der festen Überzeugung, dass...', 'Einerseits... andererseits...', 'Zwar..., aber...', 'Daher schlage ich vor, dass...'"
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die geplante Einschränkung des Weiterbildungsbudgets auf rein stellenbezogene Kurse für kurzsichtig. Einerseits fördern fachübergreifende Seminare, etwa zu Kommunikation oder Resilienz, nachweislich die Teamarbeit und erhalten die Arbeitskraft langfristig. Andererseits signalisiert ein offenes Budget Wertschätzung und steigert die Mitarbeiterbindung in Zeiten des Fachkräftemangels erheblich. Zwar besteht die Gefahr, dass Mittel in Kurse ohne betrieblichen Nutzen fließen, doch dieses Risiko ist durch transparente Anträge beherrschbar. Daher schlage ich vor, 80 Prozent des Budgets für Pflichtschulungen zu reservieren und 20 Prozent für persönliche Entwicklung freizugeben. So bleiben wir flexibel und motiviert.\n\nViele Grüße,\nM. Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen verteilen das Weiterbildungsbudget nach Bedarf, andere nach Betriebszugehörigkeit. Was halten Sie für gerechter? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich persönlich halte... für gerechter').",
+              "Mindestens zwei gut ausgeführte Begründungen für die eigene Wahl (z. B. Fairness, Motivation, Effizienz).",
+              "Ein eingeräumter Nachteil der anderen Verteilungsart, eingeleitet mit einem Konnektor (z. B. 'Allerdings muss man zugeben, dass...').",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung und Abwägung (z. B. 'Dafür spricht...', 'Ein wesentlicher Vorteil ist...', 'Demgegenüber steht...').",
+              "Roter Faden und ein kurzer, schlüssiger Abschlusssatz."
+            ],
+            "expected_answer": "Ich persönlich halte eine Verteilung des Weiterbildungsbudgets nach Bedarf für deutlich gerechter. Dafür spricht vor allem, dass sich die Anforderungen in verschiedenen Positionen stark unterscheiden. Eine Marketingmitarbeiterin muss vielleicht dringend eine neue Software erlernen, während ein Buchhalter gerade keine akute Weiterbildung benötigt. Es wäre unfair, dem Buchhalter nur deshalb ein Budget zu geben, weil er schon lange im Unternehmen ist, wenn die Kollegin es viel nötiger braucht, um ihre Arbeit gut zu machen. Ein zweiter wichtiger Punkt ist die Motivation: Wenn Mitarbeiter sehen, dass in ihre tatsächliche Entwicklung investiert wird, fühlen sie sich wertgeschätzt und bleiben dem Unternehmen eher treu. Das Budget einfach nach Betriebszugehörigkeit zu verteilen, könnte dagegen als reines Dienstalter-Privileg wirken und weniger engagierte Kollegen sogar demotivieren. Allerdings muss man zugeben, dass eine bedarfsorientierte Verteilung auch Nachteile hat. Sie könnte zu subjektiven Entscheidungen der Führungskräfte führen und im schlimmsten Fall als ungerecht empfunden werden, wenn nicht transparent kommuniziert wird, warum jemand eine Schulung bekommt und jemand anderes nicht. Trotz dieser Gefahr finde ich, dass die Vorteile der bedarfsorientierten Förderung klar überwiegen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

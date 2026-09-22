@@ -1,0 +1,156 @@
+{
+  "id": "b2_muede_chunks",
+  "order_index": 49,
+  "icon": "🔗",
+  "title": "Six expressions from the discussion",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Warum sind wir immer müde?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Six expressions from the discussion",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Sechs Ausdrücke aus dem Gespräch. Sie haben sie alle schon gehört."
+          ]
+        },
+        {
+          "t": "chunk",
+          "w": 0,
+          "who": "Dr. Bergmann",
+          "quote": "Das liegt vor allem daran, dass Schlafdauer und Schlafqualität zwei völlig verschiedene Dinge sind."
+        },
+        {
+          "t": "chunk",
+          "w": 1,
+          "who": "Dr. Bergmann",
+          "quote": "Das sind alles Faktoren, die sich gut messen lassen – und die sich auf Dauer rächen."
+        },
+        {
+          "t": "chunk",
+          "w": 2,
+          "who": "Yvonne Krause",
+          "quote": "Man nimmt das ja in Kauf, wenn man den Beruf wählt."
+        },
+        {
+          "q": "Was sagen Sie?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A sagt beides auf einmal: der Nachteil ist echt, und Sie haben sich trotzdem dafür entschieden. B erklärt eine Ursache, die hier niemand bestritten hat. C weist eine Verallgemeinerung zurück — nur hat Ihr Gegenüber gar nicht verallgemeinert.",
+          "options": [
+            "Das nimmt man in Kauf, wenn man sich für den Beruf entscheidet.",
+            "Das liegt vor allem daran, dass die Schichten wechseln.",
+            "Das lässt sich nicht pauschal sagen."
+          ],
+          "exercises": [
+            "in_kauf_nehmen"
+          ],
+          "situation": "Sie haben den Beruf mit offenen Augen gewählt. Die Schichten waren Ihnen vorher klar, und Sie beschweren sich nicht darüber — aber jemand tut gerade so, als hätten Sie sich das nicht überlegt."
+        },
+        {
+          "t": "chunk",
+          "w": 3,
+          "who": "Dr. Bergmann",
+          "quote": "Es lässt sich allerdings nicht pauschal sagen, was der richtige Weg ist."
+        },
+        {
+          "t": "chunk",
+          "w": 4,
+          "who": "Yvonne Krause",
+          "quote": "Doch, sie bringen schon etwas, das will ich gar nicht kleinreden."
+        },
+        {
+          "q": "Womit fangen Sie an?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A erkennt ihre Arbeit ausdrücklich an und macht damit Platz für den Einwand, der gleich kommt. B weist eine Verallgemeinerung zurück — nur hat hier niemand verallgemeinert. C ist eine Warnung, kein Zugeständnis, und würde ihre Mühe erst recht abwerten.",
+          "options": [
+            "Der Zettel bringt schon etwas, das will ich gar nicht kleinreden.",
+            "Das lässt sich nicht pauschal sagen.",
+            "Das rächt sich auf Dauer."
+          ],
+          "situation": "Eine Kollegin hat sich viel Mühe mit einem neuen Übergabezettel gegeben. Er hilft — aber er löst das eigentliche Problem nicht, und das wollen Sie sagen, ohne ihre Arbeit abzuwerten."
+        },
+        {
+          "q": "Wie antworten Sie, ohne die Frage abzuwürgen?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A weist die Verallgemeinerung zurück und sagt im selben Atemzug, wovon es abhängt — die Frage bleibt offen, statt beantwortet zu werden. B behauptet genau die Verallgemeinerung, die Sie vermeiden wollten. C räumt etwas ein, aber hier hat niemand etwas kleingeredet.",
+          "options": [
+            "Das lässt sich nicht pauschal sagen — es kommt sehr auf die Ruhezeiten an.",
+            "Das liegt vor allem daran, dass die Ruhezeiten zu kurz sind.",
+            "Das will ich gar nicht kleinreden."
+          ],
+          "exercises": [
+            "laesst_sich_nicht_pauschal_sagen"
+          ],
+          "situation": "In einer Fortbildung fragt jemand, ob Nachtdienste jungen Pflegekräften generell schaden. Sie wissen aus Erfahrung: bei manchen ja, bei manchen kaum — es hängt an den Ruhezeiten."
+        },
+        {
+          "t": "notice",
+          "w": 3,
+          "ex": "laesst_sich_nicht_pauschal_sagen",
+          "sourceId": "src_muede"
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "laesst_sich_nicht_pauschal_sagen",
+          "hint": "Erst die Verallgemeinerung zurückweisen, dann sagen, wovon es abhängt.",
+          "context": "Jemand fragt Sie, ob Schichtarbeit auf Dauer krank macht. Sie halten die Frage für zu grob gestellt — es kommt darauf an. Sagen Sie das.",
+          "sourceId": "src_muede"
+        },
+        {
+          "t": "notice",
+          "w": 2,
+          "ex": "in_kauf_nehmen",
+          "sourceId": "src_muede"
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "in_kauf_nehmen",
+          "hint": "Nennen Sie den Nachteil und das, wofür Sie ihn hinnehmen.",
+          "context": "Etwas an Ihrer Arbeit oder Ihrem Alltag ist eindeutig ein Nachteil — und Sie haben sich trotzdem dafür entschieden. Erklären Sie, warum.",
+          "sourceId": "src_muede"
+        }
+      ],
+      "teaches": [
+        [
+          "das liegt vor allem daran, dass",
+          "that is mainly because",
+          "🔗"
+        ],
+        [
+          "sich auf Dauer rächen",
+          "to catch up with you eventually",
+          "🔗"
+        ],
+        [
+          "etwas in Kauf nehmen",
+          "to accept something as a trade-off",
+          "🔗"
+        ],
+        [
+          "das lässt sich nicht pauschal sagen",
+          "you cannot say that across the board",
+          "🔗"
+        ],
+        [
+          "das will ich nicht kleinreden",
+          "I don't want to play that down",
+          "🔗"
+        ],
+        [
+          "im Schnitt",
+          "on average",
+          "🔗"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

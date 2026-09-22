@@ -1,0 +1,38 @@
+{
+  "id": "t01_sprachkurs_anfrage",
+  "rubric_id": 2,
+  "prompt_de": "Sie haben im Internet folgende Anzeige gelesen:\n\n„Sprachschule Rheinbogen — Intensivkurse Deutsch B2/C1. Kleine Gruppen (max. 8 Personen), Abend- und Wochenendkurse, Prüfungsvorbereitung inklusive. Weitere Auskünfte per E-Mail.\"\n\nSchreiben Sie eine E-Mail an die Sprachschule (mindestens 150 Wörter). Gehen Sie auf alle vier Leitpunkte ein:\n1. Grund für Ihr Schreiben\n2. Ihre bisherigen Deutschkenntnisse\n3. Eine Frage zu den Kurszeiten\n4. Bitte um Informationen zu den Kosten\n\nVergessen Sie Anrede und Grußformel nicht.",
+  "content_points": [
+    {
+      "id": "grund",
+      "detector": "(ich schreibe|ich habe (ihre|die) anzeige|ich interessiere mich|mit interesse|bezug nehmend|ich beziehe mich)",
+      "label_de": "Grund für Ihr Schreiben"
+    },
+    {
+      "id": "vorkenntnis",
+      "detector": "(ich habe .{0,40}(erfahrung|kenntnisse|gelernt|besucht)|seit .{0,20}(jahr|monat)|zurzeit lerne|ich verf(ü|ue)ge)",
+      "label_de": "Ihre Vorkenntnisse"
+    },
+    {
+      "id": "frage",
+      "detector": "(k(ö|oe)nnten sie|w(ä|ae)re es m(ö|oe)glich|ich m(ö|oe)chte (gerne )?wissen|d(ü|ue)rfte ich fragen|meine frage|\\?)",
+      "label_de": "Ihre Frage zum Angebot"
+    },
+    {
+      "id": "bitte",
+      "detector": "(ich bitte sie|(ü|ue)ber eine (kurze )?antwort|ich w(ü|ue)rde mich freuen|senden sie mir|teilen sie mir mit|informationen)",
+      "label_de": "Bitte um Information"
+    }
+  ],
+  "target_words": 150,
+  "source": "original — authored for Skillcase in telc format. Not derived from any telc paper.",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

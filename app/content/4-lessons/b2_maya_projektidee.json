@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_projektidee",
+  "order_index": 17,
+  "icon": "💬",
+  "title": "Eine neue Projektidee vorschlagen",
+  "capability": "defending a proposal against skepticism with a realistic scope",
+  "proof": "Eine neue Projektidee vorschlagen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_projektidee"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

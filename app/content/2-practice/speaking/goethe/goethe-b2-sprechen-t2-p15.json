@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p15",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #15",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Wohnstraßen häufiger zu Spielstraßen umgewandelt werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung oder Ablehnung) und strukturierte Argumentation mit mindestens zwei eigenen Argumenten.",
+              "Einbeziehung möglicher Gegenargumente und deren Entkräftung, um eine differenzierte Diskussion zu zeigen.",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (z.B. 'Ich bin der festen Überzeugung, dass...', 'Ein weiterer wichtiger Aspekt ist...', 'Dem könnte man entgegenhalten, dass...').",
+              "Konkrete Beispiele aus dem Alltag zur Veranschaulichung der Argumente (z.B. Kinder, ältere Menschen, Lärmbelästigung).",
+              "Ein runder Abschluss, der die eigene Position zusammenfasst und eventuell einen Ausblick oder Kompromissvorschlag bietet."
+            ],
+            "expected_answer": "Meiner Ansicht nach ist die häufigere Umwandlung von Wohnstraßen in Spielstraßen ein absolut notwendiger und überfälliger Schritt für mehr Lebensqualität in unseren Städten. Ich bin der festen Überzeugung, dass der öffentliche Raum nicht nur dem fließenden und ruhenden Verkehr dienen darf, sondern in erster Linie ein Lebensraum für die Menschen sein muss. Ein erstes starkes Argument dafür ist die Sicherheit, insbesondere für die schwächsten Verkehrsteilnehmer, nämlich Kinder und ältere Menschen. In einer Spielstraße gilt Schrittgeschwindigkeit, und spielende Kinder haben grundsätzlich Vorrang. Das reduziert nicht nur die Unfallgefahr drastisch, sondern ermutigt Familien auch, ihre Kinder draußen spielen zu lassen, anstatt sie aus Angst vor dem Verkehr ins Auto zu setzen oder in der Wohnung zu behalten. Ein zweiter wesentlicher Punkt ist die soziale Funktion solcher Straßen. Wenn der Autoverkehr nicht mehr dominiert, entsteht Raum für nachbarschaftliche Begegnungen. Man kann sich vor dem Haus auf eine Bank setzen, mit den Nachbarn plaudern, und Kinder finden ganz selbstverständlich Spielkameraden. Das stärkt den sozialen Zusammenhalt in einem Viertel enorm und bekämpft die zunehmende Anonymität in Städten. Natürlich muss man auch die Gegenargumente betrachten. Kritiker führen oft an, dass dadurch wertvolle Parkplätze verloren gehen und Anwohner, die auf ihr Auto angewiesen sind, benachteiligt werden. Dem könnte man jedoch entgegenhalten, dass eine gute Planung hier entscheidend ist. Man muss ja nicht jede Straße umwandeln, sondern kann gezielt Bereiche auswählen, wo es sich anbietet, und gleichzeitig alternative Parkmöglichkeiten, zum Beispiel am Rande des Viertels, schaffen. Ein weiteres Argument der Gegenseite ist der befürchtete Lärm durch spielende Kinder. Hier muss ich ganz klar sagen, dass dies ein gesellschaftliches Umdenken erfordert. Kinderlachen ist kein störender Lärm, sondern ein Ausdruck lebendigen Lebens, das wir in unseren Städten dringend brauchen. Zusammenfassend gesagt, überwiegen für mich die Vorteile einer kindgerechten und sozialen Stadtgestaltung deutlich die Nachteile. Ich plädiere daher für ein mutigeres Umdenken in der Stadtplanung, weg von der autozentrierten Perspektive hin zu einem Miteinander, das den Menschen in den Mittelpunkt stellt.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

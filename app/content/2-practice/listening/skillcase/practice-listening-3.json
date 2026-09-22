@@ -1,0 +1,89 @@
+{
+  "id": "practice-listening-3",
+  "board": "custom",
+  "title": "Hörverstehen — Telefonat: Reservierung ändern",
+  "minutes": 6,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Telefonat: Reservierung ändern",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_3_reservierung.mp3",
+        "duration_seconds": 36.7,
+        "voices": "katja+mia"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worum bittet die Anruferin?",
+          "options": [
+            "Einen neuen Tisch für morgen zu buchen.",
+            "Die Reservierung um zwei Personen zu erweitern.",
+            "Die Reservierung komplett zu stornieren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Reservierung um zwei Personen zu erweitern."
+          },
+          "explanation": "\"Könnte ich die Reservierung auf sechs Personen erweitern?\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt das Restaurant als Lösung vor?",
+          "options": [
+            "Einen Tisch für nur vier Personen.",
+            "Einen Tisch um 19:30 statt 19:00 Uhr.",
+            "Eine Reservierung für einen anderen Tag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Einen Tisch um 19:30 statt 19:00 Uhr."
+          },
+          "explanation": "\"ich könnte Ihnen einen Tisch um neunzehn Uhr dreißig anbieten\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Anruferin lehnt den neuen Vorschlag ab.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Neunzehn Uhr dreißig ist völlig in Ordnung, das nehmen wir gerne.\""
+        }
+      ]
+    }
+  ]
+}

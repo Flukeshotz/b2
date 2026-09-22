@@ -1,0 +1,278 @@
+{
+  "id": "practice-vocabulary-1",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 1 — Beruf & Register",
+  "minutes": 12,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 12,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 12,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Er hat die Aufgabe termingerecht erledigt.\" — \"termingerecht\" bedeutet:",
+          "options": [
+            "pünktlich, innerhalb der Frist",
+            "ohne Hilfe",
+            "sehr sorgfältig"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "pünktlich, innerhalb der Frist"
+          },
+          "explanation": "\"Termingerecht\" = fristgemäß, pünktlich zum vereinbarten Zeitpunkt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Wort passt am besten: \"Für diese Aufgabe bin ich nicht ___.\"",
+          "options": [
+            "beschäftigt",
+            "verantwortlich für",
+            "zuständig"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "zuständig"
+          },
+          "explanation": "\"Zuständig sein für etwas\" ist die feste, im Berufsalltag gebräuchliche Wendung; \"verantwortlich für\" bräuchte hier \"für\" nach dem Adjektiv."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die Beschwerde wurde umgehend bearbeitet.\" — \"umgehend\" heißt:",
+          "options": [
+            "eventuell",
+            "sofort",
+            "teilweise"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "sofort"
+          },
+          "explanation": "\"Umgehend\" ist ein Synonym für \"sofort/unverzüglich\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formeller Ausdruck für \"Ich brauche mehr Infos\":",
+          "options": [
+            "Ich will das genauer wissen.",
+            "Gib mir mal mehr Infos.",
+            "Ich benötige weitere Informationen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ich benötige weitere Informationen."
+          },
+          "explanation": "\"Benötigen\" + \"weitere Informationen\" ist die formelle Registerwahl, passend für E-Mails an Vorgesetzte."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die Kollegin hat mich vertreten, während ich im Urlaub war.\" — \"vertreten\" bedeutet hier:",
+          "options": [
+            "mir widersprechen",
+            "meine Aufgaben übernehmen",
+            "mich begleiten"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "meine Aufgaben übernehmen"
+          },
+          "explanation": "\"Jemanden vertreten\" = seine Aufgaben/Rolle übernehmen, nicht \"begleiten\" oder \"widersprechen\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Wort ist hier ein falscher Freund für englische Muttersprachler? \"Ich bekomme ein Formular.\"",
+          "options": [
+            "bekommen (≠ to become)",
+            "Formular (≠ formula)",
+            "beide"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "beide"
+          },
+          "explanation": "\"Bekommen\" heißt \"erhalten\", nicht \"werden\"; \"Formular\" heißt \"Dokument zum Ausfüllen\", nicht \"Formel\" — beides klassische falsche Freunde."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Der Dienstplan wurde kurzfristig geändert.\" — \"kurzfristig\" heißt:",
+          "options": [
+            "für kurze Zeit",
+            "sehr oft",
+            "mit wenig Vorlauf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "mit wenig Vorlauf"
+          },
+          "explanation": "\"Kurzfristig\" bezieht sich auf die Vorlaufzeit einer Ankündigung, nicht auf die Dauer."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Passendes Verb: \"Wir müssen die neuen Vorschriften ___.\"",
+          "options": [
+            "einhalten",
+            "einsehen",
+            "einholen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "einhalten"
+          },
+          "explanation": "\"Vorschriften einhalten\" ist die feste Kollokation; \"einholen\" passt zu Erlaubnis/Rat, \"einsehen\" zu Akten/Dokumenten."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Sie hat sich schnell in das neue Team eingelebt.\" — \"sich einleben\" bedeutet:",
+          "options": [
+            "ein neues Leben beginnen",
+            "einen neuen Wohnort finden",
+            "sich an eine neue Umgebung gewöhnen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "sich an eine neue Umgebung gewöhnen"
+          },
+          "explanation": "\"Sich einleben\" = sich an eine neue Umgebung/Situation gewöhnen."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Höflich-formelle Bitte am Telefon:",
+          "options": [
+            "Könnten Sie mir bitte kurz weiterhelfen?",
+            "Ich brauch Hilfe, jetzt gleich.",
+            "Hilf mir mal."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Könnten Sie mir bitte kurz weiterhelfen?"
+          },
+          "explanation": "Konjunktiv II + \"bitte\" ist der Standard für höfliche formelle Bitten."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Der Arzt hat die Diagnose bestätigt.\" — Gegenteil von \"bestätigen\":",
+          "options": [
+            "wiederholen",
+            "widerlegen",
+            "erklären"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "widerlegen"
+          },
+          "explanation": "\"Bestätigen\" (etwas als richtig anerkennen) ↔ \"widerlegen\" (als falsch nachweisen)."
+        },
+        {
+          "item_no": 12,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Wir sind auf Ihre Rückmeldung angewiesen.\" — \"angewiesen sein auf\" bedeutet:",
+          "options": [
+            "etwas anordnen",
+            "etwas dringend brauchen",
+            "etwas ablehnen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "etwas dringend brauchen"
+          },
+          "explanation": "\"Auf etwas angewiesen sein\" = davon abhängig sein, es dringend benötigen."
+        }
+      ]
+    }
+  ]
+}

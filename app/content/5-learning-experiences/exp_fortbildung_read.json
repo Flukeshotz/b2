@@ -1,0 +1,131 @@
+{
+  "id": "exp_fortbildung_read",
+  "source_id": "src_fortbildung",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Pflichtfortbildungen: Arbeitszeit oder Freizeit?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: zählt eine Pflichtfortbildung nach Dienstschluss als Arbeitszeit?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "q": "Wer schlägt eine konkrete Lösung vor, die anderswo schon funktioniert?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Priya S. beschreibt keine Idee, sondern ein bestehendes Verfahren: die Fortbildungszeit wird separat erfasst und im Folgemonat als Freizeit ausgeglichen — bei ihr im Betrieb bereits Praxis. Die anderen beschreiben nur die eigene Situation oder das eigene Problem.",
+      "options": [
+        "nina",
+        "jonas",
+        "wagner",
+        "priya"
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer erklärt eine organisatorische Einschränkung, ohne sich für die Regel zu entschuldigen?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Stationsleitung Wagner nennt zwei konkrete Zwänge — das zentral vergebene Budget und die Personallage — und erklärt damit, warum es so ist, ohne zu sagen, dass es richtig oder falsch ist. Jonas_P äußert dagegen nur eine allgemeine Haltung ohne Begründung.",
+      "options": [
+        "nina",
+        "jonas",
+        "wagner",
+        "priya"
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "compare"
+    },
+    {
+      "q": "Dieser Satz von Jonas_P — was ist er?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Bei uns ist das schon immer so gelaufen.",
+      "answer": 1,
+      "explain": "„Schon immer so“ erklärt nichts — es sagt nur, dass etwas nicht neu ist, nicht, warum es richtig ist. Stationsleitung Wagner macht es an anderer Stelle anders: sie nennt echte Gründe, die man prüfen kann.",
+      "options": [
+        "Ein Beleg: er stützt seine Position mit etwas Nachprüfbarem.",
+        "Eine Behauptung: sie klingt wie eine Erklärung, ist aber keine.",
+        "Ein Zugeständnis: er gibt der Gegenseite teilweise recht."
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "argue"
+    },
+    {
+      "q": "Priya S. schreibt zuerst: „Das leuchtet mir ein.“ Wie steht der Satz danach zu diesem ersten Satz?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "nur folgt daraus doch nicht automatisch, dass die Zeit unbezahlt bleibt.",
+      "answer": 2,
+      "explain": "„Das leuchtet mir ein“ akzeptiert Wagners Erklärung vollständig. „Nur folgt daraus doch nicht automatisch …“ greift danach nicht die Erklärung an, sondern nur den Schluss, den man daraus ziehen könnte. Das Beispiel aus ihrer Firma kommt erst im nächsten Satz — es stützt ihren eigenen Vorschlag, nicht diesen.",
+      "options": [
+        "Er widerspricht ihm: sie hält Wagners Erklärung doch für falsch.",
+        "Er belegt ihn mit einem Beispiel aus ihrer Firma.",
+        "Er lässt ihn gelten und bestreitet nur, was daraus folgen soll.",
+        "Er wiederholt ihn mit anderen Worten."
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "structure"
+    },
+    {
+      "q": "Priya S. erwähnt, dass sich bei ihrer eigenen Regelung seitdem niemand mehr beschwert hat. Was folgt daraus für ihren Vorschlag?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Ein Detail, das beiläufig klingt, aber etwas Wichtiges belegt: die Lösung ist keine Theorie, sondern läuft bei ihr im Betrieb bereits — und funktioniert offenbar gut genug, dass niemand mehr Anlass zur Beschwerde sieht.",
+      "options": [
+        "Ihre Kollegen nehmen das Problem einfach nicht ernst.",
+        "Der Vorschlag ist nicht nur denkbar, sondern in der Praxis bereits erprobt.",
+        "Die Regelung wurde inzwischen wieder abgeschafft."
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Nina K. das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Hätte man uns vorher gefragt, dann wäre vermutlich sofort eine Lösung wie Priyas dabei herausgekommen, und wir würden jetzt nicht darüber streiten.",
+      "answer": 1,
+      "explain": "Sie sagt es selbst im Satz davor: „Mich stört ehrlich gesagt weniger die Fortbildung selbst … als der Umstand, dass niemand vorher gefragt hat.“ Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin der Fortbildungspflicht. Sie ist es nicht — sie ist eine Gegnerin des Verfahrens, mit dem darüber entschieden wurde.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Beschwerde unberechtigt war.",
+        "Um klarzustellen, dass sie nicht die Fortbildung ablehnt, sondern wie darüber entschieden wurde.",
+        "Um Jonas_P vorzuwerfen, dass er sich zu wenig einsetzt.",
+        "Um vorzuschlagen, die Fortbildungen ganz abzuschaffen."
+      ],
+      "sourceId": "src_fortbildung",
+      "capability": "compare"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_fortbildung_read",
+  "created_at": "2026-09-15T15:40:28.133Z",
+  "updated_at": "2026-09-15T15:44:07.754Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

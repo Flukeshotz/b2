@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-11",
+  "board": "custom",
+  "title": "Hörverstehen — Kollegen besprechen ein Kundenproblem",
+  "minutes": 7,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Kollegen besprechen ein Kundenproblem",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_11_kundenproblem.mp3",
+        "duration_seconds": 38.8,
+        "voices": "jan+klaus"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist das konkrete Problem des Kunden Meierhoff?",
+          "options": [
+            "Seine Bestellung wurde zum dritten Mal falsch geliefert.",
+            "Er hat zu viel bezahlt.",
+            "Seine Bestellung ist komplett verschwunden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Seine Bestellung wurde zum dritten Mal falsch geliefert."
+          },
+          "explanation": "\"seine Bestellung ist zum dritten Mal falsch geliefert worden\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut Kollege 1 die tatsächliche Ursache?",
+          "options": [
+            "Ein Fehler des Kunden bei der Bestellung.",
+            "Ein Streik im Lager.",
+            "Eine falsche Artikelnummer im System."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Eine falsche Artikelnummer im System."
+          },
+          "explanation": "\"es liegt tatsächlich an einer falschen Artikelnummer in unserem System.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt Kollege 2 zusätzlich vor?",
+          "options": [
+            "Den Kunden Meierhoff sofort zu entschädigen.",
+            "Das System komplett neu aufzusetzen.",
+            "Zu prüfen, ob dieselbe Artikelnummer auch andere Bestellungen betrifft."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Zu prüfen, ob dieselbe Artikelnummer auch andere Bestellungen betrifft."
+          },
+          "explanation": "\"sollten wir das nicht nur für diesen einen Kunden korrigieren, sondern prüfen, ob dieselbe Artikelnummer auch bei anderen Bestellungen zu Problemen führt.\""
+        }
+      ]
+    }
+  ]
+}

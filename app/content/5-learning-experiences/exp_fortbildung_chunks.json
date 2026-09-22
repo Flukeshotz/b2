@@ -1,0 +1,154 @@
+{
+  "id": "exp_fortbildung_chunks",
+  "source_id": "src_fortbildung",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Fünf Sätze, mit denen man einen Streit entschärft",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "justify",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Wenn ich Sie richtig verstehe, …",
+      "if I understand you correctly, …",
+      "🔗"
+    ],
+    [
+      "Nur folgt daraus doch nicht automatisch, dass …",
+      "but it doesn't automatically follow that …",
+      "🔗"
+    ],
+    [
+      "Mich stört weniger X als Y",
+      "what actually bothers me is less X than Y",
+      "🔗"
+    ],
+    [
+      "Hätte man uns vorher gefragt, dann wäre …",
+      "if we had been asked first, then … would have",
+      "🔗"
+    ],
+    [
+      "Ich verstehe den Unmut, aber …",
+      "I understand the frustration, but …",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Fünf Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — fünf Züge, mit denen ein Streit sachlich bleibt."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "wenn_ich_sie_richtig_verstehe",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "t": "notice",
+      "w": 4,
+      "ex": "ich_verstehe_den_unmut_aber",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "q": "Wie reagieren Sie zuerst?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A erkennt das Gefühl an, ohne der Forderung zuzustimmen — genau das brauchen Sie hier. B passt nicht, weil noch niemand etwas erklärt hat, das Sie zusammenfassen könnten. C wirkt schroff, bevor überhaupt ein Argument genannt wurde.",
+      "options": [
+        "Ich verstehe den Unmut, aber ich kann daran leider nichts ändern.",
+        "Wenn ich Sie richtig verstehe, ist das Problem also die Besetzung.",
+        "Nur folgt daraus doch nicht automatisch, dass Sie recht haben."
+      ],
+      "exercises": [
+        "ich_verstehe_den_unmut_aber"
+      ],
+      "situation": "Ein Kollege beschwert sich lautstark über eine neue Regel. Sie können daran nichts ändern, wollen aber auch nicht so klingen, als fänden Sie die Beschwerde unwichtig."
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "folgt_daraus_nicht_automatisch",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "q": "Wie widersprechen Sie, ohne die Zahl selbst zu bestreiten?",
+      "t": "chunk_choose",
+      "answer": 1,
+      "explain": "B lässt die Zahl vollständig stehen und bestreitet nur den Schluss, den sie daraus zieht — das lässt ihr nichts zum Verteidigen, weil Sie ihr nichts weggenommen haben. A bestreitet die Tatsache selbst, die Sie gar nicht bezweifeln. C ist nur eine Zusammenfassung, kein Einwand.",
+      "options": [
+        "Das sehe ich anders — die Zahlen sind gar nicht so hoch.",
+        "Nur folgt daraus doch nicht automatisch, dass wir sofort mehr Personal brauchen.",
+        "Wenn ich Sie richtig verstehe, sind die Zahlen also höher."
+      ],
+      "exercises": [
+        "folgt_daraus_nicht_automatisch"
+      ],
+      "situation": "Eine Kollegin sagt: „Die Patientenzahlen sind diesen Monat höher als sonst.“ Das stimmt zweifellos. Trotzdem widersprechen Sie ihrer Idee, deshalb sofort mehr Personal anzufordern."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "stoert_mich_weniger_als",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "haette_man_uns_gefragt",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "q": "Wie sagen Sie, worum es Ihnen wirklich geht?",
+      "t": "chunk_choose",
+      "answer": 1,
+      "explain": "Sie ordnen zwei mögliche Ärgernisse: der Plan selbst ist in Ordnung, das Verfahren nicht. A behauptet das Gegenteil von dem, was Sie eigentlich sagen wollen. C gibt nur eine fremde Begründung wieder, ohne Ihre eigene Position zu nennen.",
+      "options": [
+        "Ich bin mit dem neuen Plan überhaupt nicht einverstanden.",
+        "Mich stört weniger der Plan selbst als die Art, wie er zustande kam.",
+        "Begründet wird das mit der Personallage."
+      ],
+      "exercises": [
+        "stoert_mich_weniger_als"
+      ],
+      "situation": "Ein neuer Dienstplan wurde ohne Rücksprache mit dem Team eingeführt. Sie sind mit dem Ergebnis eigentlich einverstanden — es stört Sie nur, dass niemand vorher gefragt hat."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "folgt_daraus_nicht_automatisch",
+      "hint": "Die Tatsache stehen lassen, nur den Schluss angreifen. Was soll daraus angeblich folgen — und warum folgt es nicht automatisch?",
+      "context": "Jemand sagt Ihnen: „Die Nachfrage nach Spätschichten ist gestiegen.“ Nehmen Sie an, das stimmt. Widersprechen Sie trotzdem dem Schluss, den die Person daraus zieht.",
+      "sourceId": "src_fortbildung"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "haette_man_uns_gefragt",
+      "hint": "Zwei Hälften im Konjunktiv II: die Bedingung, die fehlte — und die Folge, die deshalb nicht eintrat.",
+      "context": "Bei Ihnen wurde einmal etwas entschieden, ohne dass man Sie vorher gefragt hat. Schreiben Sie, was anders gewesen wäre, wenn man es getan hätte.",
+      "sourceId": "src_fortbildung"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_fortbildung_chunks",
+  "created_at": "2026-09-15T15:40:28.137Z",
+  "updated_at": "2026-09-15T15:44:07.756Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

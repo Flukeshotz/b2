@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-8",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 8 — feste Verbindungen mit Präposition",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Der Lärm wirkt sich negativ ___ die Konzentration aus.\"",
+          "options": [
+            "über",
+            "auf",
+            "für"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "auf"
+          },
+          "explanation": "\"Sich auswirken auf etwas\" ist die feste Präposition."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Wir nehmen Rücksicht ___ die Bedürfnisse der Patientinnen.\"",
+          "options": [
+            "für",
+            "von",
+            "auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "auf"
+          },
+          "explanation": "\"Rücksicht nehmen auf etwas/jemanden\" ist die feste Verbindung."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Wir legen großen Wert ___ eine offene Kommunikation.\"",
+          "options": [
+            "in",
+            "auf",
+            "für"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "auf"
+          },
+          "explanation": "\"Wert legen auf etwas\" ist die feste Verbindung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Diese Unannehmlichkeit müssen wir leider ___ Kauf nehmen.\"",
+          "options": [
+            "in",
+            "zu",
+            "auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "in"
+          },
+          "explanation": "\"Etwas in Kauf nehmen\" = eine negative Begleiterscheinung akzeptieren."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Für Rückfragen stehen wir jederzeit ___ Verfügung.\"",
+          "options": [
+            "in der",
+            "auf",
+            "zur"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "zur"
+          },
+          "explanation": "\"Zur Verfügung stehen\" ist die feste Wendung."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ihre Erfahrung bringt einen echten Mehrwert ___ Ausdruck.\"",
+          "options": [
+            "zum",
+            "in den",
+            "auf den"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "zum"
+          },
+          "explanation": "\"Zum Ausdruck bringen\" = etwas sichtbar/deutlich machen."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die neue Regelung tritt ___ Kraft, sobald sie unterschrieben ist.\"",
+          "options": [
+            "in",
+            "auf",
+            "zu"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "in"
+          },
+          "explanation": "\"In Kraft treten\" = ab jetzt gültig werden."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Wir sollten die Situation ___ Auge behalten.\"",
+          "options": [
+            "im",
+            "unter",
+            "am"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "im"
+          },
+          "explanation": "\"Etwas im Auge behalten\" = weiterhin beobachten."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Der Vorschlag steht noch ___ Diskussion.\"",
+          "options": [
+            "zur",
+            "auf",
+            "in der"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "zur"
+          },
+          "explanation": "\"Zur Diskussion stehen\" = noch nicht endgültig entschieden sein."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ihre Anmerkung trifft ___ den Punkt.\"",
+          "options": [
+            "voll auf",
+            "direkt in",
+            "genau"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "genau"
+          },
+          "explanation": "\"Genau den Punkt treffen\" ist die idiomatische Wendung für \"exakt richtig liegen\"."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Diese Entwicklung gibt ___ Anlass zur Sorge.\"",
+          "options": [
+            "keine",
+            "kein",
+            "keinen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "keinen"
+          },
+          "explanation": "\"Der Anlass\" ist maskulin, Akkusativ Singular: \"keinen Anlass\"."
+        }
+      ]
+    }
+  ]
+}

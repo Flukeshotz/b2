@@ -1,0 +1,89 @@
+{
+  "id": "practice-listening-20",
+  "board": "custom",
+  "title": "Hörverstehen — Durchsage im Supermarkt: Produktrückruf",
+  "minutes": 5,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Durchsage im Supermarkt: Produktrückruf",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_20_produktrueckruf.mp3",
+        "duration_seconds": 34,
+        "voices": "katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Produkt ist von dem Rückruf betroffen?",
+          "options": [
+            "Alle Fleischprodukte des Marktes.",
+            "Tiefkühlgemüse.",
+            "Hackfleischpackungen der Marke Frischland."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Hackfleischpackungen der Marke Frischland."
+          },
+          "explanation": "\"Die Hackfleischpackungen der Marke Frischland … können … Metallsplitter enthalten.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kunden benötigen den Kassenbon, um das Geld zurückzuerhalten.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Sie erhalten dort den vollen Kaufpreis erstattet, auch ohne Kassenbon.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sollen Kunden mit dem betroffenen Produkt tun?",
+          "options": [
+            "Es umtauschen gegen ein anderes Produkt derselben Marke.",
+            "Es einfach zu Hause entsorgen.",
+            "Es zur Kundeninformation zurückbringen, nicht essen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Es zur Kundeninformation zurückbringen, nicht essen."
+          },
+          "explanation": "\"bringen Sie es bitte nicht zum Verzehr, sondern zur Kundeninformation zurück.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "exp_feedbackgespraeche_read",
+  "source_id": "src_feedbackgespraeche",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Feedbackgespräche: einmal im Jahr oder laufend?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: jährliches Feedback oder monatliche Gespräche?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_feedbackgespraeche"
+    },
+    {
+      "q": "Wer berichtet von einer konkreten Erfahrung aus einem anderen Betrieb?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 1,
+      "explain": "Klaus_M berichtet von einem Kollegen, bei dem monatliches Feedback in einem früheren Betrieb zu reiner Routine wurde. Die anderen sprechen über die eigene aktuelle Situation, nicht über eine fremde Erfahrung.",
+      "options": [
+        "verena",
+        "klaus2",
+        "annette",
+        "juergen"
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer äußert eine konkrete Sorge über den Zeitpunkt von Kritik, nicht über den Aufwand?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Jürgen_K befürchtet, dass monatliches Feedback bei Problemen zu früh kommt, bevor genug Zeit zur Veränderung war. Annette spricht dagegen über den Vorbereitungsaufwand, ein anderes Problem.",
+      "options": [
+        "verena",
+        "klaus2",
+        "annette",
+        "juergen"
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Klaus_M mit diesem Satz vor allem?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Öfter heißt aber nicht automatisch besser.",
+      "answer": 1,
+      "explain": "Verenas Vorschlag setzt implizit voraus, dass häufiger automatisch besser ist. Klaus bestreitet genau diese Annahme, nicht den Vorschlag als Ganzes — das zeigt sein Beispiel danach, das ein Risiko beschreibt, kein grundsätzliches Nein.",
+      "options": [
+        "Er lehnt häufigeres Feedback grundsätzlich ab.",
+        "Er bestreitet eine unausgesprochene Annahme hinter Verenas Vorschlag.",
+        "Er stimmt Verena vollständig zu."
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Teil des Satzes zu „Das hat schon Vorteile, das gebe ich zu“ davor?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "aber es überzeugt mich trotzdem nicht ganz",
+      "answer": 1,
+      "explain": "Annette bestreitet die Vorteile nicht — sie erkennt sie ausdrücklich an („das gebe ich zu“). Die Skepsis danach ist ein zweiter, eigenständiger Punkt, kein Widerspruch zum ersten.",
+      "options": [
+        "Er widerspricht der Aussage über die Vorteile.",
+        "Er lässt die Vorteile vollständig gelten und fügt trotzdem eine bleibende Skepsis hinzu.",
+        "Er wiederholt die Aussage über die Vorteile.",
+        "Er wechselt das Thema zum Zeitaufwand."
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "structure"
+    },
+    {
+      "q": "Annette erwähnt, dass zwölf Gespräche mehr Zeit kosten als eines. Was folgt daraus für ihre Position zum Vorschlag?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Ihr Einwand betrifft die Vorbereitungszeit als Leitung, nicht den Wert von Feedback selbst — sie hat die Vorteile der Idee ja bereits anerkannt. Ihr Widerstand ist organisatorisch, nicht grundsätzlich.",
+      "options": [
+        "Dass sie monatliches Feedback inhaltlich für falsch hält.",
+        "Dass ihr Einwand vor allem praktisch-organisatorisch ist, nicht inhaltlich.",
+        "Dass sie generell gegen Feedbackgespräche ist."
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Verena_S das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht die Häufigkeit an sich — mich stört, dass niemand gesagt hat, wie kurzes Feedback von echter Beurteilung unterschieden werden soll.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine einfache Befürwortung häufigeren Feedbacks. Am Ende zeigt sich: ihr eigentliches Anliegen ist Jürgens Sorge — dass kurzes Feedback nicht wie ein Urteil wirken soll. Wer nur ihren ersten Beitrag liest, unterschätzt, wie differenziert ihre Position ist.",
+      "options": [
+        "Um zuzugeben, dass ihr erster Vorschlag falsch war.",
+        "Um klarzustellen, dass ihr eigentliches Anliegen eine klare Trennung zwischen Feedback und Beurteilung ist, nicht die Häufigkeit selbst.",
+        "Um Klaus_M vorzuwerfen, dass er zu pessimistisch ist.",
+        "Um vorzuschlagen, ganz auf Feedbackgespräche zu verzichten."
+      ],
+      "sourceId": "src_feedbackgespraeche",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:38:19.284Z",
+  "updated_at": "2026-09-16T07:38:19.284Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

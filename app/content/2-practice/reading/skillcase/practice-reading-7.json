@@ -1,0 +1,141 @@
+{
+  "id": "practice-reading-7",
+  "board": "custom",
+  "title": "Leseverstehen — Fachkräftemangel: Zahlen hinter der Debatte",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Fachkräftemangel: Zahlen hinter der Debatte",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Der Begriff \"Fachkräftemangel in der Pflege\" ist in den letzten Jahren so oft benutzt worden, dass er fast wie eine feststehende Redewendung klingt. Doch was steckt tatsächlich dahinter, wenn man die Zahlen genauer betrachtet?\n\nLaut aktuellen Erhebungen fehlen bundesweit rund 35.000 Vollzeitstellen in der Alten- und Krankenpflege. Interessant ist dabei, dass die Zahl der ausgebildeten Pflegekräfte insgesamt nicht sinkt — im Gegenteil, sie steigt sogar leicht. Das eigentliche Problem liegt woanders: Immer mehr ausgebildete Pflegekräfte arbeiten in Teilzeit oder verlassen den Beruf nach wenigen Jahren wieder, weil die Arbeitsbedingungen als belastend empfunden werden.\n\nEine Befragung unter Berufsaussteigerinnen und -aussteigern nennt drei Hauptgründe: chronische Unterbesetzung im Schichtdienst, fehlende Aufstiegsmöglichkeiten und mangelnde Wertschätzung im Vergleich zur Verantwortung, die der Beruf mit sich bringt. Bemerkenswert ist, dass der Verdienst in dieser Befragung nicht an erster Stelle genannt wird — was viele Debattenbeiträge in den Medien anders darstellen.\n\nDas legt nahe, dass Maßnahmen, die sich allein auf höhere Löhne konzentrieren, das eigentliche Problem nur teilweise lösen würden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was zeigen die Zahlen laut Text bezüglich der Anzahl ausgebildeter Pflegekräfte?",
+          "options": [
+            "Sie ist seit Jahren unverändert.",
+            "Sie ist stark gesunken.",
+            "Sie sinkt nicht, sondern steigt leicht."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie sinkt nicht, sondern steigt leicht."
+          },
+          "explanation": "\"die Zahl der ausgebildeten Pflegekräfte insgesamt nicht sinkt — im Gegenteil, sie steigt sogar leicht\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut der zitierten Befragung ist der Verdienst der wichtigste Grund für den Berufsausstieg.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"der Verdienst … wird nicht an erster Stelle genannt\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Gründe nennt die Befragung unter den drei Hauptgründen für den Berufsausstieg?",
+          "options": [
+            "zu hohe Studiengebühren",
+            "zu lange Anfahrtswege",
+            "fehlende Aufstiegsmöglichkeiten",
+            "chronische Unterbesetzung im Schichtdienst"
+          ],
+          "payload": {
+            "options": [
+              "zu hohe Studiengebühren",
+              "zu lange Anfahrtswege",
+              "fehlende Aufstiegsmöglichkeiten",
+              "chronische Unterbesetzung im Schichtdienst"
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              2,
+              3
+            ],
+            "text": [
+              "fehlende Aufstiegsmöglichkeiten",
+              "chronische Unterbesetzung im Schichtdienst"
+            ]
+          },
+          "explanation": "Der Text nennt explizit Unterbesetzung, fehlende Aufstiegsmöglichkeiten und mangelnde Wertschätzung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Schlussfolgerung zieht der Text aus diesen Ergebnissen?",
+          "options": [
+            "Höhere Löhne würden das Problem vollständig lösen.",
+            "Löhne spielen für das Problem keine Rolle.",
+            "Höhere Löhne allein würden das Problem nur teilweise lösen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Höhere Löhne allein würden das Problem nur teilweise lösen."
+          },
+          "explanation": "\"Maßnahmen, die sich allein auf höhere Löhne konzentrieren, [würden] das eigentliche Problem nur teilweise lösen\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie positioniert sich der Text zur öffentlichen Mediendarstellung des Themas?",
+          "options": [
+            "Er bestätigt sie vollständig.",
+            "Er erwähnt sie gar nicht.",
+            "Er stellt sie implizit infrage, indem er andere Ursachen in den Vordergrund rückt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Er stellt sie implizit infrage, indem er andere Ursachen in den Vordergrund rückt."
+          },
+          "explanation": "\"was viele Debattenbeiträge in den Medien anders darstellen\" — eine deutliche, aber implizite Distanzierung."
+        }
+      ]
+    }
+  ]
+}

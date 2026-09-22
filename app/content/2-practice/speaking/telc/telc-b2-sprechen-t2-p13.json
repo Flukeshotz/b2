@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t2-p13",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #13",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "Behörden, Praxen und Beratungsstellen sprechen immer häufiger über die Frage, ob Termine nur noch online gebucht werden sollten. Immer mehr Stellen verlagern Terminbuchungen ins Internet, um Telefonleitungen zu entlasten. Eine Beratungsstelle testete neben dem Internetkalender täglich zwei Telefonstunden und wertete aus, welche Gruppen welchen Zugang nutzten.\n\nDie Befürworterseite lässt sich so zusammenfassen: Freie Termine sind rund um die Uhr sichtbar und leichter zu verwalten. So könnten Wartezeiten am Telefon reduziert werden. Online sind freie Zeiten jederzeit sichtbar, und eine Bestätigung mit Adresse sowie benötigten Unterlagen lässt sich automatisch verschicken.\n\nDie skeptische Sicht lässt sich an diesem Punkt festmachen: Menschen ohne Internetzugang werden ausgeschlossen. Kritiker befürchten außerdem, dass wichtige Anliegen später bearbeitet werden. Wer kein passendes Gerät, keine stabile Verbindung oder wenig Erfahrung mit Formularen hat, verliert ohne Alternative den Zugang.\n\nEine Familie buchte schnell einen Termin, während ein Nachbar Hilfe beim Onlineformular brauchte. Komplizierte Sicherheitscodes können selbst digital geübte Menschen überfordern, wenn ein Termin dringend benötigt wird.\n\nBesonders bei medizinischen oder rechtlichen Anliegen kann eine falsche Auswahl im Menü ernste Folgen haben. Ein kurzer Hinweis, welche Terminart passt, und eine erreichbare Rückfragefunktion würden verhindern, dass Menschen Wochen auf einen ungeeigneten Termin warten.\n\nOnlinebuchung sollte der Hauptweg sein, ergänzt durch Telefonzeiten und persönliche Hilfe für besondere Situationen. Wichtig wären Daten zu abgebrochenen Buchungen, Wartezeiten und nicht wahrgenommenen Terminen, ohne private Inhalte auszuwerten. Eine ausgewogene Lösung für „Termine nur noch online buchen“ entsteht nur, wenn Nutzen, Grenzen und praktische Verantwortung offen benannt werden. Eine moderne Verwaltung spart Zeit, wenn Digitalisierung Wege öffnet und nicht bloß die bisherige Warteschlange ins Internet verlegt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Termine nur noch online buchen?\n\nDigitale Reservierungen sparen Zeit, doch nicht alle kommen damit zurecht",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Struktur: Kurze Einleitung (Thema nennen), eigene Erfahrungen/Beispiele einbringen, Pro- und Contra-Argumente abwägen, begründete eigene Meinung formulieren, Lösungsvorschläge nennen.",
+              "Redemittel: 'Meiner Erfahrung nach...', 'Einerseits... andererseits...', 'Ich bin der festen Überzeugung, dass...', 'Ein möglicher Kompromiss wäre...', 'Man darf nicht vergessen, dass...'",
+              "Inhaltliche Tiefe: Nicht nur Vor- und Nachteile nennen, sondern konkrete Folgen für verschiedene Gruppen (Ältere, Berufstätige, Menschen mit Sprachbarrieren) beschreiben und die Idee der 'ergänzenden Telefonzeiten' aus dem Text aufgreifen und bewerten.",
+              "Interaktion simulieren: Auch wenn es ein Monolog ist, sollte die Antwort einen diskursiven Charakter haben, z. B. durch rhetorische Fragen oder das Aufgreifen eines möglichen Gegenarguments ('Man könnte jetzt einwenden, dass..., aber...')."
+            ],
+            "expected_answer": "Also, ich finde das Thema wirklich spannend, weil es mich persönlich betrifft. Ich habe letztens versucht, einen Termin beim Bürgeramt zu bekommen, und es ging tatsächlich nur noch online. Für mich als digital affinen Menschen war das super praktisch, ich habe abends um zehn Uhr noch schnell einen freien Slot gebucht. Aber dann habe ich an meine Tante gedacht, die über siebzig ist. Sie hat zwar ein Smartphone, aber diese komplizierten Formulare mit Sicherheitscodes überfordern sie total. Sie würde da einfach aufgeben, und das darf nicht passieren.\n\nEinerseits verstehe ich die Vorteile der reinen Online-Buchung absolut. Wie im Text beschrieben, sind die Termine rund um die Uhr sichtbar, und man spart sich diese ewig langen Warteschleifen am Telefon. Das ist eine enorme Zeitersparnis, besonders für Berufstätige. Auch die automatische Bestätigungsmail mit allen nötigen Unterlagen finde ich sehr effizient. Andererseits, und das ist der entscheidende Punkt für mich, darf Digitalisierung nicht bedeuten, dass wir einen Teil der Gesellschaft einfach ausschließen. Menschen ohne stabilen Internetzugang, mit wenig Deutschkenntnissen oder eben ältere Leute haben dann das Nachsehen. Besonders kritisch finde ich das bei medizinischen Anliegen, wo eine falsche Menü-Auswahl, wie im Text erwähnt, wirklich ernste Folgen haben kann. Wenn jemand mit Schmerzen den falschen Facharzt bucht und dann wochenlang wartet, ist das nicht nur ärgerlich, sondern potenziell gefährlich.\n\nIch bin der festen Überzeugung, dass eine Entweder-oder-Lösung hier der völlig falsche Weg ist. Der Text schlägt ja eine ausgewogene Lösung vor, und ich stimme dem vollkommen zu. Online-Buchung sollte der Hauptweg sein, das ist klar, aber er muss zwingend durch feste Telefonzeiten ergänzt werden. Diese Telefonzeiten müssen aber auch wirklich erreichbar sein und nicht nur eine weitere Warteschleife darstellen. Noch besser fände ich eine persönliche Hilfe vor Ort, vielleicht in Form von Lotsen, die Menschen beim Ausfüllen der Formulare unterstützen. Ein möglicher Kompromiss wäre auch eine einfache Rückruffunktion auf der Webseite, falls man unsicher ist, welche Terminart die richtige ist. So könnte man die Effizienz der Digitalisierung nutzen, ohne die Menschlichkeit und den Zugang für alle zu verlieren. Denn eine moderne Verwaltung, wie der Text so schön sagt, sollte Wege öffnen und nicht nur die Warteschlange ins Internet verlegen. Es geht um praktische Verantwortung, und die bedeutet für mich, niemanden zurückzulassen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

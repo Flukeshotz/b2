@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-2",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 2 — Kollokationen Verb+Nomen",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Passendes Verb: \"Wir müssen dringend eine Entscheidung ___.\"",
+          "options": [
+            "treffen",
+            "machen",
+            "nehmen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "treffen"
+          },
+          "explanation": "Feste Kollokation: \"eine Entscheidung treffen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Auf etwas ___ legen\" — welches Wort fehlt für \"Wert\"?",
+          "options": [
+            "Preis",
+            "Wert",
+            "Bedeutung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wert"
+          },
+          "explanation": "\"Wert auf etwas legen\" ist die feste Wendung für \"etwas wichtig nehmen\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Passendes Verb: \"Die Klinik hat strenge Maßnahmen ___.\"",
+          "options": [
+            "genommen",
+            "gemacht",
+            "ergriffen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "ergriffen"
+          },
+          "explanation": "\"Maßnahmen ergreifen\" ist die feste Kollokation, nicht \"machen\" oder \"nehmen\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Verantwortung ___\" — welches Verb passt?",
+          "options": [
+            "haben nur",
+            "machen",
+            "übernehmen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "übernehmen"
+          },
+          "explanation": "\"Verantwortung übernehmen\" ist die übliche Kollokation für eine aktiv getroffene Zusage."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ein Risiko ___\" — welches Verb fehlt?",
+          "options": [
+            "nehmen",
+            "machen",
+            "eingehen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "eingehen"
+          },
+          "explanation": "\"Ein Risiko eingehen\" ist die feste Verbindung."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Rücksicht ___ nehmen\" — worauf bezieht sich das meistens?",
+          "options": [
+            "auf jemanden/etwas",
+            "von jemandem",
+            "mit jemandem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "auf jemanden/etwas"
+          },
+          "explanation": "\"Rücksicht nehmen auf jemanden/etwas\" ist die feste Präposition."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Passendes Verb: \"Der Bericht ___ alle wichtigen Punkte.\"",
+          "options": [
+            "besteht",
+            "beinhaltet auch beide",
+            "enthält"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "beinhaltet auch beide"
+          },
+          "explanation": "Sowohl \"enthält\" als auch \"beinhaltet\" sind hier korrekt und bedeutungsgleich; \"besteht\" bräuchte \"aus\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Eine Rolle ___\" — welches Verb fehlt?",
+          "options": [
+            "haben",
+            "spielen",
+            "machen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "spielen"
+          },
+          "explanation": "\"Eine Rolle spielen\" ist die feste Kollokation für \"von Bedeutung sein\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Zur Verfügung ___\" — welches Verb passt?",
+          "options": [
+            "sein",
+            "stehen",
+            "haben"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "stehen"
+          },
+          "explanation": "\"Zur Verfügung stehen\" ist die feste Wendung; \"stellen\" wäre die transitive Variante (\"etwas zur Verfügung stellen\")."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Einen Antrag ___\" — welches Verb fehlt?",
+          "options": [
+            "stellen",
+            "geben",
+            "machen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "stellen"
+          },
+          "explanation": "\"Einen Antrag stellen\" ist die feste bürokratische Kollokation."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Im Vordergrund ___\" — welches Verb passt?",
+          "options": [
+            "sein nur",
+            "stehen",
+            "liegen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "stehen"
+          },
+          "explanation": "\"Im Vordergrund stehen\" ist die feste Wendung für \"besonders wichtig sein\"."
+        }
+      ]
+    }
+  ]
+}

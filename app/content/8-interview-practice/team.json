@@ -1,0 +1,11 @@
+{
+  "id": "team",
+  "de": "Wie würden Sie Ihre Zusammenarbeit im Team beschreiben?",
+  "category": "team",
+  "sourced": true,
+  "assesses": "How you behave when the ward is short-staffed and tempers go.",
+  "trap": "Only describing harmony. They are listening for how you handle friction.",
+  "strong": "An example of a disagreement and how it resolved.",
+  "followUp": "Und wenn eine Kollegin einen Fehler macht — wie sprechen Sie das an?",
+  "model_answer": null
+}

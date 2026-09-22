@@ -1,0 +1,57 @@
+{
+  "id": "b2_dienstplan_vergleich",
+  "order_index": 13,
+  "icon": "⚖️",
+  "title": "Zwei Modelle für die Dienstplanung",
+  "capability": "setting advantages against disadvantages and arguing for a solution",
+  "proof": "Systematisch abwägen und Stellung beziehen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Dienstplan-Modelle vergleichen",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Die Pflegedienstleitung prüft eine Neuordnung der Dienstzeiten auf Station 4. Zur Debatte stehen zwei gegensätzliche Konzepte:",
+            "Modell A (Klassischer 3-Schicht-Rhythmus): Feste Früh-, Spät- und Nachtschichten im verlässlichen 5-Tage-Turnus. Jedes zweite Wochenende ist fest frei. Hohe Planungssicherheit und klare Teamstrukturen, aber starre Vorgaben und kaum Spielraum für spontane Freiwünsche.",
+            "Modell B (Wunschdienst- und Springer-Modell): Mitarbeitende tragen ihre Wunschzeiten digital ein. Eine Kernbesetzung wird durch einen internen Springerpool abgesichert. Hohe individuelle Autonomie und bessere Vereinbarkeit von Familie und Beruf, jedoch höherer Abstimmungsaufwand im Team und unruhigere Patientenübergaben."
+          ]
+        },
+        {
+          "t": "notice",
+          "body": "Ein überzeugender Vergleich listet nicht bloß Fakten auf. Er stellt die Aspekte gegenüber (einerseits… andererseits, im Vergleich zu, während), benennt Vor- und Nachteile beider Seiten und mündet in eine begründete Präferenz oder einen gangbaren Kompromiss.",
+          "title": "Auf B2 zählt die Struktur des Vergleichs"
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Verfassen Sie eine vergleichende Stellungnahme für die Stationsbesprechung (mind. 60 Wörter). Stellen Sie beide Modelle gegenüber, wägen Sie Vor- und Nachteile ab und begründen Sie Ihre persönliche Empfehlung oder einen sinnvollen Kompromiss.",
+          "guidance": [
+            "Gegenüberstellung: Nutzen Sie Vergleichsstrukturen (einerseits/andererseits, im Vergleich zu, demgegenüber).",
+            "Abwägung: Benennen Sie explizit Vor- und Nachteile beider Ansätze.",
+            "Positionierung: Formulieren Sie eine begründete Präferenz oder einen Kompromiss (z. B. Kernteam mit Wunschkontingent)."
+          ],
+          "minWords": 60,
+          "taskType": "vergleich",
+          "afterHints": [
+            "Einerseits garantiert Modell A verlässliche Ruhezeiten, andererseits bietet Modell B dem Team mehr Flexibilität.",
+            "Im Vergleich zum starren Schichtsystem hat das Wunschmodell den klaren Vorteil höherer Mitarbeiterzufriedenheit.",
+            "Ich halte daher eine Kombination für am sinnvollsten: feste Kernschichten, ergänzt durch ein faires Wunschdienst-Kontingent."
+          ],
+          "capabilities": [
+            "compare",
+            "justify",
+            "argue"
+          ],
+          "experienceId": "exp_dienstplan_vergleich"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

@@ -1,0 +1,101 @@
+{
+  "id": "src_ueberstunden",
+  "kind": "text",
+  "title": "Überstunden: auszahlen oder abbauen?",
+  "hook": "Fünf Beiträge zu einer Frage, die fast jede Station beschäftigt — und die Person, die den Streit anfängt, will am Ende gar keine allgemeine Regel mehr.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Verallgemeinerung zurückweisen: das mag für X gelten, für Y aber nicht",
+      "eine Bedingung an eine Zustimmung knüpfen: ja, aber nur, wenn …",
+      "eine fremde Position vorsichtig infrage stellen: ist das wirklich so eindeutig?",
+      "einen Kompromiss vorschlagen, ohne ihn zu fordern: denkbar wäre doch, …"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns werden Überstunden grundsätzlich mit Freizeit ausgeglichen, ausgezahlt wird nur in Ausnahmefällen. Ehrlich gesagt verstehe ich das nicht. Ich habe die Stunden gearbeitet, ich will sie bezahlt bekommen, nicht irgendwann als freien Tag, den ich wegen der Personallage sowieso nie nehmen kann.",
+      "when": "Mi 18:22",
+      "handle": "leon",
+      "speaker": "Leon B."
+    },
+    {
+      "de": "Kann ich verstehen, nur: bei uns ist es umgekehrt, und die meisten sind froh drüber. Freizeit lässt sich nicht einfach ausgeben, das stimmt schon — aber Geld verschwindet auch. Am Ende des Jahres hat kaum noch jemand das Gefühl, dass sich die Mehrarbeit gelohnt hat.",
+      "when": "Mi 19:05",
+      "handle": "franzi",
+      "speaker": "Franzi_R"
+    },
+    {
+      "de": "Ich leite unser Team seit zwei Jahren und sehe naturgemäß beide Seiten. Rein rechtlich ist Auszahlung meistens die teurere Option für den Betrieb, deshalb bevorzugen viele Häuser den Freizeitausgleich. Das ist keine böse Absicht, sondern schlicht Kalkulation.",
+      "when": "Do 07:41",
+      "handle": "dennis",
+      "speaker": "Dennis K."
+    },
+    {
+      "de": "@Dennis K. Das mag für die Kalkulation gelten, für die Beschäftigten aber nicht unbedingt. Ist das wirklich so eindeutig? Bei uns wird seit letztem Jahr individuell entschieden: wer will, lässt sich auszahlen, wer will, nimmt frei. Die Kosten sind kaum gestiegen, weil sich das ungefähr die Waage hält.",
+      "when": "Do 09:14",
+      "handle": "priya2",
+      "speaker": "Priya S."
+    },
+    {
+      "de": "Priyas Lösung trifft eigentlich genau das, was ich eigentlich wollte. Mich stört gar nicht so sehr der Freizeitausgleich an sich — mich stört, dass niemand gefragt wurde, was zu wem passt. Denkbar wäre doch, dass jeder für sich wählt, statt dass eine Regel für alle gilt.",
+      "when": "Do 12:30",
+      "handle": "leon",
+      "speaker": "Leon B."
+    }
+  ],
+  "transcript": "Bei uns werden Überstunden grundsätzlich mit Freizeit ausgeglichen, ausgezahlt wird nur in Ausnahmefällen. Ehrlich gesagt verstehe ich das nicht. Ich habe die Stunden gearbeitet, ich will sie bezahlt bekommen, nicht irgendwann als freien Tag, den ich wegen der Personallage sowieso nie nehmen kann.\n\nKann ich verstehen, nur: bei uns ist es umgekehrt, und die meisten sind froh drüber. Freizeit lässt sich nicht einfach ausgeben, das stimmt schon — aber Geld verschwindet auch. Am Ende des Jahres hat kaum noch jemand das Gefühl, dass sich die Mehrarbeit gelohnt hat.\n\nIch leite unser Team seit zwei Jahren und sehe naturgemäß beide Seiten. Rein rechtlich ist Auszahlung meistens die teurere Option für den Betrieb, deshalb bevorzugen viele Häuser den Freizeitausgleich. Das ist keine böse Absicht, sondern schlicht Kalkulation.\n\n@Dennis K. Das mag für die Kalkulation gelten, für die Beschäftigten aber nicht unbedingt. Ist das wirklich so eindeutig? Bei uns wird seit letztem Jahr individuell entschieden: wer will, lässt sich auszahlen, wer will, nimmt frei. Die Kosten sind kaum gestiegen, weil sich das ungefähr die Waage hält.\n\nPriyas Lösung trifft eigentlich genau das, was ich eigentlich wollte. Mich stört gar nicht so sehr der Freizeitausgleich an sich — mich stört, dass niemand gefragt wurde, was zu wem passt. Denkbar wäre doch, dass jeder für sich wählt, statt dass eine Regel für alle gilt.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "live",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: weil, deshalb, und, aber, dass. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch.",
+      "level: script only warns on sentence_complexity — Ø 13.6 Wörter pro Satz, 2 verschiedene Nebensatz-Einleitungen (dass, weil).",
+      "level: script only warns on lexical_range — Abstrakte Nomen: auszahlung, eigentlich. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": "h",
+  "approved_at": "2026-09-16T07:13:22.926Z",
+  "created_at": "2026-09-16T06:52:19.835Z",
+  "updated_at": "2026-09-16T07:52:24.333Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

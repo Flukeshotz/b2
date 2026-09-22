@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-10",
+  "board": "custom",
+  "title": "Leseverstehen — Ratgeber: Wenn ein Kollege ständig widerspricht",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Ratgeber: Wenn ein Kollege ständig widerspricht",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "LESERFRAGE: Ich arbeite seit einem Jahr mit einem Kollegen zusammen, der in Besprechungen fast jeden meiner Vorschläge kritisiert — meistens, ohne selbst eine Alternative zu nennen. Ich bin es leid, mich ständig rechtfertigen zu müssen. Was kann ich tun?\n\nANTWORT DER RATGEBERIN: Zunächst: Sie sind mit diesem Muster nicht allein, und es lohnt sich, zwischen zwei möglichen Ursachen zu unterscheiden. Manche Menschen widersprechen aus echter fachlicher Sorge — dann hilft es, gezielt nachzufragen, WAS genau sie stört, statt sich zu verteidigen. Andere widersprechen aus Gewohnheit oder um sich zu positionieren, unabhängig vom Inhalt. Das erkennen Sie oft daran, dass die Kritik unspezifisch bleibt, selbst wenn Sie nachhaken.\n\nFür den zweiten Fall empfehle ich eine einfache Technik: Bitten Sie den Kollegen aktiv um einen konkreten Gegenvorschlag, bevor die Besprechung weitergeht — zum Beispiel mit \"Was würdest du stattdessen vorschlagen?\" Das verschiebt die Verantwortung vom reinen Kritisieren zum konstruktiven Beitrag, und in vielen Fällen wird der Widerspruch dadurch deutlich seltener, weil er plötzlich Substanz liefern muss.\n\nWichtig ist dabei: Bleiben Sie sachlich und vermeiden Sie es, das Verhalten öffentlich vor dem Team zu kommentieren — das verhärtet die Fronten meist nur weiter.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist laut Ratgeberin der erste Schritt, um die zwei möglichen Ursachen zu unterscheiden?",
+          "options": [
+            "Sich sofort beim Vorgesetzten beschweren.",
+            "Gezielt nachfragen, was genau den Kollegen stört.",
+            "Den Kollegen ignorieren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Gezielt nachfragen, was genau den Kollegen stört."
+          },
+          "explanation": "\"dann hilft es, gezielt nachzufragen, WAS genau sie stört\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Ratgeberin bleibt die Kritik bei Widerspruch aus Gewohnheit meist unspezifisch, auch wenn man nachfragt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Das erkennen Sie oft daran, dass die Kritik unspezifisch bleibt, selbst wenn Sie nachhaken.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche konkrete Technik empfiehlt die Ratgeberin?",
+          "options": [
+            "Alle Vorschläge des Kollegen automatisch ablehnen.",
+            "Den Kollegen vor dem Team kritisieren.",
+            "Aktiv um einen konkreten Gegenvorschlag bitten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Aktiv um einen konkreten Gegenvorschlag bitten."
+          },
+          "explanation": "\"Bitten Sie den Kollegen aktiv um einen konkreten Gegenvorschlag\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum rät die Ratgeberin davon ab, das Verhalten öffentlich vor dem Team zu kommentieren?",
+          "options": [
+            "Weil das gegen die Firmenregeln verstößt.",
+            "Weil das die Situation meist nur verhärtet.",
+            "Weil der Kollege das nicht bemerken würde."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Weil das die Situation meist nur verhärtet."
+          },
+          "explanation": "\"das verhärtet die Fronten meist nur weiter\"."
+        }
+      ]
+    }
+  ]
+}

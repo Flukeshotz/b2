@@ -1,0 +1,484 @@
+{
+  "id": "src_muede",
+  "kind": "audio",
+  "title": "Warum sind wir immer müde?",
+  "hook": "Wir schlafen mehr als früher. Warum fühlt es sich nicht so an?",
+  "theme": 7,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Hören Aufgabe 2 — ca. 10 Minuten, zweimal gehört, abschnittweise",
+    "theme": 7,
+    "checks": [
+      "connector_range"
+    ],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "inference_required",
+        "implicit_cohesion"
+      ],
+      "delivery": [
+        "authentic_speed",
+        "self_interruption"
+      ]
+    },
+    "experience_types": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "writing"
+    ],
+    "language_resources": [
+      "concessive connectors in natural speech: zwar…aber, das stimmt schon, nur…",
+      "academic nominalisation vs colloquial register, side by side",
+      "das liegt vor allem daran, dass …",
+      "sich auf Dauer rächen · etwas in Kauf nehmen · im Schnitt",
+      "das lässt sich nicht pauschal sagen"
+    ],
+    "primary_capability": "understand_speech",
+    "secondary_capabilities": [
+      "concede",
+      "argue",
+      "justify"
+    ]
+  },
+  "script": [
+    {
+      "de": "Guten Abend und willkommen bei „Nachgefragt“. Wir schlafen im Schnitt etwa siebeneinhalb Stunden pro Nacht – ein bisschen mehr als noch vor zwanzig Jahren. Trotzdem sagt fast jeder Zweite in Deutschland, er sei ständig müde. Wie passt das zusammen? Darüber spreche ich heute mit Dr. Martin Bergmann, Schlafforscher an der Universität Freiburg, und mit Yvonne Krause, Krankenpflegerin auf einer Intensivstation in Kassel. Schönen guten Abend, Ihnen beiden.",
+      "ms": 0,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Guten Abend.",
+      "ms": 30328,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Hallo.",
+      "ms": 31767,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Herr Dr. Bergmann, fangen wir bei Ihnen an. Wir schlafen länger, und wir sind trotzdem müder. Wie erklären Sie das?",
+      "ms": 32761,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Das liegt vor allem daran, dass Schlafdauer und Schlafqualität zwei völlig verschiedene Dinge sind. Die reine Zeit im Bett sagt erstaunlich wenig aus. Entscheidend ist, ob der Schlaf zur richtigen Tageszeit stattfindet und ob er durchgängig ist. Und genau da beobachten wir seit etwa fünfzehn Jahren eine deutliche Verschlechterung.",
+      "ms": 42200,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Und woran liegt diese Verschlechterung?",
+      "ms": 64528,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Zu einem großen Teil an unserem eigenen Verhalten. Wir gehen später ins Bett, wir schauen bis kurz vor dem Einschlafen auf helle Bildschirme, wir trinken abends Koffein. Das sind alles Faktoren, die sich gut messen lassen – und die sich auf Dauer rächen.",
+      "ms": 67300,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Frau Krause, Sie schauen skeptisch.",
+      "ms": 86961,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Ja, entschuldigen Sie. Ich … also, ich möchte dem Herrn Doktor überhaupt nicht widersprechen, was die Forschung angeht. Das stimmt ja alles. Nur – bei uns auf Station ist das eben nicht das Problem.",
+      "ms": 89733,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Sondern?",
+      "ms": 105394,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Der Dienstplan. Ich arbeite im Dreischichtsystem. Diese Woche Spätdienst bis halb elf, nächste Woche Frühdienst, aufstehen um Viertel vor fünf. Da können Sie abends machen, was Sie wollen. Kein Bildschirm, kein Kaffee, Meditation, was auch immer – der Körper kommt da einfach nicht hinterher.",
+      "ms": 106389,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Da haben Sie völlig recht. Schichtarbeit ist natürlich ein Sonderfall …",
+      "ms": 126494,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Ein Sonderfall? Entschuldigung, aber in Deutschland arbeiten etwa sechs Millionen Menschen im Schichtdienst. Das ist kein Sonderfall. Das ist der Alltag von sehr vielen Leuten.",
+      "ms": 131933,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Das ist ein berechtigter Einwand. Ich formuliere es anders: Schichtarbeit ist der Fall, in dem individuelle Schlafhygiene an ihre Grenzen stößt. Da bin ich ganz bei Ihnen.",
+      "ms": 143594,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Danke.",
+      "ms": 156144,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Aber, Frau Krause – wenn die ganzen Ratschläge nichts bringen, was hilft denn dann?",
+      "ms": 157139,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Doch, sie bringen schon etwas, das will ich gar nicht kleinreden. Ich schlafe tatsächlich besser, seit das Handy nicht mehr im Schlafzimmer liegt. Das merke ich. Aber es ändert eben nichts daran, dass ich um Viertel vor fünf aufstehe. Die eine Stunde, die ich dazugewinne, hilft mir zwar – aber sie ersetzt nicht die drei, die mir fehlen.",
+      "ms": 163911,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Herr Dr. Bergmann, was passiert denn im Körper, wenn der Schlaf dauerhaft zur falschen Zeit stattfindet?",
+      "ms": 190239,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Der Körper folgt einer inneren Uhr, die sich am Tageslicht orientiert, und diese Uhr lässt sich nicht beliebig verschieben. Wenn ich nachts arbeite und tagsüber schlafe, schüttet mein Körper trotzdem zur gewohnten Zeit die Hormone aus, die mich wach machen. Die Folge ist ein Schlaf, der zwar stattfindet, aber deutlich flacher ist. Über viele Jahre erhöht das nachweislich das Risiko für Herz-Kreislauf-Erkrankungen.",
+      "ms": 197900,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Das klingt ernst.",
+      "ms": 226006,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Es ist ernst. Ich möchte es allerdings auch nicht dramatisieren. Das Risiko steigt – das heißt nicht, dass jeder Schichtarbeiter krank wird.",
+      "ms": 227889,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Das hört man trotzdem nicht gern. Man nimmt das ja in Kauf, wenn man den Beruf wählt. Ich wusste ganz genau, worauf ich mich einlasse. Nur – mit Mitte zwanzig denkt man darüber anders als mit vierzig.",
+      "ms": 238217,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Können Sie das etwas genauer beschreiben?",
+      "ms": 255211,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Ja. Also, früher – ich habe mit dreiundzwanzig angefangen – da bin ich nach dem Nachtdienst nach Hause gefahren, habe vier Stunden geschlafen und bin abends noch weggegangen. Das ging einfach. Heute brauche ich nach einer Nachtschicht zwei Tage, bis ich wieder normal bin. Zwei Tage, in denen ich zu nichts zu gebrauchen bin. Und ich bin einundvierzig. Ich bin ja nun wirklich nicht alt.",
+      "ms": 258428,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Das deckt sich mit den Daten. Die Anpassungsfähigkeit an wechselnde Schichten nimmt ab etwa vierzig deutlich ab. Das ist einer der Gründe, warum viele Pflegekräfte den Beruf genau in diesem Alter verlassen.",
+      "ms": 287867,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Bei uns sind in zwei Jahren vier Kolleginnen gegangen. Alle zwischen vierzig und fünfzig. Und keine einzige davon, weil ihr die Arbeit nicht gefallen hätte.",
+      "ms": 302639,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Das heißt, die Verantwortung liegt woanders?",
+      "ms": 314300,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Sie liegt jedenfalls nicht nur beim Einzelnen. Wir haben sehr lange sehr stark auf das Individuum geschaut: Was macht der Einzelne falsch? Diese Perspektive greift zu kurz. Ob ein Betrieb seine Schichten vorwärts rotieren lässt – also Früh, Spät, Nacht – oder rückwärts, hat einen messbaren Effekt auf die Erholung der Beschäftigten. Und das ist eine betriebliche Entscheidung, keine private.",
+      "ms": 317517,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Vorwärts rotieren. Ja. Das wäre bei uns … das wäre ein Traum. Das ist bei uns seit Jahren Thema, und es ändert sich nichts.",
+      "ms": 344733,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Warum ändert sich nichts?",
+      "ms": 355950,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Weil es Geld kostet. Und weil es kompliziert ist. Man müsste mehr Leute einstellen oder die Dienste anders verteilen, und dafür bräuchte man Personal, das wir gar nicht haben. Das ist so ein Kreis, aus dem keiner rauskommt.",
+      "ms": 358278,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Wir haben dazu eine Zuschrift bekommen, von einem Hörer aus Dortmund. Er fragt: Wäre es nicht am einfachsten, die Nachtschichten einfach kürzer zu machen?",
+      "ms": 375717,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Das wird tatsächlich diskutiert. Es gibt Modelle mit sechs statt acht Stunden in der Nacht, und die Ergebnisse sind durchaus vielversprechend. Die Beschäftigten erholen sich schneller, und die Fehlerquote in den frühen Morgenstunden sinkt messbar.",
+      "ms": 386933,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Und wer übernimmt die zwei Stunden?",
+      "ms": 403039,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Das ist die entscheidende Frage, ja.",
+      "ms": 406256,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Sehen Sie, genau da liegt bei uns das Problem. Kürzere Schichten heißt mehr Übergaben. Und jede Übergabe kostet Zeit, in der niemand am Bett steht. Wir haben das mal durchgerechnet, im Team. Bei drei statt zwei Schichten pro Tag verlieren wir am Ende ungefähr eine Stunde Pflege – pro Station, pro Tag.",
+      "ms": 409472,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Das ist ein Punkt, den ich in der Diskussion selten höre, und er ist berechtigt. In der Forschung schauen wir sehr stark auf die Erholung der Beschäftigten. Was so ein Modell im Betrieb tatsächlich auslöst, sehen wir oft erst hinterher.",
+      "ms": 433133,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Ich will das ja auch nicht schlechtreden. Sechs Stunden wären für mich persönlich besser, das ist überhaupt keine Frage. Nur muss man eben dazusagen, was es an anderer Stelle kostet.",
+      "ms": 451461,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Also kein einfaches Rezept.",
+      "ms": 465344,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Nein. Es gibt bei diesem Thema kein einfaches Rezept.",
+      "ms": 467672,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Herr Bergmann, ist das lösbar?",
+      "ms": 472222,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Lösbar schon. Es lässt sich allerdings nicht pauschal sagen, was der richtige Weg ist. Was in einem großen Klinikum funktioniert, funktioniert in einem kleinen Pflegeheim noch lange nicht. Man müsste sich im Grunde jeden Betrieb einzeln ansehen.",
+      "ms": 474994,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Und wer macht das?",
+      "ms": 491989,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Das ist eine gute Frage. Zurzeit: kaum jemand.",
+      "ms": 494317,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Sehen Sie.",
+      "ms": 498422,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Frau Krause, eine letzte Frage an Sie. Wenn Sie sich etwas wünschen dürften – was wäre das?",
+      "ms": 499861,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Ganz ehrlich? Keine Schlaf-App. Keinen Ratgeber. Ich würde mir wünschen, dass ich meinen Dienstplan vier Wochen im Voraus kenne und nicht erst am Freitag davor. Planbarkeit. Das klingt langweilig, ich weiß. Aber das würde mir mehr bringen als alles andere.",
+      "ms": 507967,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "de": "Da würde ich Ihnen sogar zustimmen. Vorhersehbarkeit ist einer der stärksten Faktoren, die wir kennen. Und sie kostet vergleichsweise wenig.",
+      "ms": 526294,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Ein seltener Moment der Einigkeit. Frau Krause, Herr Dr. Bergmann – vielen Dank, dass Sie hier waren.",
+      "ms": 535733,
+      "style": null,
+      "voice": "katja",
+      "speaker": "Moderatorin"
+    },
+    {
+      "de": "Sehr gerne.",
+      "ms": 543839,
+      "style": null,
+      "voice": "conrad",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "de": "Danke Ihnen.",
+      "ms": 545278,
+      "style": "sad",
+      "voice": "mia",
+      "speaker": "Yvonne Krause"
+    }
+  ],
+  "transcript": "Moderatorin: Guten Abend und willkommen bei „Nachgefragt“. Wir schlafen im Schnitt etwa siebeneinhalb Stunden pro Nacht – ein bisschen mehr als noch vor zwanzig Jahren. Trotzdem sagt fast jeder Zweite in Deutschland, er sei ständig müde. Wie passt das zusammen? Darüber spreche ich heute mit Dr. Martin Bergmann, Schlafforscher an der Universität Freiburg, und mit Yvonne Krause, Krankenpflegerin auf einer Intensivstation in Kassel. Schönen guten Abend, Ihnen beiden.\n\nDr. Bergmann: Guten Abend.\n\nYvonne Krause: Hallo.\n\nModeratorin: Herr Dr. Bergmann, fangen wir bei Ihnen an. Wir schlafen länger, und wir sind trotzdem müder. Wie erklären Sie das?\n\nDr. Bergmann: Das liegt vor allem daran, dass Schlafdauer und Schlafqualität zwei völlig verschiedene Dinge sind. Die reine Zeit im Bett sagt erstaunlich wenig aus. Entscheidend ist, ob der Schlaf zur richtigen Tageszeit stattfindet und ob er durchgängig ist. Und genau da beobachten wir seit etwa fünfzehn Jahren eine deutliche Verschlechterung.\n\nModeratorin: Und woran liegt diese Verschlechterung?\n\nDr. Bergmann: Zu einem großen Teil an unserem eigenen Verhalten. Wir gehen später ins Bett, wir schauen bis kurz vor dem Einschlafen auf helle Bildschirme, wir trinken abends Koffein. Das sind alles Faktoren, die sich gut messen lassen – und die sich auf Dauer rächen.\n\nModeratorin: Frau Krause, Sie schauen skeptisch.\n\nYvonne Krause: Ja, entschuldigen Sie. Ich … also, ich möchte dem Herrn Doktor überhaupt nicht widersprechen, was die Forschung angeht. Das stimmt ja alles. Nur – bei uns auf Station ist das eben nicht das Problem.\n\nModeratorin: Sondern?\n\nYvonne Krause: Der Dienstplan. Ich arbeite im Dreischichtsystem. Diese Woche Spätdienst bis halb elf, nächste Woche Frühdienst, aufstehen um Viertel vor fünf. Da können Sie abends machen, was Sie wollen. Kein Bildschirm, kein Kaffee, Meditation, was auch immer – der Körper kommt da einfach nicht hinterher.\n\nDr. Bergmann: Da haben Sie völlig recht. Schichtarbeit ist natürlich ein Sonderfall …\n\nYvonne Krause: Ein Sonderfall? Entschuldigung, aber in Deutschland arbeiten etwa sechs Millionen Menschen im Schichtdienst. Das ist kein Sonderfall. Das ist der Alltag von sehr vielen Leuten.\n\nDr. Bergmann: Das ist ein berechtigter Einwand. Ich formuliere es anders: Schichtarbeit ist der Fall, in dem individuelle Schlafhygiene an ihre Grenzen stößt. Da bin ich ganz bei Ihnen.\n\nYvonne Krause: Danke.\n\nModeratorin: Aber, Frau Krause – wenn die ganzen Ratschläge nichts bringen, was hilft denn dann?\n\nYvonne Krause: Doch, sie bringen schon etwas, das will ich gar nicht kleinreden. Ich schlafe tatsächlich besser, seit das Handy nicht mehr im Schlafzimmer liegt. Das merke ich. Aber es ändert eben nichts daran, dass ich um Viertel vor fünf aufstehe. Die eine Stunde, die ich dazugewinne, hilft mir zwar – aber sie ersetzt nicht die drei, die mir fehlen.\n\nModeratorin: Herr Dr. Bergmann, was passiert denn im Körper, wenn der Schlaf dauerhaft zur falschen Zeit stattfindet?\n\nDr. Bergmann: Der Körper folgt einer inneren Uhr, die sich am Tageslicht orientiert, und diese Uhr lässt sich nicht beliebig verschieben. Wenn ich nachts arbeite und tagsüber schlafe, schüttet mein Körper trotzdem zur gewohnten Zeit die Hormone aus, die mich wach machen. Die Folge ist ein Schlaf, der zwar stattfindet, aber deutlich flacher ist. Über viele Jahre erhöht das nachweislich das Risiko für Herz-Kreislauf-Erkrankungen.\n\nModeratorin: Das klingt ernst.\n\nDr. Bergmann: Es ist ernst. Ich möchte es allerdings auch nicht dramatisieren. Das Risiko steigt – das heißt nicht, dass jeder Schichtarbeiter krank wird.\n\nYvonne Krause: Das hört man trotzdem nicht gern. Man nimmt das ja in Kauf, wenn man den Beruf wählt. Ich wusste ganz genau, worauf ich mich einlasse. Nur – mit Mitte zwanzig denkt man darüber anders als mit vierzig.\n\nModeratorin: Können Sie das etwas genauer beschreiben?\n\nYvonne Krause: Ja. Also, früher – ich habe mit dreiundzwanzig angefangen – da bin ich nach dem Nachtdienst nach Hause gefahren, habe vier Stunden geschlafen und bin abends noch weggegangen. Das ging einfach. Heute brauche ich nach einer Nachtschicht zwei Tage, bis ich wieder normal bin. Zwei Tage, in denen ich zu nichts zu gebrauchen bin. Und ich bin einundvierzig. Ich bin ja nun wirklich nicht alt.\n\nDr. Bergmann: Das deckt sich mit den Daten. Die Anpassungsfähigkeit an wechselnde Schichten nimmt ab etwa vierzig deutlich ab. Das ist einer der Gründe, warum viele Pflegekräfte den Beruf genau in diesem Alter verlassen.\n\nYvonne Krause: Bei uns sind in zwei Jahren vier Kolleginnen gegangen. Alle zwischen vierzig und fünfzig. Und keine einzige davon, weil ihr die Arbeit nicht gefallen hätte.\n\nModeratorin: Das heißt, die Verantwortung liegt woanders?\n\nDr. Bergmann: Sie liegt jedenfalls nicht nur beim Einzelnen. Wir haben sehr lange sehr stark auf das Individuum geschaut: Was macht der Einzelne falsch? Diese Perspektive greift zu kurz. Ob ein Betrieb seine Schichten vorwärts rotieren lässt – also Früh, Spät, Nacht – oder rückwärts, hat einen messbaren Effekt auf die Erholung der Beschäftigten. Und das ist eine betriebliche Entscheidung, keine private.\n\nYvonne Krause: Vorwärts rotieren. Ja. Das wäre bei uns … das wäre ein Traum. Das ist bei uns seit Jahren Thema, und es ändert sich nichts.\n\nModeratorin: Warum ändert sich nichts?\n\nYvonne Krause: Weil es Geld kostet. Und weil es kompliziert ist. Man müsste mehr Leute einstellen oder die Dienste anders verteilen, und dafür bräuchte man Personal, das wir gar nicht haben. Das ist so ein Kreis, aus dem keiner rauskommt.\n\nModeratorin: Wir haben dazu eine Zuschrift bekommen, von einem Hörer aus Dortmund. Er fragt: Wäre es nicht am einfachsten, die Nachtschichten einfach kürzer zu machen?\n\nDr. Bergmann: Das wird tatsächlich diskutiert. Es gibt Modelle mit sechs statt acht Stunden in der Nacht, und die Ergebnisse sind durchaus vielversprechend. Die Beschäftigten erholen sich schneller, und die Fehlerquote in den frühen Morgenstunden sinkt messbar.\n\nYvonne Krause: Und wer übernimmt die zwei Stunden?\n\nDr. Bergmann: Das ist die entscheidende Frage, ja.\n\nYvonne Krause: Sehen Sie, genau da liegt bei uns das Problem. Kürzere Schichten heißt mehr Übergaben. Und jede Übergabe kostet Zeit, in der niemand am Bett steht. Wir haben das mal durchgerechnet, im Team. Bei drei statt zwei Schichten pro Tag verlieren wir am Ende ungefähr eine Stunde Pflege – pro Station, pro Tag.\n\nDr. Bergmann: Das ist ein Punkt, den ich in der Diskussion selten höre, und er ist berechtigt. In der Forschung schauen wir sehr stark auf die Erholung der Beschäftigten. Was so ein Modell im Betrieb tatsächlich auslöst, sehen wir oft erst hinterher.\n\nYvonne Krause: Ich will das ja auch nicht schlechtreden. Sechs Stunden wären für mich persönlich besser, das ist überhaupt keine Frage. Nur muss man eben dazusagen, was es an anderer Stelle kostet.\n\nModeratorin: Also kein einfaches Rezept.\n\nDr. Bergmann: Nein. Es gibt bei diesem Thema kein einfaches Rezept.\n\nModeratorin: Herr Bergmann, ist das lösbar?\n\nDr. Bergmann: Lösbar schon. Es lässt sich allerdings nicht pauschal sagen, was der richtige Weg ist. Was in einem großen Klinikum funktioniert, funktioniert in einem kleinen Pflegeheim noch lange nicht. Man müsste sich im Grunde jeden Betrieb einzeln ansehen.\n\nModeratorin: Und wer macht das?\n\nDr. Bergmann: Das ist eine gute Frage. Zurzeit: kaum jemand.\n\nYvonne Krause: Sehen Sie.\n\nModeratorin: Frau Krause, eine letzte Frage an Sie. Wenn Sie sich etwas wünschen dürften – was wäre das?\n\nYvonne Krause: Ganz ehrlich? Keine Schlaf-App. Keinen Ratgeber. Ich würde mir wünschen, dass ich meinen Dienstplan vier Wochen im Voraus kenne und nicht erst am Freitag davor. Planbarkeit. Das klingt langweilig, ich weiß. Aber das würde mir mehr bringen als alles andere.\n\nDr. Bergmann: Da würde ich Ihnen sogar zustimmen. Vorhersehbarkeit ist einer der stärksten Faktoren, die wir kennen. Und sie kostet vergleichsweise wenig.\n\nModeratorin: Ein seltener Moment der Einigkeit. Frau Krause, Herr Dr. Bergmann – vielen Dank, dass Sie hier waren.\n\nDr. Bergmann: Sehr gerne.\n\nYvonne Krause: Danke Ihnen.",
+  "audio_url": "/b2/audio/src_muede_s1.mp3",
+  "duration_s": 547,
+  "markers": [
+    {
+      "en": "that is mainly because …",
+      "ms": 42200,
+      "why": "How a German speaker opens an explanation. Sets up a reason without saying „weil“ three times.",
+      "match": "liegt vor allem daran",
+      "phrase": "das liegt vor allem daran, dass …",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "en": "to catch up with you eventually",
+      "ms": 67300,
+      "why": "Fixed pair. The verb is the part that is fixed — never „auf Dauer bestrafen“.",
+      "match": "auf Dauer rächen",
+      "phrase": "sich auf Dauer rächen",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "en": "on average",
+      "ms": 0,
+      "why": "Shorter and far more common in speech than „durchschnittlich“.",
+      "match": "im Schnitt",
+      "phrase": "im Schnitt",
+      "speaker": "Moderatorin"
+    },
+    {
+      "en": "to accept something as a trade-off",
+      "ms": 238217,
+      "why": "Exactly what you need for conceding a downside you chose knowingly.",
+      "match": "in Kauf",
+      "phrase": "etwas in Kauf nehmen",
+      "speaker": "Yvonne Krause"
+    },
+    {
+      "en": "you cannot say that across the board",
+      "ms": 474994,
+      "why": "The single most useful hedge at B2. It refuses a generalisation without refusing the question.",
+      "match": "pauschal sagen",
+      "phrase": "das lässt sich nicht pauschal sagen",
+      "speaker": "Dr. Bergmann"
+    },
+    {
+      "en": "I don't want to play that down",
+      "ms": 163911,
+      "why": "A concession marker. She uses it to give ground before taking it back.",
+      "match": "kleinreden",
+      "phrase": "das will ich gar nicht kleinreden",
+      "speaker": "Yvonne Krause"
+    }
+  ],
+  "status": "live",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "exp_muede_chunks: taught chunk \"etwas in Kauf nehmen\" is hard to find in its own quote",
+      "expression \"in_kauf_nehmen\": \"nehmen\" is in the citation but not in the source line it claims to come from",
+      "level: script only warns on lexical_range — Abstrakte Nomen: universität, schlafqualität, erstaunlich, verschlechterung, forschung. Wortvielfalt 60%."
+    ]
+  },
+  "review_notes": "Previously teacher-approved. Re-opened: two expression records and two production prompts were added to bring the vocabulary experience past the new production gate. Only the NEW German needs review.",
+  "approved_by": "prototype:pending_teacher",
+  "approved_at": "2026-09-09T08:03:49.622Z",
+  "created_at": "2026-09-05T13:37:48.604Z",
+  "updated_at": "2026-09-09T08:03:49.680Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

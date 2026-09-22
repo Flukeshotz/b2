@@ -1,0 +1,131 @@
+{
+  "id": "exp_teambesprechung_read",
+  "source_id": "src_teambesprechung",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Digitale Teambesprechungen: sinnvoll oder Zeitverschwendung?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: sollten Teambesprechungen digital bleiben, obwohl alle im selben Gebäude arbeiten?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "q": "Wer stützt eine Beobachtung mit einer konkreten, wenn auch ungefähren Zahl?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Yara_P nennt eine ungefähre Zahl — „von den letzten zehn Besprechungen war ungefähr die Hälfte reine Information“ —, um ihre Beobachtung zu stützen. Die anderen äußern Eindrücke ohne Zahlen.",
+      "options": [
+        "simone",
+        "bernd",
+        "walter",
+        "yara"
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer erklärt, warum das digitale Format ursprünglich eingeführt wurde?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Walter_L erklärt den ursprünglichen Grund — eine Phase im Homeoffice — und räumt ein, dass sich das Format seitdem unhinterfragt fortgesetzt hat. Die anderen sprechen über den heutigen Nutzen, nicht über die Entstehung.",
+      "options": [
+        "simone",
+        "bernd",
+        "walter",
+        "yara"
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Bernd_T mit dieser Aussage?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Ich vermute, dass es eher daran liegt, dass sich digital niemand die Zeit nimmt, einen Raum zu buchen",
+      "answer": 1,
+      "explain": "„Ich vermute“ markiert die Aussage ausdrücklich als Annahme, nicht als gesicherte Tatsache — anders als etwa Yaras Beobachtung, die auf einer tatsächlichen Zählung beruht.",
+      "options": [
+        "Er behauptet mit Sicherheit, warum digitale Treffen bevorzugt werden.",
+        "Er bietet eine mögliche Erklärung an, markiert sie aber ausdrücklich als Vermutung.",
+        "Er zitiert eine offizielle Begründung des Betriebs."
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Teil zu „Für kurze Absprachen funktioniert digital eigentlich ganz gut“ davor?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "für längere Diskussionen nicht mehr",
+      "answer": 1,
+      "explain": "Bernd bestreitet nicht, dass digitale Treffen für kurze Absprachen funktionieren — er zieht nur eine Grenze, ab der es seiner Meinung nach nicht mehr funktioniert. Beide Teile ergänzen sich zu einer differenzierten Position.",
+      "options": [
+        "Er widerspricht der ersten Aussage vollständig.",
+        "Er grenzt die erste Aussage auf einen bestimmten Fall ein, ohne sie zu widerlegen.",
+        "Er wiederholt die erste Aussage mit anderen Worten.",
+        "Er wechselt zu einem völlig neuen Thema."
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "structure"
+    },
+    {
+      "q": "Walter schreibt, ihm sei erst kürzlich selbst aufgefallen, dass niemand das Format neu entschieden hat. Was zeigt das über die Entstehung der aktuellen Praxis?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Eine Regelung, die „einfach so weiterläuft, ohne dass es jemand neu entschieden hat“, ist typisch für Gewohnheiten, die nie bewusst überprüft wurden — nicht für eine geplante, dauerhafte Entscheidung.",
+      "options": [
+        "Dass die Praxis bewusst und sorgfältig geplant wurde.",
+        "Dass sich eine ursprünglich befristete Lösung ohne erneute Entscheidung zur Dauerpraxis entwickelt hat.",
+        "Dass Walter die Entscheidung absichtlich geheim gehalten hat."
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Simone_K das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht das digitale Format an sich — mich stört, dass wir nie unterscheiden, wofür es passt und wofür nicht.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine grundsätzliche Infragestellung des digitalen Formats. Am Ende zeigt sich: sie will keine Abschaffung, sondern eine bewusste Unterscheidung — genau Yaras und Bernds Punkte zusammengeführt. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin digitaler Treffen. Das ist sie nicht.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Frage überflüssig war.",
+        "Um klarzustellen, dass ihr eigentliches Anliegen eine differenzierte Nutzung ist, nicht die Abschaffung des digitalen Formats.",
+        "Um Bernd_T vorzuwerfen, dass er zu unentschlossen ist.",
+        "Um vorzuschlagen, komplett zu Präsenztreffen zurückzukehren."
+      ],
+      "sourceId": "src_teambesprechung",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:47:18.239Z",
+  "updated_at": "2026-09-16T07:47:18.239Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

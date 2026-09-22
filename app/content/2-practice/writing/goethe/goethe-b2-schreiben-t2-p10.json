@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p10",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #10",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie machen eine Ausbildung. Ihre Ausbilderin bittet alle Auszubildenden, Ideen für einen besseren Informationsaustausch im Team zu schicken. Schreiben Sie eine Nachricht an Ihre Ausbilderin, Frau Neumann.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie machen eine Ausbildung. Ihre Ausbilderin bittet alle Auszubildenden, Ideen für einen besseren Informationsaustausch im Team zu schicken. Schreiben Sie eine Nachricht an Ihre Ausbilderin, Frau Neumann.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie machen eine Ausbildung. Ihre Ausbilderin bittet alle Auszubildenden, Ideen für einen besseren Informationsaustausch im Team zu schicken. Schreiben Sie eine Nachricht an Ihre Ausbilderin, Frau Neumann.",
+            "guidance": [
+              "Erklären Sie, welches Problem Sie im Moment sehen.",
+              "Machen Sie einen konkreten Vorschlag.",
+              "Nennen Sie einen Vorteil Ihres Vorschlags.",
+              "Bieten Sie an, beim Testen zu helfen."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie, welches Problem Sie im Moment sehen.",
+              "Machen Sie einen konkreten Vorschlag.",
+              "Nennen Sie einen Vorteil Ihres Vorschlags.",
+              "Bieten Sie an, beim Testen zu helfen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Einleitung mit höflichem Bezug auf die Bitte der Ausbilderin und Nennung des eigenen Anliegens.",
+              "Klare, konkrete Beschreibung eines aktuellen Problems beim Informationsaustausch (z. B. zu viele E-Mails, wichtige Infos gehen unter).",
+              "Ein praktischer, nachvollziehbarer Lösungsvorschlag (z. B. ein digitales Tool, ein tägliches kurzes Meeting, ein gemeinsames Board).",
+              "Überzeugende Begründung des Vorteils (z. B. Zeitersparnis, zentrale Übersicht, weniger Missverständnisse) und ein konkretes Hilfsangebot beim Testen."
+            ],
+            "expected_answer": "Liebe Frau Neumann,\n\nvielen Dank für Ihre Nachricht. Ich finde es sehr gut, dass wir uns Gedanken über einen besseren Informationsaustausch machen, denn momentan sehe ich ein Problem mit den vielen täglichen E-Mails. Oft gehen wichtige Informationen in der Masse unter oder werden zu spät gelesen, was zu Missverständnissen führen kann.\n\nMein konkreter Vorschlag wäre, eine zentrale digitale Pinnwand, zum Beispiel mit Microsoft Teams oder Trello, einzurichten. Dort könnten wir alle wichtigen Neuigkeiten, Aufgaben und Termine übersichtlich für das gesamte Team ablegen, sodass jeder sofort den aktuellen Stand sieht.\n\nDer größte Vorteil wäre, dass die Informationen gebündelt an einem Ort sind und wir nicht mehr lange in unserem Postfach suchen müssen. Das spart viel Zeit und macht die Kommunikation effizienter. Ich würde mich sehr freuen, wenn wir diese Idee testen könnten, und helfe gerne bei der Einrichtung und der Testphase.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

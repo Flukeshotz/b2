@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t1-p4",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #4",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Teamarbeit im Beruf\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Einleitung mit Begrüßung und Nennung des gewählten Themas (Thema 1 oder 2).",
+              "Strukturierte Darstellung von 2–3 Hauptaspekten mit persönlichen Beispielen oder Erfahrungen.",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z. B. ‚Zunächst möchte ich auf … eingehen‘, ‚Ein weiterer wichtiger Punkt ist …‘, ‚Abschließend lässt sich sagen …‘).",
+              "Flüssige, zusammenhängende Sätze mit Konnektoren (deshalb, allerdings, vor allem) und einem kurzen Fazit.",
+              "Zeitmanagement: ca. 180 Sekunden, etwa 300–350 Wörter."
+            ],
+            "expected_answer": "Guten Tag allerseits, ich freue mich, heute hier im Seminar die Gelegenheit zu haben, über das Thema Teamarbeit im Beruf zu sprechen. Ich habe mich für Thema 1 entschieden: ‚Die Bedeutung von Teamarbeit für den Unternehmenserfolg‘. In meinem kurzen Vortrag möchte ich darauf eingehen, warum Teamarbeit aus meiner Sicht unverzichtbar ist, welche Vorteile sie konkret bringt und welche Herausforderungen dabei auftreten können.\n\nZunächst einmal ist Teamarbeit meiner Erfahrung nach das Fundament für Innovation und Effizienz. Wenn Kolleginnen und Kollegen mit unterschiedlichen Kompetenzen zusammenarbeiten, entstehen oft kreativere Lösungen, als wenn jemand allein vor sich hin arbeitet. In meiner eigenen Firma haben wir zum Beispiel ein Projekt zur Digitalisierung von Arbeitsabläufen nur deshalb erfolgreich abgeschlossen, weil die IT-Abteilung eng mit dem Marketing und dem Vertrieb kooperiert hat. Jeder hat sein Fachwissen eingebracht, und so konnten wir eine Lösung entwickeln, die sowohl technisch machbar als auch kundenfreundlich war.\n\nEin weiterer wichtiger Punkt ist die gegenseitige Unterstützung im Team. Gerade in stressigen Phasen ist es enorm wertvoll, sich auf die Kollegen verlassen zu können. Das stärkt nicht nur das Arbeitsklima, sondern steigert auch die Motivation jedes Einzelnen. Allerdings darf man nicht verschweigen, dass Teamarbeit auch Herausforderungen mit sich bringt. Unterschiedliche Meinungen können zu Konflikten führen, und manchmal dauern Entscheidungsprozesse länger, weil viele Personen eingebunden werden müssen. Deshalb ist eine offene Kommunikationskultur absolut entscheidend. Nur wenn Probleme direkt angesprochen und gemeinsam gelöst werden, kann das Team sein volles Potenzial entfalten.\n\nAbschließend möchte ich betonen, dass erfolgreiche Teamarbeit kein Zufall ist, sondern von klaren Zielen, gegenseitigem Respekt und guter Organisation abhängt. Meiner Meinung nach sollten Unternehmen deshalb viel in Teambuilding-Maßnahmen und Kommunikationstrainings investieren. Vielen Dank für Ihre Aufmerksamkeit, und ich freue mich auf Ihre Fragen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

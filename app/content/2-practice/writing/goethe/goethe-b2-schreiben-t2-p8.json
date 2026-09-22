@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t2-p8",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #8",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Du organisierst mit deiner Kollegin Lisa einen Infostand für neue Auszubildende. Du hast die Materialliste falsch verstanden und zu wenig Prospekte bestellt. Schreib eine Nachricht an Lisa.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Du organisierst mit deiner Kollegin Lisa einen Infostand für neue Auszubildende. Du hast die Materialliste falsch verstanden und zu wenig Prospekte bestellt. Schreib eine Nachricht an Lisa.",
+          "options": null,
+          "payload": {
+            "prompt": "Du organisierst mit deiner Kollegin Lisa einen Infostand für neue Auszubildende. Du hast die Materialliste falsch verstanden und zu wenig Prospekte bestellt. Schreib eine Nachricht an Lisa.",
+            "guidance": [
+              "Bitte um Hilfe bei einer schnellen Lösung.",
+              "Erkläre das Missverständnis.",
+              "Entschuldige dich für den Fehler.",
+              "Schlage vor, was du jetzt übernimmst."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bitte um Hilfe bei einer schnellen Lösung.",
+              "Erkläre das Missverständnis.",
+              "Entschuldige dich für den Fehler.",
+              "Schlage vor, was du jetzt übernimmst."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Betreffzeile und passende, kollegiale Anrede verwenden",
+              "Fehler klar benennen und das Missverständnis sachlich erklären (z. B. Stückzahl vs. Pakete)",
+              "Aufrichtige Entschuldigung formulieren und konkrete Hilfe anbieten",
+              "Eigenen Lösungsvorschlag machen und eine Aufgabe zur Wiedergutmachung übernehmen",
+              "Mit Grußformel und Namen abschließen"
+            ],
+            "expected_answer": "Betreff: Infostand – Problem mit der Prospektbestellung\n\nHallo Lisa,\n\nich hoffe, es geht dir gut. Leider muss ich dir mitteilen, dass mir bei der Materialliste ein ärgerliches Missverständnis passiert ist. Ich dachte, die angegebene Zahl 10 bezieht sich auf die Gesamtzahl der Prospekte, nicht auf 10 Pakete. Deshalb habe ich nur 10 einzelne Exemplare bestellt, was natürlich viel zu wenig für unseren Infostand ist.\n\nEs tut mir aufrichtig leid, dass ich nicht genauer nachgefragt habe. Ich weiß, wie wichtig der Stand für die neuen Auszubildenden ist. Könntest du mir bitte schnell helfen, eine Lösung zu finden? Kennst du vielleicht einen Anbieter, der kurzfristig liefern kann?\n\nUm meinen Fehler wiedergutzumachen, würde ich vorschlagen, dass ich mich sofort um die Nachbestellung kümmere und auch die eventuell anfallenden Expresskosten übernehme. Sag mir einfach kurz Bescheid, ob das für dich in Ordnung ist.\n\nVielen Dank für dein Verständnis und liebe Grüße\n[Dein Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

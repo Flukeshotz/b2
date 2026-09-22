@@ -1,0 +1,54 @@
+{
+  "id": 2,
+  "board": "telc",
+  "module": "schreiben",
+  "task_type": "halbformelle_email",
+  "version": 1,
+  "provisional": false,
+  "dimensions": [
+    {
+      "id": "leitpunkte",
+      "bands": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 0
+      },
+      "label": "Inhalt",
+      "covers": "Text type, and three guiding points covered in detail",
+      "voids_on_D": true,
+      "telc_criterion": "I"
+    },
+    {
+      "id": "gestaltung",
+      "bands": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 0
+      },
+      "label": "Kommunikative Gestaltung",
+      "covers": "Organisation, linking, range and variety of language, register",
+      "voids_on_D": false,
+      "telc_criterion": "II"
+    },
+    {
+      "id": "richtigkeit",
+      "bands": {
+        "A": 5,
+        "B": 3,
+        "C": 1,
+        "D": 0
+      },
+      "label": "Sprache",
+      "covers": "Syntax, morphology, spelling — error density only",
+      "voids_on_D": true,
+      "telc_criterion": "III"
+    }
+  ],
+  "scale_max": 45,
+  "subtest_weight": 0.15,
+  "pass_mark": 60,
+  "borderline_low": 55,
+  "borderline_high": 65
+}

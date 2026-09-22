@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-3",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 3 — Forumsbeitrag: Vier-Tage-Woche",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In einem Online-Forum wird diskutiert, ob mehr Unternehmen eine Vier-Tage-Woche bei vollem Lohnausgleich einführen sollten. Schreiben Sie einen Forumsbeitrag: Nehmen Sie Stellung und nennen Sie mindestens zwei Argumente.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Bringen Sie mindestens zwei Argumente.",
+              "Nutzen Sie Konnektoren wie außerdem, allerdings, deshalb."
+            ],
+            "register": "informell bis neutral",
+            "min_words": 90,
+            "rubric_id": 8,
+            "task_type": "forum_contribution",
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Bringen Sie mindestens zwei Argumente.",
+              "Nutzen Sie Konnektoren wie außerdem, allerdings, deshalb."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung im ersten Satz (Zustimmung oder Ablehnung).",
+              "Mindestens zwei gut ausgeführte Argumente mit Beispielen oder logischer Begründung.",
+              "Verwendung typischer B2-Konnektoren (z. B. einerseits, andererseits, darüber hinaus, aus diesem Grund).",
+              "Passendes Forum-Register: direkte Ansprache der Leser, persönliche Note, abschließender Appell oder Frage."
+            ],
+            "expected_answer": "Hallo zusammen, ich bin fest davon überzeugt, dass mehr Unternehmen die Vier-Tage-Woche bei vollem Lohnausgleich einführen sollten. Einerseits steigt die Motivation der Mitarbeiter enorm, weil sie sich durch das verlängerte Wochenende besser erholen können. Aus diesem Grund sind sie während der Arbeitszeit konzentrierter und produktiver, wovon letztlich die Firma profitiert. Andererseits verbessert dieses Modell die Work-Life-Balance spürbar. Die Beschäftigten hätten mehr Zeit für Familie, Hobbys und ehrenamtliches Engagement, was die Gesellschaft insgesamt stärkt. Allerdings muss die Umsetzung gut geplant sein, damit keine Überlastung an den vier Arbeitstagen entsteht. Was meint ihr dazu? Ich freue mich auf eure Erfahrungen!",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Musterkriterien B2: Strukturierter Aufbau (Einleitung, eigene Meinung, Vor- und Nachteile mit Begründung, konkretes Beispiel, Fazit). Nutzen Sie B2-Konnektoren (einerseits/andererseits, zwar…aber) und Redemittel zur Meinungsäußerung."
+        }
+      ]
+    }
+  ]
+}

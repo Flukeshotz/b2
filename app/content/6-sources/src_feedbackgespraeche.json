@@ -1,0 +1,100 @@
+{
+  "id": "src_feedbackgespraeche",
+  "kind": "text",
+  "title": "Feedbackgespräche: einmal im Jahr oder laufend?",
+  "hook": "Fünf Beiträge zu einer Frage, die harmlos klingt — bis jemand zugibt, wovor er sich eigentlich fürchtet.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "einen Vorteil einräumen und trotzdem widersprechen: das hat schon Vorteile, überzeugt mich trotzdem nicht ganz",
+      "eine Sorge konkret benennen, statt sie nur zu behaupten: konkret befürchte ich, dass …",
+      "zwischen Häufigkeit und Qualität unterscheiden: öfter heißt nicht automatisch besser",
+      "eine Bedingung für die eigene Zustimmung formulieren: dafür müsste allerdings sichergestellt sein, dass …"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns wird jetzt vorgeschlagen, das jährliche Feedbackgespräch durch kurze monatliche Gespräche zu ersetzen. Ich finde die Idee grundsätzlich gut — häufigeres Feedback klingt sinnvoll, statt einmal im Jahr alles auf einmal zu hören.",
+      "when": "Di 09:12",
+      "handle": "verena",
+      "speaker": "Verena_S"
+    },
+    {
+      "de": "Öfter heißt aber nicht automatisch besser. Bei einem Kollegen, der das schon in einem anderen Betrieb hatte, wurde daraus schnell reine Routine — die Gespräche wurden immer kürzer und inhaltsleerer, bis kaum noch jemand sie ernst genommen hat.",
+      "when": "Di 10:45",
+      "handle": "klaus2",
+      "speaker": "Klaus_M"
+    },
+    {
+      "de": "Das hat schon Vorteile, das gebe ich zu — aber es überzeugt mich trotzdem nicht ganz. Zwölf kurze Gespräche vorzubereiten kostet für mich als Leitung deutlich mehr Zeit als eines, und diese Zeit fehlt dann anderswo.",
+      "when": "Di 14:30",
+      "handle": "annette",
+      "speaker": "Annette_Teamleitung"
+    },
+    {
+      "de": "Konkret befürchte ich außerdem, dass monatliches Feedback bei Problemen zu früh und zu direkt kommt, ohne dass genug Zeit war, etwas wirklich zu verändern. Ein Jahr gibt wenigstens die Chance, sich zu entwickeln, bevor geurteilt wird.",
+      "when": "Mi 08:15",
+      "handle": "juergen",
+      "speaker": "Jürgen_K"
+    },
+    {
+      "de": "Jürgens Punkt trifft eigentlich genau das, was mich eigentlich beschäftigt. Mich stört gar nicht die Häufigkeit an sich — mich stört, dass niemand gesagt hat, wie kurzes Feedback von echter Beurteilung unterschieden werden soll. Dafür müsste allerdings sichergestellt sein, dass ein einzelnes schlechtes Gespräch nicht gleich als Urteil zählt.",
+      "when": "Mi 11:50",
+      "handle": "verena",
+      "speaker": "Verena_S"
+    }
+  ],
+  "transcript": "Bei uns wird jetzt vorgeschlagen, das jährliche Feedbackgespräch durch kurze monatliche Gespräche zu ersetzen. Ich finde die Idee grundsätzlich gut — häufigeres Feedback klingt sinnvoll, statt einmal im Jahr alles auf einmal zu hören.\n\nÖfter heißt aber nicht automatisch besser. Bei einem Kollegen, der das schon in einem anderen Betrieb hatte, wurde daraus schnell reine Routine — die Gespräche wurden immer kürzer und inhaltsleerer, bis kaum noch jemand sie ernst genommen hat.\n\nDas hat schon Vorteile, das gebe ich zu — aber es überzeugt mich trotzdem nicht ganz. Zwölf kurze Gespräche vorzubereiten kostet für mich als Leitung deutlich mehr Zeit als eines, und diese Zeit fehlt dann anderswo.\n\nKonkret befürchte ich außerdem, dass monatliches Feedback bei Problemen zu früh und zu direkt kommt, ohne dass genug Zeit war, etwas wirklich zu verändern. Ein Jahr gibt wenigstens die Chance, sich zu entwickeln, bevor geurteilt wird.\n\nJürgens Punkt trifft eigentlich genau das, was mich eigentlich beschäftigt. Mich stört gar nicht die Häufigkeit an sich — mich stört, dass niemand gesagt hat, wie kurzes Feedback von echter Beurteilung unterschieden werden soll. Dafür müsste allerdings sichergestellt sein, dass ein einzelnes schlechtes Gespräch nicht gleich als Urteil zählt.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on sentence_complexity — Ø 17.2 Wörter pro Satz, 2 verschiedene Nebensatz-Einleitungen (dass, bevor).",
+      "level: script only warns on lexical_range — Abstrakte Nomen: eigentlich, beurteilung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:38:19.279Z",
+  "updated_at": "2026-09-16T07:38:19.279Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

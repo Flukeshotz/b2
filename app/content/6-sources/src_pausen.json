@@ -1,0 +1,100 @@
+{
+  "id": "src_pausen",
+  "kind": "text",
+  "title": "Pausenregelung: feste Zeiten oder flexibel?",
+  "hook": "Fünf Beiträge zu einer Frage, die banal klingt und es nicht ist — und die Person, die zuerst am lautesten protestiert, meint am Ende etwas Konkreteres.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Ausnahme benennen, bevor man widerspricht: von Ausnahmen abgesehen, …",
+      "ein Argument entkräften, indem man es zeitlich einordnet: das galt, solange …",
+      "eine Sache relativieren: so schlimm, wie es klingt, ist es in der Praxis nicht",
+      "höflich um Präzisierung bitten: was genau meinen Sie mit …?"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns wurde jetzt eine feste Pausenzeit eingeführt: zwölf bis halb eins, für alle gleich. Vorher konnte jeder selbst entscheiden, wann es gerade passt. Ich finde das eine Verschlechterung — meine Arbeit lässt sich nicht einfach um zwölf Uhr unterbrechen.",
+      "when": "Mo 13:10",
+      "handle": "melanie",
+      "speaker": "Melanie T."
+    },
+    {
+      "de": "Von Ausnahmen wie akuten Situationen abgesehen, finde ich feste Zeiten eigentlich gut. Bei uns hat vorher jeder selbst entschieden, und am Ende hat die Hälfte gar keine richtige Pause gemacht, sondern nur zwischendurch etwas gegessen.",
+      "when": "Mo 14:03",
+      "handle": "oskar",
+      "speaker": "Oskar_L"
+    },
+    {
+      "de": "Ich leite die Station seit vier Jahren und habe die Regel eingeführt, weil sich sonst niemand traut zu gehen, wenn gerade viel los ist. Mit einer festen Zeit für alle fühlt sich niemand schuldig, weil eben alle gleichzeitig weg sind.",
+      "when": "Mo 16:22",
+      "handle": "birgit",
+      "speaker": "Birgit_Stationsleitung"
+    },
+    {
+      "de": "@Birgit_Stationsleitung Was genau meinen Sie mit „alle gleichzeitig weg“? Bei uns würde das bedeuten, dass eine halbe Stunde lang niemand ansprechbar ist. Das kann doch eigentlich nicht die Absicht sein.",
+      "when": "Di 08:47",
+      "handle": "tarek",
+      "speaker": "Tarek M."
+    },
+    {
+      "de": "Tareks Frage bringt es eigentlich auf den Punkt. Mich stört gar nicht die feste Zeit an sich — mich stört, dass niemand gesagt hat, wie die Erreichbarkeit während der Pause geregelt ist. Wenn das geklärt wäre, hätte ich mit einer festen Zeit kein Problem mehr.",
+      "when": "Di 11:15",
+      "handle": "melanie",
+      "speaker": "Melanie T."
+    }
+  ],
+  "transcript": "Bei uns wurde jetzt eine feste Pausenzeit eingeführt: zwölf bis halb eins, für alle gleich. Vorher konnte jeder selbst entscheiden, wann es gerade passt. Ich finde das eine Verschlechterung — meine Arbeit lässt sich nicht einfach um zwölf Uhr unterbrechen.\n\nVon Ausnahmen wie akuten Situationen abgesehen, finde ich feste Zeiten eigentlich gut. Bei uns hat vorher jeder selbst entschieden, und am Ende hat die Hälfte gar keine richtige Pause gemacht, sondern nur zwischendurch etwas gegessen.\n\nIch leite die Station seit vier Jahren und habe die Regel eingeführt, weil sich sonst niemand traut zu gehen, wenn gerade viel los ist. Mit einer festen Zeit für alle fühlt sich niemand schuldig, weil eben alle gleichzeitig weg sind.\n\n@Birgit_Stationsleitung Was genau meinen Sie mit „alle gleichzeitig weg“? Bei uns würde das bedeuten, dass eine halbe Stunde lang niemand ansprechbar ist. Das kann doch eigentlich nicht die Absicht sein.\n\nTareks Frage bringt es eigentlich auf den Punkt. Mich stört gar nicht die feste Zeit an sich — mich stört, dass niemand gesagt hat, wie die Erreichbarkeit während der Pause geregelt ist. Wenn das geklärt wäre, hätte ich mit einer festen Zeit kein Problem mehr.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "live",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: weil, während, wenn, und, dass. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch.",
+      "level: script only warns on sentence_complexity — Ø 14.5 Wörter pro Satz, 4 verschiedene Nebensatz-Einleitungen (weil, wenn, dass, während)."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": "h",
+  "approved_at": "2026-09-16T07:13:37.083Z",
+  "created_at": "2026-09-16T06:56:16.092Z",
+  "updated_at": "2026-09-16T07:52:24.392Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

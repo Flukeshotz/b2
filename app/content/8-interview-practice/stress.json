@@ -1,0 +1,15 @@
+{
+  "id": "stress",
+  "de": "Wie gehen Sie mit stressigen Situationen um?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you have a real strategy or just endure it.",
+  "trap": "'I stay calm.' Everyone says it; nobody is asked to prove it.",
+  "trapDetect": {
+    "pattern": "^(ich )?(bleibe|bin) (immer )?(ruhig|gelassen)",
+    "scope": "opening"
+  },
+  "strong": "A concrete situation, what you did, what happened.",
+  "followUp": "Erzählen Sie mir von einer Schicht, die wirklich schlecht gelaufen ist.",
+  "model_answer": "Letzten Winter waren wir im Frühdienst zu zweit für achtzehn Patienten, weil zwei Kolleginnen krank waren. Ich habe zuerst nach Dringlichkeit sortiert: Medikamente und Vitalzeichen zuerst, Körperpflege danach. Dann habe ich die Stationsleitung informiert, dass die Dokumentation später kommt. Es war anstrengend, aber niemand ist zu kurz gekommen."
+}

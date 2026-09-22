@@ -1,0 +1,68 @@
+{
+  "id": "goethe-b2-schreiben-1",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Schreiben, Übungsset 1",
+  "minutes": 30,
+  "source": "Skillcase, authored. Exam-format practice for Goethe B2 Schreiben Teil 1 — not an official Goethe task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Forumsbeitrag: Großraumbüros",
+      "instruction": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In einem Online-Forum wird diskutiert, ob Großraumbüros die Zusammenarbeit fördern oder eher stören. Schreiben Sie einen Beitrag für das Forum.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Sagen Sie, was Sie von Großraumbüros halten.",
+              "Nennen Sie einen Vorteil und einen Nachteil.",
+              "Machen Sie einen konkreten Verbesserungsvorschlag."
+            ],
+            "min_words": 180,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 200
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie von Großraumbüros halten.",
+              "Nennen Sie einen Vorteil und einen Nachteil.",
+              "Machen Sie einen konkreten Verbesserungsvorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Großraumbüros mit persönlicher Note (z. B. eigene Erfahrung).",
+              "Je ein konkretes Beispiel für Vorteil (z. B. schnelle Absprache) und Nachteil (z. B. Lärmpegel) nennen.",
+              "Einen realistischen, konkreten Verbesserungsvorschlag machen (z. B. Rückzugsräume, Telefonboxen).",
+              "Typische B2-Redemittel verwenden: Meinung äußern („Ich bin der Ansicht, dass…“), abwägen („Einerseits…, andererseits…“), Vorschlag einleiten („Ich würde vorschlagen, dass…“).",
+              "Beitrag als Forenbeitrag gestalten: kurze Anrede, klarer Aufbau, passender Schlusssatz."
+            ],
+            "expected_answer": "Hallo zusammen,\n\nich finde das Thema sehr spannend, da ich selbst seit zwei Jahren in einem Großraumbüro arbeite. Ich bin der Ansicht, dass dieses Konzept sowohl Fluch als auch Segen sein kann, und meine Meinung ist daher zwiegespalten.\n\nEinerseits schätze ich den großen Vorteil der schnellen und unkomplizierten Kommunikation. Wenn ich eine dringende Frage an einen Kollegen aus einer anderen Abteilung habe, kann ich einfach kurz zu ihm an den Schreibtisch gehen, ohne erst eine formelle E-Mail schreiben oder einen Termin vereinbaren zu müssen. Das beschleunigt viele Prozesse enorm und fördert tatsächlich den Teamgeist, weil man sich einfach näher ist.\n\nAndererseits leidet meiner Erfahrung nach die Konzentration massiv unter dem ständigen Geräuschpegel. Das Klingeln von Telefonen, laute Gespräche der Sitznachbarn oder das Klappern von Tastaturen führen bei mir oft dazu, dass ich mich kaum auf komplexe Aufgaben fokussieren kann. Dieser Nachteil ist für die Produktivität wirklich ein großes Problem.\n\nUm diese Situation zu verbessern, würde ich vorschlagen, dass Unternehmen sogenannte „Silent Areas“ oder kleine, schallisolierte Telefonboxen einrichten. Diese Rückzugsorte sollten ohne vorherige Buchung nutzbar sein, damit man sich für konzentrierte Einzelarbeit schnell dorthin zurückziehen kann. So könnte man die Vorteile der offenen Kommunikation bewahren, ohne dass die Konzentration aller darunter leidet.\n\nWas denkt ihr darüber? Ich bin gespannt auf eure Erfahrungen!\n\nViele Grüße\nMarie",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Strukturieren Sie Ihren Beitrag klar (Einleitung, persönliche Ansicht, Vor- und Nachteile mit Begründung, persönliches Beispiel und ein konkreter Verbesserungsvorschlag). Achten Sie auf B2-Konnektoren und korrekte Satzstrukturen im Nebensatz."
+        }
+      ]
+    }
+  ]
+}

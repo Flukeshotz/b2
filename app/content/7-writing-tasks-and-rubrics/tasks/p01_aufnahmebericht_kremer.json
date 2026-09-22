@@ -1,0 +1,58 @@
+{
+  "id": "p01_aufnahmebericht_kremer",
+  "rubric_id": 4,
+  "prompt_de": "Frau Elisabeth Kremer, 78 Jahre, wurde heute um 14:30 Uhr nach einem Sturz in der eigenen Wohnung aufgenommen. Verdacht auf Oberschenkelhalsfraktur rechts.\n\n  Vorerkrankungen: Diabetes mellitus Typ 2, Bluthochdruck\n  Medikamente: Metformin 850 mg, morgens und abends\n  Allergien: Penicillin\n  Mobilität: vor dem Sturz mit Rollator, aktuell bettlägerig\n  Orientierung: wach, zeitlich leicht desorientiert\n  Angehörige: Tochter, Frau Sabine Kremer, Tel. 0221 4455678\n\n  Schreiben Sie einen Aufnahmebericht für die Pflegedokumentation. Verwenden Sie alle Informationen aus der Tabelle.",
+  "content_points": [],
+  "target_words": 120,
+  "source": "authored",
+  "information_points": [
+    {
+      "id": "name_alter",
+      "detector": "(frau|herr)\\s+\\w+.{0,60}(jahre|geboren|\\b(6|7|8)\\d\\b)",
+      "label_de": "Name und Alter"
+    },
+    {
+      "id": "aufnahmegrund",
+      "detector": "(aufgenommen|aufnahme|eingeliefert|wurde .{0,30}gebracht).{0,80}(sturz|gest(ü|ue)rzt|fraktur|oberschenkel|h(ü|ue)fte)",
+      "label_de": "Aufnahmegrund"
+    },
+    {
+      "id": "vorerkrankungen",
+      "detector": "(vorerkrankung|bekannt sind|leidet an|diabetes|bluthochdruck|hypertonie)",
+      "label_de": "Vorerkrankungen"
+    },
+    {
+      "id": "medikamente",
+      "detector": "(medikament|nimmt .{0,30}(ein|täglich)|metformin|verordnet)",
+      "label_de": "Medikamente"
+    },
+    {
+      "id": "allergie",
+      "detector": "(allergi|unvertr(ä|ae)glich|penicillin)",
+      "label_de": "Allergien / Unverträglichkeiten"
+    },
+    {
+      "id": "mobilitaet",
+      "detector": "(mobilit(ä|ae)t|rollator|gehstock|bettl(ä|ae)gerig|mobilisation|gehf(ä|ae)hig)",
+      "label_de": "Mobilität"
+    },
+    {
+      "id": "orientierung",
+      "detector": "(orientiert|ansprechbar|verwirrt|bewusstsein|wach)",
+      "label_de": "Orientierung / Bewusstsein"
+    },
+    {
+      "id": "angehoerige",
+      "detector": "(angeh(ö|oe)rige|tochter|sohn|ehemann|ehefrau|kontaktperson|betreuer)",
+      "label_de": "Angehörige / Kontakt"
+    }
+  ],
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

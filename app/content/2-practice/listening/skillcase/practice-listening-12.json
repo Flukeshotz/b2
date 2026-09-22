@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-12",
+  "board": "custom",
+  "title": "Hörverstehen — Meinungsaustausch: Remote-Arbeit",
+  "minutes": 7,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Meinungsaustausch: Remote-Arbeit",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_12_remotearbeit.mp3",
+        "duration_seconds": 35.4,
+        "voices": "mia+katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schätzt Kollegin 1 am meisten am Homeoffice?",
+          "options": [
+            "Mehr Kontakt zu Kunden.",
+            "Die bessere technische Ausstattung.",
+            "Die eingesparte Pendelzeit."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Die eingesparte Pendelzeit."
+          },
+          "explanation": "\"Zwei Stunden Pendelzeit spare ich mir jetzt komplett.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was vermisst Kollegin 2 im Homeoffice?",
+          "options": [
+            "Einen eigenen Schreibtisch.",
+            "Die Kantine.",
+            "Den spontanen Austausch mit dem Team."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Den spontanen Austausch mit dem Team."
+          },
+          "explanation": "\"mir fehlt der spontane Austausch mit dem Team.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Kompromiss schlägt Kollegin 2 am Ende vor?",
+          "options": [
+            "Zwei Tage im Büro, drei Tage zu Hause.",
+            "Komplett ins Büro zurückkehren.",
+            "Nur noch im Homeoffice arbeiten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Zwei Tage im Büro, drei Tage zu Hause."
+          },
+          "explanation": "\"zwei Tage im Büro für den Austausch, drei Tage zu Hause für konzentriertes Arbeiten.\""
+        }
+      ]
+    }
+  ]
+}

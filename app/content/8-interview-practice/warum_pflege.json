@@ -1,0 +1,11 @@
+{
+  "id": "warum_pflege",
+  "de": "Warum haben Sie sich für den Pflegeberuf entschieden?",
+  "category": "motivation",
+  "sourced": true,
+  "assesses": "Whether the choice is considered or accidental.",
+  "trap": "A story with no specifics. 'I like helping people' is what everyone says.",
+  "strong": "One concrete moment, and what it taught you about the work.",
+  "followUp": "Was war der schwierigste Tag in Ihrem Beruf, und was haben Sie daraus gelernt?",
+  "model_answer": null
+}

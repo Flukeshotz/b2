@@ -1,0 +1,118 @@
+{
+  "id": "practice-speaking-1",
+  "board": "custom",
+  "title": "Sprechübung 1 — kurze Stellungnahmen",
+  "minutes": 12,
+  "source": "Skillcase, authored. General B2 speaking practice — not tied to any specific exam board's format. Not recorded, not scored.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Kurze Stellungnahmen",
+      "instruction": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+      "minutes": 12,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Beschreiben Sie eine Situation aus Ihrem Berufsalltag, in der eine gute Kommunikation im Team einen Unterschied gemacht hat.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete Situation kurz schildern (Wer? Wo? Was war das Problem/Ziel?)",
+              "Deutlich machen, worin die gute Kommunikation bestand (aktives Zuhören, klare Absprachen, offenes Feedback, regelmäßiger Austausch)",
+              "Das positive Ergebnis konkret beschreiben (Zeitersparnis, bessere Lösung, vermiedener Konflikt, stärkerer Zusammenhalt)",
+              "Eigene Reflexion oder kurze Bewertung der Bedeutung von Teamkommunikation einfließen lassen",
+              "Typische B2-Redemittel nutzen: Konjunktiv II (hätte vermieden werden können), temporale Nebensätze (nachdem wir...), kausale Konnektoren (aufgrund, dank)"
+            ],
+            "expected_answer": "Ich möchte von einer Situation aus meinem alten Job in einem Marketingbüro erzählen. Wir hatten einen sehr wichtigen Kunden und mussten eine große Kampagne innerhalb von nur zwei Wochen vorbereiten. Die Stimmung war von Anfang an sehr angespannt, weil jeder dachte, dass die Deadline eigentlich unmöglich einzuhalten wäre. Das Hauptproblem war, dass zwei Kollegen aus der Grafikabteilung und dem Textteam aneinander vorbeigearbeitet haben. Es gab ständig Missverständnisse, weil sie ihre Fortschritte nicht miteinander geteilt haben. Daraufhin hat unsere Projektleiterin ein tägliches, aber nur fünfzehnminütiges Meeting eingeführt, in dem wirklich jeder ganz offen sagen musste, wo er gerade steht und welche Hindernisse es gibt. Dank dieser klaren und transparenten Kommunikation haben wir sofort gemerkt, dass wir Aufgaben viel besser verteilen können. Ein Kollege hatte zum Beispiel eine viel schnellere Software, wovon die anderen gar nichts wussten. Dadurch konnten wir den Prozess deutlich beschleunigen. Am Ende haben wir das Projekt nicht nur pünktlich, sondern sogar mit einem sehr zufriedenen Kunden abgeschlossen. Für mich war das eine wichtige Erfahrung, denn ohne diese offene Kommunikation wären wir garantiert gescheitert.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Musterkriterien: Veranschaulichen Sie Ihre Argumentation mit einem konkreten, nachvollziehbaren Beispiel aus dem Alltag oder Berufsleben und zeigen Sie die praktischen Konsequenzen auf."
+        },
+        {
+          "item_no": 2,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Ein Kollege bittet Sie kurzfristig, eine zusätzliche Schicht zu übernehmen. Sagen Sie höflich, ob Sie zustimmen oder ablehnen, und begründen Sie Ihre Antwort.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Eindeutige Entscheidung (Zustimmung oder Ablehnung) direkt zu Beginn nennen.",
+              "Eine nachvollziehbare, situationsbezogene Begründung geben (z. B. private Verpflichtung, Termin, Müdigkeit oder Hilfsbereitschaft).",
+              "Bei Ablehnung: Bedauern ausdrücken und ggf. eine Alternative oder Lösung für die Zukunft anbieten.",
+              "Bei Zustimmung: Bedingungen oder Einschränkungen klar formulieren.",
+              "Typische B2-Redemittel nutzen: Konjunktiv II (würde, könnte), höfliche Wendungen (Es tut mir leid, Leider, Vielen Dank für die Anfrage), abwägende Formulierungen (Einerseits... andererseits)."
+            ],
+            "expected_answer": "Vielen Dank, dass du an mich gedacht hast, aber leider muss ich deine Anfrage für die zusätzliche Schicht heute Abend ablehnen. Es tut mir wirklich leid, und normalerweise würde ich dir sehr gerne aushelfen, aber heute passt es zeitlich absolut nicht. Ich habe nämlich schon seit einer Woche einen wichtigen privaten Termin, den ich nicht verschieben kann. Es geht um eine handwerkliche Reparatur in meiner Wohnung, und der Handwerker kommt extra am Abend. Du weißt ja, wie schwer es heutzutage ist, überhaupt einen Termin zu bekommen. Ich hoffe, du verstehst meine Situation. Falls du jedoch in den nächsten Tagen oder nächste Woche noch einmal Unterstützung brauchst, kannst du gerne auf mich zukommen. Dann bin ich flexibler und übernehme die Schicht mit großer Wahrscheinlichkeit. Vielleicht findest du ja noch jemand anderen für heute Abend, oder ich kann beim nächsten Mal einspringen. Ich drücke dir die Daumen, dass es klappt!",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        },
+        {
+          "item_no": 3,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Erklären Sie in eigenen Worten, warum klare Rückfragen bei unklaren Anweisungen wichtig sind.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 20,
+            "speak_seconds": 75
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Struktur: Einleitung mit klarer These, ein bis zwei konkrete Begründungen, ein Beispiel aus dem Berufs- oder Alltagsleben, kurzer Schluss.",
+              "Inhalt: Nicht nur 'Missverständnisse vermeiden' nennen, sondern die Folgen (Fehler, Zeitverlust, Konflikte) und den Nutzen (Effizienz, Sicherheit, Vertrauen) ausführen.",
+              "Redemittel: Kausale Konnektoren (daher, deshalb, denn), B2-Modalverben im Konjunktiv II (könnte, würde), gehobene Wendungen (von großer Bedeutung sein, gravierende Folgen haben).",
+              "Sprechdenken simulieren: Kurze Pausenfüller ('Nun ja', 'Also'), keine schriftsprachlichen Bandwurmsätze, sondern klare Haupt- und Nebensätze."
+            ],
+            "expected_answer": "Also, ich möchte gerne erklären, warum es so wichtig ist, bei unklaren Anweisungen sofort nachzufragen. Meiner Meinung nach ist das ein absolut zentraler Punkt, sowohl im Berufsleben als auch privat. Wenn man eine Aufgabe nicht richtig versteht und einfach anfängt, kann das nämlich gravierende Folgen haben. Man arbeitet vielleicht in die völlig falsche Richtung, und das kostet nicht nur wertvolle Zeit, sondern auch unnötig Energie. Ein konkretes Beispiel aus meinem Alltag: Stellen Sie sich vor, der Chef bittet um eine Präsentation, aber die Zielgruppe bleibt unklar. Wenn ich jetzt nicht nachfrage, ob es für Kunden oder interne Kollegen ist, könnte die ganze Arbeit umsonst sein. Daher ist eine kurze Rückfrage viel effizienter, als später alles zu korrigieren. Außerdem zeigt man durch gezieltes Nachfragen echtes Interesse und Verantwortungsbewusstsein. Es geht ja nicht um Unwissenheit, sondern darum, ein optimales Ergebnis zu erzielen. Aus diesen Gründen bin ich fest davon überzeugt, dass klare Rückfragen die Basis für eine erfolgreiche Zusammenarbeit sind.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Musterkriterien: Verwenden Sie den Höflichkeitskonjunktiv (z.B. „Könnten Sie mir bitte mitteilen…“, „Dürfte ich kurz nachfragen…“) und formulieren Sie zwei präzise Rückfragen, die genau die Unklarheiten des Sachverhalts klären."
+        }
+      ]
+    }
+  ]
+}

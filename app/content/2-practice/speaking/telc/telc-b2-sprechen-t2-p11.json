@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t2-p11",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #11",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "In einem Markt wurden zwei Wochen lang Wartezeiten beobachtet: Bei kleinen Einkäufen waren Automaten schneller, bei Problemen deutlich langsamer. In Einkaufszentren und Supermärkten wird derzeit darüber diskutiert, ob Selbstbedienungskassen stark ausgebaut werden sollten. Viele Geschäfte stellen zusätzliche Kassen auf, an denen Kunden ihre Waren selbst scannen.\n\nFür das Modell spricht insbesondere: Wartezeiten können kürzer werden und Personal wird bei einfachen Einkäufen entlastet. So könnten Kunden schneller bezahlen. Wer nur wenige Artikel kauft und die Technik kennt, kann bezahlen, ohne auf eine geöffnete Bedienkasse zu warten.\n\nEin Kunde bezahlte schnell drei Artikel, während eine ältere Kundin Unterstützung brauchte. Auch Menschen mit Sehproblemen, wenig Sprachpraxis oder Unsicherheit im Umgang mit Geräten brauchen eine echte Wahlmöglichkeit. Gegen eine pauschale Regel spricht jedoch: Nicht alle Menschen kommen mit der Technik gut zurecht. Kritiker befürchten außerdem, dass Service und persönliche Hilfe verschwinden. Fehler bei Gewicht, Rabatt oder Altersprüfung führen dagegen dazu, dass Kunden doch nach einem Mitarbeiter suchen müssen.\n\nMehrere Selbstbedienungskassen könnten eine gut besetzte normale Kasse ergänzen, aber nicht vollständig ersetzen. Neben Geschwindigkeit sollten Händler Hilferufe, Fehlbuchungen und die Zufriedenheit verschiedener Altersgruppen regelmäßig erfassen.\n\nDas Personal verschwindet durch Automaten nicht vollständig: Jemand muss Störungen lösen, Alterskontrollen durchführen und Kunden unterstützen. Die entscheidende Frage lautet daher, ob Beschäftigte sinnvollere Aufgaben bekommen oder ob lediglich Stellen eingespart und Arbeit auf Kunden übertragen wird.\n\nFür „Selbstbedienungskassen überall“ müssen die gewünschte Wirkung, der tatsächliche Arbeitsaufwand und die Folgen für verschiedene Gruppen zusammenpassen. Technik verbessert den Einkauf erst dann, wenn sie Personal von Routine entlastet und persönliche Hilfe trotzdem erreichbar bleibt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Selbstbedienungskassen überall?\n\nSchneller einkaufen oder weniger persönlicher Kontakt?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Textbezogene Pro- und Contra-Argumente nennen (z. B. Zeitersparnis vs. Technikprobleme/fehlende Hilfe).",
+              "Eigene Erfahrungen konkret und nachvollziehbar einbringen (Situation, Gefühl, Ergebnis).",
+              "Klare persönliche Meinung formulieren und mit mindestens zwei Gründen stützen.",
+              "Über Lösungen sprechen (z. B. Mischmodell, bessere Unterstützung, sinnvolle Personalaufgaben).",
+              "Typische B2-Redemittel nutzen: ‚Einerseits … andererseits‘, ‚Ich bin der festen Überzeugung, dass …‘, ‚Aus meiner Sicht wäre eine gute Lösung …‘."
+            ],
+            "expected_answer": "Also, ich finde das Thema Selbstbedienungskassen wirklich spannend, weil es so direkt unseren Alltag betrifft. Der Text zeigt ja ganz klar beide Seiten: Einerseits können diese Automaten bei kleinen Einkäufen tatsächlich Zeit sparen, andererseits führen sie oft zu neuen Problemen, besonders wenn es um Rabatte, Alterskontrollen oder einfach technische Fehler geht. Genau diese zwiespältige Erfahrung habe ich auch schon gemacht. Neulich wollte ich nur drei Teile kaufen und war froh, dass ich an der SB-Kasse sofort bezahlen konnte, ohne an der normalen Kasse hinter jemandem mit einem vollen Einkaufswagen warten zu müssen. Aber ein anderes Mal hatte ich einen Artikel mit einem kleinen Rabattaufkleber, den das System nicht erkannt hat. Plötzlich leuchtete die rote Lampe und ich musste warten, bis ein Mitarbeiter Zeit für mich fand. In dem Moment war die normale Kasse dann doch schneller gewesen. Das war wirklich ärgerlich.\n\nIch bin der festen Überzeugung, dass die Technik den Einkauf nur dann wirklich verbessert, wenn sie eine echte Wahlmöglichkeit bleibt und nicht zum Zwang wird. Der Text spricht hier einen entscheidenden Punkt an: Nicht alle Menschen kommen mit den Geräten gut zurecht. Ich denke da sofort an meine Großeltern. Für sie wäre das Scannen und Bezahlen an so einem Automaten eine riesige Hürde, sie brauchen das persönliche Gespräch an der Kasse und die Hilfe beim Einpacken. Für sie und viele andere Menschen, die vielleicht unsicher sind oder Sehprobleme haben, ist der Kontakt zum Personal enorm wichtig. Diesen menschlichen Aspekt darf man nicht einfach wegdigitalisieren.\n\nAus meiner Sicht wäre eine gute Lösung ein klares Mischmodell, wie es im Text auch angedeutet wird. Man sollte einige SB-Kassen als Ergänzung aufstellen, aber auf keinen Fall alle bedienten Kassen abschaffen. Entscheidend ist, dass das Personal, das dadurch vielleicht an den Kassen frei wird, nicht einfach eingespart wird. Stattdessen könnte es für sinnvollere Aufgaben eingesetzt werden, zum Beispiel für eine intensivere Beratung an der Käse- oder Feinkosttheke oder um gezielt Kunden an den Automaten zu helfen, bevor überhaupt Frust entsteht. So würde der Einkauf für alle besser werden: schnell für diejenigen, die es wollen, und persönlich für alle, die es brauchen. Nur so passt für mich die gewünschte Wirkung mit den tatsächlichen Folgen für alle Altersgruppen zusammen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

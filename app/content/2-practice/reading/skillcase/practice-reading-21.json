@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-21",
+  "board": "custom",
+  "title": "Leseverstehen — Ankündigung: Neues internes Weiterbildungsangebot",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Ankündigung: Neues internes Weiterbildungsangebot",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Liebe Kolleginnen und Kollegen,\n\nab dem kommenden Quartal starten wir ein neues internes Weiterbildungsprogramm mit dem Titel \"Skills für morgen\". Anlass ist die interne Umfrage vom Frühjahr, in der sich eine deutliche Mehrheit mehr fachspezifische Angebote gewünscht hatte.\n\nDas Programm umfasst zunächst drei Module: digitale Grundkompetenzen, Projektmanagement und interkulturelle Kommunikation. Jedes Modul besteht aus zwei ganztägigen Präsenzterminen sowie begleitenden Online-Einheiten, die flexibel bearbeitet werden können.\n\nDie Teilnahme erfolgt auf freiwilliger Basis, wird jedoch als reguläre Arbeitszeit angerechnet — es entsteht also kein Nachteil durch die Teilnahme. Die Plätze sind pro Modul auf 15 Personen begrenzt; bei Überbuchung entscheidet die Reihenfolge der Anmeldung.\n\nAnmeldungen sind ab sofort über das interne Fortbildungsportal möglich. Rückfragen richten Sie bitte an die Personalentwicklung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war der Auslöser für das neue Weiterbildungsprogramm?",
+          "options": [
+            "Eine neue gesetzliche Vorschrift.",
+            "Die interne Umfrage vom Frühjahr.",
+            "Der Wunsch der Geschäftsführung nach Kostensenkung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die interne Umfrage vom Frühjahr."
+          },
+          "explanation": "\"Anlass ist die interne Umfrage vom Frühjahr\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Teilnahme am Programm erfolgt außerhalb der regulären Arbeitszeit.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"wird jedoch als reguläre Arbeitszeit angerechnet\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie wird bei Überbuchung eines Moduls entschieden, wer teilnehmen darf?",
+          "options": [
+            "Per Losverfahren.",
+            "Nach der Reihenfolge der Anmeldung.",
+            "Nach Entscheidung der jeweiligen Abteilungsleitung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Nach der Reihenfolge der Anmeldung."
+          },
+          "explanation": "\"bei Überbuchung entscheidet die Reihenfolge der Anmeldung\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie ist jedes der drei Module aufgebaut?",
+          "options": [
+            "Ausschließlich Online-Einheiten ohne Präsenztermine.",
+            "Ein einzelner ganztägiger Termin.",
+            "Zwei Präsenztermine plus begleitende Online-Einheiten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Zwei Präsenztermine plus begleitende Online-Einheiten."
+          },
+          "explanation": "\"besteht aus zwei ganztägigen Präsenzterminen sowie begleitenden Online-Einheiten\"."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "src_teambesprechung",
+  "kind": "text",
+  "title": "Digitale Teambesprechungen: sinnvoll oder Zeitverschwendung?",
+  "hook": "Fünf Beiträge zu einer Gewohnheit, die sich eingeschlichen hat — und niemand mehr infrage stellt, bis es jemand tut.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Grenze zwischen zwei Situationen ziehen: für X funktioniert das, für Y nicht mehr",
+      "eine Vermutung als Vermutung markieren: ich vermute, dass es eher daran liegt, dass …",
+      "eine dritte Möglichkeit vorschlagen: warum nicht beides kombinieren, je nach Anlass",
+      "eine Beobachtung mit einer Zahl stützen: von den letzten X Besprechungen war ungefähr die Hälfte …"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Seit einem Jahr laufen unsere wöchentlichen Teambesprechungen nur noch digital, auch wenn alle im selben Gebäude arbeiten. Ich frage mich langsam, warum eigentlich — wir könnten genauso gut im selben Raum sitzen.",
+      "when": "Mo 09:30",
+      "handle": "simone",
+      "speaker": "Simone_K"
+    },
+    {
+      "de": "Für kurze Absprachen funktioniert digital eigentlich ganz gut, für längere Diskussionen nicht mehr. Ich vermute, dass es eher daran liegt, dass sich digital niemand die Zeit nimmt, einen Raum zu buchen — es ist einfach bequemer, einen Link zu schicken.",
+      "when": "Mo 10:50",
+      "handle": "bernd",
+      "speaker": "Bernd_T"
+    },
+    {
+      "de": "Ich habe das digitale Format damals eingeführt, weil wir zeitweise im Homeoffice waren. Dass daraus eine Gewohnheit wurde, ohne dass jemand eine neue Entscheidung getroffen hat, ist mir ehrlich gesagt selbst erst kürzlich aufgefallen.",
+      "when": "Mo 13:05",
+      "handle": "walter",
+      "speaker": "Walter_L"
+    },
+    {
+      "de": "Von den letzten zehn Besprechungen war ungefähr die Hälfte reine Information ohne echte Diskussion. Für diese Art würde ich sogar sagen: digital ist da klarer strukturiert als im Raum, wo sich Gespräche leicht in Nebengespräche auflösen.",
+      "when": "Di 08:20",
+      "handle": "yara",
+      "speaker": "Yara_P"
+    },
+    {
+      "de": "Yaras Punkt bringt es eigentlich auf den Kern. Mich stört gar nicht das digitale Format an sich — mich stört, dass wir nie unterscheiden, wofür es passt und wofür nicht. Warum nicht beides kombinieren, je nach Anlass, statt immer dasselbe Format zu nehmen?",
+      "when": "Di 11:40",
+      "handle": "simone",
+      "speaker": "Simone_K"
+    }
+  ],
+  "transcript": "Seit einem Jahr laufen unsere wöchentlichen Teambesprechungen nur noch digital, auch wenn alle im selben Gebäude arbeiten. Ich frage mich langsam, warum eigentlich — wir könnten genauso gut im selben Raum sitzen.\n\nFür kurze Absprachen funktioniert digital eigentlich ganz gut, für längere Diskussionen nicht mehr. Ich vermute, dass es eher daran liegt, dass sich digital niemand die Zeit nimmt, einen Raum zu buchen — es ist einfach bequemer, einen Link zu schicken.\n\nIch habe das digitale Format damals eingeführt, weil wir zeitweise im Homeoffice waren. Dass daraus eine Gewohnheit wurde, ohne dass jemand eine neue Entscheidung getroffen hat, ist mir ehrlich gesagt selbst erst kürzlich aufgefallen.\n\nVon den letzten zehn Besprechungen war ungefähr die Hälfte reine Information ohne echte Diskussion. Für diese Art würde ich sogar sagen: digital ist da klarer strukturiert als im Raum, wo sich Gespräche leicht in Nebengespräche auflösen.\n\nYaras Punkt bringt es eigentlich auf den Kern. Mich stört gar nicht das digitale Format an sich — mich stört, dass wir nie unterscheiden, wofür es passt und wofür nicht. Warum nicht beides kombinieren, je nach Anlass, statt immer dasselbe Format zu nehmen?",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: weil, da, wenn, und, dass. Kein konzessiver Konnektor — auf B2 erwartet man obwohl, zwar…aber, dennoch.",
+      "level: script only warns on lexical_range — Abstrakte Nomen: eigentlich, gewohnheit, entscheidung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:47:18.235Z",
+  "updated_at": "2026-09-16T07:47:18.235Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

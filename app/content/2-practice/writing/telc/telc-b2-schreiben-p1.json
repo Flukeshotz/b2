@@ -1,0 +1,71 @@
+{
+  "id": "telc-b2-schreiben-p1",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #1",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bitte um Informationen:\nSie sollen ab Oktober in Ihrer Firma ein kleines Team mit fünf Kolleginnen und Kollegen koordinieren. Da Sie bisher keine Leitungsaufgaben hatten, möchten Sie vor der Anmeldung genau wissen, ob der Kurs zu Ihrer Situation passt.\n\nAufgabe B: Beschwerde:\nSie haben wegen eines Seminars zwei Nächte in diesem Hotel gebucht. Ihr Zimmer lag jedoch zur Straße, das WLAN funktionierte kaum und die Rechnung wurde trotz mehrerer Bitten nicht geschickt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie sollen ab Oktober in Ihrer Firma ein kleines Team mit fünf Kolleginnen und Kollegen koordinieren. Da Sie bisher keine Leitungsaufgaben hatten, möchten Sie vor der Anmeldung genau wissen, ob der Kurs zu Ihrer Situation passt.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie sollen ab Oktober in Ihrer Firma ein kleines Team mit fünf Kolleginnen und Kollegen koordinieren. Da Sie bisher keine Leitungsaufgaben hatten, möchten Sie vor der Anmeldung genau wissen, ob der Kurs zu Ihrer Situation passt.",
+            "guidance": [
+              "Erklären Sie kurz, warum Sie den Kurs besuchen möchten.",
+              "Fragen Sie, ob die Übungen auch für berufliche Teams ohne Chefposition geeignet sind.",
+              "Bitten Sie um Informationen zur Einzelberatung und zu möglichen Zahlungsarten.",
+              "Klären Sie, ob Sie teilnehmen können, wenn Sie an einem Dienstag verhindert sind."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz, warum Sie den Kurs besuchen möchten.",
+              "Fragen Sie, ob die Übungen auch für berufliche Teams ohne Chefposition geeignet sind.",
+              "Bitten Sie um Informationen zur Einzelberatung und zu möglichen Zahlungsarten.",
+              "Klären Sie, ob Sie teilnehmen können, wenn Sie an einem Dienstag verhindert sind."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klarer Betreff und höfliche, strukturierte Anrede (halbformell).",
+              "Eigenen Hintergrund und Kursmotivation kurz erklären (Teamkoordination ohne Führungsrolle).",
+              "Alle vier Leitpunkte in logischer Reihenfolge als höfliche Fragen formulieren (Konjunktiv II: 'wäre', 'könnte', 'hätte').",
+              "Passende Redemittel für Bitten und Informationsfragen nutzen ('Wäre es möglich...', 'Ich wäre Ihnen dankbar, wenn...', 'Könnten Sie mir mitteilen...').",
+              "Angemessener Schlusssatz und Grußformel nicht vergessen."
+            ],
+            "expected_answer": "Betreff: Anfrage zum Kurs für Teamkoordination – ohne Führungsposition\n\nSehr geehrte Damen und Herren,\n\nab Oktober werde ich in meiner Firma ein kleines Team von fünf Kolleginnen und Kollegen koordinieren. Da ich bisher noch keine Leitungsaufgaben übernommen habe, möchte ich mich gezielt auf diese neue Herausforderung vorbereiten. Ihr Kurs scheint dafür sehr gut geeignet zu sein, allerdings hätte ich vor der Anmeldung noch einige Fragen, um sicherzugehen, dass er zu meiner Situation passt.\n\nZunächst würde mich interessieren, ob sich die Übungen und Inhalte auch an Personen richten, die ein Team ohne echte Chefposition führen. Bei mir geht es eher um fachliche Koordination als um disziplinarische Verantwortung. Wäre der Kurs dafür trotzdem passend?\n\nDarüber hinaus würde ich gerne wissen, ob Sie im Rahmen des Kurses auch Einzelberatungen anbieten, um individuelle Fragen zu besprechen. Könnten Sie mir außerdem mitteilen, welche Zahlungsarten möglich sind – beispielsweise eine Ratenzahlung?\n\nEine letzte Frage hätte ich noch: Leider bin ich an einem der vorgesehenen Dienstagstermine verhindert. Wäre eine Teilnahme trotzdem möglich, vielleicht durch eine Ersatzaufgabe oder einen anderen Termin?\n\nIch wäre Ihnen sehr dankbar für eine kurze Rückmeldung und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n[Vorname Nachname]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_meeting_verschieben",
+  "order_index": 12,
+  "icon": "💬",
+  "title": "Das Meeting verschieben",
+  "capability": "negotiating a new time with a colleague who has her own constraint",
+  "proof": "Das Meeting verschieben",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_meeting_verschieben"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

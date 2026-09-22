@@ -1,0 +1,117 @@
+{
+  "id": "b2_pausen_chunks",
+  "order_index": 68,
+  "icon": "🔗",
+  "title": "Vier Sätze für eine Regel, die man hinterfragt",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Pausenregelung: feste Zeiten oder flexibel?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Vier Sätze für eine Regel, die man hinterfragt",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+            "Keine Vokabeln — vier Züge, mit denen eine Regel diskutiert wird, ohne dass es zum Streit wird."
+          ]
+        },
+        {
+          "t": "notice",
+          "w": 1,
+          "ex": "was_genau_meinen_sie_mit",
+          "sourceId": "src_pausen"
+        },
+        {
+          "t": "notice",
+          "w": 3,
+          "ex": "habe_die_regel_eingefuehrt_weil",
+          "sourceId": "src_pausen"
+        },
+        {
+          "q": "Wie reagieren Sie zuerst?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A klärt zuerst, was genau gemeint ist, bevor irgendjemand widerspricht oder zustimmt. B setzt eine eigene Position voraus, die noch gar nicht begründet ist. C passt nur, wenn SIE die Regel eingeführt haben — hier ist das nicht der Fall.",
+          "options": [
+            "Was genau meinen Sie mit „komplizierter“?",
+            "Von Ausnahmen abgesehen finde ich die Regel gut.",
+            "Ich habe die Regel eingeführt, weil es vorher Probleme gab."
+          ],
+          "exercises": [
+            "was_genau_meinen_sie_mit"
+          ],
+          "situation": "Eine Kollegin beschwert sich, dass eine neue Regel „alles komplizierter macht“. Der Ausdruck ist Ihnen zu vage, um sinnvoll zu antworten."
+        },
+        {
+          "t": "notice",
+          "w": 0,
+          "ex": "von_ausnahmen_abgesehen",
+          "sourceId": "src_pausen"
+        },
+        {
+          "t": "notice",
+          "w": 2,
+          "ex": "stoert_gar_nicht_an_sich_sondern",
+          "sourceId": "src_pausen"
+        },
+        {
+          "q": "Wie sagen Sie das?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A benennt die eine Ausnahme und stimmt der Regel im Übrigen zu — genau Ihre Position. B behauptet das Gegenteil von dem, was Sie sagen wollen. C ist hier unpassend, weil der Begriff nicht unklar ist.",
+          "options": [
+            "Von Ausnahmen wie medizinischen Gründen abgesehen, finde ich die Regel sinnvoll.",
+            "Mich stört die Regel an sich — sie ist einfach unnötig.",
+            "Was genau meinen Sie mit „Kleiderordnung“?"
+          ],
+          "exercises": [
+            "von_ausnahmen_abgesehen"
+          ],
+          "situation": "Eine neue Kleiderordnung wurde eingeführt. Sie finden die Regel eigentlich sinnvoll — nur bei einem einzigen Punkt, der medizinisch begründet ist, sollte es eine Ausnahme geben."
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "stoert_gar_nicht_an_sich_sondern",
+          "hint": "Erst ausschließen, was Sie nicht stört — dann das konkrete Detail benennen.",
+          "context": "Eine neue Regel bei Ihnen ist grundsätzlich in Ordnung — was Sie stört, ist ein einzelnes ungeklärtes Detail dabei. Schreiben Sie, worum es Ihnen wirklich geht.",
+          "sourceId": "src_pausen"
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "habe_die_regel_eingefuehrt_weil",
+          "hint": "Nennen Sie das konkrete Problem, nicht nur, dass die Regel nötig war.",
+          "context": "Sie haben selbst einmal eine unbeliebte Regel eingeführt oder vorgeschlagen. Erklären Sie, welches Problem sie lösen sollte.",
+          "sourceId": "src_pausen"
+        }
+      ],
+      "teaches": [
+        [
+          "Von Ausnahmen wie X abgesehen, …",
+          "except for cases like X, …",
+          "🔗"
+        ],
+        [
+          "Was genau meinen Sie mit …?",
+          "what exactly do you mean by …?",
+          "🔗"
+        ],
+        [
+          "Mich stört gar nicht X an sich — mich stört, dass …",
+          "it's not X itself that bothers me — what bothers me is that …",
+          "🔗"
+        ],
+        [
+          "Ich habe die Regel eingeführt, weil …",
+          "I introduced the rule because …",
+          "🔗"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

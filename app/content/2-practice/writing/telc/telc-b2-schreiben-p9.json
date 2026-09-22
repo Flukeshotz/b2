@@ -1,0 +1,70 @@
+{
+  "id": "telc-b2-schreiben-p9",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #9",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Anmeldung:\nSie haben einen alten Nachttisch geerbt und möchten ihn für Ihre Wohnung aufarbeiten. Da Sie keine Erfahrung mit Werkzeug haben, möchten Sie sich anmelden und vorher einige Punkte klären.\n\nAufgabe B: Formelle Bitte:\nSie haben sich am Handgelenk verletzt und können längere Texte nur langsam schreiben. Ihre Prüfung findet in drei Wochen statt, deshalb möchten Sie rechtzeitig einen Antrag stellen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie haben einen alten Nachttisch geerbt und möchten ihn für Ihre Wohnung aufarbeiten. Da Sie keine Erfahrung mit Werkzeug haben, möchten Sie sich anmelden und vorher einige Punkte klären.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie haben einen alten Nachttisch geerbt und möchten ihn für Ihre Wohnung aufarbeiten. Da Sie keine Erfahrung mit Werkzeug haben, möchten Sie sich anmelden und vorher einige Punkte klären.",
+            "guidance": [
+              "Melden Sie sich für den Workshop an und nennen Sie Ihr Möbelstück.",
+              "Erklären Sie Ihre geringe Erfahrung mit Werkzeug.",
+              "Fragen Sie nach Einweisung, Material und Kleidung.",
+              "Bitten Sie um Bestätigung von Kosten und Anmeldeschluss."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Melden Sie sich für den Workshop an und nennen Sie Ihr Möbelstück.",
+              "Erklären Sie Ihre geringe Erfahrung mit Werkzeug.",
+              "Fragen Sie nach Einweisung, Material und Kleidung.",
+              "Bitten Sie um Bestätigung von Kosten und Anmeldeschluss."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Betreffzeile und korrekte Anrede (Sehr geehrte/r...).",
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge abarbeiten und mit B2-Redemitteln verbinden (z. B. 'Da ich...', 'Aus diesem Grund...', 'Zudem wäre ich Ihnen dankbar...').",
+              "Höfliche, präzise Fragen zu Einweisung, Material und Kleidung formulieren (Konjunktiv II: 'Wäre es möglich...?', 'Könnten Sie mir mitteilen...?').",
+              "Klare Bitte um Bestätigung von Kosten und Anmeldeschluss sowie passender Schlusssatz und Grußformel."
+            ],
+            "expected_answer": "Betreff: Anmeldung zum Workshop „Möbelaufarbeitung“\n\nSehr geehrte Damen und Herren,\n\nhiermit möchte ich mich verbindlich für Ihren Workshop zur Möbelaufarbeitung anmelden. Bei dem Möbelstück, das ich gerne aufarbeiten würde, handelt es sich um einen alten Nachttisch aus Holz, den ich kürzlich geerbt habe.\n\nDa ich bisher kaum handwerklich tätig war, muss ich ehrlich gestehen, dass meine Erfahrung im Umgang mit Werkzeugen wie Schleifmaschinen oder Akkuschraubern sehr gering ist. Aus diesem Grund bin ich etwas unsicher, ob ich für diesen Kurs überhaupt geeignet bin. Könnten Sie mir daher mitteilen, ob es zu Beginn eine gründliche Einweisung in die Geräte gibt? Zudem wäre ich Ihnen dankbar, wenn Sie mir Informationen zum benötigten Material zukommen lassen könnten. Sollte ich beispielsweise Schleifpapier oder Farbe selbst mitbringen oder wird dies gestellt? Eine weitere Frage betrifft die Kleidung: Kann ich in normaler Alltagskleidung kommen oder ist spezielle Arbeitskleidung erforderlich?\n\nAbschließend bitte ich Sie noch um eine kurze Bestätigung der Teilnahmegebühr sowie des Anmeldeschlusses, damit ich alles rechtzeitig veranlassen kann.\n\nVielen Dank für Ihre Mühe im Voraus.\n\nMit freundlichen Grüßen\n[Vorname Nachname]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

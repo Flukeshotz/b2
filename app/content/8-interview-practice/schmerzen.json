@@ -1,0 +1,11 @@
+{
+  "id": "schmerzen",
+  "de": "Wie gehen Sie vor, wenn ein Patient über Schmerzen klagt?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you have an assessment routine rather than a sympathetic reflex.",
+  "trap": "Going straight to medication without assessing first.",
+  "strong": "Assess and rate the pain, check the chart, inform the Arzt, document, then reassess.",
+  "followUp": "Und wenn der Patient sich nicht äußern kann?",
+  "model_answer": null
+}

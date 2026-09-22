@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p14",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #14",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Du bereitest mit deinem Kollegen Jonas eine kurze Schulung für neue Mitarbeitende vor. Jonas hat dir gestern Material geschickt, aber du kannst die Datei nicht öffnen. Schreib eine Nachricht an Jonas.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Du bereitest mit deinem Kollegen Jonas eine kurze Schulung für neue Mitarbeitende vor. Jonas hat dir gestern Material geschickt, aber du kannst die Datei nicht öffnen. Schreib eine Nachricht an Jonas.",
+          "options": null,
+          "payload": {
+            "prompt": "Du bereitest mit deinem Kollegen Jonas eine kurze Schulung für neue Mitarbeitende vor. Jonas hat dir gestern Material geschickt, aber du kannst die Datei nicht öffnen. Schreib eine Nachricht an Jonas.",
+            "guidance": [
+              "Erkläre das technische Problem.",
+              "Bitte um eine andere Datei-Version.",
+              "Bedanke dich für seine Vorbereitung.",
+              "Sage, was du bis dahin weiterbearbeiten kannst."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erkläre das technische Problem.",
+              "Bitte um eine andere Datei-Version.",
+              "Bedanke dich für seine Vorbereitung.",
+              "Sage, was du bis dahin weiterbearbeiten kannst."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Anrede und klare, präzise Problembeschreibung (Dateiformat/Version nicht lesbar).",
+              "Konkrete Bitte um eine alternative Dateiversion (z. B. PDF, älteres Word-Format).",
+              "Ausdrückliches Lob und Dank für Jonas' geleistete Vorarbeit, um Wertschätzung zu zeigen.",
+              "Eigeninitiative zeigen: Beschreiben, welche Teile der Schulung unabhängig davon bereits vorbereitet werden können."
+            ],
+            "expected_answer": "Hallo Jonas,\n\nvielen Dank, dass du mir gestern das Material für unsere Schulung geschickt hast. Leider kann ich die Datei nicht öffnen. Mein Computer zeigt eine Fehlermeldung an, dass das Format nicht unterstützt wird. Es handelt sich wohl um eine sehr neue Version, die mit meinem Programm nicht kompatibel ist.\n\nKönntest du mir die Unterlagen bitte als PDF oder in einer älteren Word-Version zusenden? Das wäre wirklich eine große Hilfe.\n\nIch möchte mich an dieser Stelle noch einmal herzlich für deine gründliche Vorbereitung bedanken – die Inhalte sehen auf den ersten Blick wirklich vielversprechend aus. Während ich auf die neue Datei warte, werde ich schon einmal die Agenda finalisieren und die allgemeinen Unternehmensrichtlinien für die Präsentation zusammenstellen. So verlieren wir keine Zeit.\n\nViele Grüße\n[Dein Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

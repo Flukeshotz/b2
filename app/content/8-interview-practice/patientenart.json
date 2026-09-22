@@ -1,0 +1,11 @@
+{
+  "id": "patientenart",
+  "de": "Welche Art von Patienten bekommen Sie auf Ihrer Station?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether you can describe your actual ward in concrete clinical terms.",
+  "trap": "Naming a department and stopping. „Notaufnahme“ is not an answer to this.",
+  "strong": "Case types with the German names — Herzinfarkt, Schlaganfall, Polytrauma — and roughly how often.",
+  "followUp": "Und welcher Fall kommt bei Ihnen am häufigsten vor?",
+  "model_answer": null
+}

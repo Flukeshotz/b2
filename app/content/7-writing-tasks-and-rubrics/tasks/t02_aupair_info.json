@@ -1,0 +1,38 @@
+{
+  "id": "t02_aupair_info",
+  "rubric_id": 2,
+  "prompt_de": "Lesen Sie folgende Anzeige:\n\nInternationale Au-pair Vermittlung\nVermittlung und Beratung deutscher Au-pair-Bewerber in die USA, nach Europa und Australien.\nVermittlung, Beratung und Betreuung internationaler Au-pairs nach Deutschland. \nErreichbar während des gesamten Aufenthaltes über eine gebührenfreie Au-pair-Hotline an 365 Tagen rund um die Uhr \nInternetagentur mit ausführlicher Homepage, Fotogalerie, günstigen Preisen und freundlich supernettem Team. \nAu-pair-Reise-Angebote \nwww.aupairsglobal.com Bahnhofstr.101, 65185 Wiesbaden \n0611 / 9988776  \nAu-pair=junge Frauen oder Männer wohnen ein Jahr lang in einer Familie in einem anderen Land und helfen im Haushalt und bei der Kinderbetreuung.\n\nSie haben die oben stehende Anzeige gelesen und interessieren sich für eine Au-pair-\nStelle in Deutschland. Schreiben Sie einen Brief an die Agentur und bitten Sie um\nweitere Informationen. Schreiben Sie keine Bewerbung. \nBehandeln Sie darin entweder \na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl. \nAufenthaltsformalitäten? \nDeutsche Sprache?\nRechte und Pflichten? \nFreizeitaktivitäten? \nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse des Empfängers, Datum, Betreffzeile, Anrede und Schlussformel. \nSchreiben Sie wenigstens 150 Wörter.",
+  "content_points": [
+    {
+      "id": "formalitaeten",
+      "detector": "(visum|aufenthalt|formalit(ä|ae)t|genehmigung|anmeldung|papiere|dokument)",
+      "label_de": "Aufenthaltsformalitäten"
+    },
+    {
+      "id": "sprache",
+      "detector": "(sprachkurs|deutschkurs|deutsch lernen|sprachkenntnis|niveau)",
+      "label_de": "Deutsche Sprache"
+    },
+    {
+      "id": "rechte",
+      "detector": "(rechte|pflichten|arbeitszeit|urlaub|vertrag|taschengeld|versicherung)",
+      "label_de": "Rechte und Pflichten"
+    },
+    {
+      "id": "freizeit",
+      "detector": "(freizeit|frei(e|en) tag|hobby|sport|ausflug|verein)",
+      "label_de": "Freizeitaktivitäten"
+    }
+  ],
+  "target_words": 150,
+  "source": "MERLIN corpus (CC BY-SA 4.0), Eurac Research",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

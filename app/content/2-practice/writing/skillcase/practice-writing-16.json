@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-16",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 16 — Bitte um Handlung: Defektes Gerät",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ein Gerät in Ihrem Arbeitsbereich ist seit Tagen defekt und behindert Ihre Arbeit. Schreiben Sie eine Nachricht an die zuständige Stelle mit der Bitte um zeitnahe Reparatur.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Beschreiben Sie den Defekt konkret.",
+              "Erklären Sie kurz die Auswirkung auf Ihre Arbeit.",
+              "Formulieren Sie eine klare Bitte mit Zeitrahmen."
+            ],
+            "register": "neutral",
+            "min_words": 70,
+            "rubric_id": 8,
+            "task_type": "request_action",
+            "rubric_key": "kurzantwort",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Beschreiben Sie den Defekt konkret.",
+              "Erklären Sie kurz die Auswirkung auf Ihre Arbeit.",
+              "Formulieren Sie eine klare Bitte mit Zeitrahmen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete Beschreibung des Geräts und des Defekts (was genau funktioniert nicht?)",
+              "Deutliche Erklärung der beruflichen Konsequenz (z. B. Verzögerung, Kundenbeschwerden)",
+              "Höfliche, aber klare Bitte um Reparatur mit realistischem Zeitrahmen (z. B. „innerhalb der nächsten zwei Tage“)",
+              "Passende Redemittel: Konjunktiv II („wäre ich Ihnen dankbar“), höfliche Aufforderung („Ich bitte Sie daher…“), Begründung („da…“)"
+            ],
+            "expected_answer": "Sehr geehrte Damen und Herren,\n\nseit vergangenem Montag ist der Kopierer im Raum 2.14 defekt. Das Gerät zieht ständig mehrere Blätter gleichzeitig ein, was zu Papierstaus führt. Zudem erscheint regelmäßig die Fehlermeldung „E-06“.\n\nDa ich täglich Vertragsunterlagen für unsere Kunden vervielfältigen muss, verzögert sich meine Arbeit erheblich. Gestern konnte ich eine wichtige Sendung nicht rechtzeitig fertigstellen, was zu Beschwerden geführt hat.\n\nIch bitte Sie daher, den Kopierer möglichst innerhalb der nächsten zwei Tage reparieren zu lassen. Für eine kurze Rückmeldung zum Termin wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nAnna Meier",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

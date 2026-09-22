@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-24",
+  "board": "custom",
+  "title": "Leseverstehen — Zwei Stimmen: Sollte Trinkgeld abgeschafft werden?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Zwei Stimmen: Sollte Trinkgeld abgeschafft werden?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "STIMME 1 — RESTAURANTBESITZERIN: Ich habe in meinem Restaurant das Trinkgeld offiziell abgeschafft und stattdessen die Preise um 10 Prozent erhöht, wovon das gesamte Servicepersonal einen festen Anteil bekommt. Der Vorteil: Das Einkommen meiner Angestellten ist jetzt planbar und hängt nicht mehr von Zufall, Tagesform der Gäste oder unbewusster Bevorzugung bestimmter Tische ab.\n\nSTIMME 2 — KELLNER AUS EINEM ANDEREN BETRIEB: Ich verstehe das Motiv, aber für mich persönlich wäre das ein Nachteil. An guten Abenden verdiene ich durch Trinkgeld deutlich mehr als jeden Festbetrag, den ein Arbeitgeber realistisch anbieten würde. Außerdem motiviert mich das Trinkgeld, wirklich guten Service zu bieten — bei einem Festgehalt würde dieser Anreiz teilweise wegfallen.\n\nSTIMME 1: Das ist ein faires Argument, das ich nicht wegwischen will. Bei uns hat sich aber gezeigt, dass die Serviceleistung nicht gesunken ist, seit das Trinkgeld weg ist — vermutlich, weil die meisten Mitarbeitenden ohnehin aus Berufsstolz guten Service bieten wollen, nicht nur wegen des Geldes.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat die Restaurantbesitzerin konkret geändert?",
+          "options": [
+            "Nur die Preise erhöht, das Trinkgeld blieb bestehen.",
+            "Trinkgeld abgeschafft und stattdessen die Preise erhöht, mit festem Anteil fürs Personal.",
+            "Trinkgeld abgeschafft, ohne Ausgleich für das Personal."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Trinkgeld abgeschafft und stattdessen die Preise erhöht, mit festem Anteil fürs Personal."
+          },
+          "explanation": "\"das Trinkgeld offiziell abgeschafft und stattdessen die Preise um 10 Prozent erhöht, wovon das gesamte Servicepersonal einen festen Anteil bekommt\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Kellner aus dem anderen Betrieb befürwortet die Abschaffung des Trinkgelds vorbehaltlos.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Er versteht das Motiv, sieht für sich persönlich aber einen finanziellen Nachteil — keine vorbehaltlose Zustimmung."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Argument bringt der Kellner gegen ein Festgehalt vor?",
+          "options": [
+            "Ein Festgehalt wäre steuerlich nachteilig.",
+            "Trinkgeld motiviert ihn zu besonders gutem Service.",
+            "Trinkgeld ist gesetzlich vorgeschrieben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Trinkgeld motiviert ihn zu besonders gutem Service."
+          },
+          "explanation": "\"motiviert mich das Trinkgeld, wirklich guten Service zu bieten — bei einem Festgehalt würde dieser Anreiz teilweise wegfallen\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagiert die Restaurantbesitzerin auf das Argument des Kellners?",
+          "options": [
+            "Sie stimmt ihm zu und will das Trinkgeld wieder einführen.",
+            "Sie weist es vollständig zurück.",
+            "Sie erkennt es als fair an, weist aber auf ihre eigene, andere Erfahrung hin."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie erkennt es als fair an, weist aber auf ihre eigene, andere Erfahrung hin."
+          },
+          "explanation": "\"Das ist ein faires Argument, das ich nicht wegwischen will. Bei uns hat sich aber gezeigt, dass …\""
+        }
+      ]
+    }
+  ]
+}

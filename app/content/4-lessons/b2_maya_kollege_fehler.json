@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_kollege_fehler",
+  "order_index": 14,
+  "icon": "💬",
+  "title": "Ein Fehler in der gemeinsamen Tabelle",
+  "capability": "de-escalating a workplace mistake while still fixing it",
+  "proof": "Ein Fehler in der gemeinsamen Tabelle",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_kollege_fehler"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

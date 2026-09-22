@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_stationswechsel",
+  "order_index": 32,
+  "icon": "💬",
+  "title": "Um einen Wechsel auf die Kinderstation bitten",
+  "capability": "defending a career request while solving the team's staffing concern",
+  "proof": "Um einen Wechsel auf die Kinderstation bitten",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_stationswechsel"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

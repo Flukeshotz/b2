@@ -1,0 +1,11 @@
+{
+  "id": "arbeitsalltag",
+  "de": "Wie sah ein normaler Arbeitstag bei Ihrer letzten Stelle aus?",
+  "category": "experience",
+  "sourced": true,
+  "assesses": "Whether your described experience holds up under detail.",
+  "trap": "Vagueness. Detail is what makes it believable.",
+  "strong": "A sequence with times, handovers and responsibilities.",
+  "followUp": "Und wie viele Patientinnen und Patienten haben Sie dabei betreut?",
+  "model_answer": null
+}

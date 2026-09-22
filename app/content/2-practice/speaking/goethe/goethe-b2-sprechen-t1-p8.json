@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t1-p8",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #8",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Ehrenamtliches Engagement\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Einleitung mit Begrüßung und Nennung des gewählten Themas",
+              "Strukturierte Darstellung mit 2-3 Hauptpunkten (z.B. persönliche Motivation, gesellschaftlicher Nutzen, Herausforderungen)",
+              "Verwendung von B2-typischen Redemitteln (Konjunktiv II, Nebensätze, Diskursmarker wie 'einerseits...andererseits')",
+              "Abrundender Schlusssatz mit persönlichem Fazit oder Ausblick",
+              "Natürliche Sprechweise mit angemessenem Tempo und Pausen"
+            ],
+            "expected_answer": "Guten Tag zusammen, ich freue mich, heute zu Ihnen über das Thema ehrenamtliches Engagement sprechen zu dürfen. Ich habe mich für dieses Thema entschieden, weil ich selbst seit einigen Jahren in verschiedenen Bereichen ehrenamtlich tätig bin und aus eigener Erfahrung berichten kann, wie bereichernd diese Arbeit sein kann.\n\nZunächst möchte ich auf meine persönlichen Beweggründe eingehen. Vor etwa drei Jahren habe ich angefangen, mich in einer lokalen Flüchtlingsinitiative zu engagieren. Der Auslöser war eigentlich ganz banal: Ich hatte das Gefühl, dass ich etwas Sinnvolles tun möchte, das über meinen Beruf hinausgeht. Rückblickend kann ich sagen, dass diese Entscheidung mein Leben wirklich verändert hat. Man lernt so viele unterschiedliche Menschen kennen und bekommt einen ganz anderen Blick auf die Gesellschaft.\n\nWas den gesellschaftlichen Nutzen betrifft, so würde ich behaupten, dass unsere Gesellschaft ohne Ehrenamtliche gar nicht funktionieren würde. Denken Sie nur an die Feuerwehr, an Sportvereine oder an die unzähligen sozialen Projekte. Überall dort sind Menschen aktiv, die ihre Freizeit opfern, um anderen zu helfen. Einerseits entlastet das natürlich den Staat, andererseits schafft es einen Zusammenhalt, den man mit Geld kaum bezahlen könnte.\n\nAllerdings muss man auch ehrlich über die Herausforderungen sprechen. Es ist nicht immer einfach, Beruf, Familie und Ehrenamt unter einen Hut zu bringen. Ich selbst musste lernen, auch mal Nein zu sagen, um mich nicht zu überfordern. Ein weiteres Problem ist, dass viele Organisationen händeringend Nachwuchs suchen, weil sich immer weniger Menschen langfristig binden möchten. Hier wäre es wünschenswert, wenn die Politik bessere Rahmenbedingungen schaffen würde, zum Beispiel durch eine stärkere Anerkennung von ehrenamtlicher Arbeit im Berufsleben.\n\nZum Schluss möchte ich betonen, dass ehrenamtliches Engagement für mich eine echte Win-win-Situation darstellt. Man gibt etwas, bekommt aber mindestens genauso viel zurück – an Erfahrungen, an Dankbarkeit und an dem guten Gefühl, Teil von etwas Größerem zu sein. Ich kann nur jedem empfehlen, es einfach mal auszuprobieren. Vielen Dank für Ihre Aufmerksamkeit, und ich freue mich auf Ihre Fragen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

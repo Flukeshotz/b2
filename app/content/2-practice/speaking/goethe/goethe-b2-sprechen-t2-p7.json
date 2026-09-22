@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t2-p7",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #7",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Online-Bewertungen nur mit echtem Namen erlaubt sein?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Ja/Nein) und strukturierter Aufbau mit Einleitung, Argumenten und Schlussfolgerung.",
+              "Mindestens zwei gut ausgeführte Argumente mit Beispielen oder persönlichen Erfahrungen, die Vor- und Nachteile abwägen.",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (z.B. 'Meiner Ansicht nach', 'Ich bin der festen Überzeugung') und zur Abwägung (z.B. 'Einerseits... andererseits', 'Zwar... aber').",
+              "Flüssige, zusammenhängende Sätze mit Konnektoren (deshalb, obwohl, jedoch) und einem angemessenen Wortschatz zum Thema (z.B. Anonymität, Authentizität, Hetze, Meinungsfreiheit)."
+            ],
+            "expected_answer": "Meiner Meinung nach ist die Frage, ob Online-Bewertungen nur mit echtem Namen erlaubt sein sollten, sehr komplex und lässt sich nicht einfach mit Ja oder Nein beantworten. Ich persönlich tendiere jedoch dazu, eine Klarnamenpflicht abzulehnen, auch wenn ich die Vorteile durchaus sehe. Einerseits verstehe ich das Argument der Befürworter vollkommen. Wenn Leute ihren echten Namen angeben müssen, steigt natürlich die Glaubwürdigkeit einer Bewertung enorm. Man könnte viel besser zwischen echten Erfahrungsberichten und gefälschten Bewertungen, die zum Beispiel von Unternehmen selbst gekauft wurden, unterscheiden. Außerdem würde eine Klarnamenpflicht sicherlich zu einem respektvolleren Umgangston führen. Die Anonymität im Internet verleitet manche Menschen leider dazu, extreme Hetze oder beleidigende Kommentare zu verfassen, weil sie keine Konsequenzen fürchten müssen. Das ist ein ernstes Problem, das nicht zu unterschätzen ist. Andererseits bin ich der festen Überzeugung, dass eine Pflicht zum echten Namen die Meinungsfreiheit massiv einschränken würde. Stellen Sie sich zum Beispiel eine Person vor, die eine negative Bewertung über ihren Arbeitgeber, einen mächtigen Vermieter oder eine lokale Behörde schreiben möchte. Wenn sie das mit ihrem Klarnamen tun müsste, hätte sie vielleicht Angst vor beruflichen Nachteilen oder anderen Repressalien. In solchen Fällen ist die Anonymität ein entscheidender Schutz, um ehrliche und kritische Meinungen überhaupt erst zu ermöglichen. Hinzu kommt das Problem des Datenschutzes. Nicht jeder möchte, dass sein voller Name und seine Konsumgewohnheiten für jeden im Internet dauerhaft sichtbar und verknüpfbar sind. Ich habe zum Beispiel selbst schon einmal eine kritische, aber sachliche Bewertung zu einem medizinischen Dienstleister verfasst. Hätte ich meinen echten Namen angeben müssen, hätte ich das aus Sorge um meine Privatsphäre wahrscheinlich nicht getan, und diese wichtige Information wäre anderen Patienten vorenthalten worden. Zusammenfassend lässt sich sagen, dass eine Klarnamenpflicht zwar oberflächlich für mehr Qualität und Anstand sorgen könnte, aber letztlich einen zu hohen Preis für die freie Meinungsäußerung und den Schutz der Privatsphäre darstellt. Zielführender wäre es meines Erachtens, wenn die Plattformen stärker in die Moderation investieren und klare Regeln gegen Hassrede konsequent durchsetzen würden, anstatt die Anonymität grundsätzlich abzuschaffen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

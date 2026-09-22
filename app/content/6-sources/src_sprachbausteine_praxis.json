@@ -1,0 +1,68 @@
+{
+  "id": "src_sprachbausteine_praxis",
+  "kind": "text",
+  "title": "Sprachbausteine: Ein Text mit Lücken",
+  "hook": "Ein zusammenhängender Text mit sechs Lücken — nicht die Bedeutung ist hier das Problem, sondern welches Wort wirklich passt.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "telc Sprachbausteine — Lückentext, drei Optionen pro Lücke",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "implicit_cohesion"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "Konnektoren im Kontext: obwohl, trotzdem, dennoch, allerdings, sowohl … als auch",
+      "feste Wendungen erkennen, die nur in einer Form in die Lücke passen"
+    ],
+    "primary_capability": "structure",
+    "secondary_capabilities": []
+  },
+  "script": [
+    {
+      "de": "Immer mehr Betriebe bieten inzwischen Homeoffice an, ___(1)___ längst nicht jede Tätigkeit sich dafür eignet. Wer direkten Kontakt zu Patientinnen und Patienten hat, kann seine Arbeit ___(2)___ von zu Hause noch aus dem Café erledigen. ___(3)___ diese Tätigkeiten von vornherein ausgeschlossen sind, wünschen sich viele Beschäftigte in solchen Berufen trotzdem mehr Flexibilität — etwa bei der Schichtplanung. Einige Kliniken reagieren ___(4)___ schon darauf und bieten mehr Mitspracherecht bei der Verteilung der Dienste. Andere Häuser halten dagegen ___(5)___ an starren Plänen fest, weil eine Änderung aus ihrer Sicht zu kompliziert wäre. Ob sich diese Haltung auf Dauer halten lässt, ___(6)___ sich zeigen — der Druck von Seiten der Beschäftigten wächst jedenfalls spürbar.",
+      "when": "",
+      "handle": "text",
+      "speaker": "Text"
+    }
+  ],
+  "transcript": "Immer mehr Betriebe bieten inzwischen Homeoffice an, ___(1)___ längst nicht jede Tätigkeit sich dafür eignet. Wer direkten Kontakt zu Patientinnen und Patienten hat, kann seine Arbeit ___(2)___ von zu Hause noch aus dem Café erledigen. ___(3)___ diese Tätigkeiten von vornherein ausgeschlossen sind, wünschen sich viele Beschäftigte in solchen Berufen trotzdem mehr Flexibilität — etwa bei der Schichtplanung. Einige Kliniken reagieren ___(4)___ schon darauf und bieten mehr Mitspracherecht bei der Verteilung der Dienste. Andere Häuser halten dagegen ___(5)___ an starren Plänen fest, weil eine Änderung aus ihrer Sicht zu kompliziert wäre. Ob sich diese Haltung auf Dauer halten lässt, ___(6)___ sich zeigen — der Druck von Seiten der Beschäftigten wächst jedenfalls spürbar.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on connector_range — Gefunden: trotzdem, weil, dagegen, und. Konzessiv vorhanden.",
+      "level: script only warns on sentence_complexity — Ø 20.2 Wörter pro Satz, 2 verschiedene Nebensatz-Einleitungen (weil, ob).",
+      "level: script only warns on lexical_range — Abstrakte Nomen: flexibilität, schichtplanung, verteilung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T08:25:23.985Z",
+  "updated_at": "2026-09-16T08:25:23.985Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

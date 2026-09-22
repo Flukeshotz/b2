@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-22",
+  "board": "custom",
+  "title": "Leseverstehen — Ratgeber: Wie sage ich Nein zu ständigen Überstunden?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Ratgeber: Wie sage ich Nein zu ständigen Überstunden?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "LESERFRAGE: Ich werde fast jede Woche gebeten, länger zu bleiben, weil \"gerade so viel los ist\". Ich möchte nicht als unkollegial gelten, aber ich bin erschöpft. Wie kann ich das ansprechen, ohne dass es wie eine Verweigerung klingt?\n\nANTWORT DES RATGEBERS: Ein häufiger Fehler ist, die eigene Grenze erst dann zu benennen, wenn man schon erschöpft ist — dann klingt sie fast automatisch wie ein Vorwurf. Besser ist es, das Gespräch proaktiv zu suchen, bevor die nächste Belastungsspitze kommt, und konkrete Zahlen statt Gefühle zu nennen: \"Ich habe in den letzten sechs Wochen an vier Wochen Überstunden gemacht\" wirkt sachlicher als \"Ich bin immer erschöpft.\"\n\nZweitens hilft es, das Problem nicht als persönliche Grenze, sondern als strukturelle Frage zu formulieren: Ist die Arbeitslast dauerhaft zu hoch, oder handelt es sich wirklich um Ausnahmesituationen? Diese Unterscheidung öffnet das Gespräch für gemeinsame Lösungen — etwa eine zusätzliche Aushilfe in Spitzenzeiten — statt es auf die Frage \"Bist du bereit oder nicht?\" zu verengen.\n\nUnd schließlich: Ein einzelnes klärendes Gespräch reicht selten. Planen Sie ein, das Thema nach einigen Wochen erneut anzusprechen, falls sich strukturell nichts geändert hat.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was empfiehlt der Ratgeber bezüglich des Zeitpunkts für das Gespräch?",
+          "options": [
+            "Das Gespräch proaktiv suchen, bevor die nächste Belastungsspitze kommt.",
+            "Das Thema am besten schriftlich per E-Mail ansprechen.",
+            "Das Gespräch erst führen, wenn man völlig erschöpft ist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Gespräch proaktiv suchen, bevor die nächste Belastungsspitze kommt."
+          },
+          "explanation": "\"Besser ist es, das Gespräch proaktiv zu suchen, bevor die nächste Belastungsspitze kommt.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Ratgeber empfiehlt, im Gespräch eher mit konkreten Zahlen als mit allgemeinen Gefühlsaussagen zu argumentieren.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"konkrete Zahlen statt Gefühle zu nennen … wirkt sachlicher\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Vorteil hat es laut Ratgeber, das Problem als strukturelle Frage statt als persönliche Grenze zu formulieren?",
+          "options": [
+            "Es macht die eigene Position schwächer.",
+            "Es öffnet das Gespräch für gemeinsame Lösungen.",
+            "Es verhindert jedes weitere Gespräch zum Thema."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Es öffnet das Gespräch für gemeinsame Lösungen."
+          },
+          "explanation": "\"Diese Unterscheidung öffnet das Gespräch für gemeinsame Lösungen … statt es … zu verengen.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was rät der Ratgeber für den Fall, dass ein einzelnes Gespräch nichts ändert?",
+          "options": [
+            "Sofort kündigen.",
+            "Das Thema nach einigen Wochen erneut ansprechen.",
+            "Das Thema danach nicht mehr erwähnen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das Thema nach einigen Wochen erneut ansprechen."
+          },
+          "explanation": "\"Planen Sie ein, das Thema nach einigen Wochen erneut anzusprechen.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p9",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #9",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie haben einen Fitnesskurs gebucht. Wegen einer Knieverletzung können Sie vorerst nicht teilnehmen. Schreiben Sie eine Nachricht an die Mitarbeiterin des Studios, Frau Seidel.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie haben einen Fitnesskurs gebucht. Wegen einer Knieverletzung können Sie vorerst nicht teilnehmen. Schreiben Sie eine Nachricht an die Mitarbeiterin des Studios, Frau Seidel.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie haben einen Fitnesskurs gebucht. Wegen einer Knieverletzung können Sie vorerst nicht teilnehmen. Schreiben Sie eine Nachricht an die Mitarbeiterin des Studios, Frau Seidel.",
+            "guidance": [
+              "Fragen Sie nach den Bedingungen.",
+              "Informieren Sie über Ihre Verletzung.",
+              "Bedanken Sie sich für eine Rückmeldung.",
+              "Bitten Sie um Pausierung oder Umbuchung des Kurses."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Fragen Sie nach den Bedingungen.",
+              "Informieren Sie über Ihre Verletzung.",
+              "Bedanken Sie sich für eine Rückmeldung.",
+              "Bitten Sie um Pausierung oder Umbuchung des Kurses."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Einleitung mit höflicher Anrede und klarem Grund des Schreibens (Kursname, Verletzung).",
+              "Sachliche Beschreibung der Knieverletzung und deren Auswirkung auf die Kursteilnahme.",
+              "Konkrete Bitte um Pausierung oder Umbuchung sowie höfliche Nachfrage nach den vertraglichen Bedingungen (Fristen, ärztliches Attest, Kosten).",
+              "Abschließender Dank für die Rückmeldung und passender Gruß."
+            ],
+            "expected_answer": "Betreff: Fitnesskurs – Bitte um Pausierung wegen Knieverletzung\n\nSehr geehrte Frau Seidel,\n\nvor Kurzem habe ich den Kurs „Rückenfit“ montags um 18 Uhr gebucht. Leider kann ich vorerst nicht daran teilnehmen, da ich mir beim Joggen eine schmerzhafte Knieverletzung zugezogen habe. Mein Arzt hat mir dringend von sportlichen Aktivitäten abgeraten, bis die Entzündung vollständig abgeklungen ist.\n\nAus diesem Grund möchte ich Sie höflich bitten, meinen Kurs für die nächsten vier Wochen zu pausieren. Sollte dies nicht möglich sein, wäre ich auch mit einer Umbuchung auf einen späteren Kurs einverstanden. Könnten Sie mir bitte mitteilen, welche Bedingungen dafür gelten und ob Sie ein ärztliches Attest von mir benötigen?\n\nFür Ihre Bemühungen und eine kurze Rückmeldung wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

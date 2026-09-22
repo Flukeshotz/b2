@@ -1,0 +1,11 @@
+{
+  "id": "kritik",
+  "de": "Wie reagieren Sie auf Kritik von Vorgesetzten?",
+  "category": "team",
+  "sourced": false,
+  "assesses": "Hierarchy is explicit in German wards; they want to see you can take direction.",
+  "trap": "Defensiveness, or agreeing so fast it sounds hollow.",
+  "strong": "A specific piece of criticism you acted on.",
+  "followUp": "Und wenn Sie die Kritik für ungerecht halten?",
+  "model_answer": null
+}

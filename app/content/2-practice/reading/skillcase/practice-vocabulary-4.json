@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-4",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 4 — abstrakte Nomen in Berichten",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Es ist ___, dass alle Unterlagen vollständig sind.\" — passendes Nomen:",
+          "options": [
+            "der Umstand",
+            "die Auswirkung",
+            "die Voraussetzung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die Voraussetzung"
+          },
+          "explanation": "\"Voraussetzung\" = das, was erfüllt sein muss, bevor etwas möglich ist."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die ___ des neuen Gesetzes zeigten sich erst nach Monaten.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeiten",
+            "Voraussetzungen",
+            "Auswirkungen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Auswirkungen"
+          },
+          "explanation": "\"Auswirkung\" = die Folge/der Effekt einer Maßnahme."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Es besteht ein klarer ___ zwischen Stress und Fehlerquote.\" — passendes Nomen:",
+          "options": [
+            "Eindruck",
+            "Zusammenhang",
+            "Anlass"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Zusammenhang"
+          },
+          "explanation": "\"Zusammenhang\" beschreibt eine Beziehung zwischen zwei Faktoren."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Der ___ für die Beschwerde war ein Missverständnis.\" — passendes Nomen:",
+          "options": [
+            "Zusammenhang",
+            "Eindruck",
+            "Anlass"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Anlass"
+          },
+          "explanation": "\"Anlass\" = der konkrete Auslöser für etwas."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich hatte den ___, dass die Erklärung nicht ausreichte.\" — passendes Nomen:",
+          "options": [
+            "Umstand",
+            "Eindruck",
+            "Anlass"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Eindruck"
+          },
+          "explanation": "\"Der Eindruck\" beschreibt eine subjektive Wahrnehmung."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Unter diesem ___ war die Verzögerung nicht zu vermeiden.\" — passendes Nomen:",
+          "options": [
+            "Umstand",
+            "Anlass",
+            "Zusammenhang"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Umstand"
+          },
+          "explanation": "\"Umstand\" bezeichnet eine bestimmte Bedingung/Situation, die etwas erklärt."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die ___ für den Fehler lag beim Team, nicht bei Einzelnen.\" — passendes Nomen:",
+          "options": [
+            "Maßnahme",
+            "Bereitschaft",
+            "Verantwortung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Verantwortung"
+          },
+          "explanation": "\"Verantwortung\" beschreibt, wer für etwas geradestehen muss."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ihre ___, zusätzliche Schichten zu übernehmen, wurde sehr geschätzt.\" — passendes Nomen:",
+          "options": [
+            "Voraussetzung",
+            "Maßnahme",
+            "Bereitschaft"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Bereitschaft"
+          },
+          "explanation": "\"Bereitschaft\" = die Haltung, etwas zu tun, wenn es nötig ist."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die eingeleiteten ___ zeigten schnell Wirkung.\" — passendes Nomen:",
+          "options": [
+            "Eindrücke",
+            "Umstände",
+            "Maßnahmen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Maßnahmen"
+          },
+          "explanation": "\"Maßnahme\" = eine konkret ergriffene Handlung zur Lösung eines Problems."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Es gibt keinen Grund zur ___ — die Werte sind stabil.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeit",
+            "Bereitschaft",
+            "Besorgnis"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Besorgnis"
+          },
+          "explanation": "\"Besorgnis\" = die Sorge/Unruhe über etwas."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die genaue ___ für diese Aufgabe war unklar.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeit",
+            "Auswirkung",
+            "Besorgnis"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Zuständigkeit"
+          },
+          "explanation": "\"Zuständigkeit\" = wer für etwas verantwortlich/befugt ist."
+        }
+      ]
+    }
+  ]
+}

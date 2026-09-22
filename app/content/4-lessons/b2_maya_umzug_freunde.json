@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_umzug_freunde",
+  "order_index": 18,
+  "icon": "💬",
+  "title": "Den Umzugstag planen",
+  "capability": "proposing and comparing options tentatively to reach a plan",
+  "proof": "Den Umzugstag planen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_umzug_freunde"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "goethe-b2-hoeren-t1-s3",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 1 — Alltagssituationen & Dialoge, Satz 3",
+  "minutes": 8,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 1 — Alltagssituationen & Dialoge",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil1-set2-q1.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Frau leiht in der Kleiderei vor allem günstige Alltagsshirts aus.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "Die richtige Antwort ist \"Richtig\". Die gehörte Aussage stimmt überein."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum nutzt sie die Kleiderei?",
+          "options": [
+            "weil sie Kleidung für seltene berufliche Termine nicht kaufen möchte.",
+            "weil die Reinigung und jede Reparatur kostenlos sind.",
+            "weil sie dort Alltagsshirts günstiger bekommt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "weil sie dort Alltagsshirts günstiger bekommt."
+          },
+          "explanation": "Die richtige Antwort ist c) \"weil sie dort Alltagsshirts günstiger bekommt.\", wie im Dialog bestätigt wird."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Mann braucht vor der Montage die Zustimmung der Nachbarn.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Die richtige Antwort ist \"Falsch\". Die gehörte Aussage stimmt nicht mit dem Gesagten überein."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was muss der Mann vor der Montage tun?",
+          "options": [
+            "zuerst alle Nachbarn vom Projekt überzeugen.",
+            "zeigen, dass die Halterung sicher befestigt ist.",
+            "den Stromverbrauch am Tag vorher dokumentieren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "zeigen, dass die Halterung sicher befestigt ist."
+          },
+          "explanation": "Die richtige Antwort ist b) \"zeigen, dass die Halterung sicher befestigt ist.\", wie im Dialog bestätigt wird."
+        },
+        {
+          "item_no": 5,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In dem Beitrag geht es darum, den Autoverkehr direkt vor Schulen zeitweise zu verringern.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "Die richtige Antwort ist \"Richtig\". Die gehörte Aussage stimmt überein."
+        }
+      ]
+    }
+  ]
+}

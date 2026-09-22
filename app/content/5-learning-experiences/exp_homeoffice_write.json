@@ -1,0 +1,49 @@
+{
+  "id": "exp_homeoffice_write",
+  "source_id": "src_homeoffice",
+  "kind": "writing",
+  "ord": 1,
+  "title": "Schreiben, überarbeiten, vergleichen",
+  "minutes": 25,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "justify",
+    "structure",
+    "language_awareness"
+  ],
+  "checks": [
+    "connector_range",
+    "sentence_complexity",
+    "lexical_range",
+    "content_points"
+  ],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Jetzt Sie. Sie schreiben einen eigenen Beitrag in denselben Thread.",
+        "Danach sagen wir Ihnen EINE Sache, die ihn stärker machen würde — und Sie schreiben ihn noch einmal."
+      ]
+    },
+    {
+      "t": "write",
+      "taskId": "g04_homeoffice_thread",
+      "sourceId": "src_homeoffice",
+      "experienceId": "exp_homeoffice_write"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_homeoffice_write",
+  "created_at": "2026-09-08T07:06:37.993Z",
+  "updated_at": "2026-09-09T08:13:18.461Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

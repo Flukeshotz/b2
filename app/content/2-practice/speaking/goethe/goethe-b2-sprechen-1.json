@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-1",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Sprechen, Übungsset 1",
+  "minutes": 5,
+  "source": "Skillcase, authored. Exam-format practice for Goethe B2 Sprechen Teil 1 — not an official Goethe task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Kurzvortrag: Homeoffice-Vorgaben",
+      "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Sollten Unternehmen ihren Mitarbeitenden vorschreiben dürfen, wie oft sie im Homeoffice arbeiten? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Ja/Nein/teilweise) und kurze Nennung der Hauptargumente.",
+              "Zwei bis drei ausführlich begründete Argumente mit Beispielen (z. B. Teamarbeit, Work-Life-Balance, Kontrollverlust).",
+              "Abwägung von Vor- und Nachteilen, um eine differenzierte Betrachtung zu zeigen.",
+              "Verwendung typischer B2-Redemittel: Meinung ausdrücken (z. B. 'Ich bin der festen Überzeugung, dass...'), Argumente verknüpfen (z. B. 'Ein weiterer wichtiger Aspekt ist...'), Abwägung (z. B. 'Auf der einen Seite..., auf der anderen Seite...').",
+              "Einleitung und kurzer Schlusssatz, der die eigene Position zusammenfasst."
+            ],
+            "expected_answer": "Also, ich möchte gerne Stellung nehmen zu der Frage, ob Unternehmen ihren Mitarbeitenden vorschreiben sollten, wie oft sie im Homeoffice arbeiten. Meiner Meinung nach ist eine pauschale, starre Vorschrift der falsche Weg. Ich bin der festen Überzeugung, dass eine flexible Regelung, die sowohl die Bedürfnisse des Unternehmens als auch die der Mitarbeitenden berücksichtigt, viel sinnvoller ist. Ein reines Top-down-Diktat lehne ich ab. Lassen Sie mich meine Position mit einigen Argumenten begründen. Ein zentraler Punkt ist für mich die Natur der Arbeit. In vielen kreativen Berufen oder in der Softwareentwicklung zum Beispiel ist ungestörtes, konzentriertes Arbeiten zu Hause oft viel effektiver als im Großraumbüro. Wenn ein Unternehmen hier vorschreibt, dass alle drei Tage pro Woche anwesend sein müssen, könnte das die Produktivität und die Kreativität sogar ausbremsen. Auf der anderen Seite gibt es natürlich Tätigkeiten, die von spontanem Austausch und persönlicher Anwesenheit leben, wie etwa in der Projektarbeit oder im Kundenservice. Hier ist ein gewisses Maß an Präsenz unerlässlich. Aber anstatt eine starre Quote für alle vorzugeben, sollte man das im Team besprechen. Ein weiterer wichtiger Aspekt ist die Work-Life-Balance und das Vertrauen. Viele Arbeitnehmer, mich eingeschlossen, schätzen die gewonnene Flexibilität und Zeitersparnis durch den Wegfall des Pendelns enorm. Wenn ein Unternehmen nun ohne Not die Homeoffice-Tage stark einschränkt, sendet das ein fatales Signal des Misstrauens. Es fühlt sich an, als würde man den Mitarbeitenden unterstellen, zu Hause weniger zu arbeiten. Dieses Misstrauen kann die Motivation und die Loyalität zum Unternehmen massiv beschädigen. Ich verstehe jedoch auch die Bedenken der Arbeitgeberseite. Ein mögliches Gegenargument ist der Verlust des Teamgeists und der informellen Kommunikation. Wenn alle nur noch zu Hause sitzen, leidet die Unternehmenskultur, und kreative Ideen, die beim Kaffeeautomaten entstehen, bleiben aus. Das ist ein reales Problem. Aber die Lösung kann nicht eine Zwangsregelung sein. Vielmehr sollten Unternehmen Anreize schaffen, ins Büro zu kommen, zum Beispiel durch attraktive Räumlichkeiten, Teamevents oder gemeinsame Mittagessen. Man könnte auch Kernzeiten für die Zusammenarbeit vereinbaren, die im Team demokratisch festgelegt werden. Zusammenfassend gesagt: Ich halte eine flexible, teamorientierte Vereinbarung für den Königsweg. Eine starre Vorschrift von oben herab wird weder den unterschiedlichen Aufgaben noch den individuellen Lebenssituationen der Menschen gerecht und riskiert, wertvolles Vertrauen zu verspielen. Deshalb bin ich klar gegen eine pauschale Vorschrift.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Klar gegliederter Kurzvortrag mit Einleitung, Argumenten für und wider, eigener Positionierung und Schlussfolgerung. Nutzen Sie B2-Redemittel zur Meinungsäußerung und sprechen Sie frei und flüssig."
+        }
+      ]
+    }
+  ]
+}

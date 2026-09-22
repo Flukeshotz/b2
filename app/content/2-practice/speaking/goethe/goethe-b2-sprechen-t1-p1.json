@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t1-p1",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #1",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Berufliche Weiterbildung\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Nennung des gewählten Themas zu Beginn",
+              "Strukturierte Darstellung mit Einleitung, Hauptteil (Argumente/Beispiele) und kurzem Schluss",
+              "Verwendung von B2-typischen Redemitteln (z.B. ‚Ein wesentlicher Aspekt ist...‘, ‚Hinzu kommt, dass...‘, ‚Ich bin der festen Überzeugung, dass...‘)",
+              "Konkrete Beispiele oder persönliche Erfahrungen zur Untermauerung der Argumente",
+              "Flüssige, gut verständliche Aussprache mit natürlicher Intonation"
+            ],
+            "expected_answer": "Ich habe mich für das erste Thema entschieden: ‚Sollte berufliche Weiterbildung für alle Arbeitnehmer verpflichtend sein?‘ Meiner Ansicht nach ist das eine sehr wichtige und gleichzeitig komplexe Frage, zu der ich gerne Stellung beziehen möchte. Ich bin der festen Überzeugung, dass eine generelle Verpflichtung zur Weiterbildung nicht der richtige Weg ist, auch wenn die Grundidee natürlich positiv ist. Ein wesentlicher Aspekt ist für mich die Motivation. Lernen funktioniert am besten, wenn es freiwillig geschieht und aus eigenem Antrieb kommt. Wenn jemand gezwungen wird, einen Kurs zu besuchen, wird er oder sie vermutlich innerlich blockieren und kaum einen Nutzen daraus ziehen. Ich habe das selbst in meinem Bekanntenkreis erlebt, wo eine Kollegin zu einem Englischkurs geschickt wurde, obwohl sie dafür überhaupt keine Verwendung in ihrem Arbeitsalltag hatte. Die Folge war reine Zeitverschwendung und Frustration auf beiden Seiten. Hinzu kommt, dass die Bedürfnisse der Arbeitnehmer viel zu unterschiedlich sind. Ein junger Berufseinsteiger braucht vielleicht Grundlagen in Projektmanagement, während eine erfahrene Fachkraft sich eher mit Führungskompetenzen oder spezieller Software auseinandersetzen möchte. Eine pauschale Pflicht wird dieser Vielfalt einfach nicht gerecht. Statt einer Verpflichtung plädiere ich vielmehr für ein Recht auf Weiterbildung und für starke Anreizsysteme. Der Staat und die Unternehmen sollten attraktive Angebote schaffen, die den Einzelnen wirklich weiterbringen. Das können finanzielle Zuschüsse sein, aber auch Freistellungen von der Arbeit oder eine bessere Anerkennung der neu erworbenen Fähigkeiten, zum Beispiel durch eine Gehaltserhöhung oder einen Aufstieg. Wenn die Rahmenbedingungen stimmen, werden die Menschen von sich aus die Chancen ergreifen. Zusammenfassend lässt sich sagen, dass das Ziel, die Kompetenzen der Arbeitnehmer kontinuierlich zu verbessern, absolut richtig und in unserer sich schnell wandelnden Arbeitswelt sogar überlebenswichtig ist. Der Weg dorthin sollte aber nicht über Zwang, sondern über Förderung und Motivation führen. Denn nur wer aus Überzeugung lernt, wird langfristig erfolgreich und zufrieden sein. Vielen Dank für Ihre Aufmerksamkeit.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

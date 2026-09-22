@@ -1,0 +1,66 @@
+{
+  "id": "exp_muede_produce",
+  "source_id": "src_muede",
+  "kind": "writing",
+  "ord": 3,
+  "title": "Whose side are you on?",
+  "minutes": 12,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "justify",
+    "exemplify"
+  ],
+  "checks": [
+    "connector_range",
+    "konjunktiv2",
+    "genitiv_praep",
+    "register",
+    "sentence_complexity",
+    "lexical_range",
+    "repetition"
+  ],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Jetzt Sie. Kurz – etwa 80 Wörter reichen.",
+        "Sie haben beide Seiten gehört. Für welche entscheiden Sie sich?"
+      ]
+    },
+    {
+      "t": "produce",
+      "mode": "write",
+      "prompt": "Dr. Bergmann sagt, wir seien müde, weil wir uns falsch verhalten. Frau Krause sagt, es liege am Dienstplan. Wem stimmen Sie eher zu – und warum?",
+      "guidance": [
+        "Geben Sie der Gegenseite zuerst etwas zu.",
+        "Begründen Sie Ihre Meinung.",
+        "Ein Beispiel aus Ihrem eigenen Alltag hilft."
+      ],
+      "minWords": 70,
+      "afterHints": [
+        "zwar … aber",
+        "das liegt vor allem daran, dass",
+        "das lässt sich nicht pauschal sagen"
+      ],
+      "capabilities": [
+        "argue",
+        "concede",
+        "justify"
+      ]
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_muede_produce",
+  "created_at": "2026-09-05T13:37:48.613Z",
+  "updated_at": "2026-09-09T08:03:49.679Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

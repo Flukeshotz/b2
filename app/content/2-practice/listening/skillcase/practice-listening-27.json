@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-27",
+  "board": "custom",
+  "title": "Hörverstehen — Meinungsaustausch: Die neue Kantine",
+  "minutes": 6,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Meinungsaustausch: Die neue Kantine",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_27_kantine.mp3",
+        "duration_seconds": 30.6,
+        "voices": "katja+mia"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worin sind sich die beiden Kolleginnen zu Beginn einig?",
+          "options": [
+            "Dass das Essen in der neuen Kantine vielfältiger ist.",
+            "Dass die Preise gesunken sind.",
+            "Dass die neue Kantine schlechter ist als die alte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass das Essen in der neuen Kantine vielfältiger ist."
+          },
+          "explanation": "\"Das Essen ist auf jeden Fall vielfältiger, das stimmt.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was kritisiert Kollegin 2 zusätzlich?",
+          "options": [
+            "Schlechte Hygiene.",
+            "Gestiegene Preise.",
+            "Zu wenig Auswahl."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Gestiegene Preise."
+          },
+          "explanation": "\"die Preise sind auch spürbar gestiegen, findest du nicht?\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was stört Kollegin 2 am Ende mehr als die Preise?",
+          "options": [
+            "Die langen Warteschlangen.",
+            "Die Lautstärke in der Kantine.",
+            "Die Öffnungszeiten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die langen Warteschlangen."
+          },
+          "explanation": "\"Mich stört eigentlich mehr, dass es jetzt so lange Warteschlangen gibt.\""
+        }
+      ]
+    }
+  ]
+}

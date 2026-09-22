@@ -35,6 +35,13 @@ const VERSIONS = [
   require("./b2/core2026b/v1").V1,
   require("./b2/core2026b/v2").V2,
   require("./b2/core2026b/v3").V3,
+  require("./b2/core2026b/v4").V4,
+  require("./b2/core2026b/v5").V5,
+  require("./b2/core2026b/v6").V6,
+  require("./b2/core2026b/v7").V7,
+  require("./b2/core2026b/v8").V8,
+  require("./b2/core2026b/v9").V9,
+  require("./b2/core2026b/v10").V10,
 ];
 
 const bySlot = Object.fromEntries([...SLOTS, SPEAKING_SLOT].map(s => [s.slot, s]));

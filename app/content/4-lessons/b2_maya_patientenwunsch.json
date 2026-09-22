@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_patientenwunsch",
+  "order_index": 16,
+  "icon": "💬",
+  "title": "Eine Angehörige bittet um eine Ausnahme",
+  "capability": "explaining a rule kindly and finding a fair, realistic solution",
+  "proof": "Eine Angehörige bittet um eine Ausnahme",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_patientenwunsch"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

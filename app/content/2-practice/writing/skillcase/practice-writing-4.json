@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-4",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 4 — Halbformelle E-Mail: Flexible Arbeitszeiten",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Schreiben Sie eine halbformelle E-Mail an Ihre Führungskraft, in der Sie um flexiblere Arbeitszeiten bitten (z. B. späterer Arbeitsbeginn). Nennen Sie einen persönlichen Grund und schlagen Sie eine konkrete Regelung vor.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie einen konkreten, nachvollziehbaren Grund.",
+              "Machen Sie einen konkreten Vorschlag (z. B. Uhrzeit).",
+              "Schließen Sie mit einer höflichen Bitte um Rückmeldung."
+            ],
+            "register": "halbformell",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "semi_formal_email",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie einen konkreten, nachvollziehbaren Grund.",
+              "Machen Sie einen konkreten Vorschlag (z. B. Uhrzeit).",
+              "Schließen Sie mit einer höflichen Bitte um Rückmeldung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Halbformelle Anrede und Grußformel verwenden (z. B. ‚Sehr geehrte/r …‘, ‚Mit freundlichen Grüßen‘).",
+              "Einen konkreten, nachvollziehbaren persönlichen Grund nennen (z. B. Kinderbetreuung, gesundheitliche Aspekte, Pflege von Angehörigen).",
+              "Einen präzisen Vorschlag für die neuen Arbeitszeiten machen (z. B. Beginn um 9:30 Uhr statt 8:00 Uhr) und ggf. die Erreichbarkeit zusichern.",
+              "Höfliche Bitte um Rückmeldung oder ein Gespräch formulieren (z. B. ‚Ich würde mich freuen, wenn wir dies in einem kurzen Gespräch besprechen könnten‘).",
+              "Typische B2-Redemittel für Bitten und Vorschläge nutzen (z. B. Konjunktiv II: ‚Ich würde gerne …‘, ‚Wäre es möglich …‘, ‚Ich schlage vor …‘)."
+            ],
+            "expected_answer": "Sehr geehrte Frau Müller,\n\nich wende mich heute mit einer persönlichen Bitte an Sie. Da meine Tochter seit Kurzem in eine weiter entfernte Kita geht, fällt es mir zunehmend schwer, pünktlich um 8:00 Uhr im Büro zu sein. Wäre es möglich, meine Arbeitszeit flexibel auf 9:30 Uhr bis 18:00 Uhr zu verschieben? Selbstverständlich bleibe ich in dieser Zeit voll einsatzfähig und sichere zu, dass meine Kernaufgaben sowie die Erreichbarkeit für das Team nicht darunter leiden. Ich würde mich sehr freuen, wenn wir dies in einem kurzen Gespräch besprechen könnten.\n\nMit freundlichen Grüßen\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

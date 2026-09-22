@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t2-p14",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #14",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "In verkehrsreichen Stadtteilen wird diskutiert, ob Wohnviertel mehr Fahrradstraßen bekommen sollten. Viele Kommunen möchten Schulwege sicherer machen und Lärm in Wohnstraßen reduzieren.\n\nEine Familie fährt seit der Umgestaltung häufiger Rad, während ein Lieferdienst längere Wege kritisiert. Nach einem halbjährigen Verkehrsversuch zählte ein Stadtteil mehr Fahrräder, zugleich meldeten Pflegedienste Probleme beim kurzfristigen Halten.\n\nDagegen steht ein ernst zu nehmender Einwand: Autofahrer verlieren Parkplätze und Lieferwege werden komplizierter. Kritiker befürchten außerdem, dass Anwohner sich übergangen fühlen. Handwerksbetriebe, Lieferdienste und Menschen mit eingeschränkter Mobilität benötigen weiterhin erreichbare Halte- und Parkmöglichkeiten.\n\nFür die Neuerung wird ein unmittelbarer Vorteil genannt: Radfahrer sind sicherer unterwegs, und Wohnviertel werden ruhiger. So könnten mehr Menschen kurze Wege ohne Auto zurücklegen. Kinder und ungeübte Radfahrer fühlten sich auf der ruhigeren Straße sicherer und nutzten das Fahrrad häufiger für kurze Wege.\n\nWird der Autoverkehr nur in die nächste Wohnstraße verschoben, verbessert sich die Lage für das Viertel insgesamt kaum. Fahrradstraßen könnten mit Lieferfenstern, Behindertenparkplätzen und einer Prüfung der angrenzenden Straßen geplant werden. Vor einer dauerhaften Umgestaltung sollten Lärm, Unfälle, Fahrzeiten und die Erfahrungen der Anwohner zu mehreren Tageszeiten verglichen werden.\n\nBei der Planung muss außerdem geprüft werden, wer auf welcher Strecke sicher unterwegs sein kann. Eine einzelne Fahrradstraße hilft wenig, wenn sie plötzlich an einer gefährlichen Kreuzung endet. Durchgehende Verbindungen sind wichtiger als möglichst viele kurze Abschnitte.\n\nBei einer Entscheidung über „Mehr Fahrradstraßen in Wohnvierteln“ müssen Wirkung, Aufwand und Fairness zusammen betrachtet werden. Sichere Radwege überzeugen eher, wenn die Stadt praktische Einwände tatsächlich sichtbar löst, statt Gewinner und Verlierer gegeneinanderzustellen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Mehr Fahrradstraßen in Wohnvierteln?\n\nSichere Wege für Radfahrer verändern den Verkehr vor der Haustür",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Kernargumente aus dem Text aufgreifen (Sicherheit vs. Liefer-/Parkprobleme) und mit eigenen Erfahrungen verknüpfen.",
+              "Klare Meinung mit mindestens zwei begründeten Pro- und Contra-Argumenten darlegen.",
+              "Auf mögliche Lösungen eingehen (z. B. Lieferzonen, Behindertenparkplätze, durchgehende Netze statt Einzellösungen).",
+              "Typische B2-Redemittel für Meinungsäußerung, Begründung und Abwägung verwenden (z. B. ‚Einerseits …, andererseits …‘, ‚Ich bin der festen Überzeugung, dass …‘, ‚Dem Text zufolge …‘).",
+              "Flüssiger, zusammenhängender Monolog mit Einleitung, strukturiertem Hauptteil und einem kurzen Fazit."
+            ],
+            "expected_answer": "Also, ich finde das Thema wirklich sehr spannend, denn es betrifft uns ja alle direkt in unserem Alltag. Dem Text zufolge geht es um die Frage, ob in Wohnvierteln mehr Fahrradstraßen eingerichtet werden sollen, und ehrlich gesagt spiegelt das genau die Diskussionen wider, die wir auch in unserer Nachbarschaft führen. Ich möchte gerne auf beide Seiten eingehen und dann meine Meinung dazu sagen.\n\nEinerseits sehe ich die unmittelbaren Vorteile, die im Text genannt werden. Ich bin der festen Überzeugung, dass die Sicherheit, besonders für Kinder und ältere Menschen, an erster Stelle stehen muss. Wenn ich an meine eigene Kindheit zurückdenke, wäre ich viel häufiger mit dem Rad zur Schule gefahren, wenn es durchgehend sichere Wege gegeben hätte. Heute beobachte ich, wie Eltern ihre Kinder aus Angst mit dem Auto fahren, was vor den Schulen oft zum totalen Chaos führt. Fahrradstraßen können hier wirklich für mehr Ruhe und Sicherheit sorgen und Anreize schaffen, das Auto für Kurzstrecken stehen zu lassen. Das ist ein unschätzbarer Gewinn für die Lebensqualität und die Gesundheit aller.\n\nAndererseits müssen wir die Kritik absolut ernst nehmen, und da stimme ich dem Text vollkommen zu. Es kann nicht die Lösung sein, einfach Gewinner und Verlierer zu schaffen. Ein Freund von mir ist selbstständiger Handwerker, und er klagt oft darüber, dass er mit seinem schweren Material kaum noch in die Nähe der Häuser kommt. Auch für Pflegedienste, die im Text erwähnt werden, ist das ein riesiges Problem. Jede Minute, die sie mit weiten Wegen und der Parkplatzsuche verbringen, fehlt ihnen bei der Betreuung ihrer Patienten. Und ganz ehrlich, auch ich bin manchmal froh, wenn ich nach einem langen Einkauf nah an der Wohnung parken kann. Es wäre ungerecht, die Bedürfnisse dieser Gruppen einfach zu ignorieren.\n\nDeshalb finde ich den im Text vorgeschlagenen Mittelweg so entscheidend. Eine einzelne Fahrradstraße, die dann an einer gefährlichen Kreuzung endet, bringt doch nichts. Was wir brauchen, ist ein durchdachtes Netz. Viel wichtiger als eine symbolische Politik ist doch die praktische Umsetzung: Warum plant man nicht von Anfang an feste Lieferfenster und ausgewiesene Haltebuchten für Handwerker und Pflegedienste ein? Und selbstverständlich müssen barrierefreie Behindertenparkplätze erhalten bleiben. Bevor man eine dauerhafte Entscheidung trifft, sollte man, wie im Text steht, unbedingt einen Verkehrsversuch machen und die Erfahrungen der Anwohner, aber auch die Lärmbelastung und die Unfallzahlen, zu verschiedenen Tageszeiten genau auswerten.\n\nZusammenfassend bin ich also klar für mehr Fahrradstraßen, aber nicht um jeden Preis. Eine gute Lösung überzeugt mich nur dann, wenn sie die praktischen Einwände sichtbar löst und den Verkehr fair für alle neu ordnet, anstatt eine Gruppe gegen die andere auszuspielen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

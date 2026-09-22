@@ -1,0 +1,70 @@
+{
+  "id": "telc-b2-schreiben-p2",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #2",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bewerbung:\nSie studieren Kulturmanagement und suchen eine kleine Nebentätigkeit am Wochenende. Da Sie bereits bei Stadtführungen geholfen haben, möchten Sie sich auf diese Stelle bewerben.\n\nAufgabe B: Bitte um Informationen:\nSie kaufen selten im Internet ein, möchten aber für Ihre Mutter ein Gerät online bestellen. Vorher möchten Sie lernen, woran man sichere Zahlungen und problematische Abos erkennt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie studieren Kulturmanagement und suchen eine kleine Nebentätigkeit am Wochenende. Da Sie bereits bei Stadtführungen geholfen haben, möchten Sie sich auf diese Stelle bewerben.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie studieren Kulturmanagement und suchen eine kleine Nebentätigkeit am Wochenende. Da Sie bereits bei Stadtführungen geholfen haben, möchten Sie sich auf diese Stelle bewerben.",
+            "guidance": [
+              "Erklären Sie, warum Sie sich für die Stelle interessieren.",
+              "Beschreiben Sie passende Erfahrungen im Umgang mit Besucherinnen und Besuchern.",
+              "Nennen Sie Ihre zeitliche Verfügbarkeit für Einführung und Einsätze.",
+              "Bitten Sie um ein Gespräch oder Informationen zu den Bewerbungsunterlagen."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie, warum Sie sich für die Stelle interessieren.",
+              "Beschreiben Sie passende Erfahrungen im Umgang mit Besucherinnen und Besuchern.",
+              "Nennen Sie Ihre zeitliche Verfügbarkeit für Einführung und Einsätze.",
+              "Bitten Sie um ein Gespräch oder Informationen zu den Bewerbungsunterlagen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Wahl der Aufgabe A und direkter Betreff mit Stellenbezeichnung.",
+              "Motivation mit Studienbezug (Kulturmanagement) und persönlichem Interesse an Stadtgeschichte verbinden.",
+              "Konkrete, relevante Erfahrung mit Besuchergruppen beschreiben (z. B. Kommunikation, Sprachen, Flexibilität).",
+              "Präzise zeitliche Verfügbarkeit (Wochenende, ggf. Vorbereitungszeit) nennen und höflich um ein Vorstellungsgespräch bitten."
+            ],
+            "expected_answer": "Betreff: Bewerbung als Aushilfe für Stadtführungen am Wochenende – Ihre Stellenausschreibung\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Ausschreibung für eine Nebentätigkeit im Bereich Stadtführungen gelesen. Da ich derzeit Kulturmanagement studiere und eine Leidenschaft für die Geschichte unserer Stadt habe, würde ich mich sehr freuen, Ihr Team am Wochenende zu unterstützen. Die Stelle bietet mir die ideale Möglichkeit, theoretisches Wissen aus dem Studium praktisch anzuwenden und gleichzeitig mein eigenes Budget aufzubessern.\n\nBereits in der Vergangenheit konnte ich wertvolle Erfahrungen im Umgang mit Besucherinnen und Besuchern sammeln. Ich habe regelmäßig bei öffentlichen Themenführungen eines örtlichen Museums ausgeholfen. Zu meinen Aufgaben gehörten die Betreuung internationaler Gästegruppen, der Kartenverkauf sowie die Beantwortung von Fragen zur Stadtgeschichte auf Deutsch und Englisch. Dabei habe ich gelernt, auch in turbulenten Situationen freundlich und serviceorientiert zu bleiben.\n\nMeine zeitliche Verfügbarkeit ist ideal: Ich bin grundsätzlich an beiden Wochenendtagen flexibel einsetzbar, sowohl für Vormittags- als auch für Nachmittagsführungen. Zudem könnte ich bei Bedarf auch freitags an einer Einarbeitung teilnehmen.\n\nGerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation. Bitte teilen Sie mir mit, ob Sie noch weitere Bewerbungsunterlagen von mir benötigen. Über eine Einladung zu einem Vorstellungsgespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n[Vorname Nachname]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

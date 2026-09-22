@@ -1,0 +1,103 @@
+{
+  "id": "practice-listening-14",
+  "board": "custom",
+  "title": "Hörverstehen — Kurzvortrag: Einführung eines neuen Projekttools",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Kurzvortrag: Einführung eines neuen Projekttools",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_14_neues_tool.mp3",
+        "duration_seconds": 39.7,
+        "voices": "klaus"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist der Hauptgrund für den Wechsel zum neuen Tool?",
+          "options": [
+            "Das alte Tool wird nicht mehr unterstützt.",
+            "Das alte Tool war zu teuer.",
+            "Das alte Tool erlaubte keine automatischen Erinnerungen bei überfälligen Aufgaben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Das alte Tool erlaubte keine automatischen Erinnerungen bei überfälligen Aufgaben."
+          },
+          "explanation": "\"Unser bisheriges Tool erlaubte keine automatische Erinnerung … was … zu verpassten Deadlines geführt hat.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann schickt das neue Tool eine Benachrichtigung?",
+          "options": [
+            "Zwei Tage vor Fälligkeit, wenn die Aufgabe noch offen ist.",
+            "Jeden Morgen automatisch für alle Aufgaben.",
+            "Erst nach Ablauf der Frist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Zwei Tage vor Fälligkeit, wenn die Aufgabe noch offen ist."
+          },
+          "explanation": "\"sobald eine Aufgabe zwei Tage vor Fälligkeit noch nicht bearbeitet wurde.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "ORDERING",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Schritte der Einführung in die richtige Reihenfolge.",
+          "options": null,
+          "payload": {
+            "items": [
+              "Nur die Teamleitungen testen das System.",
+              "Schulung für das gesamte Team.",
+              "Vollständige Arbeit im neuen Tool."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2
+            ],
+            "text": [
+              "Nur die Teamleitungen testen das System.",
+              "Schulung für das gesamte Team.",
+              "Vollständige Arbeit im neuen Tool."
+            ]
+          },
+          "explanation": "\"In der ersten Woche testen nur die Teamleitungen … danach folgt eine Schulung für alle, und erst in der dritten Woche arbeiten wir vollständig im neuen Tool.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p5",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #5",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zur Bedeutung von Nachbarschaftshilfe.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zur Bedeutung von Nachbarschaftshilfe.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zur Bedeutung von Nachbarschaftshilfe.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zur Nachbarschaftshilfe in Städten.",
+              "Nennen Sie Gründe, warum Nachbarn sich heute oft wenig kennen.",
+              "Nennen Sie Möglichkeiten, wie Nachbarschaftshilfe organisiert werden kann.",
+              "Nennen Sie Vorteile solcher Hilfsangebote für das Zusammenleben."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zur Nachbarschaftshilfe in Städten.",
+              "Nennen Sie Gründe, warum Nachbarn sich heute oft wenig kennen.",
+              "Nennen Sie Möglichkeiten, wie Nachbarschaftshilfe organisiert werden kann.",
+              "Nennen Sie Vorteile solcher Hilfsangebote für das Zusammenleben."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Einleitung: Persönliche Meinung zur Nachbarschaftshilfe in Städten klar äußern (z. B. wichtig, aber oft verloren gegangen).",
+              "Gründe für Anonymität: Zeitmangel, hohe Mobilität, Digitalisierung und Anonymität in Großstädten nennen.",
+              "Organisationsmöglichkeiten: Konkrete Beispiele wie Nachbarschafts-Apps, Tauschbörsen, gemeinsame Feste oder schwarze Bretter beschreiben.",
+              "Vorteile: Mehr Sicherheit, praktische Unterstützung im Alltag, weniger Einsamkeit und ein stärkeres Gemeinschaftsgefühl ausführen.",
+              "Schluss: Zusammenfassender Appell oder Wunsch für die Zukunft, natürlich mit dem eigenen Standpunkt verknüpft."
+            ],
+            "expected_answer": "Betreff: Nachbarschaftshilfe – ein alter Wert neu entdeckt?\n\nLiebe Forumsmitglieder,\n\nzum Thema Nachbarschaftshilfe möchte ich gerne meine Gedanken teilen. Meiner Meinung nach ist gegenseitige Unterstützung in der Stadt enorm wichtig, aber leider geht dieser Zusammenhalt zunehmend verloren. Ich selbst wohne in einem Mehrfamilienhaus und kenne kaum jemanden persönlich, was ich sehr schade finde.\n\nEin wesentlicher Grund für diese Anonymität ist sicherlich der hektische Alltag. Viele Menschen pendeln zur Arbeit und haben schlichtweg keine Zeit für ein Gespräch im Treppenhaus. Hinzu kommt die hohe Mobilität: Man zieht häufiger um und baut daher seltener tiefere Bindungen auf. Auch die Digitalisierung spielt eine Rolle, da man soziale Kontakte oft eher online pflegt, anstatt sich mit den Menschen nebenan zu unterhalten.\n\nDabei gibt es zahlreiche Möglichkeiten, die Nachbarschaftshilfe wiederzubeleben. Man könnte beispielsweise ein gemeinsames Sommerfest organisieren oder eine Online-Gruppe gründen, in der man sich gegenseitig um Hilfe bitten kann, etwa beim Blumengießen während des Urlaubs. Auch ein klassisches Schwarzes Brett im Hausflur oder eine Tauschbörse für Werkzeuge sind einfache, aber effektive Mittel.\n\nDie Vorteile solcher Hilfsangebote liegen auf der Hand. Es entsteht ein Gefühl der Sicherheit, weil man weiß, dass jemand ein Auge auf die Wohnung hat. Zudem wird der Alltag erleichtert, wenn man sich beispielsweise bei der Kinderbetreuung oder beim Einkaufen unterstützt. Vor allem aber wird die Einsamkeit bekämpft und das Zusammenleben deutlich harmonischer und freundlicher gestaltet.\n\nIch würde mir wünschen, dass wir alle wieder etwas mehr auf unsere Nachbarn zugehen. Ein kleiner Gefallen kann den Alltag für beide Seiten bereichern.\n\nViele Grüße\nAnna",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

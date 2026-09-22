@@ -103,7 +103,7 @@ async function evidenceRows(userId) {
    parallel forms for exactly this progression, and picking one at random (or
    always v1) would either break comparability or let her see the same paper
    twice. */
-const CURRENT_DIAGNOSTIC_VERSIONS = ["core-2026b-v1", "core-2026b-v2", "core-2026b-v3"];
+const CURRENT_DIAGNOSTIC_VERSIONS = ["core-2026b-v1", "core-2026b-v2", "core-2026b-v3", "core-2026b-v4", "core-2026b-v5", "core-2026b-v6", "core-2026b-v7", "core-2026b-v8", "core-2026b-v9", "core-2026b-v10"];
 
 /** The next core-2026b version this learner has not yet completed, or null once
     all three are used up. Server-authoritative: the client never guesses a

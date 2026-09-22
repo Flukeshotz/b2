@@ -1,0 +1,127 @@
+{
+  "id": "practice-reading-2",
+  "board": "custom",
+  "title": "Leseverstehen — Die vergessene Mittagspause",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Die vergessene Mittagspause",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Eine interne Umfrage in drei Kliniken hat ein Ergebnis geliefert, das viele Führungskräfte überrascht hat: Über sechzig Prozent des Pflegepersonals gaben an, in den letzten vier Wochen mindestens einmal pro Woche keine reguläre Mittagspause gemacht zu haben. Als Gründe wurden vor allem Personalmangel und unvorhersehbare Notfälle genannt.\n\nAuf den ersten Blick scheint das ein reines Personalproblem zu sein — mehr Personal würde mehr Pausen ermöglichen. Bei genauerem Hinsehen zeigt sich jedoch, dass es auch eine Frage der Organisation ist. In zwei der drei befragten Kliniken gab es keine feste Regelung, wer während einer Pause die Vertretung übernimmt. Die Verantwortung, sich selbst eine Vertretung zu organisieren, lag bei jeder einzelnen Pflegekraft — was in der Praxis oft dazu führte, dass die Pause einfach ausfiel, weil niemand fragen wollte.\n\nEine der Kliniken hatte hingegen ein einfaches System eingeführt: feste Pausenzeiten mit einer rotierenden Vertretungsliste, sichtbar für alle am Stationsplan. Der Krankenstand in dieser Klinik lag im Beobachtungszeitraum spürbar niedriger als in den anderen beiden. Ein kausaler Zusammenhang lässt sich aus einer einzelnen Umfrage nicht beweisen — aber die Fachleute, die die Studie begleitet haben, halten ihn für plausibel.\n\nDie Autoren der Studie ziehen daraus einen vorsichtigen Schluss: Nicht jede Verbesserung der Arbeitsbedingungen kostet zusätzliches Personal. Manche kostet nur eine klare Regelung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ergab die Umfrage laut Text?",
+          "options": [
+            "Alle Kliniken hatten genug Personal.",
+            "Über 60% ließen mindestens einmal wöchentlich die Mittagspause aus.",
+            "Die Pausenregelung war überall gleich gut."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Über 60% ließen mindestens einmal wöchentlich die Mittagspause aus."
+          },
+          "explanation": "\"Über sechzig Prozent … gaben an, … keine reguläre Mittagspause gemacht zu haben.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In allen drei Kliniken gab es eine feste Regelung für die Vertretung während der Pause.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"In zwei der drei befragten Kliniken gab es keine feste Regelung\" — also nicht in allen drei."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war in der Klinik mit dem niedrigeren Krankenstand anders organisiert?",
+          "options": [
+            "feste Pausenzeiten mit rotierender Vertretungsliste",
+            "mehr Personal als in den anderen Kliniken",
+            "kürzere Schichten"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "feste Pausenzeiten mit rotierender Vertretungsliste"
+          },
+          "explanation": "\"Eine der Kliniken hatte … ein einfaches System eingeführt: feste Pausenzeiten mit einer rotierenden Vertretungsliste.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie vorsichtig formuliert der Text den Zusammenhang zwischen Pausenregelung und Krankenstand?",
+          "options": [
+            "als eindeutig bewiesen",
+            "als reinen Zufall",
+            "als plausibel, aber nicht bewiesen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "als plausibel, aber nicht bewiesen"
+          },
+          "explanation": "\"Ein kausaler Zusammenhang lässt sich … nicht beweisen — aber … halten ihn für plausibel.\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Schluss ziehen die Autoren der Studie am Ende?",
+          "options": [
+            "Manche Verbesserungen kosten nur eine klare Regelung, kein zusätzliches Personal.",
+            "Jede Verbesserung braucht mehr Personal.",
+            "Pausenregelungen sind grundsätzlich unwichtig."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Manche Verbesserungen kosten nur eine klare Regelung, kein zusätzliches Personal."
+          },
+          "explanation": "\"Nicht jede Verbesserung … kostet zusätzliches Personal. Manche kostet nur eine klare Regelung.\""
+        }
+      ]
+    }
+  ]
+}

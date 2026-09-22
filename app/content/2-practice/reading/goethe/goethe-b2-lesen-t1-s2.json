@@ -1,0 +1,170 @@
+{
+  "id": "goethe-b2-lesen-t1-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 1 — Zuordnung (Meinungen & Personen), Satz 2",
+  "minutes": 18,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 1 — Zuordnung (Meinungen & Personen)",
+      "instruction": "Sie lesen in einem Forum, wie Menschen über lokales und digitales Einkaufen denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob etwas lieferbar ist. Trotzdem bestelle ich nicht wahllos. Kleidung probiere ich lieber im Laden an, weil Rücksendungen mich nerven und am Ende auch nicht besonders umweltfreundlich sind. Einmal im Monat fahre ich samstags mit meiner Nachbarin zum Wochenmarkt. Dort kaufe ich Käse, Brot und Gemüse, obwohl es teurer ist. Mir gefällt, dass die Verkäuferinnen wissen, was gerade aus der Region kommt. Bei technischen Geräten lese ich dagegen viele Bewertungen und entscheide erst nach ein paar Tagen. Spontankäufe passieren mir eher in hübschen kleinen Läden als im Internet.\n\n**b Moritz**\nFür mich ist Einkaufen vor allem eine Frage von Zeit. Ich arbeite in wechselnden Schichten und möchte meinen freien Vormittag nicht in einer Schlange verbringen. Deshalb bestelle ich Haushaltswaren, Druckerpatronen oder Sportschuhe meistens online. Das heißt aber nicht, dass mir lokale Geschäfte egal sind. Mein Fahrrad lasse ich immer in der Werkstatt um die Ecke reparieren, weil ich dort sofort eine ehrliche Einschätzung bekomme. Außerdem kaufe ich Geschenke gern persönlich, besonders wenn ich noch keine klare Idee habe. Mich stört nur, wenn Händler über Online-Konkurrenz schimpfen, aber selbst unfreundlich sind oder keine verlässlichen Öffnungszeiten haben. Kunden brauchen heute beides: gute Beratung vor Ort und einfache digitale Informationen. Wenn ein Laden online zeigt, was vorrätig ist, gehe ich sogar eher hin. Reine Nostalgie rettet keinen Einzelhandel.\n\n**c Selin**\nIch habe während der Ausbildung in einem Buchladen gearbeitet, deshalb hängt mein Herz am lokalen Handel. Dort ging es nicht nur ums Verkaufen, sondern auch um Gespräche. Viele Kundinnen kamen mit einer vagen Idee und gingen mit etwas nach Hause, das wirklich passte. Online bekommt man zwar Vorschläge, aber sie ersetzen keine Person, die nachfragt. Trotzdem bin ich nicht romantisch. Wenn ein Fachbuch nur gebraucht im Netz zu finden ist, bestelle ich es dort. Auch bei großen Preisunterschieden verstehe ich, dass Menschen rechnen müssen. Was ich problematisch finde, ist die Erwartung, dass alles sofort und kostenlos geliefert wird. Dadurch sieht man die Arbeit dahinter nicht mehr. Ich versuche, weniger, aber bewusster zu kaufen. Manchmal bestelle ich im Laden und hole es später ab. Das dauert länger, fühlt sich für mich aber fairer an.\n\n**d Georg**\nIch verstehe die moralische Aufregung ums Einkaufen nur teilweise. Ob lokal oder online: Entscheidend ist doch, ob ich bekomme, was ich brauche, und ob der Preis stimmt. Ich bin Rentner und habe Zeit, aber nicht unbegrenzt Geld. Deshalb vergleiche ich Angebote gründlich. Für Lebensmittel gehe ich zu Fuß in den Supermarkt, weil ich dort Sonderangebote sehe und keine Liefergebühr zahle. Für Ersatzteile meines alten Radios nutze ich dagegen kleine Online-Shops, die ich sonst nie gefunden hätte. Meine Tochter meint, ich solle mehr im Viertel kaufen, damit die Geschäfte bleiben. Das klingt gut, aber manche Läden führen Dinge, die ich schlicht nicht brauche. Beratung ist schön, wenn sie kompetent ist. Ich habe jedoch auch schon erlebt, dass Verkäufer mir das teuerste Modell andrehen wollten. Seitdem informiere ich mich vorher selbst.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer bestellt aus Mangel an Geschäften?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Anja"
+          },
+          "explanation": "Die richtige Antwort ist a (Anja). Anja sagt sinngemäß, dass es auf dem Land kaum Fachgeschäfte gibt und sie online schneller Verfügbarkeit prüfen kann. Die Falle ist d (Georg), weil er online ebenfalls spezielle Ersatzteile findet. Entscheidend ist der Unterschied zwischen fehlender Infrastruktur vor Ort und gezielter Suche nach seltenen Teilen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer besucht Läden wegen Online-Informationen?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Moritz"
+          },
+          "explanation": "Die richtige Antwort ist b (Moritz). Moritz erklärt, dass er eher in einen Laden geht, wenn online sichtbar ist, was vorrätig ist. Die Falle ist c (Selin), weil sie auch im Laden bestellen lässt. Entscheidend ist der Unterschied zwischen digitaler Vorratsinformation als Besuchsanreiz und Bestellung über den Laden."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei wem zählt vor allem der Preis?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Georg"
+          },
+          "explanation": "Die richtige Antwort ist d (Georg). Georg sagt sinngemäß, dass für ihn Bedarf und Preis entscheidend sind und er als Rentner genau vergleichen muss. Die Falle ist a (Anja), weil sie Preise ebenfalls wahrnimmt. Entscheidend ist der Unterschied zwischen preisorientierter Grundhaltung und gelegentlicher Abwägung bei bestimmten Produkten."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer findet persönliche Beratung besonders wertvoll, wenn Kundinnen noch unentschlossen sind?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Selin"
+          },
+          "explanation": "Die richtige Antwort ist c (Selin). Selin beschreibt, dass Kundinnen im Buchladen oft nur eine vage Idee hatten und durch Nachfragen etwas Passendes fanden. Die Falle ist b (Moritz), weil er Geschenke gern persönlich kauft. Entscheidend ist der Unterschied zwischen professioneller Beratung durch Nachfragen und persönlicher Inspiration beim Geschenkkauf."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer findet Anprobieren vor Ort sinnvoller?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Anja"
+          },
+          "explanation": "Die richtige Antwort ist a (Anja). Anja sagt sinngemäß, dass sie Kleidung lieber im Geschäft anprobiert, weil sie dadurch unpassende Bestellungen und Rücksendungen vermeidet. Die Falle ist c (Selin), weil sie ebenfalls bewusst einkaufen möchte, aber eher Liefererwartungen kritisiert. Entscheidend ist der Unterschied zwischen Anprobieren zur Vermeidung von Retouren und allgemeiner Kritik an Lieferkultur."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer hält es für problematisch, dass Lieferung oft als unsichtbare Arbeit wahrgenommen wird?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "payload": {
+            "context": "**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob et..."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Selin"
+          },
+          "explanation": "Die richtige Antwort ist c (Selin). Selin kritisiert die Erwartung, dass alles sofort und kostenlos geliefert wird, weil man die Arbeit dahinter nicht mehr sieht. Die Falle ist a (Anja), weil sie Lieferbarkeit prüft. Entscheidend ist der Unterschied zwischen praktischer Verfügbarkeit und sozialer Bewertung von Lieferarbeit."
+        }
+      ]
+    }
+  ]
+}

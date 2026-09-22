@@ -1,0 +1,70 @@
+{
+  "id": "telc-b2-schreiben-p8",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #8",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bitte um Informationen:\nIhre Mutter lebt noch allein, braucht aber zunehmend Unterstützung bei Terminen und Medikamenten. Sie möchten am Informationsabend teilnehmen und vorher wissen, ob Ihre Fragen dort passen.\n\nAufgabe B: Bitte um Informationen:\nSie erwarten Besuch von einer Freundin mit Nussallergie und möchten sicherer kochen. Gleichzeitig möchten Sie wissen, ob der Kurs für Menschen ohne große Kocherfahrung geeignet ist.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihre Mutter lebt noch allein, braucht aber zunehmend Unterstützung bei Terminen und Medikamenten. Sie möchten am Informationsabend teilnehmen und vorher wissen, ob Ihre Fragen dort passen.",
+          "options": null,
+          "payload": {
+            "prompt": "Ihre Mutter lebt noch allein, braucht aber zunehmend Unterstützung bei Terminen und Medikamenten. Sie möchten am Informationsabend teilnehmen und vorher wissen, ob Ihre Fragen dort passen.",
+            "guidance": [
+              "Erklären Sie kurz Ihre familiäre Situation.",
+              "Fragen Sie, ob Organisation von Terminen und Medikamenten besprochen wird.",
+              "Bitten Sie um Anmeldung für eine Person und Informationen zum Ablauf.",
+              "Klären Sie, ob auch Hinweise zu Entlastungsangeboten gegeben werden."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz Ihre familiäre Situation.",
+              "Fragen Sie, ob Organisation von Terminen und Medikamenten besprochen wird.",
+              "Bitten Sie um Anmeldung für eine Person und Informationen zum Ablauf.",
+              "Klären Sie, ob auch Hinweise zu Entlastungsangeboten gegeben werden."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Situation und Anliegen im Betreff und der Einleitung klar benennen (Mutter, Unterstützungsbedarf, Interesse am Informationsabend).",
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge abarbeiten und inhaltlich konkret ausführen.",
+              "Höfliche, indirekte Fragestellungen verwenden (Konjunktiv II: 'Würden Sie...', 'Wäre es möglich...', 'Ich wäre Ihnen dankbar...').",
+              "Formelle/halbformelle Anrede und Grußformel (Sehr geehrte Damen und Herren / Mit freundlichen Grüßen) sowie klare Textstruktur mit Absätzen."
+            ],
+            "expected_answer": "Betreff: Fragen zum Informationsabend für pflegende Angehörige\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich von Ihrem Informationsabend für Angehörige erfahren und würde gerne daran teilnehmen. Meine Mutter lebt noch allein in ihrer eigenen Wohnung, jedoch fällt es ihr zunehmend schwer, ihren Alltag komplett selbstständig zu bewältigen. Insbesondere die Koordination von Arztterminen und die regelmäßige Einnahme ihrer Medikamente stellen eine wachsende Herausforderung dar. Da ich sie dabei unterstützen möchte, suche ich nach praktischen Tipps und Informationen.\n\nIn diesem Zusammenhang wäre ich Ihnen sehr dankbar, wenn Sie mir vorab mitteilen könnten, ob die Organisation von Terminen und die korrekte Medikamentengabe Themen des Abends sein werden. Gerade dieser Bereich bereitet mir momentan die größten Sorgen.\n\nDes Weiteren bitte ich um eine verbindliche Anmeldung für eine Person. Könnten Sie mir bitte auch den genauen zeitlichen Ablauf und den Veranstaltungsort nennen? Es wäre hilfreich zu wissen, ob ich dafür etwas Bestimmtes mitbringen muss.\n\nAbschließend interessiert mich, ob im Rahmen der Veranstaltung auch über mögliche Entlastungsangebote für pflegende Angehörige gesprochen wird, beispielsweise über Betreuungsgruppen oder finanzielle Unterstützungsmöglichkeiten.\n\nFür Ihre Mühe bedanke ich mich im Voraus und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

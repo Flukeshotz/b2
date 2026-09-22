@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-28",
+  "board": "custom",
+  "title": "Leseverstehen — Forum: Lohnt sich ein berufsbegleitender Master?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Lohnt sich ein berufsbegleitender Master?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "PRIYA_L: Ich überlege seit Monaten, neben meiner Vollzeitstelle einen berufsbegleitenden Master zu machen. Hat das schon jemand von euch durchgezogen?\n\nMARCUS_T: Ich habe es gemacht — zweieinhalb Jahre, Wochenendseminare plus Abendvorlesungen online. Ehrlich gesagt war es die anstrengendste Zeit meines Lebens, aber beruflich hat es sich gelohnt: Ich bin ein Jahr nach Abschluss in eine Position aufgestiegen, für die vorher der Mastertitel Voraussetzung war.\n\nPRIYA_L: Und wie war es privat? Ich habe Angst, dass meine Beziehung darunter leidet.\n\nMARCUS_T: Ganz ehrlich, das ist nicht zu unterschätzen. Meine Partnerin hat mich sehr unterstützt, aber es gab Monate, in denen wir uns kaum gesehen haben. Ich würde jedem raten, das VORHER offen zu besprechen, nicht erst, wenn man schon mittendrin steckt.\n\nLENA_F: Bei mir war der entscheidende Punkt ein anderer: Mein Arbeitgeber hat einen Teil der Studiengebühren übernommen, im Gegenzug musste ich mich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben. Das hat die Entscheidung finanziell deutlich leichter gemacht.\n\nPRIYA_L: Das ist ein guter Hinweis — ich werde auf jeden Fall vorher fragen, ob mein Arbeitgeber sich beteiligen würde.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war laut Marcus das berufliche Ergebnis seines Masterabschlusses?",
+          "options": [
+            "Er hat die Firma sofort nach dem Abschluss gewechselt.",
+            "Ein Jahr später der Aufstieg in eine Position, die den Mastertitel voraussetzte.",
+            "Er wurde trotz Abschluss nicht befördert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ein Jahr später der Aufstieg in eine Position, die den Mastertitel voraussetzte."
+          },
+          "explanation": "\"bin ein Jahr nach Abschluss in eine Position aufgestiegen, für die vorher der Mastertitel Voraussetzung war\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Marcus rät, das Thema mit dem Partner erst anzusprechen, wenn man bereits mit dem Studium begonnen hat.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Ich würde jedem raten, das VORHER offen zu besprechen, nicht erst, wenn man schon mittendrin steckt.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war für Lena der entscheidende Punkt bei ihrer Entscheidung?",
+          "options": [
+            "Die finanzielle Beteiligung des Arbeitgebers an den Studiengebühren.",
+            "Die kurze Studiendauer von nur einem Jahr.",
+            "Die Möglichkeit, komplett remote zu studieren."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die finanzielle Beteiligung des Arbeitgebers an den Studiengebühren."
+          },
+          "explanation": "\"Mein Arbeitgeber hat einen Teil der Studiengebühren übernommen … Das hat die Entscheidung finanziell deutlich leichter gemacht.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Gegenleistung musste Lena für die Kostenbeteiligung erbringen?",
+          "options": [
+            "Zusätzliche unbezahlte Überstunden leisten.",
+            "Auf ihr Gehalt während des Studiums verzichten.",
+            "Sich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben."
+          },
+          "explanation": "\"im Gegenzug musste ich mich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben\"."
+        }
+      ]
+    }
+  ]
+}

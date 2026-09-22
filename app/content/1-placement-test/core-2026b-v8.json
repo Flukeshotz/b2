@@ -1,0 +1,799 @@
+{
+  "id": "core-2026b-v8",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V8",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Der neue Bürostandort — Mitsprache oder nur Information?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Vor sechs Monaten wurde angekündigt, dass unser Standort umzieht. Meine erste\nReaktion war Skepsis: Eine solche Entscheidung wird doch längst von oben\ngetroffen, dachte ich, und wir dürfen höchstens noch über die Farbe der Wände\nmitreden.\n\nTatsächlich gab es zu Beginn nur eine Information, keine Beteiligung. Das hat\nsich aber geändert, als drei Kolleginnen aus verschiedenen Abteilungen eine\nArbeitsgruppe gegründet haben. Sie haben konkrete Vorschläge zur Raumaufteilung\neingereicht — und tatsächlich wurden zwei davon übernommen: mehr Ruheräume und\neine zentrale Küche statt kleiner Teeküchen auf jeder Etage.\n\nNach diesem Prozess sehe ich die Sache differenzierter. Es stimmt, dass die\ngrundlegende Entscheidung längst feststand. Aber innerhalb dieses Rahmens\ngab es tatsächlich Raum für echten Einfluss — nur eben nicht automatisch,\nsondern nur, weil sich jemand dafür eingesetzt hat.\n\nWas mich weiterhin stört, ist die kurze Zeit, die für Rückmeldungen blieb: Nur\nzwei Wochen zwischen Vorstellung der Pläne und endgültiger Entscheidung.\n\nAm Umzug selbst würde ich trotzdem nichts mehr ändern wollen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt die Autorin den Beteiligungsprozess insgesamt?",
+          "options": [
+            "Sie hält ihn für reine Show ohne echten Einfluss.",
+            "Sie sieht echten Einfluss, kritisiert aber weiterhin die kurze Rückmeldefrist.",
+            "Sie findet, die Entscheidung hätte komplett dem Team überlassen werden sollen."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie sieht echten Einfluss, kritisiert aber weiterhin die kurze Rückmeldefrist."
+          },
+          "explanation": "Sie würde am Umzug „trotzdem nichts mehr ändern“, kritisiert aber weiter die kurze Frist für Rückmeldungen. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Zwei Vorschläge der Arbeitsgruppe wurden tatsächlich übernommen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„tatsächlich wurden zwei davon übernommen: mehr Ruheräume und eine zentrale Küche“."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt die Autorin ein?",
+          "options": [
+            "Dass innerhalb der feststehenden Entscheidung tatsächlich Raum für Einfluss bestand.",
+            "Dass die Arbeitsgruppe am Ende gar nichts erreicht hat.",
+            "Dass sie selbst nie an dem Prozess interessiert war."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass innerhalb der feststehenden Entscheidung tatsächlich Raum für Einfluss bestand."
+          },
+          "explanation": "„Aber innerhalb dieses Rahmens gab es tatsächlich Raum für echten Einfluss“ — das Eingeständnis korrigiert ihre anfängliche Skepsis."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wodurch kam die Beteiligung überhaupt zustande?",
+          "options": [
+            "Weil drei Kolleginnen eine Arbeitsgruppe gegründet haben.",
+            "Weil die Geschäftsleitung von sich aus dazu einlud.",
+            "Weil eine externe Beratung das vorschrieb."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil drei Kolleginnen eine Arbeitsgruppe gegründet haben."
+          },
+          "explanation": "„als drei Kolleginnen aus verschiedenen Abteilungen eine Arbeitsgruppe gegründet haben.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Zu Beginn gab es nur Information, keine Beteiligung.",
+            "Die Rückmeldefrist betrug zwei Wochen.",
+            "Die Autorin lehnt den Umzug bis heute grundsätzlich ab.",
+            "Auf jeder Etage gibt es jetzt eine eigene Teeküche."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Zu Beginn gab es nur Information, keine Beteiligung.",
+              "Die Rückmeldefrist betrug zwei Wochen.",
+              "Die Autorin lehnt den Umzug bis heute grundsätzlich ab.",
+              "Auf jeder Etage gibt es jetzt eine eigene Teeküche."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Zu Beginn gab es nur Information, keine Beteiligung.",
+              "Die Rückmeldefrist betrug zwei Wochen."
+            ]
+          },
+          "explanation": "„zu Beginn nur eine Information, keine Beteiligung“ und „nur zwei Wochen“ stehen explizit im Text; abgelehnt wird der Umzug am Ende nicht, und die Teeküchen wurden gerade zentralisiert."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Sie beschreibt ihre anfängliche Skepsis.",
+              "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+              "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+              "Sie benennt, was sie an der Frist weiterhin stört."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Sie beschreibt ihre anfängliche Skepsis.",
+              "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+              "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+              "Sie benennt, was sie an der Frist weiterhin stört."
+            ]
+          },
+          "explanation": "Skepsis → Arbeitsgruppe → anerkannter Einfluss → verbleibende Kritik. Der Text bewegt sich chronologisch von der ersten Reaktion zur abschließenden Haltung."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Im Flur. Zwei Kollegen sprechen über die Umzugsplanung.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v8_buerowechsel.mp3",
+        "duration_seconds": 51.7,
+        "voices": "conrad+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollege A",
+          "text": "Du, der Umzugstermin — der war doch für Ende März geplant, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "War der erste Plan, ja. Frau Ostermann hat das aber noch mal verschoben, weil die neuen Möbel erst Mitte April geliefert werden. Jetzt ist der Umzug für das letzte Aprilwochenende angesetzt."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Letztes Aprilwochenende also, nicht Ende März. Und unsere Etage — bleiben wir zusammen?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Ja, das bleibt so wie geplant. Sie hat nur eine Sache geändert: Die Kartons müssen jetzt schon eine Woche vorher gepackt und beschriftet sein."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Moment, habe ich das richtig verstanden — der Termin selbst verschiebt sich, aber die Vorbereitung fängt trotzdem früher an?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das sinnvoll; sonst wird es am Umzugswochenende selbst zu hektisch."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann findet der Umzug jetzt statt?",
+          "options": [
+            "Ende März.",
+            "Am letzten Aprilwochenende.",
+            "Erst im Mai."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Am letzten Aprilwochenende."
+          },
+          "explanation": "Ende März war der erste Plan und wurde ersetzt: „Jetzt ist der Umzug für das letzte Aprilwochenende angesetzt.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die frühere Kartonpackfrist?",
+          "options": [
+            "Sie hält sie für übertrieben.",
+            "Sie hält sie für sinnvoll.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie hält sie für sinnvoll."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das sinnvoll“ — die Bewertung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Team wird bei dem Umzug auf verschiedene Etagen verteilt.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Ja, das bleibt so wie geplant“ — auf die Frage, ob das Team zusammenbleibt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der Umzugstermin verschoben?",
+          "options": [
+            "Weil die neuen Möbel erst Mitte April geliefert werden.",
+            "Weil das neue Gebäude noch nicht fertig ist.",
+            "Weil zu wenige Mitarbeitende Zeit hatten."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil die neuen Möbel erst Mitte April geliefert werden."
+          },
+          "explanation": "„weil die neuen Möbel erst Mitte April geliefert werden.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das sinnvoll.“",
+              "„Sie hat nur eine Sache geändert.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das sinnvoll.“ → eine Meinung äußern",
+              "„Sie hat nur eine Sache geändert.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Entscheidung stand fest. Wir konnten trotzdem etwas bewegen.",
+            "Die Entscheidung stand zwar fest, wir konnten aber trotzdem etwas bewegen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen der ursprünglichen Kritik teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Entscheidung stand zwar fest, wir konnten aber trotzdem etwas bewegen."
+          },
+          "explanation": "„zwar … aber“ räumt die Einschränkung ein und setzt zugleich den Erfolg dagegen. Zwei Sätze nebeneinander zeigen kein Abwägen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir richten mehr Ruheräume ein.",
+            "Man könnte mehr Ruheräume einrichten."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen eine Idee zur Raumaufteilung ins Gespräch, die noch verhandelbar bleiben soll."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte mehr Ruheräume einrichten."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag, über den das Team noch entscheiden darf."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wegen des Umzugs bitten wir um frühzeitiges Packen.",
+            "Wegen dem Umzug bitten wir um frühzeitiges Packen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an alle Mitarbeitenden."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen des Umzugs bitten wir um frühzeitiges Packen."
+          },
+          "explanation": "Gesprochen hört man „wegen dem“ ständig. Geschrieben verlangt „wegen“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die beiden Vorschläge wurden übernommen, weil sie sich mit vertretbarem Aufwand umsetzen ließen und breite Zustimmung fanden.",
+            "Die beiden Vorschläge wurden übernommen. Der Aufwand war vertretbar. Es gab breite Zustimmung."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen im Protokoll, warum zwei Vorschläge übernommen wurden."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die beiden Vorschläge wurden übernommen, weil sie sich mit vertretbarem Aufwand umsetzen ließen und breite Zustimmung fanden."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung nebeneinandergestellter Hauptsätze."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Der Vorschlag wurde von der Arbeitsgruppe zunächst in Frage ___, bevor die Leitung ihn schließlich ___ hatte.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "gestellt"
+                ]
+              },
+              {
+                "accepted": [
+                  "übernommen",
+                  "akzeptiert"
+                ]
+              }
+            ],
+            "text": [
+              "gestellt",
+              "übernommen / akzeptiert"
+            ]
+          },
+          "explanation": "„etwas in Frage stellen“ und „einen Vorschlag übernehmen/akzeptieren“ — feste Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Räume wurde neu geplant; nur die ___ der Möbellieferung verzögert sich noch.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Aufteilung",
+                  "Planung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Lieferung",
+                  "Ankunft"
+                ]
+              }
+            ],
+            "text": [
+              "Aufteilung / Planung",
+              "Lieferung / Ankunft"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Aufteilung“ und präzise Nomen wie „Lieferung“ gehören zum B2-Wortschatz; „das Aufteilen“ und „das Kommen“ wären der A2-Ersatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "einen Vorschlag",
+              "Einfluss",
+              "zur Verfügung",
+              "in Anspruch"
+            ],
+            "right": [
+              "nehmen",
+              "einreichen",
+              "ausüben",
+              "stehen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 0
+            },
+            "text": [
+              "einen Vorschlag → einreichen",
+              "Einfluss → ausüben",
+              "zur Verfügung → stehen",
+              "in Anspruch → nehmen"
+            ]
+          },
+          "explanation": "einen Vorschlag einreichen · Einfluss ausüben · zur Verfügung stehen · etwas in Anspruch nehmen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Ich wollte nur kurz sagen, dass bei uns noch nicht alles gepackt ist.",
+            "Ich möchte Sie darüber informieren, dass die Vorbereitungen bei uns noch nicht abgeschlossen sind."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die Umzugskoordinatorin."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich möchte Sie darüber informieren, dass die Vorbereitungen bei uns noch nicht abgeschlossen sind."
+          },
+          "explanation": "„nur kurz sagen“ gehört ins Gespräch. In einer E-Mail an die Koordinatorin kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — Ihre Frage kommt gleich dran.",
+            "Ich war noch nicht fertig! Man kann mich ja nie ausreden lassen.",
+            "Schon gut, sagen Sie einfach, was Sie meinen."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In der Infoveranstaltung unterbricht Sie ein Kollege mitten im Satz."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — Ihre Frage kommt gleich dran."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag sachlich, ohne Vorwurf und ohne ihn aufzugeben. Der Vorwurf eskaliert, das Aufgeben verschenkt das Wort."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung der Autorin zum Beteiligungsprozess entwickelt hat. Nennen Sie auch, was sie weiterhin kritisiert.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die die anfängliche Skepsis, den anerkannten Einfluss der Arbeitsgruppe UND die verbleibende Kritik an der kurzen Frist nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die die anfängliche Skepsis, den anerkannten Einfluss der Arbeitsgruppe UND die verbleibende Kritik an der kurzen Frist nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Anfängliche Skepsis oder Zweifel der Autorin am Prozess klar benennen.",
+              "Die positive Entwicklung bzw. den anerkannten Einfluss der Arbeitsgruppe darstellen.",
+              "Die verbleibende Kritik (kurze Frist) explizit nennen.",
+              "Eigene Formulierungen verwenden, nicht den Originaltext nach-erzählen.",
+              "Passende Konnektoren wie 'zunächst... jedoch', 'trotz... weiterhin' einsetzen."
+            ],
+            "expected_answer": "Zunächst stand die Autorin dem Beteiligungsprozess skeptisch gegenüber, erkannte jedoch später den spürbaren Einfluss der Arbeitsgruppe an. Trotz dieser positiven Entwicklung kritisiert sie weiterhin die viel zu kurze Frist für eine echte Mitgestaltung.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihre Kollegin schreibt: „Die Kartons müssen bis Freitag fertig sein.“ Sie sind nicht sicher, ob das für alle Abteilungen gilt und wie die Kartons beschriftet werden sollen. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen stellen (z. B. mit Konjunktiv II oder Modalpartikeln wie 'denn', 'eigentlich').",
+              "Erste Frage: Geltungsbereich klären (z. B. 'Gilt das für alle Abteilungen?').",
+              "Zweite Frage: Beschriftungsvorgabe erfragen (z. B. 'Wie sollen die Kartons beschriftet werden?').",
+              "Keine Wiederholung der Aussage oder Meinungsäußerung, sondern echte Informationsfragen."
+            ],
+            "expected_answer": "Vielen Dank für die Info. Gilt diese Frist denn für alle Abteilungen? Und könntest du mir bitte noch sagen, wie wir die Kartons genau beschriften sollen?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob künftig jede größere Standortentscheidung über eine Mitarbeiterbefragung abgestimmt werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zur Mitarbeiterbefragung (Zustimmung oder Ablehnung) mit passender Einleitung.",
+              "Zwei gut ausgeführte Argumente mit Konnektoren (z.B. erstens, zweitens, darüber hinaus) und konkreten Beispielen.",
+              "Eingeständnis eines Nachteils der eigenen Position mit einem Relativierungssatz (z.B. Allerdings muss man zugeben, dass...).",
+              "Konkreter, umsetzbarer Vorschlag, der den genannten Nachteil abmildert, und ein abschließender Appell."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Idee, große Standortentscheidungen per Mitarbeiterbefragung abzustimmen, grundsätzlich für sehr gut. Erstens stärkt dies die Identifikation mit dem Unternehmen, weil sich die Belegschaft ernst genommen fühlt. Zweitens können Mitarbeitende aus verschiedenen Abteilungen wertvolles Praxiswissen einbringen, das die Geschäftsleitung vielleicht gar nicht auf dem Schirm hat. Allerdings muss man zugeben, dass solche Abstimmungen zeitaufwendig sind und schnelle Entscheidungen blockieren können. Daher schlage ich vor, die Befragung nur bei strategischen Projekten ohne akuten Zeitdruck durchzuführen und die Ergebnisse für die Führungsebene als bindend zu definieren. So kombinieren wir Mitbestimmung mit Effizienz.\n\nViele Grüße,\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen lassen Mitarbeitende bei großen Entscheidungen wie einem Bürowechsel mitplanen, andere informieren nur im Nachhinein. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der festen Überzeugung, dass...').",
+              "Zwei bis drei gut ausgeführte Argumente für die eigene Position (z. B. Motivation, Identifikation, bessere Lösungen durch Praxiswissen).",
+              "Einen Nachteil der gegnerischen Position kurz einräumen und entkräften oder relativieren (Konjunktiv II nutzen: 'könnte', 'würde').",
+              "Verwendung typischer B2-Redemittel zur Strukturierung ('Einerseits... andererseits...', 'Hinzu kommt, dass...', 'Zwar... aber...')."
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass es deutlich sinnvoller ist, die Mitarbeitenden bei großen Entscheidungen wie einem Bürowechsel von Anfang an mitplanen zu lassen. Mein erster Grund ist die Motivation: Wenn Menschen das Gefühl haben, dass ihre Meinung zählt und sie wirklich Einfluss nehmen können, steigt ihre Zufriedenheit enorm. Sie fühlen sich als Teil des Teams und nicht nur als Befehlsempfänger. Zweitens führt die frühzeitige Einbeziehung fast immer zu besseren Ergebnissen. Die Angestellten kennen schließlich die täglichen Arbeitsabläufe am besten und können wertvolle praktische Hinweise geben, zum Beispiel zur Gestaltung der Räume oder zur technischen Ausstattung, an die die Chefetage vielleicht gar nicht denkt. Natürlich hat die andere Variante, also die reine Informationspolitik im Nachhinein, auf den ersten Blick einen Vorteil: Entscheidungen können viel schneller und ohne lange Diskussionen getroffen werden. Allerdings ist dieser Vorteil meiner Meinung nach kurzfristig gedacht. Zwar spart man anfangs Zeit, aber das Risiko, dass die Belegschaft die Veränderung ablehnt und innerlich kündigt, ist enorm hoch. Deshalb bin ich überzeugt, dass Mitbestimmung der klügere Weg ist.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

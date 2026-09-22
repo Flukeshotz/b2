@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_schichttausch",
+  "order_index": 8,
+  "icon": "💬",
+  "title": "Sie brauchen den Samstag frei",
+  "capability": "staying in the conversation when someone pushes back",
+  "proof": "Sie brauchen den Samstag frei",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_schichttausch"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

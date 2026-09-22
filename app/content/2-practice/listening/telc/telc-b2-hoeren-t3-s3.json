@@ -1,0 +1,115 @@
+{
+  "id": "telc-b2-hoeren-t3-s3",
+  "board": "telc",
+  "title": "telc B2 — Hören Teil 3 — Selektives Verstehen (Kurzberichte), Satz 3",
+  "minutes": 6,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "DRAFT",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 3 — Selektives Verstehen (Kurzberichte)",
+      "instruction": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc/teil3-q11.mp3",
+        "duration_seconds": 60,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Patientinnen und Patienten mit Nachmittagstermin sollen am Donnerstag nicht zur Praxis kommen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Sommerkonzert findet wegen des Wetters nicht im Hof, sondern in der Halle statt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Für digitale Ausleihen ändert sich am Montag nichts.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 4,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Fahrräder dürfen in den Ersatzbussen der Linie R7 mitgenommen werden, wenn man sich vorher anmeldet.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 5,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei der Sammelaktion können auch gewerbliche Farbreste abgegeben werden.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        }
+      ]
+    }
+  ]
+}

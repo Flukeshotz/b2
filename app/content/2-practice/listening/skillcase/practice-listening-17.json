@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-17",
+  "board": "custom",
+  "title": "Hörverstehen — Interview: Vom Büro auf die Baustelle",
+  "minutes": 10,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Interview: Vom Büro auf die Baustelle",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_17_quereinstieg.mp3",
+        "duration_seconds": 42.1,
+        "voices": "mia+jan"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum hat Herr Kowalski seinen Bürojob aufgegeben?",
+          "options": [
+            "Er wurde entlassen.",
+            "Der Lohn im Büro war zu niedrig.",
+            "Er wollte etwas sichtbar Geschaffenes hinterlassen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Er wollte etwas sichtbar Geschaffenes hinterlassen."
+          },
+          "explanation": "\"hatte am Ende des Tages nie das Gefühl, etwas wirklich Sichtbares geschaffen zu haben. Das wollte ich ändern.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Herr Kowalski verdiente während der Ausbildung mehr als vorher im Büro.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"ich habe während der Ausbildung deutlich weniger verdient als vorher.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie konnte Herr Kowalski die finanziell schwierigere Zeit überbrücken?",
+          "options": [
+            "Mit zuvor angesparten Rücklagen.",
+            "Mit einem zusätzlichen Nebenjob.",
+            "Mit einem Kredit der Bank."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Mit zuvor angesparten Rücklagen."
+          },
+          "explanation": "\"ich hatte vorher genug gespart, um diese Phase zu überbrücken.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welchen Rat gibt Herr Kowalski jüngeren Kollegen?",
+          "options": [
+            "Vorher genau prüfen, ob die Ersparnisse für die Ausbildungszeit reichen.",
+            "Immer ohne finanzielle Planung zu starten.",
+            "Auf keinen Fall den Beruf zu wechseln."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Vorher genau prüfen, ob die Ersparnisse für die Ausbildungszeit reichen."
+          },
+          "explanation": "\"sich vorher genau auszurechnen, ob die Ersparnisse für die Ausbildungszeit wirklich reichen.\""
+        }
+      ]
+    }
+  ]
+}

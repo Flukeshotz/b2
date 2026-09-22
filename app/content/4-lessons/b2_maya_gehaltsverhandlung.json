@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_gehaltsverhandlung",
+  "order_index": 30,
+  "icon": "💬",
+  "title": "Um eine Gehaltserhöhung bitten",
+  "capability": "backing a raise request with facts and pressing past the first no",
+  "proof": "Um eine Gehaltserhöhung bitten",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_gehaltsverhandlung"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

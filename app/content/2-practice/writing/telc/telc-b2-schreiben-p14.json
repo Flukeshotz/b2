@@ -1,0 +1,71 @@
+{
+  "id": "telc-b2-schreiben-p14",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #14",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Anmeldung:\nSie möchten mehr über Ihre Großeltern herausfinden, haben aber nur wenige Dokumente. Vor der Anmeldung möchten Sie wissen, ob der Kurs auch mit wenig Vorwissen sinnvoll ist.\n\nAufgabe B: Beschwerde:\nSie haben das Paket für eine Abschiedsfeier gemietet. Das Funkmikrofon fehlte, die Einweisung dauerte nur wenige Minuten und die Servicenummer war abends nicht erreichbar.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie möchten mehr über Ihre Großeltern herausfinden, haben aber nur wenige Dokumente. Vor der Anmeldung möchten Sie wissen, ob der Kurs auch mit wenig Vorwissen sinnvoll ist.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie möchten mehr über Ihre Großeltern herausfinden, haben aber nur wenige Dokumente. Vor der Anmeldung möchten Sie wissen, ob der Kurs auch mit wenig Vorwissen sinnvoll ist.",
+            "guidance": [
+              "Melden Sie Ihr Interesse am Kurs an.",
+              "Beschreiben Sie kurz Ihr Rechercheziel und Ihr geringes Vorwissen.",
+              "Fragen Sie nach mitzubringenden Unterlagen und Datenschutz.",
+              "Bitten Sie um Bestätigung von Terminen, Kosten und Anmeldung."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Melden Sie Ihr Interesse am Kurs an.",
+              "Beschreiben Sie kurz Ihr Rechercheziel und Ihr geringes Vorwissen.",
+              "Fragen Sie nach mitzubringenden Unterlagen und Datenschutz.",
+              "Bitten Sie um Bestätigung von Terminen, Kosten und Anmeldung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klares Interesse am Kurs bekunden und Bezug auf die Großeltern-Recherche nehmen.",
+              "Ehrlich das geringe Vorwissen und die spärliche Dokumentenlage schildern.",
+              "Konkrete Fragen zu benötigten Unterlagen und zum Umgang mit persönlichen Daten (Datenschutz) stellen.",
+              "Höflich um Bestätigung der organisatorischen Details (Termine, Kosten, Anmeldeverfahren) bitten.",
+              "Passende Redemittel für formelle/halbformelle E-Mails verwenden (z. B. 'Sehr geehrte Damen und Herren', 'Ich würde mich sehr freuen, wenn...', 'Mit freundlichen Grüßen')."
+            ],
+            "expected_answer": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich von Ihrem Kurs zur Familienforschung erfahren und möchte mich hiermit erkundigen, ob eine Teilnahme für mich sinnvoll ist. Mein Ziel ist es, mehr über meine Großeltern herauszufinden, zu denen ich leider kaum Kontakt hatte. Mein Vorwissen ist sehr gering, und ich besitze nur wenige Dokumente, hauptsächlich einige alte Fotos und eine Geburtsurkunde.\n\nDaher ist meine wichtigste Frage: Ist der Kurs auch für Anfänger mit so wenig Material geeignet? Können Sie mir bitte mitteilen, welche Unterlagen ich zum ersten Termin mitbringen sollte? Ein weiterer wichtiger Punkt ist der Datenschutz. Ich möchte sicherstellen, dass persönliche Familiendaten vertraulich behandelt und nicht ohne meine Zustimmung weitergegeben werden.\n\nAbschließend bitte ich Sie um eine Bestätigung der genauen Termine und der Kursgebühren. Auch wäre ich Ihnen dankbar, wenn Sie mir das Anmeldeverfahren kurz erklären könnten. Ich würde mich sehr freuen, bald von Ihnen zu hören, und bedanke mich herzlich für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

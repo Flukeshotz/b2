@@ -1,0 +1,89 @@
+{
+  "id": "practice-listening-10",
+  "board": "custom",
+  "title": "Hörverstehen — Beim Friseur: Terminänderung",
+  "minutes": 6,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Beim Friseur: Terminänderung",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_10_friseurtermin.mp3",
+        "duration_seconds": 41.1,
+        "voices": "katja+mia"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was möchte die Kundin heute ändern?",
+          "options": [
+            "Den ganzen Termin absagen.",
+            "Statt Färben nur eine Dauerwelle machen lassen.",
+            "Nur schneiden lassen, das Färben verschieben."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Nur schneiden lassen, das Färben verschieben."
+          },
+          "explanation": "\"Ist es möglich, nur das Schneiden zu machen und das Färben auf einen anderen Termin zu verschieben?\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum lehnt die Kundin den ersten Terminvorschlag für das Färben ab?",
+          "options": [
+            "Der Preis ist ihr zu hoch.",
+            "Sie arbeitet bis 17 Uhr an diesem Tag.",
+            "Sie hat an dem Tag keine Zeit für einen Friseurbesuch."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie arbeitet bis 17 Uhr an diesem Tag."
+          },
+          "explanation": "\"Dienstag um vierzehn Uhr passt mir leider nicht, ich arbeite da bis siebzehn Uhr.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der finale Termin für das Färben ist Dienstag um 17:30 Uhr.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Dienstag um siebzehn Uhr dreißig hätte ich noch frei.\" — die Kundin nimmt diesen Termin an."
+        }
+      ]
+    }
+  ]
+}

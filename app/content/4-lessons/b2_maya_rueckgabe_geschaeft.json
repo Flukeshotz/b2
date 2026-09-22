@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_rueckgabe_geschaeft",
+  "order_index": 20,
+  "icon": "💬",
+  "title": "Eine Rückgabe ohne Kassenbon",
+  "capability": "asking for clarification when store policy is vague",
+  "proof": "Eine Rückgabe ohne Kassenbon",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_rueckgabe_geschaeft"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

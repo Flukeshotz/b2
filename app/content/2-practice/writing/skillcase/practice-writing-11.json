@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-11",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 11 — Problem erklären: IT-Support",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihr Arbeitslaptop stürzt seit einigen Tagen mehrmals täglich ab. Schreiben Sie eine Nachricht an den IT-Support, in der Sie das Problem so beschreiben, dass es nachvollziehbar und bearbeitbar ist.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Beschreiben Sie, wann und wie oft das Problem auftritt.",
+              "Nennen Sie, was Sie bereits versucht haben.",
+              "Fragen Sie konkret nach dem weiteren Vorgehen."
+            ],
+            "register": "neutral",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "explain_problem",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Beschreiben Sie, wann und wie oft das Problem auftritt.",
+              "Nennen Sie, was Sie bereits versucht haben.",
+              "Fragen Sie konkret nach dem weiteren Vorgehen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Präzise Problembeschreibung: Wann (z. B. bei bestimmten Programmen, nach dem Hochfahren), wie oft (z. B. mehrmals täglich) und wie (Absturz, Bluescreen, Einfrieren) tritt der Fehler auf?",
+              "Eigene Lösungsversuche nennen: Bereits durchgeführte Schritte wie Neustart, Updates prüfen oder Programme schließen erwähnen.",
+              "Klare, höfliche Handlungsaufforderung: Konkrete Frage nach dem weiteren Vorgehen, z. B. Terminvereinbarung oder Fernwartung.",
+              "Passendes Register: Formelle Anrede und Grußformel, sachlicher Ton, Verwendung von Konjunktiv II für Bitten (z. B. „Könnten Sie…“)."
+            ],
+            "expected_answer": "Betreff: Dringend: Wiederholte Abstürze meines Arbeitslaptops\n\nSehr geehrte Damen und Herren,\n\nseit einigen Tagen stürzt mein Arbeitslaptop mehrmals täglich unerwartet ab. Das Problem tritt besonders häufig auf, wenn ich mit grafikintensiven Programmen arbeite oder mehrere Anwendungen gleichzeitig geöffnet habe. Der Bildschirm friert dann kurz ein und das System startet neu.\n\nIch habe bereits versucht, den Laptop mehrmals neu zu starten und alle verfügbaren Updates zu installieren. Leider hat das keine Verbesserung gebracht.\n\nKönnten Sie mir bitte mitteilen, wie wir weiter vorgehen? Wäre eine Fernwartung möglich oder soll ich das Gerät bei Ihnen vorbeibringen? Für eine schnelle Rückmeldung wäre ich sehr dankbar.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

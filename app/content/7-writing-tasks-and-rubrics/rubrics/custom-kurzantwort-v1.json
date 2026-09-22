@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "board": "custom",
+  "module": "schreiben",
+  "task_type": "kurzantwort",
+  "version": 1,
+  "provisional": true,
+  "dimensions": [
+    {
+      "id": "inhalt",
+      "label": "Inhalt",
+      "descriptor": "Ist die Aufgabe erfüllt? Sind die geforderten Punkte enthalten?"
+    },
+    {
+      "id": "sprache",
+      "label": "Sprache",
+      "descriptor": "Ist die Formulierung dem Zweck und der Situation angemessen?"
+    }
+  ],
+  "scale_max": 3,
+  "subtest_weight": 0.5,
+  "pass_mark": 2,
+  "borderline_low": 1,
+  "borderline_high": 2
+}

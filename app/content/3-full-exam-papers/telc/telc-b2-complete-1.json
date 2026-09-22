@@ -1,0 +1,437 @@
+{
+  "id": "telc-b2-complete-1",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Komplettes Übungspaket",
+  "minutes": 70,
+  "source": "Skillcase, authored. Composed exam-format practice paper for telc B2 (Lesen, Sprachbausteine, Hören, Schreiben, Sprechen) — not an official telc paper. Hören reuses Übungsset 1's transcript and audio.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 16,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Anzeige: Sprachkurse für den Beruf",
+      "instruction": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Die Volkshochschule Nordstadt bietet ab September berufsbegleitende Deutschkurse auf B2-Niveau an. Die Kurse finden zweimal wöchentlich abends statt, sodass eine Teilnahme neben einer Vollzeitstelle möglich ist. Neu in diesem Semester: ein separater Kurs mit Schwerpunkt auf schriftlicher Kommunikation im Beruf, etwa E-Mails und Berichte.\n\nDie Teilnahmegebühr beträgt 340 Euro pro Semester. Für Beschäftigte, deren Arbeitgeber eine Kostenbeteiligung schriftlich bestätigt, reduziert sich der Betrag um 50 Prozent. Eine Anmeldung ist bis zwei Wochen vor Kursbeginn online oder persönlich im Sekretariat möglich; danach werden freie Plätze nur noch nach Rücksprache vergeben.\n\nEin Einstufungstest ist vor der ersten Kursstunde verpflichtend, kann aber auch online von zu Hause aus absolviert werden. Wer bereits ein B2-Zertifikat besitzt, kann auf Antrag direkt in den Aufbaukurs für C1 wechseln, sofern das Zertifikat nicht älter als zwei Jahre ist.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Kurse finden nur tagsüber statt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"…zweimal wöchentlich abends…\" — die Kurse finden abends statt, nicht tagsüber."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist neu in diesem Semester?",
+          "options": [
+            "Ein Kurs mit Schwerpunkt schriftliche Kommunikation im Beruf.",
+            "Kostenlose Teilnahme für alle.",
+            "Ein reiner Wochenendkurs."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ein Kurs mit Schwerpunkt schriftliche Kommunikation im Beruf."
+          },
+          "explanation": "\"Neu in diesem Semester: ein separater Kurs mit Schwerpunkt auf schriftlicher Kommunikation im Beruf…\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer eine schriftliche Bestätigung des Arbeitgebers vorlegt, zahlt den vollen Betrag.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"…reduziert sich der Betrag um 50 Prozent\" — der Betrag wird also NICHT voll fällig."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was passiert, wenn man sich später als zwei Wochen vor Kursbeginn anmeldet?",
+          "options": [
+            "Die Anmeldung wird automatisch abgelehnt.",
+            "Freie Plätze werden nur noch nach Rücksprache vergeben.",
+            "Man zahlt eine Strafgebühr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Freie Plätze werden nur noch nach Rücksprache vergeben."
+          },
+          "explanation": "\"…danach werden freie Plätze nur noch nach Rücksprache vergeben.\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein bereits vor drei Jahren erworbenes B2-Zertifikat berechtigt in jedem Fall zum direkten Wechsel in den C1-Aufbaukurs.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"…sofern das Zertifikat nicht älter als zwei Jahre ist\" — nach drei Jahren gilt diese Bedingung nicht mehr."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Weiterbildung im Berufsalltag",
+      "instruction": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Viele Beschäftigte wünschen sich mehr Weiterbildung, (1) ___ ihnen dafür oft die Zeit fehlt. Der Arbeitgeber müsste solche Angebote nicht nur ermöglichen, (2) ___ auch aktiv fördern. (3) ___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden. Wichtig ist, dass die Weiterbildung tatsächlich (4) ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist. Nur so lässt sich verhindern, dass die (5) ___ Zeit ohne echten Nutzen bleibt. Am Ende profitieren (6) ___ das Unternehmen als auch die Beschäftigten selbst davon.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 1: \"…mehr Weiterbildung, ___ ihnen dafür oft die Zeit fehlt.\"",
+          "options": [
+            "obwohl",
+            "weil",
+            "damit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "obwohl"
+          },
+          "explanation": "Konzessiv: der Wunsch besteht TROTZ fehlender Zeit — \"obwohl\" leitet den Gegensatz ein."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 2: \"…nicht nur ermöglichen, ___ auch aktiv fördern.\"",
+          "options": [
+            "sondern",
+            "aber",
+            "oder"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sondern"
+          },
+          "explanation": "Zweiteiliger Konnektor \"nicht nur…sondern auch\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 3: \"___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden.\"",
+          "options": [
+            "Anstelle",
+            "Trotz",
+            "Während"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Anstelle"
+          },
+          "explanation": "\"Anstelle\" (Genitivpräposition) passt inhaltlich: EIN Angebot ersetzt das andere. \"Trotz\"/\"Während\" sind ebenfalls Genitivpräpositionen, ergeben hier aber keinen Sinn."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 4: \"…dass die Weiterbildung tatsächlich ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist.\"",
+          "options": [
+            "auf",
+            "für",
+            "mit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "auf"
+          },
+          "explanation": "Feste Verb-Präposition-Verbindung: \"etwas auf etwas abstimmen\" (+Akkusativ)."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 5: \"…dass die ___ Zeit ohne echten Nutzen bleibt.\"",
+          "options": [
+            "investierte",
+            "investierende",
+            "investiert"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "investierte"
+          },
+          "explanation": "Partizip-II-Adjektiv, korrekt endend: \"die investierte Zeit\" (die Zeit, die investiert WURDE)."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 6: \"Am Ende profitieren ___ das Unternehmen als auch die Beschäftigten selbst davon.\"",
+          "options": [
+            "sowohl",
+            "weder",
+            "entweder"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sowohl"
+          },
+          "explanation": "Zweiteiliger Konnektor \"sowohl…als auch\"."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Durchsage: Änderung der Kantinenöffnungszeiten",
+      "instruction": "Hören Sie die Durchsage einmal und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc_hoeren_1_kantine.mp3",
+        "duration_seconds": 41.2,
+        "voices": "katja"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bis wann ist die Kantine künftig geöffnet?",
+          "options": [
+            "Bis 15:30 Uhr.",
+            "Bis 14:00 Uhr.",
+            "Bis 13:30 Uhr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Bis 15:30 Uhr."
+          },
+          "explanation": "\"künftig bis fünfzehn Uhr dreißig geöffnet.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das warme Mittagessen wird auch nach 13:30 Uhr noch ausgegeben.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"das warme Mittagessen wird … weiterhin nur bis dreizehn Uhr dreißig ausgegeben.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurden die Öffnungszeiten geändert?",
+          "options": [
+            "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.",
+            "Wegen gestiegener Kosten.",
+            "Wegen einer neuen gesetzlichen Vorschrift."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst."
+          },
+          "explanation": "\"Grund … sind die vielen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.\""
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Halbformelle E-Mail: Vertretung bei einem Kundentermin",
+      "instruction": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihre Kollegin kann kommende Woche krankheitsbedingt nicht an einem wichtigen Kundentermin teilnehmen und hat Sie gebeten, sie zu vertreten. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Erklären Sie kurz, warum Sie schreiben.",
+              "Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.",
+              "Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen."
+            ],
+            "min_words": 120,
+            "rubric_id": 2,
+            "rubric_key": "halbformelle_email",
+            "target_words": 150
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz, warum Sie schreiben.",
+              "Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.",
+              "Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Betreffzeile und passende Anrede (Frau/Herr Nachname) nicht vergessen.",
+              "Alle drei Leitpunkte in logischer Reihenfolge abarbeiten: Grund der E-Mail nennen, konkreten Lösungsvorschlag machen, benötigte Unterstützung formulieren.",
+              "Höfliche, aber bestimmte Ausdrucksweise verwenden (Konjunktiv II: 'könnte', 'würde'; Modalverben: 'möchte', 'bräuchte').",
+              "Text klar strukturieren (Einleitung, Hauptteil, Schlusssatz mit Dank/Bitte um Rückmeldung, Grußformel).",
+              "Typische B2-Redemittel für Vorschläge und Bitten einbauen, z. B. 'Ich schlage vor, dass...', 'Wäre es möglich, dass...', 'Ich bitte Sie um...'."
+            ],
+            "expected_answer": "Betreff: Vertretung beim Kundentermin nächste Woche\n\nSehr geehrte Frau Müller,\n\nwie Sie vielleicht bereits wissen, ist unsere Kollegin Frau Schulze leider erkrankt und kann den wichtigen Kundentermin mit der Firma Meier am kommenden Dienstag nicht wahrnehmen. Sie hat mich gebeten, sie zu vertreten, und ich übernehme diese Aufgabe selbstverständlich gerne.\n\nIch schlage vor, dass der Termin wie geplant stattfindet. Da ich bereits in der Vergangenheit mit diesem Kunden zusammengearbeitet habe, bin ich mit dem Projekt vertraut und könnte die Präsentation ohne größere Verzögerung übernehmen. Wäre es möglich, dass Sie mir bis Freitag die aktuellen Vertragsunterlagen zukommen lassen? Zudem bräuchte ich eine kurze Einweisung zu den neuesten Verhandlungspunkten, damit ich optimal vorbereitet bin.\n\nIch bitte Sie um eine kurze Rückmeldung, ob dieser Vorschlag für Sie in Ordnung geht.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Angemessene halbformelle Anrede und Grußformel, klare Erklärung des Schreibanlasses, nachvollziehbarer Vertretungsvorschlag und präzise Bitte an die Vorgesetzte unter Verwendung des Höflichkeitskonjunktivs."
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Gemeinsam planen: Betriebsausflug",
+      "instruction": "Sprechen Sie etwa 2 Minuten.",
+      "minutes": 4,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Nennung eines konkreten, realistischen Ausflugsziels (z. B. eine Stadt, ein Naturpark, ein Museum).",
+              "Mindestens zwei überzeugende Begründungen, die sowohl Teamaspekte (z. B. Teambuilding, Entspannung) als auch praktische Vorteile (z. B. Erreichbarkeit, Kosten) abdecken.",
+              "Verwendung von typischen B2-Redemitteln für Vorschläge und Begründungen (z. B. 'Ich würde vorschlagen, dass...', 'Dafür spricht...', 'Ein weiterer Vorteil wäre...').",
+              "Einbeziehung der Perspektive der Kollegin/des Kollegen durch eine kurze, offene Frage am Ende (z. B. 'Was hältst du davon?').",
+              "Flüssiger, gesprochener Stil mit logischer Struktur (Einleitung, Hauptteil mit Argumenten, kurzer Schluss)."
+            ],
+            "expected_answer": "Also, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug nach Bamberg machen. Ich finde, die Stadt ist wirklich ideal für so eine Unternehmung. Dafür spricht zum einen die wunderschöne Altstadt, die ja zum UNESCO-Weltkulturerbe gehört. Man kann dort einfach herrlich durch die verwinkelten Gassen schlendern, das hat fast schon mediterranes Flair, und ich glaube, das wäre eine schöne Abwechslung zum Büroalltag. Ein weiterer Vorteil ist, dass wir dort eine Brauereiführung mit anschließender Bierverkostung machen könnten. Das ist nicht nur informativ, sondern lockert die Stimmung ungemein auf und fördert den Teamgeist auf eine ganz ungezwungene Art und Weise. Was die Organisation betrifft, ist Bamberg von hier aus auch sehr gut mit dem Zug zu erreichen, sodass wir nicht im Stau stehen und alle entspannt ankommen. Wir könnten morgens hinfahren, dann eine kleine Stadtführung machen, mittags typisch fränkisch essen gehen und am Nachmittag eben diese Brauerei besichtigen. Ich denke, das ist eine gute Mischung aus Kultur, Kulinarik und Teambuilding. Die Kosten würden sich dafür auch im Rahmen halten. Was hältst du von der Idee? Ich bin gespannt auf deine Meinung.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Aktive Gesprächsführung und Interaktion. Machen Sie konkrete Vorschläge zum Ausflug, begründen Sie diese, gehen Sie auf Einwände des Partners ein und treffen Sie am Ende eine gemeinsame Vereinbarung."
+        }
+      ]
+    }
+  ]
+}

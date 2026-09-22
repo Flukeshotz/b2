@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-25",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 25 — Problem erklären: Projektverzögerung",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ein Projekt, für das Sie verantwortlich sind, verzögert sich. Schreiben Sie eine E-Mail an Ihre Führungskraft, in der Sie den Grund erklären und einen neuen Zeitplan vorschlagen.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie den konkreten Grund der Verzögerung.",
+              "Vermeiden Sie es, die Schuld einseitig abzuwälzen.",
+              "Schlagen Sie einen realistischen neuen Zeitplan vor."
+            ],
+            "register": "formell",
+            "min_words": 90,
+            "rubric_id": 8,
+            "task_type": "explain_problem",
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie den konkreten Grund der Verzögerung.",
+              "Vermeiden Sie es, die Schuld einseitig abzuwälzen.",
+              "Schlagen Sie einen realistischen neuen Zeitplan vor."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Konkreten, sachlichen Grund für die Verzögerung nennen (z. B. Lieferengpass, technisches Problem, Krankheit im Team).",
+              "Eigenverantwortung zeigen: Formulierungen wie ‚Ich hätte früher reagieren müssen‘ oder ‚Ich übernehme die Verantwortung‘ verwenden, keine einseitige Schuldzuweisung.",
+              "Realistischen neuen Zeitplan mit konkretem Datum oder Zeitraum vorschlagen und ggf. eine Kompensationsmaßnahme nennen.",
+              "Angemessene E-Mail-Struktur: Betreffzeile, höfliche Anrede, Einleitung, Erklärung, Lösungsvorschlag, Schlussformel mit Gruß.",
+              "Redemittel: ‚Leider muss ich Ihnen mitteilen, dass…‘, ‚Der Hauptgrund liegt in…‘, ‚Ich schlage daher folgenden Zeitplan vor…‘, ‚Ich bitte um Ihr Verständnis.‘"
+            ],
+            "expected_answer": "Betreff: Neuer Zeitplan für Projekt Alpha\n\nSehr geehrte Frau Müller,\n\nleider muss ich Ihnen mitteilen, dass sich unser Projekt Alpha um voraussichtlich zwei Wochen verzögern wird. Der Hauptgrund ist ein unerwarteter Lieferengpass bei einem wichtigen Zulieferer, der uns erst gestern informiert hat. Ich hätte die Bestellung früher auslösen müssen und übernehme dafür die Verantwortung.\n\nIch habe bereits mit dem Lieferanten eine Expresslieferung für den 15. November vereinbart. Daher schlage ich folgenden neuen Zeitplan vor: Die interne Testphase starten wir am 18. November und die Endabgabe erfolgt am 25. November. Durch Überstunden im Team können wir den Rückstand teilweise aufholen.\n\nIch bitte Sie um Ihr Verständnis und stehe für Rückfragen gerne zur Verfügung.\n\nMit freundlichen Grüßen\nMax Weber",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t2-p13",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #13",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie haben einem Seminarleiter zugesagt, bei der Begrüßung neuer Teilnehmender zu helfen. Nun möchten Sie die Aufgaben genauer klären. Schreiben Sie eine Nachricht an den Seminarleiter, Herrn Arndt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie haben einem Seminarleiter zugesagt, bei der Begrüßung neuer Teilnehmender zu helfen. Nun möchten Sie die Aufgaben genauer klären. Schreiben Sie eine Nachricht an den Seminarleiter, Herrn Arndt.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie haben einem Seminarleiter zugesagt, bei der Begrüßung neuer Teilnehmender zu helfen. Nun möchten Sie die Aufgaben genauer klären. Schreiben Sie eine Nachricht an den Seminarleiter, Herrn Arndt.",
+            "guidance": [
+              "Bestätigen Sie Ihre Hilfe.",
+              "Fragen Sie nach den genauen Aufgaben.",
+              "Nennen Sie Ihre verfügbare Zeit.",
+              "Schlagen Sie vor, was Sie vorbereiten können."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bestätigen Sie Ihre Hilfe.",
+              "Fragen Sie nach den genauen Aufgaben.",
+              "Nennen Sie Ihre verfügbare Zeit.",
+              "Schlagen Sie vor, was Sie vorbereiten können."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Bestätige die Zusage zur Hilfe und nimm Bezug auf die vorherige Absprache.",
+              "Erfrage konkret die gewünschten Aufgaben (z. B. Begrüßung, Unterlagen, Rundgang).",
+              "Nenne präzise dein Zeitfenster für die Hilfe am Veranstaltungstag.",
+              "Mache einen konkreten, hilfreichen Vorschlag zur Vorbereitung (z. B. Namensschilder, Präsentation).",
+              "Verwende höfliche Modalverben (könnte, würde), indirekte Fragen und Konnektoren (außerdem, daher)."
+            ],
+            "expected_answer": "Betreff: Absprache zur Begrüßung neuer Teilnehmender\n\nSehr geehrter Herr Arndt,\n\nwie bereits besprochen, helfe ich Ihnen sehr gerne bei der Begrüßung der neuen Teilnehmenden. Daher möchte ich nun die genauen Aufgaben mit Ihnen klären.\n\nKönnten Sie mir bitte mitteilen, welche konkreten Tätigkeiten Sie mir zugedacht haben? Soll ich beispielsweise die Ankommenden am Eingang in Empfang nehmen, Namensschilder verteilen oder vielleicht eine kleine Führung durch das Gebäude übernehmen? \n\nIch bin am Veranstaltungstag ab 8:30 Uhr vor Ort und stehe Ihnen bis zum Beginn des Seminars um 10:00 Uhr uneingeschränkt zur Verfügung. Außerdem könnte ich im Vorfeld bereits die Teilnehmerliste ausdrucken und die Begrüßungsunterlagen zusammenstellen. Wäre das in Ihrem Sinne?\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

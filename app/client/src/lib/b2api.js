@@ -143,6 +143,9 @@ export const b2 = {
   getWeakArea: () => req("/practice/weak"),
   getPracticeBySkill: (skill) => req(`/practice/skill/${skill}`),
   getPracticeCounts: () => req("/practice/counts"),
+  // Per-module practice papers ranked by the learner's weakest capabilities
+  // in her latest assessment. See b2/suggest.js.
+  getSuggestedPractice: () => req("/practice/suggested"),
 
   /* EXAM-PRACTICE PAPERS (Goethe/telc standalone sections). Separate attempt
      bookkeeping from the diagnostic assessment — see b2/exam_paper.js. */

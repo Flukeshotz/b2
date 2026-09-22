@@ -1,0 +1,156 @@
+{
+  "id": "goethe-b2-hoeren-t3-s1",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 1",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil3-set1.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Öffentliche Plätze sollten auch abends genutzt werden.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Moderatorin"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Moderatorin\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Anfangs war fehlende Information das größte Problem.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Herr Behrens"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Herr Behrens\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kurze Anreisewege entlasten das Wohnviertel.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Frau Kaya"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Frau Kaya\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er/Sie macht aus Lärm eine Frage verlässlicher Zusagen.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Moderatorin"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Moderatorin\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nachbarn sollen die Veranstaltung vorher einschätzen können.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Herr Behrens"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Herr Behrens\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er/Sie fordert echte Beteiligung statt feststehender Entscheidungen.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Frau Kaya"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Frau Kaya\"."
+        }
+      ]
+    }
+  ]
+}

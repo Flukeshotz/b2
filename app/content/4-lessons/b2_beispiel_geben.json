@@ -1,0 +1,57 @@
+{
+  "id": "b2_beispiel_geben",
+  "order_index": 15,
+  "icon": "💡",
+  "title": "Ein Argument konkret belegen",
+  "capability": "grounding a claim or rebuttal with a concrete, contextually anchored example",
+  "proof": "Thesen durch greifbare Fälle belegen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Argumente mit Beispielen stützen",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Teambesprechung auf Station 3: Die Einführung der gemeinsamen Übergabe am Krankenbett (Bedside Handover) steht zur Abstimmung.",
+            "Kollege Frank äußert heftige Bedenken: ‚Das kostet uns am Schichtende nur unnötig Zeit! Die Patienten verstehen unsere Fachsprache sowieso nicht und werden nur verunsichert. Wir sollten bei der Übergabe im Stationszimmer bleiben.‘",
+            "Ihre Aufgabe: Reagieren Sie auf Franks Einwand. Widersprechen Sie ihm sachlich und belegen Sie Ihre Position mit einem konkreten, greifbaren Fallbeispiel aus der Praxis."
+          ]
+        },
+        {
+          "t": "notice",
+          "body": "Sätze wie ‚Zum Beispiel ist Kommunikation wichtig‘ sind inhaltsleer und fallen in jeder Prüfung durch. Ein überzeugendes B2-Beispiel verankert die Situation (auf Station, bei einem Patienten, im Nachtdienst) und schildert einen konkreten Hergang mit nachvollziehbarem Ausgang.",
+          "title": "Ein echtes B2-Beispiel ist keine Floskel"
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Widersprechen Sie Franks Einwand in der Teambesprechung (mind. 60 Wörter). Formulieren Sie ein klares Gegenargument und belegen Sie es mit einem konkreten Fallbeispiel aus der Stationspraxis.",
+          "guidance": [
+            "Gegenargument: Zeigen Sie, warum die Übergabe am Bett Patienten einbindet und Fehler verhindert.",
+            "Konkretes Beispiel: Leiten Sie das Beispiel ein ('Als konkretes Beispiel…', 'beispielsweise') und verankern Sie es zeitlich oder situativ (z. B. 'letzte Woche bei einer älteren Dame').",
+            "Konkreter Ausgang: Schildern Sie, was genau auffiel oder welcher Fehler rechtzeitig vermieden wurde."
+          ],
+          "minWords": 60,
+          "taskType": "beispiel",
+          "afterHints": [
+            "Ich teile Franks Bedenken nicht, denn die Übergabe am Bett erhöht die Patientensicherheit nachweisbar.",
+            "Als konkretes Beispiel lässt sich ein Vorfall aus der letzten Woche anführen: Bei einer Patientin fiel während der Übergabe sofort auf, dass die Dosis vertauscht worden war.",
+            "Die Patientin konnte den Fehler selbst korrigieren, sodass eine falsche Medikation rechtzeitig abgewendet werden konnte."
+          ],
+          "capabilities": [
+            "exemplify",
+            "argue",
+            "justify"
+          ],
+          "experienceId": "exp_beispiel_geben"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

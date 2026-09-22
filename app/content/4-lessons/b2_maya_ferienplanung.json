@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_ferienplanung",
+  "order_index": 35,
+  "icon": "💬",
+  "title": "Den Kurzurlaub planen",
+  "capability": "planning together and summarising the agreement accurately",
+  "proof": "Den Kurzurlaub planen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_ferienplanung"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

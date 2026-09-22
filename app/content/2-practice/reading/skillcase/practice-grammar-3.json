@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-3",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 3 — Relativsätze mit Präposition",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das ist das Formular, ___ ich mich seit Tagen ärgere.",
+          "options": [
+            "das",
+            "worüber",
+            "über das"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "über das"
+          },
+          "explanation": "Relativsatz mit Präposition + Relativpronomen: \"sich ärgern über\" → \"über das ich mich ärgere\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie sprach mit dem Arzt, ___ Rat sie vertraute.",
+          "options": [
+            "den",
+            "der",
+            "dessen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "dessen"
+          },
+          "explanation": "Genitiv-Relativpronomen: \"dessen Rat\" = \"seinem Rat\" (der Rat des Arztes)."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich weiß nicht, ___ sie sich beschwert hat.",
+          "options": [
+            "wodrüber",
+            "worüber",
+            "über das"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "worüber"
+          },
+          "explanation": "Nach Indefinit-/Fragewort steht das Pronominaladverb \"worüber\", nicht \"über das\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das ist der Grund, ___ ich die Schicht tauschen musste.",
+          "options": [
+            "wobei",
+            "wovon",
+            "weshalb"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "weshalb"
+          },
+          "explanation": "\"Weshalb\" leitet einen Relativsatz ein, der einen Grund näher bestimmt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er hat mir alles erklärt, ___ ich mich vorher gefürchtet hatte.",
+          "options": [
+            "wofür",
+            "wovor",
+            "vor dem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "wovor"
+          },
+          "explanation": "\"Sich fürchten vor\" + verallgemeinerndes Bezugswort \"alles\" → Pronominaladverb \"wovor\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Team, ___ Mitglieder aus fünf Ländern kommen, arbeitet sehr harmonisch.",
+          "options": [
+            "dessen",
+            "deren",
+            "das"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "dessen"
+          },
+          "explanation": "Genitiv-Relativpronomen bei neutralem Bezugswort \"das Team\": \"dessen Mitglieder\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Kollegin, ___ ich am meisten schätze, hat gekündigt.",
+          "options": [
+            "die",
+            "der",
+            "deren"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die"
+          },
+          "explanation": "\"Schätzen\" ist ein Akkusativverb: \"die ich schätze\", Relativpronomen im Akkusativ."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Können Sie mir sagen, ___ die Verzögerung liegt?",
+          "options": [
+            "worauf",
+            "an dem",
+            "woran"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "woran"
+          },
+          "explanation": "\"Liegen an\" + Frage nach unbestimmtem Grund → \"woran\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das sind die Patientinnen, ___ Werte wir morgen kontrollieren müssen.",
+          "options": [
+            "deren",
+            "die",
+            "denen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "deren"
+          },
+          "explanation": "Genitiv-Relativpronomen im Plural: \"deren Werte\" = \"ihre Werte\"."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ich habe endlich verstanden, ___ das Problem eigentlich beruht.",
+          "options": [
+            "worauf",
+            "wodurch",
+            "auf das"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "worauf"
+          },
+          "explanation": "\"Beruhen auf\" + Frage nach Unbestimmtem → Pronominaladverb \"worauf\"."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das ist die Regel, ___ sich alle im Team halten müssen.",
+          "options": [
+            "woran",
+            "die",
+            "an die"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "an die"
+          },
+          "explanation": "\"Sich halten an\" + konkretes Bezugswort \"die Regel\" → Präposition + Relativpronomen \"an die\", kein Pronominaladverb nötig."
+        }
+      ]
+    }
+  ]
+}

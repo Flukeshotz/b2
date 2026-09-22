@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-15",
+  "board": "custom",
+  "title": "Hörverstehen — Übergabegespräch auf der Station",
+  "minutes": 9,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Übergabegespräch auf der Station",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 9,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_15_uebergabe.mp3",
+        "duration_seconds": 40.5,
+        "voices": "katja+conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat sich bei Herrn Wagner seit gestern verändert?",
+          "options": [
+            "Sein Zustand hat sich verschlechtert.",
+            "Er wurde in ein anderes Zimmer verlegt.",
+            "Sein Blutdruck hat sich stabilisiert."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sein Blutdruck hat sich stabilisiert."
+          },
+          "explanation": "\"hat sich der Blutdruck heute Vormittag stabilisiert, das war gestern noch anders.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist bei Frau Öztürk neu aufgetreten?",
+          "options": [
+            "Fieber am Morgen.",
+            "Schmerzen im Rücken.",
+            "Übelkeit gegen Mittag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Übelkeit gegen Mittag."
+          },
+          "explanation": "\"hat gegen Mittag über Übelkeit geklagt, das war neu.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das angeordnete Medikament für Frau Öztürk soll sofort gegeben werden.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"erst ab sechzehn Uhr, vorher ist es laut Anordnung nicht vorgesehen.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was fragt die Spätschicht zur Klärung nach?",
+          "options": [
+            "Ob das Medikament wirklich erst ab 16 Uhr gegeben werden soll.",
+            "Ob Herr Wagner entlassen werden kann.",
+            "Ob Frau Öztürk Besuch bekommen darf."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ob das Medikament wirklich erst ab 16 Uhr gegeben werden soll."
+          },
+          "explanation": "\"Also erst ab sechzehn Uhr, nicht schon jetzt?\" — eine gezielte Rückfrage zur Bestätigung."
+        }
+      ]
+    }
+  ]
+}

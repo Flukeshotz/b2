@@ -5,7 +5,7 @@ import Icon from "./Icon";
 import B2Cta from "./B2Cta";
 import StateMessage from "../../ds/components/StateMessage";
 import ListRow from "../../ds/components/ListRow";
-import LevelLadder from "../../ds/components/LevelLadder";
+import PlanPill from "../../ds/components/PlanPill";
 import PracticeTile from "../../ds/components/PracticeTile";
 
 /* THE B2 HOME.
@@ -24,6 +24,58 @@ const PRACTICE = [
   { key: "speaking",  label: "Speaking",  blurb: "Prüfung & Maya", image: "/b2/home/tile-speaking.webp" },
 ];
 
+/* SCORE CARD — the home screen's entry into assess -> practise -> re-assess.
+   Three states:
+   - never sat one: the mockup's "Take a test to check where you stand" banner.
+   - sat one: her last score, and a prompt that opens the Test screen
+     (TestHub.jsx) — never a breakdown inline on Home. Home only ever shows
+     the one number; everything else (previous score, history, the detailed
+     report) lives one tap away, on its own screen.
+   `progress` is exactly assessment_store.progress()'s `.latest` — no second
+   scoring model, same numbers TestHub.jsx and AssessmentResult.jsx show. */
+function TestCard({ progress, nextVersion, onTakeAssessment, onOpenTest }) {
+  if (nextVersion === undefined) return null; // still loading — nothing to show yet
+  const latest = progress?.latest;
+
+  if (!latest) {
+    return (
+      <button type="button" className="b2-test-banner" onClick={onTakeAssessment}>
+        <img className="b2-test-banner-img" src="/b2/home/maya-banner.webp" alt="" aria-hidden="true" />
+        <span className="b2-test-banner-text">
+          <span className="b2-test-banner-title">Take a test to check where you stand</span>
+          <span className="b2-test-banner-sub">Fifteen minutes across reading, listening, grammar and vocabulary</span>
+        </span>
+        <span className="b2-test-banner-chev" aria-hidden="true">›</span>
+      </button>
+    );
+  }
+
+  const pct = Math.round(latest.score * 100);
+  // delta is { value, direction, basis, claim } — never null (that would be
+  // silently ignored below), null before a second comparable attempt exists.
+  const delta = progress.delta;
+
+  // Tapping opens the Test screen — it decides what's next (retake, or every
+  // version already sat), shows the previous score, and gates the rest.
+  return (
+    <button type="button" className="b2-test-banner scored" onClick={onOpenTest}>
+      <img className="b2-test-banner-img" src="/b2/home/maya-banner.webp" alt="" aria-hidden="true" />
+      <span className="b2-test-banner-text">
+        <span className="b2-test-banner-title">Your last test: {pct}%</span>
+        <span className="b2-test-banner-sub">
+          See your score and take the next one
+          {delta && delta.direction !== "flat" && (
+            <span className={"b2-test-banner-delta " + delta.direction}>
+              {delta.direction === "up" ? " ▲" : " ▼"} {Math.abs(Math.round(delta.value * 100))} pts since last time
+            </span>
+          )}
+        </span>
+      </span>
+      <span className="b2-test-banner-chev" aria-hidden="true">›</span>
+    </button>
+  );
+}
+
 function sanitizeTitle(raw) {
   if (!raw) return "";
   return raw.replace(/^(goethe(-zertifikat)?|telc)(\s+deutsch)?\s*(b2)?\s*—\s*/i, "").trim();
@@ -38,11 +90,17 @@ function Loading() {
   );
 }
 
-export default function B2Home({ onExit, onStart, onExamPaper, initialTrack = null }) {
+export default function B2Home({ onExit, onStart, onExamPaper, onTakeAssessment, onOpenTest, initialTrack = null }) {
   const [curriculum, setCurriculum] = useState(null);
   const [practiceCounts, setPracticeCounts] = useState({ reading: 0, listening: 0, writing: 0, speaking: 0 });
   const [completePapers, setCompletePapers] = useState([]);
   const [error, setError] = useState(null);
+  // Score card: her latest assessment (null = never sat one) and whether a
+  // fresh, not-yet-seen version exists to retest against (see
+  // b2/assessment_store.currentDiagnosticVersion — never repeats a version).
+  const [progress, setProgress] = useState(null);
+  const [nextVersion, setNextVersion] = useState(undefined); // undefined = loading, null = exhausted
+  const [suggested, setSuggested] = useState(null);
 
   // Navigation states
   const [track, setTrack] = useState(initialTrack);
@@ -63,11 +121,17 @@ export default function B2Home({ onExit, onStart, onExamPaper, initialTrack = nu
       }),
       b2.getPracticeCounts().catch(() => ({ reading: 0, listening: 0, writing: 0, speaking: 0 })),
       b2.getCompletePapers().catch(() => []),
+      b2.getAssessmentProgress().catch(() => null),
+      b2.getCurrentDiagnostic().catch(() => ({ version: null })),
+      b2.getSuggestedPractice().catch(() => ({ available: false, focus: [], modules: {} })),
     ])
-      .then(([curr, counts, complete]) => {
+      .then(([curr, counts, complete, prog, diag, sugg]) => {
         setCurriculum(curr || []);
         setPracticeCounts(counts || { reading: 0, listening: 0, writing: 0, speaking: 0 });
         setCompletePapers(complete || []);
+        setProgress(prog || null);
+        setNextVersion(diag?.version ?? null);
+        setSuggested(sugg || { available: false, focus: [], modules: {} });
       })
       .catch(() => {
         setError("Couldn't load practice data. Check your connection and try again.");
@@ -179,6 +243,10 @@ export default function B2Home({ onExit, onStart, onExamPaper, initialTrack = nu
       displayTopics = topics;
     }
 
+    // Papers ranked by the learner's weakest capabilities from her last test
+    // (see b2/suggest.js). Only shown once she has sat one.
+    const forYou = (suggested?.modules?.[track] || []).filter(s => !s.done);
+
     return (
       <div className="b2">
         <Bar onBack={() => setTrack(null)} section={meta.label} />
@@ -189,6 +257,21 @@ export default function B2Home({ onExit, onStart, onExamPaper, initialTrack = nu
               {papers.length + topics.length} Übungen &amp; Themen
             </span>
           </div>
+
+          {/* One suggestion, one compact row — not a card with its own
+              header and a list. Same footprint on every skill page, roughly
+              what a small banner takes, never a second scrollful. */}
+          {forYou[0] && (
+            <button type="button" className="b2-suggested-compact"
+              onClick={() => onExamPaper(forYou[0].paperId, sanitizeTitle(forYou[0].title))}>
+              <Icon name="compass" size={16} />
+              <span className="b2-suggested-compact-text">
+                <span className="b2-suggested-compact-title">{sanitizeTitle(forYou[0].title)}</span>
+                <span className="s">Suggested · {forYou[0].why}</span>
+              </span>
+              <span className="b2-row-go" aria-hidden="true">→</span>
+            </button>
+          )}
 
           {/* Filter Pills */}
           <div className="b2-filter-tabs">
@@ -351,33 +434,75 @@ export default function B2Home({ onExit, onStart, onExamPaper, initialTrack = nu
      ────────────────────────────────────────────────────────────────────────── */
   return (
     <div className="b2 b2-home-root">
-      {/* Navbar — AppHeaderBar's geometry (64px, brand navy, 16/12 title stack).
-          The plan pill slot carries the A1 switch in PlanPill's styling; B2 has
-          no plan state of its own to show. */}
+      {/* Navbar — AppHeaderBar's real geometry: 64px navy, title/subtitle
+          stack on the left, PlanPill + avatar on the right. `plan="free"` is
+          the honest state — B2 has no purchase flow, so it never claims
+          Premium (see the "Detailed report" lock elsewhere on this screen). */}
       <header className="b2-appbar">
         <div className="b2-appbar-text">
           <h1>B2 German Level</h1>
           <p>Goethe &amp; telc exam prep</p>
         </div>
-        {onExit && (
-          <button type="button" className="b2-appbar-pill" onClick={onExit} title="Switch to Guided A1 German">
-            A1 Path
-          </button>
-        )}
+        <div className="b2-appbar-right">
+          <PlanPill plan="free" />
+          <span className="b2-appbar-avatar" aria-hidden="true">
+            <svg viewBox="0 0 100 100" width="28" height="28"><circle cx="50" cy="50" r="50" fill="#D1D5DB" /><circle cx="50" cy="38" r="16" fill="#9CA3AF" /><ellipse cx="50" cy="78" rx="28" ry="20" fill="#9CA3AF" /></svg>
+          </span>
+        </div>
       </header>
 
+      {/* Mode row — ModeRail's geometry (57px, active tab white and 53px
+          tall, inactive 44px at white/10). B2 only HAS the practice surface
+          today; the other two are named and visible, matching the reference,
+          but inert until Jobs/Classes exist for B2. */}
+      <div className="b2-moderail">
+        <button type="button" className="b2-moderail-tab active" aria-selected="true">
+          <Icon name="clipboard" size={16} />
+          <span className="b2-moderail-label"><span>Job</span><span>Preparation</span></span>
+        </button>
+        <span className="b2-moderail-tab soon" title="Not built for B2 yet">
+          <Icon name="briefcase" size={16} />
+          <span className="b2-moderail-label"><span>German</span><span>Jobs</span></span>
+        </span>
+        <span className="b2-moderail-tab soon" title="Not built for B2 yet">
+          <Icon name="cap" size={16} />
+          <span className="b2-moderail-label"><span>German</span><span>Classes</span></span>
+        </span>
+      </div>
+
       <div className="b2-home-sheet">
-        <LevelLadder level="B2" />
-        <div className="b2-tile-grid">
+        <div className="b2-home-testslot">
+          <TestCard progress={progress} nextVersion={nextVersion}
+            onTakeAssessment={onTakeAssessment} onOpenTest={onOpenTest} />
+        </div>
+        <div className="b2-tile-grid b2-tile-grid-2col">
           {PRACTICE.map(t => (
             <PracticeTile key={t.key} title={t.label}
               caption={`${totalCountFor(t.key)} Übungen · ${t.blurb}`}
               image={t.image} onClick={() => setTrack(t.key)} />
           ))}
-          <PracticeTile title="Exam Papers"
-            caption={`${completePapers.length} Prüfungen · Goethe & telc`}
-            image="/b2/home/tile-papers.webp?v=2" style={{ gridColumn: "span 2" }}
-            onClick={() => { setPapersFilter("all"); setShowPapers(true); }} />
+        </div>
+
+        {/* Full Exam Papers — its own section below Practice, never mixed
+            into the skill grid: a paper is a complete, timed sitting across
+            every module, not a single-skill drill. Gold "Start" is a
+            deliberate one-off (see comment on .b2-papers-banner-start in
+            b2.css) — everywhere else in B2, gold stays out. */}
+        <div className="b2-home-papers">
+          <div className="b2-sec">Full Exam Papers</div>
+          <div className="b2-papers-banner">
+            <div className="b2-papers-banner-row">
+              <div className="b2-papers-banner-text">
+                <span className="b2-papers-banner-title">Timed Full Length Papers</span>
+                <span className="b2-papers-banner-sub">Goethe &amp; telc · {completePapers.length} available</span>
+              </div>
+              <img className="b2-papers-banner-art" src="/b2/home/maya-banner.webp" alt="" aria-hidden="true" />
+            </div>
+            <button type="button" className="b2-papers-banner-start"
+              onClick={() => { setPapersFilter("all"); setShowPapers(true); }}>
+              Start
+            </button>
+          </div>
         </div>
       </div>
     </div>

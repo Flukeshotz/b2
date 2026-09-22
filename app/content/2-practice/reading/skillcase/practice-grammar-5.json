@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-5",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 5 — Konjunktiv II erweitert",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ ich doch nur früher davon gewusst!",
+          "options": [
+            "Habe",
+            "Hätte",
+            "Werde"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Hätte"
+          },
+          "explanation": "Wunschsatz in der Vergangenheit mit Konjunktiv II: \"Hätte ich doch nur …\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ Sie so freundlich, mir kurz zu helfen?",
+          "options": [
+            "Wären",
+            "Sind",
+            "Werden"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wären"
+          },
+          "explanation": "Höfliche Frage im Konjunktiv II: \"Wären Sie so freundlich …\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er tut so, ___ er die ganze Sache nicht kennen würde.",
+          "options": [
+            "obwohl",
+            "als ob",
+            "während"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "als ob"
+          },
+          "explanation": "\"Als ob\" leitet einen irrealen Vergleich ein und verlangt Konjunktiv II."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wenn sie das gewusst ___, hätte sie anders reagiert.",
+          "options": [
+            "habe",
+            "hätte",
+            "hat"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "hätte"
+          },
+          "explanation": "Konjunktiv II Vergangenheit im wenn-Satz: \"hätte gewusst\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "An deiner Stelle ___ ich mit der Stationsleitung sprechen.",
+          "options": [
+            "würde",
+            "habe",
+            "werde"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "würde"
+          },
+          "explanation": "Ratschlag im Konjunktiv II: \"An deiner Stelle würde ich …\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ ich das gewusst hätte, hätte ich anders geplant.",
+          "options": [
+            "Wenn",
+            "Als",
+            "Ob"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wenn"
+          },
+          "explanation": "Konditionalsatz der Vergangenheit: \"Wenn ich das gewusst hätte, …\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Es sieht so aus, ___ das Material bereits bestellt worden wäre.",
+          "options": [
+            "sodass",
+            "obwohl",
+            "als ob"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "als ob"
+          },
+          "explanation": "Irrealer Vergleich mit Konjunktiv II der Vergangenheit: \"als ob … bestellt worden wäre\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Könnten Sie mir bitte kurz ___, wo das Formular liegt?",
+          "options": [
+            "sagen",
+            "gesagt",
+            "sagt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sagen"
+          },
+          "explanation": "Höfliche Bitte mit Konjunktiv II + Infinitiv: \"könnten Sie … sagen\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wäre ich damals informiert ___, hätte ich sofort reagiert.",
+          "options": [
+            "geworden",
+            "gewesen",
+            "worden"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "worden"
+          },
+          "explanation": "Konjunktiv II Vergangenheit im Passiv: \"wäre … informiert worden\" (Passiv-Perfekt im Konjunktiv II)."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ ich das nicht selbst gesehen hätte, würde ich es nicht glauben.",
+          "options": [
+            "Ob",
+            "Wenn",
+            "Als"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wenn"
+          },
+          "explanation": "\"Wenn\" leitet den irrealen Konditionalsatz ein; \"ob\" wäre eine indirekte Frage, kein Konditionalsatz."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie benimmt sich, ___ nichts passiert wäre.",
+          "options": [
+            "sodass",
+            "als ob",
+            "weil"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "als ob"
+          },
+          "explanation": "\"Als ob\" für den irrealen Vergleich mit Konjunktiv II."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-8",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 8 — Temporalsätze & Plusquamperfekt",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ sie die Ausbildung abgeschlossen hatte, bewarb sie sich sofort.",
+          "options": [
+            "Bis",
+            "Bevor",
+            "Nachdem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Nachdem"
+          },
+          "explanation": "Plusquamperfekt im Nebensatz + \"nachdem\" markiert Vorzeitigkeit zum Hauptsatz."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie arbeitet dort, ___ sie umgezogen ist.",
+          "options": [
+            "bis",
+            "sobald",
+            "seit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "seit"
+          },
+          "explanation": "\"Seit\" beschreibt einen andauernden Zustand ab einem Zeitpunkt in der Vergangenheit."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ der Arzt kommt, bleibt die Patientin im Bett.",
+          "options": [
+            "Seit",
+            "Während",
+            "Bis"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Bis"
+          },
+          "explanation": "\"Bis\" markiert den Endpunkt eines Zustands: bleiben, bis etwas eintritt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ ich das Formular ausgefüllt hatte, merkte ich den Fehler.",
+          "options": [
+            "Kaum dass",
+            "Bevor",
+            "Solange"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Kaum dass"
+          },
+          "explanation": "\"Kaum dass\" + Plusquamperfekt markiert eine sehr knapp aufeinanderfolgende Abfolge."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ die Schicht beginnt, wird die Übergabe gemacht.",
+          "options": [
+            "Seit",
+            "Sobald",
+            "Bis"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sobald"
+          },
+          "explanation": "\"Sobald\" markiert die unmittelbare zeitliche Abfolge: sofort danach."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nachdem das Gespräch ___ war, fühlte sie sich erleichtert.",
+          "options": [
+            "beenden",
+            "beendet",
+            "beendet gewesen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "beendet"
+          },
+          "explanation": "Zustandspassiv im Präteritum als Nebensatz: \"nachdem das Gespräch beendet war\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ er die Ausbildung gemacht hatte, wechselte er die Station.",
+          "options": [
+            "Nachdem",
+            "Solange",
+            "Während"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Nachdem"
+          },
+          "explanation": "Erneut: Plusquamperfekt + \"nachdem\" für eine bereits abgeschlossene Handlung vor der nächsten."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ die Besprechung dauert, kann niemand gestört werden.",
+          "options": [
+            "Solange",
+            "Bis",
+            "Seitdem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Solange"
+          },
+          "explanation": "\"Solange\" beschreibt die Gleichzeitigkeit über die ganze Dauer einer Handlung."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Erst ___ alle Fragen geklärt waren, unterschrieb sie das Formular.",
+          "options": [
+            "während",
+            "wenn",
+            "als"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "als"
+          },
+          "explanation": "\"Als\" für einen einmaligen Zeitpunkt in der Vergangenheit."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ die Kollegin zurückkommt, übernimmt sie wieder ihre Aufgaben.",
+          "options": [
+            "Nachdem",
+            "Als",
+            "Wenn"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Wenn"
+          },
+          "explanation": "\"Wenn\" für einen wiederholbaren oder zukünftigen Zeitpunkt."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie hatte das Zertifikat schon erworben, ___ sie sich beworben hat.",
+          "options": [
+            "bevor",
+            "nachdem",
+            "seitdem"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "bevor"
+          },
+          "explanation": "Plusquamperfekt im Hauptsatz + \"bevor\" markiert: Zertifikat zuerst, Bewerbung danach."
+        }
+      ]
+    }
+  ]
+}

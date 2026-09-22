@@ -1,0 +1,231 @@
+{
+  "id": "gx_hoeren_t1",
+  "board": "goethe",
+  "title": "Skillcase-Übung im Format des Goethe-Zertifikats B2, Hören Teil 1",
+  "minutes": 12,
+  "source": "Skillcase-authored in the format of the Goethe Modellsatz Vs1.5_160426. Not official material.",
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "item_count": 10,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Fünf kurze Gespräche",
+      "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "minutes": 12,
+      "scoring_mode": null,
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Mann bekommt noch in dieser Woche einen Termin.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 1,
+            "text": "Falsch"
+          },
+          "explanation": "Der Donnerstagstermin ist schon weg, und Freitag um zehn passt ihm nicht. Er nimmt am Ende Montag."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann hat der Mann seinen Termin?",
+          "options": [
+            "Am Donnerstag um Viertel nach elf.",
+            "Am Freitag um zehn Uhr.",
+            "Am Montag um vierzehn Uhr."
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 2,
+            "text": "Am Montag um vierzehn Uhr."
+          },
+          "explanation": "Beide früheren Zeiten fallen im Gespräch — die eine ist vergeben, die andere passt ihm nicht."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Kolleginnen entscheiden sich gegen ein gemeinsames Essen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 0,
+            "text": "Richtig"
+          },
+          "explanation": "Das Essen war der ursprüngliche Plan; er wird verworfen, weil am Donnerstag zu wenige da wären. Stattdessen: Mittagspause im Haus."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was übernimmt der Kollege?",
+          "options": [
+            "Er besorgt die Getränke.",
+            "Er informiert die Abteilung.",
+            "Er legt die Karte aus."
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 0,
+            "text": "Er besorgt die Getränke."
+          },
+          "explanation": "Bescheid sagen und die Karte auslegen übernimmt die Kollegin — beides wird im selben Atemzug verteilt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Ostermann bittet darum, die Reparatur zu beschleunigen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 1,
+            "text": "Falsch"
+          },
+          "explanation": "Umgekehrt: sie sagt ausdrücklich, es eile nicht, weil sie den Wagen ohnehin erst am Samstag abholen kann."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In welchem Fall soll die Werkstatt zurückrufen?",
+          "options": [
+            "Wenn der Wagen früher fertig ist.",
+            "Wenn die Reparatur mehr kostet als vereinbart.",
+            "Wenn sie den Wagen am Samstag nicht abholen kann."
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wenn die Reparatur mehr kostet als vereinbart."
+          },
+          "explanation": "Sie nennt genau eine Bedingung für einen Anruf, und die betrifft den Preis."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Kollege sagt für das Wochenende zu.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 1,
+            "text": "Falsch"
+          },
+          "explanation": "Er klingt entgegenkommend, sagt aber deutlich: fest zusagen kann er nicht. Zugesagt hat er nur für Montag."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum kann er am Wochenende nicht helfen?",
+          "options": [
+            "Er hält den Umzug für schlecht organisiert.",
+            "Er ist am Wochenende nicht in der Stadt.",
+            "Er hat private Verpflichtungen."
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 2,
+            "text": "Er hat private Verpflichtungen."
+          },
+          "explanation": "Besuch von den Eltern und eine späte Rückkehr sind private Gründe. Weg ist er nicht das ganze Wochenende — am Samstag ist er zu Hause."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Mann muss den Test vor Kursbeginn machen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 0,
+            "text": "Richtig"
+          },
+          "explanation": "„Wann Sie den Test machen, entscheiden Sie selbst – nur eben vor Kursbeginn.“ Die Freiheit gilt für den Zeitpunkt, nicht für die Frist."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": null,
+          "difficulty": null,
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer legt fest, wann der Mann den Test macht?",
+          "options": [
+            "Die Sprachschule bei der Anmeldung.",
+            "Der Mann selbst, vor Kursbeginn.",
+            "Es gibt einen festen Termin für alle."
+          ],
+          "payload": null,
+          "suggested_answer": {
+            "key": 1,
+            "text": "Der Mann selbst, vor Kursbeginn."
+          },
+          "explanation": "Die Mitarbeiterin sagt: „Wann Sie den Test machen, entscheiden Sie selbst.“ Von der Schule kommt nur der Zugang."
+        }
+      ]
+    }
+  ]
+}

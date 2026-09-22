@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-18",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 18 — Halbformelle E-Mail: Teamevent absagen",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie wurden zu einem Teamevent eingeladen, können aber aus persönlichen Gründen nicht teilnehmen. Schreiben Sie eine halbformelle Absage-E-Mail.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Bedanken Sie sich für die Einladung.",
+              "Sagen Sie höflich ab, ohne zu viele private Details preiszugeben.",
+              "Bieten Sie ggf. eine Alternative an (z. B. beim nächsten Mal)."
+            ],
+            "register": "halbformell",
+            "min_words": 60,
+            "rubric_id": 8,
+            "task_type": "semi_formal_email",
+            "rubric_key": "kurzantwort",
+            "target_words": 80
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bedanken Sie sich für die Einladung.",
+              "Sagen Sie höflich ab, ohne zu viele private Details preiszugeben.",
+              "Bieten Sie ggf. eine Alternative an (z. B. beim nächsten Mal)."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Betreffzeile und angemessene Anrede (z. B. „Liebes Team“).",
+              "Dank für die Einladung ausdrücken und kurz Bedauern zeigen.",
+              "Absage klar, aber diskret formulieren – keine privaten Details nennen.",
+              "Alternatives Angebot machen (z. B. nächstes Treffen) und positiven Ausblick geben.",
+              "Passenden Gruß und Namen verwenden (z. B. „Viele Grüße“)."
+            ],
+            "expected_answer": "Betreff: Teamevent am Freitag\n\nLiebes Team,\n\nvielen herzlichen Dank für die Einladung zum gemeinsamen Event. Ich habe mich wirklich sehr darüber gefreut. Leider kann ich aus persönlichen Gründen diesmal nicht dabei sein, was ich sehr bedaure.\n\nIch würde mich aber freuen, beim nächsten Mal unbedingt mitzukommen und die Gelegenheit zum Austausch zu nutzen. Ich wünsche euch allen viel Spaß und einen gelungenen Abend!\n\nViele Grüße\nAnna Meier",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

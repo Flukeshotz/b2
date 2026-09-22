@@ -1,0 +1,191 @@
+{
+  "id": "telc-b2-lesen-t3-s3",
+  "board": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 3",
+  "minutes": 18,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 3,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "instruction": "Finden Sie für jede Situation die passende Anzeige.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Ein Student sucht für zwei Wochen ein günstiges Zimmer und könnte dafür einer älteren Person beim Einkaufen helfen.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ein Student sucht für zwei Wochen ein günstiges Zimmer und könnte dafür einer älteren Person beim Einkaufen helfen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 10,
+            "text": "k"
+          },
+          "explanation": "Die richtige Antwort ist k) \"k\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ruben hat eine neue Abrechnung bekommen und möchte klären, ob die geforderte Nachzahlung stimmt.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 11,
+            "text": "l"
+          },
+          "explanation": "Die richtige Antwort ist l) \"l\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine Praktikantin braucht für sechs Wochen eine eingerichtete Unterkunft, reist allein und braucht keine dauerhafte Adresse.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 12,
+            "text": "x (keine passende Anzeige)"
+          },
+          "explanation": "Die richtige Antwort ist m) \"x (keine passende Anzeige)\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Mehmet wechselt in eine nahe Wohnung und braucht am Wochenende zwei Personen für Kartons und kleine Möbel.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "a"
+          },
+          "explanation": "Die richtige Antwort ist a) \"a\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Eine Hausgemeinschaft sucht einen Raum für einen ruhigen privaten Sonntagskaffee mit etwa zwanzig Personen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "payload": {
+            "blankNumber": null
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "b"
+          },
+          "explanation": "Die richtige Antwort ist b) \"b\", da diese Option im Kontext des Textes semantisch und grammatikalisch korrekt anschließt."
+        }
+      ]
+    }
+  ]
+}

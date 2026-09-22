@@ -1,0 +1,127 @@
+{
+  "id": "exp_teambesprechung_chunks",
+  "source_id": "src_teambesprechung",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Situationen statt Prinzipien zu unterscheiden",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "structure",
+    "justify"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Für X funktioniert das, für Y nicht mehr.",
+      "for X that works, for Y it doesn't anymore",
+      "🔗"
+    ],
+    [
+      "Ich vermute, dass es eher daran liegt, dass …",
+      "I suspect it's actually more because …",
+      "🔗"
+    ],
+    [
+      "Warum nicht beides kombinieren, je nach Anlass?",
+      "why not combine both, depending on the occasion?",
+      "🔗"
+    ],
+    [
+      "Von den letzten X war ungefähr die Hälfte …",
+      "of the last X, about half were …",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man eine Entweder-oder-Frage auflöst."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "fuer_x_funktioniert_das_fuer_y_nicht_mehr",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "warum_nicht_beides_kombinieren_je_nach_anlass",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "q": "Wie lösen Sie den Streit auf?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A schlägt direkt die situative Lösung vor — genau Ihre Position. B zieht zwar auch eine Grenze, klingt aber wie eine Bewertung statt eines Vorschlags. C äußert nur eine Vermutung über die Ursache des Streits, keine Lösung.",
+      "options": [
+        "Warum nicht beides kombinieren, je nach Anlass?",
+        "Für kurze Absprachen funktioniert das eine, für lange das andere nicht mehr.",
+        "Ich vermute, dass es eher daran liegt, dass niemand sich festlegen will."
+      ],
+      "exercises": [
+        "warum_nicht_beides_kombinieren_je_nach_anlass"
+      ],
+      "situation": "Zwei Kollegen streiten, ob Absprachen schriftlich per Chat oder mündlich am Telefon laufen sollten. Sie glauben, beides hat seinen Platz, je nach Situation."
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "ich_vermute_dass_es_eher_daran_liegt_dass",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "von_den_letzten_x_war_ungefaehr_die_haelfte",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "q": "Wie formulieren Sie das?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A stützt die Beobachtung mit einer ungefähren Zahl, ohne eine exakte Statistik vorzutäuschen — genau die Situation. B und C sind Vorschläge bzw. Unterscheidungen, aber keine Beobachtung mit Zahl.",
+      "options": [
+        "Von den letzten acht Besprechungen war ungefähr die Hälfte reine Information.",
+        "Warum nicht beides kombinieren, je nach Anlass?",
+        "Für kurze Absprachen funktioniert das, für lange nicht mehr."
+      ],
+      "exercises": [
+        "von_den_letzten_x_war_ungefaehr_die_haelfte"
+      ],
+      "situation": "Sie haben den Eindruck, dass viele Ihrer Besprechungen eigentlich unnötig sind — aber Sie haben nicht genau mitgezählt. Sie wollen Ihre Beobachtung trotzdem mit etwas Konkretem stützen."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "ich_vermute_dass_es_eher_daran_liegt_dass",
+      "hint": "Markieren Sie die Erklärung ausdrücklich als Vermutung.",
+      "context": "Ein Kollege verhält sich auf eine bestimmte Art, und Sie haben eine Vermutung über den wahren Grund, sind sich aber nicht sicher.",
+      "sourceId": "src_teambesprechung"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "fuer_x_funktioniert_das_fuer_y_nicht_mehr",
+      "hint": "Erst die Situation, in der es funktioniert, dann die, in der nicht.",
+      "context": "Eine Arbeitsweise funktioniert bei Ihnen in einer Situation gut, in einer anderen nicht mehr. Ziehen Sie die Grenze.",
+      "sourceId": "src_teambesprechung"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:47:18.243Z",
+  "updated_at": "2026-09-16T07:47:18.243Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

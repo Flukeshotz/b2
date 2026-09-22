@@ -1,0 +1,68 @@
+{
+  "id": "telc-b2-schreiben-1",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Schreiben, Übungsset 1",
+  "minutes": 30,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Schreiben — not an official telc task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Halbformelle E-Mail: Vertretung bei einem Kundentermin",
+      "instruction": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihre Kollegin kann kommende Woche krankheitsbedingt nicht an einem wichtigen Kundentermin teilnehmen und hat Sie gebeten, sie zu vertreten. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Erklären Sie kurz, warum Sie schreiben.",
+              "Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.",
+              "Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen."
+            ],
+            "min_words": 120,
+            "rubric_id": 2,
+            "rubric_key": "halbformelle_email",
+            "target_words": 150
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz, warum Sie schreiben.",
+              "Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.",
+              "Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Betreffzeile und korrekte Anrede (Frau/Herr Nachname).",
+              "Klare und strukturierte Abfolge der drei geforderten Leitpunkte (Grund, Lösungsvorschlag, benötigte Unterstützung).",
+              "Verwendung von Konjunktiv II für höfliche Bitten und Vorschläge (z. B. 'könnte', 'würde').",
+              "Präzise und realistische Angabe der benötigten Unterlagen oder Informationen.",
+              "Positiver, lösungsorientierter Tonfall und passender Schlusssatz mit Grußformel."
+            ],
+            "expected_answer": "Betreff: Vertretung für den Kundentermin nächste Woche\n\nSehr geehrte Frau Müller,\n\nich schreibe Ihnen, weil mich meine Kollegin Anna Schmidt gebeten hat, sie nächste Woche bei dem wichtigen Termin mit der Firma Meier zu vertreten. Leider ist sie krankheitsbedingt ausgefallen.\n\nDamit der Termin trotzdem wie geplant stattfinden kann, würde ich vorschlagen, dass ich die Präsentation übernehme. Ich könnte mich kurzfristig in die Unterlagen einarbeiten und den Termin gemeinsam mit Herrn Weber aus dem Vertrieb durchführen, da er das Projekt ebenfalls gut kennt. So könnten wir sicherstellen, dass der Kunde eine kompetente Ansprechperson hat.\n\nFür eine optimale Vorbereitung bräuchte ich von Ihnen noch die aktuelle Angebotskalkulation sowie die Gesprächsnotizen vom letzten Treffen. Es wäre außerdem hilfreich, wenn Sie mir kurz Ihre Prioritäten für diese Verhandlung mitteilen könnten.\n\nIch bin zuversichtlich, dass wir den Termin erfolgreich durchführen können.\n\nMit freundlichen Grüßen\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Angemessene halbformelle Anrede und Grußformel, klare Erklärung des Schreibanlasses, nachvollziehbarer Vertretungsvorschlag und präzise Bitte an die Vorgesetzte unter Verwendung des Höflichkeitskonjunktivs."
+        }
+      ]
+    }
+  ]
+}

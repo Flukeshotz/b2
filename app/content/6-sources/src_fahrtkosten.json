@@ -1,0 +1,97 @@
+{
+  "id": "src_fahrtkosten",
+  "kind": "text",
+  "title": "Fahrtkostenzuschuss für Wechselschicht",
+  "hook": "Fünf Beiträge zu einer Regel, die auf dem Papier gerecht aussieht — bis jemand nachrechnet.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Regel auf ihre praktische Wirkung prüfen: auf dem Papier klingt das fair, in der Praxis sieht es anders aus",
+      "einen Sonderfall von der Regel abgrenzen: das ist eher die Ausnahme als der Normalfall",
+      "eine Forderung mit einem Vergleich stützen: anderswo wird das längst so gemacht",
+      "eine eigene Unsicherheit einräumen: ganz sicher bin ich mir da selbst nicht"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns gibt es einen Fahrtkostenzuschuss, aber nur für Frühschicht, weil da angeblich öffentliche Verkehrsmittel seltener fahren. Für mich als Nachtschicht-Kollegin fährt um halb vier morgens erst recht nichts — ich verstehe die Logik nicht.",
+      "when": "Fr 07:30",
+      "handle": "monika",
+      "speaker": "Monika_R"
+    },
+    {
+      "de": "Auf dem Papier klingt das fair — Frühschicht ist objektiv am schwierigsten mit dem Bus zu erreichen. In der Praxis sieht es allerdings anders aus, wie du sagst: Nachtschicht hat oft überhaupt keine Verbindung, nicht nur eine seltene.",
+      "when": "Fr 09:10",
+      "handle": "thorsten",
+      "speaker": "Thorsten_B"
+    },
+    {
+      "de": "Die Regel wurde vor einigen Jahren eingeführt, als es noch keine durchgehende Nachtschicht gab. Das war damals wirklich eher die Ausnahme als der Normalfall. Dass sich das inzwischen geändert hat, ist mir ehrlich gesagt neu.",
+      "when": "Fr 11:45",
+      "handle": "carola",
+      "speaker": "Carola_Personalabteilung"
+    },
+    {
+      "de": "Bei meinem letzten Arbeitgeber gab es einen Zuschuss für alle Schichten mit eingeschränkter ÖPNV-Anbindung, unabhängig von der Uhrzeit. Anderswo wird das längst so gemacht — es scheint also durchaus machbar zu sein.",
+      "when": "Fr 14:20",
+      "handle": "ben",
+      "speaker": "Ben_bewerbung"
+    },
+    {
+      "de": "Bens Beispiel zeigt eigentlich genau, worum es mir geht. Mich stört gar nicht, dass es überhaupt eine Regel gibt — mich stört, dass sie auf einer Annahme beruht, die inzwischen nicht mehr stimmt. Ganz sicher bin ich mir allerdings nicht, ob eine Anpassung wirklich so einfach ist, wie Bens Beispiel klingt.",
+      "when": "Fr 16:55",
+      "handle": "monika",
+      "speaker": "Monika_R"
+    }
+  ],
+  "transcript": "Bei uns gibt es einen Fahrtkostenzuschuss, aber nur für Frühschicht, weil da angeblich öffentliche Verkehrsmittel seltener fahren. Für mich als Nachtschicht-Kollegin fährt um halb vier morgens erst recht nichts — ich verstehe die Logik nicht.\n\nAuf dem Papier klingt das fair — Frühschicht ist objektiv am schwierigsten mit dem Bus zu erreichen. In der Praxis sieht es allerdings anders aus, wie du sagst: Nachtschicht hat oft überhaupt keine Verbindung, nicht nur eine seltene.\n\nDie Regel wurde vor einigen Jahren eingeführt, als es noch keine durchgehende Nachtschicht gab. Das war damals wirklich eher die Ausnahme als der Normalfall. Dass sich das inzwischen geändert hat, ist mir ehrlich gesagt neu.\n\nBei meinem letzten Arbeitgeber gab es einen Zuschuss für alle Schichten mit eingeschränkter ÖPNV-Anbindung, unabhängig von der Uhrzeit. Anderswo wird das längst so gemacht — es scheint also durchaus machbar zu sein.\n\nBens Beispiel zeigt eigentlich genau, worum es mir geht. Mich stört gar nicht, dass es überhaupt eine Regel gibt — mich stört, dass sie auf einer Annahme beruht, die inzwischen nicht mehr stimmt. Ganz sicher bin ich mir allerdings nicht, ob eine Anpassung wirklich so einfach ist, wie Bens Beispiel klingt.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": []
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:56:00.331Z",
+  "updated_at": "2026-09-16T07:56:00.331Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

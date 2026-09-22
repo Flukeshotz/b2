@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t1-p3",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #3",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Homeoffice und Büroarbeit\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Thema 1 oder 2) und Nennung von 2-3 Hauptargumenten.",
+              "Logischer Aufbau: Einleitung – Hauptteil mit strukturierten Argumenten und Beispielen – kurzer Schluss/Zusammenfassung.",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z.B. 'Einerseits... andererseits', 'Hinzu kommt, dass...', 'Meiner Ansicht nach').",
+              "Konkrete Beispiele aus dem Berufsalltag oder persönlichen Erfahrungen zur Untermauerung der Argumente.",
+              "Flüssige, gut verständliche Aussprache und angemessenes Sprechtempo für ca. 180 Sekunden."
+            ],
+            "expected_answer": "Ich habe mich für das erste Thema entschieden: die Vorteile von Homeoffice. Meiner Meinung nach überwiegen die positiven Aspekte der Arbeit von zu Hause aus eindeutig, und ich möchte das anhand von drei Hauptpunkten erläutern: der Zeitersparnis, der höheren Produktivität und der besseren Work-Life-Balance.\n\nDer wohl offensichtlichste Vorteil ist die enorme Zeitersparnis. Wenn ich an meine frühere Tätigkeit zurückdenke, bei der ich täglich fast anderthalb Stunden im Auto oder in überfüllten öffentlichen Verkehrsmitteln verbracht habe, dann war das nicht nur anstrengend, sondern schlichtweg verlorene Lebenszeit. Diese gewonnene Zeit kann ich nun viel sinnvoller nutzen, sei es für ein ausgedehntes Frühstück mit meiner Familie oder um morgens noch eine Runde joggen zu gehen. Das steigert mein allgemeines Wohlbefinden ungemein.\n\nEin weiterer entscheidender Punkt ist die gesteigerte Produktivität. Viele Menschen befürchten ja, dass man zu Hause leichter abgelenkt wird, aber meine Erfahrung zeigt genau das Gegenteil. Im Großraumbüro herrscht oft ein konstanter Geräuschpegel, ständig kommt jemand mit einer kurzen Frage vorbei, und konzentriertes Arbeiten ist über einen längeren Zeitraum kaum möglich. Zu Hause kann ich mir meinen Tag so strukturieren, wie es für meine Aufgaben am besten passt. Für komplexe Aufgaben, die tiefe Konzentration erfordern, blocke ich mir zum Beispiel feste Zeiten, in denen ich mein Telefon stummschalte und nicht erreichbar bin. Das Ergebnis ist, dass ich meine Arbeit oft in kürzerer Zeit und in höherer Qualität erledige.\n\nUnd schließlich, und das ist für mich persönlich der wichtigste Aspekt, ermöglicht Homeoffice eine deutlich bessere Work-Life-Balance. Die starre Trennung von Arbeits- und Privatleben löst sich auf eine positive Art und Weise auf. Wenn ich eine kurze Pause mache, kann ich schnell die Waschmaschine anstellen oder ein Paket annehmen. Noch wichtiger ist aber die Flexibilität: Ich kann meinen Arbeitstag so legen, dass ich nachmittags Zeit für meine Kinder habe, wenn sie aus der Schule kommen, und dafür am Abend noch eine ruhige Stunde arbeite. Diese Flexibilität reduziert Stress enorm und führt zu einer höheren Lebenszufriedenheit.\n\nNatürlich ist mir bewusst, dass Homeoffice auch Herausforderungen mit sich bringt, wie die Gefahr der sozialen Isolation oder die Schwierigkeit, nach Feierabend wirklich abzuschalten. Aber mit klaren Regeln und regelmäßigen Videokonferenzen mit dem Team lassen sich diese Nachteile meiner Ansicht nach gut in den Griff bekommen. Zusammenfassend bin ich fest davon überzeugt, dass das Homeoffice-Modell die Arbeitswelt der Zukunft ist, von der sowohl Arbeitnehmer als auch Arbeitgeber langfristig profitieren.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

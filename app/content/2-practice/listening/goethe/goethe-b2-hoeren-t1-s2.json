@@ -1,0 +1,127 @@
+{
+  "id": "goethe-b2-hoeren-t1-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 1 — Alltagssituationen & Dialoge, Satz 2",
+  "minutes": 8,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 1 — Alltagssituationen & Dialoge",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil1-q3.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum tauscht der Mann die Schicht?",
+          "options": [
+            "Weil sein Arzttermin doch am Freitag stattfindet.",
+            "Weil ein Kollege am Nachmittag sein Kind betreuen muss.",
+            "Weil die Übergabe bis halb zehn fertig sein muss."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Weil die Übergabe bis halb zehn fertig sein muss."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Weil die Übergabe bis halb zehn fertig sein muss.\", wie im Dialog bestätigt wird."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Moderator berichtet über ein Projekt, das Lärm in der Stadt sichtbar machen soll.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Die richtige Antwort ist \"Falsch\". Die gehörte Aussage stimmt nicht mit dem Gesagten überein."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Rolle haben Bürgerinnen und Bürger bei dem Projekt?",
+          "options": [
+            "Beobachtungen zu lauten und ruhigen Orten eintragen.",
+            "mit ihren Einträgen amtliche Messungen ersetzen.",
+            "nur besonders laute Hauptstraßen melden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "mit ihren Einträgen amtliche Messungen ersetzen."
+          },
+          "explanation": "Die richtige Antwort ist b) \"mit ihren Einträgen amtliche Messungen ersetzen.\", wie im Dialog bestätigt wird."
+        },
+        {
+          "item_no": 4,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Treffen finden in einem offiziellen Sprachkurs statt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "Die richtige Antwort ist \"Richtig\". Die gehörte Aussage stimmt überein."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was fällt dem Mann beim Tandem schwer?",
+          "options": [
+            "beim Deutschlernen nicht zu viele Fehler zu verbessern.",
+            "die gemeinsamen Treffen regelmäßig zu organisieren.",
+            "bei fachlichen Themen den Zusammenhang zu behalten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "beim Deutschlernen nicht zu viele Fehler zu verbessern."
+          },
+          "explanation": "Die richtige Antwort ist a) \"beim Deutschlernen nicht zu viele Fehler zu verbessern.\", wie im Dialog bestätigt wird."
+        }
+      ]
+    }
+  ]
+}

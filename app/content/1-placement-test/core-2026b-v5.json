@@ -1,0 +1,798 @@
+{
+  "id": "core-2026b-v5",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V5",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen,\nsolange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr\nmehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur\nArbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter\nunterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu\nsein. Offiziell hat niemand das verlangt. Trotzdem antworte ich abends auf Nachrichten,\naus Sorge, sonst als weniger engagiert zu gelten.\n\nNach einem Gespräch mit meiner Teamleiterin sehe ich das differenzierter. Sie hat mir\nklar gesagt, dass diese Erwartung nicht von ihr kommt — und dass ich das ernster nehmen\nsollte als jede ungeschriebene Regel im Team.\n\nGanz abschaffen würde ich die Regelung deshalb trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt die Autorin die Vertrauensarbeitszeit insgesamt?",
+          "options": [
+            "Sie hält sie für gescheitert und will zur Stechuhr zurück.",
+            "Sie sieht echte Vorteile, aber auch ein ungelöstes Problem.",
+            "Sie findet sie überflüssig, weil sich nichts geändert hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie sieht echte Vorteile, aber auch ein ungelöstes Problem."
+          },
+          "explanation": "Sie würde die Regelung „trotzdem nicht“ abschaffen, benennt aber weiterhin die stille Erwartung als Problem. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Teamleiterin hat die ständige Erreichbarkeit offiziell verlangt.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Offiziell hat niemand das verlangt“ — die Erwartung ist ungeschrieben, nicht angeordnet."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt die Autorin ein?",
+          "options": [
+            "Dass die Erwartung, immer erreichbar zu sein, nicht von der Teamleiterin kommt.",
+            "Dass die Vertrauensarbeitszeit ihr gar nichts bringt.",
+            "Dass sie selbst nie abends antwortet."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass die Erwartung, immer erreichbar zu sein, nicht von der Teamleiterin kommt."
+          },
+          "explanation": "„Sie hat mir klar gesagt, dass diese Erwartung nicht von ihr kommt“ — das Gespräch korrigiert ihre Annahme."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum antwortet die Autorin abends auf Nachrichten?",
+          "options": [
+            "Aus Sorge, sonst als weniger engagiert zu gelten.",
+            "Weil die Teamleiterin es ausdrücklich verlangt.",
+            "Weil ihr Vertrag das vorschreibt."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Aus Sorge, sonst als weniger engagiert zu gelten."
+          },
+          "explanation": "„aus Sorge, sonst als weniger engagiert zu gelten“ — der Text nennt diesen Grund direkt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Arzttermine lassen sich seit der neuen Regelung leichter unterbringen.",
+            "Die Teamleiterin verlangt abendliche Erreichbarkeit.",
+            "Die Regelung gilt seit einem Jahr.",
+            "Die Autorin will vollständig zur Stechuhr zurück."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Arzttermine lassen sich seit der neuen Regelung leichter unterbringen.",
+              "Die Teamleiterin verlangt abendliche Erreichbarkeit.",
+              "Die Regelung gilt seit einem Jahr.",
+              "Die Autorin will vollständig zur Stechuhr zurück."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2
+            ],
+            "text": [
+              "Arzttermine lassen sich seit der neuen Regelung leichter unterbringen.",
+              "Die Regelung gilt seit einem Jahr."
+            ]
+          },
+          "explanation": "„Arzttermine … lassen sich leichter unterbringen“ und „seit einem Jahr“ stehen explizit im Text; die Teamleiterin verlangt Erreichbarkeit gerade NICHT, und zur Stechuhr will die Autorin nicht zurück."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Sie beschreibt ihre anfängliche Begeisterung.",
+              "Sie benennt die stille Erwartung, die sie belastet.",
+              "Ein Gespräch korrigiert ihre Annahme.",
+              "Sie zieht ihr abschließendes Fazit."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Sie beschreibt ihre anfängliche Begeisterung.",
+              "Sie benennt die stille Erwartung, die sie belastet.",
+              "Ein Gespräch korrigiert ihre Annahme.",
+              "Sie zieht ihr abschließendes Fazit."
+            ]
+          },
+          "explanation": "Begeisterung → belastende Erwartung → korrigierendes Gespräch → Fazit. Der Text bewegt sich linear von der ersten Reaktion zur abschließenden Haltung."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Im Büro. Zwei Kollegen sprechen über die neue Homeoffice-Regelung.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v5_homeoffice.mp3",
+        "duration_seconds": 46.1,
+        "voices": "klaus+mia"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollege A",
+          "text": "Du, die neue Homeoffice-Regelung — da sind doch zwei Tage pro Woche fest vorgesehen, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "War der erste Entwurf, ja. Frau Albrecht hat das aber noch mal überarbeitet, weil die Auslastung im Kundenservice schwankt. Jetzt sind es drei Tage, flexibel wählbar."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Drei Tage flexibel also, nicht zwei fest. Und die Kernzeit — bleibt die?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Die fällt komplett weg. Sie hat nur eine Bedingung ergänzt: An mindestens einem Bürotag pro Woche müssen alle gemeinsam da sein."
+        },
+        {
+          "speaker": "Kollege A",
+          "text": "Moment, habe ich das richtig verstanden — wir wählen die drei Tage frei, aber ein bestimmter Tag ist trotzdem für alle Pflicht?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das sinnvoll; sonst sitzt am Ende nie das ganze Team gleichzeitig im Büro."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie viele Homeoffice-Tage pro Woche sind es am Ende?",
+          "options": [
+            "Zwei, fest vorgegeben.",
+            "Drei, frei wählbar.",
+            "Vier, mit Kernzeit."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Drei, frei wählbar."
+          },
+          "explanation": "Zwei feste Tage war der erste Entwurf und wurde ersetzt: „Jetzt sind es drei Tage, flexibel wählbar.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B den gemeinsamen Pflichttag?",
+          "options": [
+            "Sie hält ihn für überflüssig.",
+            "Sie hält ihn für sinnvoll.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie hält ihn für sinnvoll."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das sinnvoll“ — die Bewertung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die feste Kernzeit bleibt in der neuen Regelung bestehen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Die fällt komplett weg.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der erste Entwurf überarbeitet?",
+          "options": [
+            "Weil die Auslastung im Kundenservice schwankt.",
+            "Weil zu wenige Mitarbeitende Homeoffice wollten.",
+            "Weil die Technik nicht ausreichte."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil die Auslastung im Kundenservice schwankt."
+          },
+          "explanation": "„weil die Auslastung im Kundenservice schwankt.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das sinnvoll.“",
+              "„Sie hat nur eine Bedingung ergänzt.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das sinnvoll.“ → eine Meinung äußern",
+              "„Sie hat nur eine Bedingung ergänzt.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Regelung bringt mehr Freiheit. Der Druck bleibt trotzdem.",
+            "Die Regelung bringt zwar mehr Freiheit, der Druck bleibt aber trotzdem."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen der neuen Regelung teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Regelung bringt zwar mehr Freiheit, der Druck bleibt aber trotzdem."
+          },
+          "explanation": "„zwar … aber“ räumt den Vorteil ein und setzt zugleich den Einwand dagegen. Zwei Sätze nebeneinander zeigen kein Abwägen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir führen einen festen Bürotag pro Woche ein.",
+            "Man könnte einen festen Bürotag pro Woche einführen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen eine Änderung ins Gespräch, die noch verhandelbar bleiben soll."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte einen festen Bürotag pro Woche einführen."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag, über den das Team noch entscheiden darf."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Aufgrund dem neuen Plan ändert sich der Bürotag.",
+            "Aufgrund des neuen Plans ändert sich der Bürotag."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an das Team."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Aufgrund des neuen Plans ändert sich der Bürotag."
+          },
+          "explanation": "Gesprochen hört man „aufgrund dem“ gelegentlich. Geschrieben verlangt „aufgrund“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Kernzeit wurde abgeschafft, weil sie der tatsächlichen Arbeitsweise vieler Teams nicht mehr entsprach.",
+            "Die Kernzeit wurde abgeschafft. Sie passte nicht mehr. Viele Teams arbeiten anders."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen im Protokoll, warum die Kernzeit abgeschafft wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Kernzeit wurde abgeschafft, weil sie der tatsächlichen Arbeitsweise vieler Teams nicht mehr entsprach."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung nebeneinandergestellter Hauptsätze."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die neue Regelung wurde nach längerer Diskussion schließlich ___, nachdem das Team seine Bedenken ___ hatte.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "eingeführt",
+                  "beschlossen"
+                ]
+              },
+              {
+                "accepted": [
+                  "geäußert",
+                  "vorgebracht"
+                ]
+              }
+            ],
+            "text": [
+              "eingeführt / beschlossen",
+              "geäußert / vorgebracht"
+            ]
+          },
+          "explanation": "„eine Regelung einführen/beschließen“ und „Bedenken äußern/vorbringen“ — feste Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Arbeitszeit hat die ___ vieler Mitarbeitender spürbar erhöht.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Flexibilisierung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Zufriedenheit"
+                ]
+              }
+            ],
+            "text": [
+              "Flexibilisierung",
+              "Zufriedenheit"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Flexibilisierung“ und präzise Nomen wie „Zufriedenheit“ gehören zum B2-Wortschatz; „das Flexiblermachen“ wäre der A2-Ersatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "eine Regelung",
+              "Vertrauen",
+              "zur Verfügung",
+              "in Frage"
+            ],
+            "right": [
+              "kommen",
+              "treffen",
+              "genießen",
+              "stehen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 0
+            },
+            "text": [
+              "eine Regelung → treffen",
+              "Vertrauen → genießen",
+              "zur Verfügung → stehen",
+              "in Frage → kommen"
+            ]
+          },
+          "explanation": "eine Regelung treffen · Vertrauen genießen · zur Verfügung stehen · in Frage kommen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Ich wollte nur kurz sagen, dass der Bürotag jetzt anders läuft.",
+            "Ich möchte Sie darüber informieren, dass sich der gemeinsame Bürotag geändert hat."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an die Abteilungsleitung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich möchte Sie darüber informieren, dass sich der gemeinsame Bürotag geändert hat."
+          },
+          "explanation": "„nur kurz sagen“ gehört ins Gespräch. In einer E-Mail an die Leitung kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Lassen Sie mich den Gedanken bitte kurz zu Ende führen — dann übergebe ich gern.",
+            "Ich war noch nicht fertig! Man kann mich ja nie ausreden lassen.",
+            "Schon gut, sagen Sie einfach, was Sie meinen."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In einer Videokonferenz unterbricht Sie eine Kollegin mitten im Satz."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Lassen Sie mich den Gedanken bitte kurz zu Ende führen — dann übergebe ich gern."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag sachlich, ohne Vorwurf und ohne ihn aufzugeben. Der Vorwurf eskaliert, das Aufgeben verschenkt das Wort."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung der Autorin zur Vertrauensarbeitszeit entwickelt hat. Nennen Sie auch, was sie weiterhin belastet.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die die anfängliche Begeisterung, die korrigierte Annahme UND die verbleibende Belastung (stille Erwartung der Erreichbarkeit) nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die die anfängliche Begeisterung, die korrigierte Annahme UND die verbleibende Belastung (stille Erwartung der Erreichbarkeit) nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Anfängliche Begeisterung der Autorin für Vertrauensarbeitszeit klar benennen.",
+              "Die spätere Korrektur ihrer Annahme (z. B. keine echte Freiheit) darstellen.",
+              "Die verbleibende Belastung konkret nennen (stille Erwartung ständiger Erreichbarkeit).",
+              "Typische B2-Redemittel für Entwicklung nutzen: 'Zunächst...', 'Später musste sie jedoch feststellen...', 'Was sie weiterhin belastet, ist...'."
+            ],
+            "expected_answer": "Zunächst war die Autorin von der Vertrauensarbeitszeit begeistert und genoss die neue Freiheit. Später erkannte sie jedoch, dass diese Freiheit nur scheinbar existiert. Was sie weiterhin belastet, ist die unausgesprochene Erwartung, auch nach Feierabend ständig erreichbar zu sein.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihre Teamleiterin schreibt: „Ab nächster Woche gilt die neue Regelung.“ Sie sind nicht sicher, ob das für alle Abteilungen gilt und ob eine Übergangszeit vorgesehen ist. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen im Konjunktiv II oder mit Modalverben (z. B. ‚Könnten Sie mir bitte sagen, ob…‘)",
+              "Direkter Bezug zur Aussage der Teamleiterin (neue Regelung, Geltungsbereich, Übergangszeit)",
+              "Angemessene Anrede und Grußformel (E-Mail-Stil)",
+              "Keine Meinungsäußerung oder Wiederholung der Aussage, sondern echte Klärungsfragen"
+            ],
+            "expected_answer": "Liebe Frau Müller, könnten Sie mir bitte mitteilen, ob die neue Regelung für alle Abteilungen gilt? Wäre es außerdem möglich, eine kurze Übergangszeit einzuplanen? Vielen Dank und freundliche Grüße.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob feste Kernarbeitszeiten wieder eingeführt werden sollen, um die ständige Erreichbarkeit zu begrenzen. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Kernarbeitszeiten (dafür oder dagegen) mit persönlicher Anrede für das Forum.",
+              "Zwei ausformulierte Argumente, die die Position logisch stützen (z. B. Work-Life-Balance, Teamkommunikation).",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position (z. B. weniger Flexibilität) mit einem 'aber'-Satz.",
+              "Ein konkreter, praktikabler Kompromissvorschlag (z. B. Zeitfenster mit Gleitzeitkern).",
+              "Typische B2-Redemittel: 'Meiner Meinung nach...', 'Einerseits... andererseits...', 'Ich plädiere für...', 'Zwar... aber...'"
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Wiedereinführung fester Kernarbeitszeiten für eine sehr gute Idee. Meiner Meinung nach ist die ständige Erreichbarkeit ein großes Problem, weil die Grenzen zwischen Beruf und Privatleben zunehmend verschwimmen. Ein klar definierter Zeitrahmen würde uns allen helfen, nach Feierabend wirklich abzuschalten. Zudem erleichtern feste Zeiten die Zusammenarbeit im Team erheblich, da man nicht lange auf Rückmeldungen warten muss. Zwar schränkt dies die flexible Zeiteinteilung etwas ein, aber ich glaube, dieser Nachteil ist verkraftbar. Ich schlage daher einen Kern von 10 bis 15 Uhr vor, kombiniert mit Gleitzeit am Morgen und Nachmittag.\n\nViele Grüße,\n[Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen erwarten von Mitarbeitenden im Homeoffice, außerhalb der Arbeitszeit erreichbar zu bleiben. Was halten Sie davon? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der entgegengesetzten Position ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung oder Ablehnung) mit Überleitung zur Begründung.",
+              "Mindestens zwei strukturierte Argumente mit Konnektoren (z. B. einerseits/andererseits, darüber hinaus) und konkreten Beispielen.",
+              "Eingehen auf einen Nachteil der Gegenposition mit einem einräumenden Satz (z. B. Zugegebenermaßen …, Allerdings muss man bedenken …).",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (Ich bin der festen Überzeugung, Meines Erachtens, Hinzu kommt) und ein kurzer, runder Schlusssatz."
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass die Erwartung, im Homeoffice ständig erreichbar zu sein, entschieden abzulehnen ist. Meines Erachtens verschwimmt dadurch die dringend notwendige Grenze zwischen Beruf und Privatleben. Wenn das Büro nur ein paar Schritte vom Wohnzimmer entfernt ist, fällt das Abschalten ohnehin schwer. Ständige Erreichbarkeit erhöht den Druck enorm und kann langfristig zu ernsthafter Erschöpfung führen. Darüber hinaus ist diese Forderung oft ein Zeichen von Misstrauen seitens der Vorgesetzten. Gute Führung sollte auf klaren Absprachen und Zielen basieren, nicht auf permanenter Kontrolle. Mitarbeitende, die man abends noch mit Anrufen stört, fühlen sich nicht wertgeschätzt, und ihre Motivation sinkt. Zugegebenermaßen muss man aber einräumen, dass eine strikte Nichterreichbarkeit in absoluten Ausnahmefällen, etwa bei einer plötzlichen Systempanne, problematisch sein kann. Wenn niemand reagiert, droht vielleicht ein größerer finanzieller Schaden. Allerdings ist das kein Argument für eine dauerhafte Bereitschaft. Die klügere Lösung sind klar definierte Notfallpläne und ein Bereitschaftsdienst, der fair vergütet wird. Nur so lässt sich verhindern, dass die Flexibilität des Homeoffice zur Falle wird.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

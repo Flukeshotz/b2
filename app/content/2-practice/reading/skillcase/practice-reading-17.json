@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-17",
+  "board": "custom",
+  "title": "Leseverstehen — Dienstanweisung: Aktualisierte Hygienevorschriften",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Dienstanweisung: Aktualisierte Hygienevorschriften",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "An alle Mitarbeitenden der Stationen 2 und 3\n\nIm Rahmen der jährlichen Überprüfung wurden die Hygienevorschriften an zwei Punkten angepasst. Die Änderungen treten ab sofort in Kraft.\n\nErstens: Die Händedesinfektion vor UND nach jedem Patientenkontakt bleibt unverändert Pflicht, wird künftig aber zusätzlich vor dem Betreten des Medikamentenraums verlangt, auch wenn dort kein direkter Patientenkontakt stattfindet. Grund ist ein interner Vorfall, bei dem eine Kontamination auf diesem Weg nicht ausgeschlossen werden konnte.\n\nZweitens: Einweghandschuhe dürfen künftig nicht mehr für mehrere aufeinanderfolgende Tätigkeiten am selben Patienten verwendet werden, selbst wenn keine sichtbare Verschmutzung vorliegt. Zwischen unterschiedlichen Tätigkeiten — etwa Wundversorgung und anschließender Medikamentengabe — ist grundsätzlich ein Handschuhwechsel mit vorheriger Händedesinfektion vorzunehmen.\n\nDiese Anpassungen wurden mit der Hygienebeauftragten abgestimmt und sind ab dem heutigen Datum verbindlich. Schulungen zur praktischen Umsetzung finden in den kommenden zwei Wochen stationsintern statt; Termine werden über die Stationsleitung bekanntgegeben.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist der Grund für die neue Regel zur Händedesinfektion vor dem Medikamentenraum?",
+          "options": [
+            "Eine neue gesetzliche Vorschrift von außen.",
+            "Eine allgemeine Erhöhung der Patientenzahlen.",
+            "Ein interner Vorfall, bei dem eine Kontamination nicht ausgeschlossen werden konnte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Ein interner Vorfall, bei dem eine Kontamination nicht ausgeschlossen werden konnte."
+          },
+          "explanation": "\"Grund ist ein interner Vorfall, bei dem eine Kontamination auf diesem Weg nicht ausgeschlossen werden konnte.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Einweghandschuhe dürfen laut neuer Regel für mehrere Tätigkeiten am selben Patienten weiterverwendet werden, solange keine Verschmutzung sichtbar ist.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"dürfen künftig nicht mehr … verwendet werden, selbst wenn keine sichtbare Verschmutzung vorliegt\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was muss laut Text zwischen Wundversorgung und Medikamentengabe geschehen?",
+          "options": [
+            "Ein Handschuhwechsel mit vorheriger Händedesinfektion.",
+            "Eine schriftliche Dokumentation beider Tätigkeiten.",
+            "Eine Rücksprache mit der Stationsleitung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ein Handschuhwechsel mit vorheriger Händedesinfektion."
+          },
+          "explanation": "\"ist grundsätzlich ein Handschuhwechsel mit vorheriger Händedesinfektion vorzunehmen\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie werden die Mitarbeitenden über die praktische Umsetzung informiert?",
+          "options": [
+            "Über Schulungen, deren Termine die Stationsleitung bekanntgibt.",
+            "Über eine verpflichtende Online-Prüfung.",
+            "Gar nicht, die Regel gilt ohne weitere Erklärung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Über Schulungen, deren Termine die Stationsleitung bekanntgibt."
+          },
+          "explanation": "\"Schulungen … finden … statt; Termine werden über die Stationsleitung bekanntgegeben.\""
+        }
+      ]
+    }
+  ]
+}

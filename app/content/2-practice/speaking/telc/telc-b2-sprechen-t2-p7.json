@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t2-p7",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #7",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "Bei zwölf Reparaturabenden wurden vor allem Lampen, Küchengeräte und Kleidung gebracht; ungefähr die Hälfte ließ sich wieder benutzen. Verbraucherinitiativen und Nachbarschaftsgruppen diskutieren, ob Reparieren im Alltag stärker gefördert werden sollte. Viele kaputte Alltagsgeräte landen im Müll, obwohl kleine Defekte manchmal reparierbar wären.\n\nIn der Debatte über „Reparieren statt neu kaufen“ verweisen Befürworter auf einen unmittelbaren Nutzen. Ressourcen werden geschont und Menschen lernen praktische Fähigkeiten. So könnten weniger noch funktionsfähige Geräte und Teile im Abfall landen. Neben weniger Abfall entstehen Kenntnisse, die Besucher später auch bei anderen kleinen Defekten anwenden können.\n\nEin Wasserkocher wurde gerettet, während ein sehr alter Drucker nicht mehr sinnvoll reparierbar war. Ehrenamtliche Helfer dürfen deshalb nicht unter Druck geraten, für jede Reparatur eine Garantie übernehmen zu müssen. Ein gewichtiges Argument dagegen lautet: Reparaturen lohnen sich nicht immer finanziell oder technisch. Kritiker befürchten außerdem, dass unsichere Reparaturen neue Schäden verursachen. Bei beschädigten Akkus oder sehr alten Geräten übersteigen Ersatzteile und Sicherheitsprüfung schnell den Wert des Gegenstands.\n\nReparaturtreffs könnten vorab Gerätetypen nennen, Sicherheitsgrenzen erklären und mit Fachbetrieben für schwierige Fälle kooperieren. Eine einfache Liste zu Kosten, Erfolg und eingespartem Müll würde zeigen, bei welchen Produkten sich das Angebot lohnt.\n\nHersteller könnten ebenfalls beitragen, indem sie Ersatzteile, Anleitungen und reparaturfreundliche Konstruktionen anbieten. Die Verantwortung allein bei Verbrauchern und ehrenamtlichen Helfern abzuladen, wäre zu einfach, denn manche Produkte lassen sich absichtlich kaum öffnen. Ein günstiger Zugang zu Ersatzteilen bleibt dabei eine zentrale Voraussetzung.\n\nEine tragfähige Antwort auf „Reparieren statt neu kaufen“ muss positive Wirkung, zusätzlichen Aufwand und mögliche Benachteiligung abwägen. Reparieren wäre damit keine romantische Pflicht, sondern eine sinnvolle erste Prüfung vor dem Kauf eines Ersatzgeräts.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Reparieren statt neu kaufen?\n\nReparaturtreffs werden beliebter, doch sie kosten Zeit und Geduld",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Textinhalt knapp zusammenfassen (Reparaturtreffs, Pro/Contra, Verantwortung Hersteller).",
+              "Eigene Erfahrungen mit Reparaturen oder Neukauf konkret schildern.",
+              "Klare Meinung mit mindestens zwei begründeten Argumenten formulieren (z. B. Nachhaltigkeit vs. Zeitaufwand/Sicherheit).",
+              "Über Lösungen sprechen (Herstellerverantwortung, Recht auf Reparatur, bessere Informationen für Verbraucher).",
+              "Typische B2-Redemittel nutzen: ‚Einerseits … andererseits‘, ‚Ich bin der festen Überzeugung, dass …‘, ‚Hinzu kommt, dass …‘, ‚Als Lösung könnte man …‘."
+            ],
+            "expected_answer": "Der Text spricht ein Thema an, das mir persönlich sehr am Herzen liegt, nämlich die Frage, ob wir kaputte Dinge reparieren sollten, anstatt sie sofort wegzuwerfen und neu zu kaufen. Ich finde, das ist eine der zentralen Fragen unserer Konsumgesellschaft. Im Text werden ja sowohl die Vorteile als auch die kritischen Punkte von Reparaturtreffs genannt, und ich muss sagen, ich kann beide Seiten gut verstehen. Einerseits finde ich die Idee fantastisch. Ich habe selbst einmal versucht, mein altes Radio in einem solchen Treff reparieren zu lassen, und obwohl es am Ende nicht geklappt hat, war die Erfahrung sehr lehrreich. Man lernt, wie die Geräte im Inneren aufgebaut sind, und entwickelt einen ganz anderen Bezug zu seinen Gegenständen. Das ist ein unschätzbarer Wert, der im Text auch angesprochen wird. Es geht ja nicht nur um die Reparatur an sich, sondern auch um den Wissensaustausch zwischen den Generationen. Andererseits muss ich zugeben, dass ich die Skepsis der Kritiker nachvollziehen kann. In unserem hektischen Alltag ist Zeit oft ein knappes Gut. Wenn ich überlege, dass ich für einen Nachmittag im Reparaturcafé sitze, um am Ende vielleicht festzustellen, dass der alte Drucker wirklich nicht mehr zu retten ist, dann frage ich mich manchmal, ob sich der Aufwand lohnt. Der Text erwähnt ja das Beispiel mit dem sehr alten Drucker, und genau das ist der Punkt: Bei manchen Geräten sind die Ersatzteile so teuer oder die Technik so veraltet, dass eine Reparatur wirtschaftlich einfach unsinnig ist. Hinzu kommt das Sicherheitsargument, vor allem bei Akkus, das darf man wirklich nicht unterschätzen. Ich bin der festen Überzeugung, dass die Verantwortung nicht allein bei uns Verbrauchern oder den ehrenamtlichen Helfern liegen darf. Der Text trifft einen sehr wichtigen Punkt, wenn er sagt, dass viele Hersteller ihre Produkte absichtlich so bauen, dass man sie kaum öffnen kann. Dieses Phänomen der geplanten Obsoleszenz ärgert mich maßlos. Als Lösung sehe ich daher vor allem die Politik in der Pflicht. Ein sogenanntes ‚Recht auf Reparatur‘, wie es auf EU-Ebene diskutiert wird, wäre ein riesiger Schritt nach vorne. Hersteller müssen verpflichtet werden, Ersatzteile und Reparaturanleitungen für einen bestimmten Zeitraum zu einem fairen Preis anzubieten. Außerdem könnte man die von den Reparaturtreffs vorgeschlagene Liste mit Erfolgsaussichten öffentlich machen, damit jeder vorher eine informierte Entscheidung treffen kann. Für mich ist ‚Reparieren statt neu kaufen‘ keine romantische Pflicht, sondern eine Frage der Vernunft. Es sollte immer der erste Gedanke sein, eine Art Checkliste im Kopf, bevor man etwas Neues bestellt. Wenn die Rahmenbedingungen stimmen, ist es ein aktiver Beitrag zum Umweltschutz und schont den eigenen Geldbeutel.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

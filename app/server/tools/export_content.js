@@ -102,6 +102,11 @@ async function exportSkill(skill) {
   return out;
 }
 
+// board -> folder name. "custom" is Skillcase-original practice, never
+// Goethe/telc exam-board content — kept in its own folder for exactly the
+// same reason board is never conflated anywhere else in this product.
+const BOARD_DIR = { goethe: "goethe", telc: "telc", custom: "custom" };
+
 async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
   const manifest = { generatedAt: new Date().toISOString(), skills: {} };
@@ -109,12 +114,21 @@ async function main() {
   for (const skill of SKILLS) {
     const data = await exportSkill(skill);
     const itemCount = data.reduce((n, p) => n + p.sections.reduce((m, s) => m + s.items.length, 0), 0);
-    const byBoard = {};
-    for (const p of data) byBoard[p.board] = (byBoard[p.board] || 0) + 1;
 
-    fs.writeFileSync(path.join(OUT_DIR, `${skill}.json`), JSON.stringify(data, null, 2));
-    manifest.skills[skill] = { papers: data.length, items: itemCount, papersByBoard: byBoard };
-    console.log(`${skill}.json: ${data.length} papers, ${itemCount} items (${JSON.stringify(byBoard)})`);
+    const byBoard = {};
+    for (const p of data) (byBoard[p.board] ||= []).push(p);
+
+    manifest.skills[skill] = { papers: data.length, items: itemCount, papersByBoard: {} };
+
+    for (const [board, papers] of Object.entries(byBoard)) {
+      const dir = BOARD_DIR[board];
+      if (!dir) throw new Error(`unknown board "${board}" — add it to BOARD_DIR before exporting`);
+      fs.mkdirSync(path.join(OUT_DIR, dir), { recursive: true });
+      const boardItemCount = papers.reduce((n, p) => n + p.sections.reduce((m, s) => m + s.items.length, 0), 0);
+      fs.writeFileSync(path.join(OUT_DIR, dir, `${skill}.json`), JSON.stringify(papers, null, 2));
+      manifest.skills[skill].papersByBoard[board] = { papers: papers.length, items: boardItemCount };
+      console.log(`${dir}/${skill}.json: ${papers.length} papers, ${boardItemCount} items`);
+    }
   }
 
   fs.writeFileSync(path.join(OUT_DIR, "manifest.json"), JSON.stringify(manifest, null, 2));

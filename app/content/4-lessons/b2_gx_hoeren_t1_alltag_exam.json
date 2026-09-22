@@ -1,0 +1,25 @@
+{
+  "id": "b2_gx_hoeren_t1_alltag_exam",
+  "order_index": 60,
+  "icon": "📋",
+  "title": "Fünf kurze Gespräche",
+  "capability": "Was Sie beim ersten Hören mitbekommen",
+  "proof": "Skillcase-Übung im Format des Goethe-Zertifikats B2, Hören Teil 1",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Fünf kurze Gespräche",
+      "steps": [
+        {
+          "t": "hoeren_t1",
+          "sectionId": "gx_hoeren_t1_alltag"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

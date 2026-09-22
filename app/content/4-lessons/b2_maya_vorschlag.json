@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_vorschlag",
+  "order_index": 10,
+  "icon": "💬",
+  "title": "Mein Vorschlag wird geändert",
+  "capability": "defending a professional proposal under pushback and adapting to constraints",
+  "proof": "Mein Vorschlag wird geändert",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Diskussion",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_vorschlag"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

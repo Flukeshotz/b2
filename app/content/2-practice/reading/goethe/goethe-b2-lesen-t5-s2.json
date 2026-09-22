@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-lesen-t5-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 2",
+  "minutes": 11,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "instruction": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Hausordnung des Lernzentrums Lindenhof\n\nBeispiel: 0 Lösung g\n\n**Paragraph 0**\nTeilnehmende erhalten zu Kursbeginn einen persönlichen Zugangsausweis. Der Ausweis ist beim Betreten des Gebäudes sichtbar zu tragen und darf nicht an andere Personen weitergegeben werden. Bei Verlust wird eine Ersatzgebühr erhoben.\n\n**Paragraph 28**\nDie Anmeldung zu einem Kurs muss schriftlich oder über das Online-Portal erfolgen. Sie ist verbindlich, sobald die Teilnahmebestätigung versendet wurde. Gehen mehr Anmeldungen ein, als Plätze vorhanden sind, entscheidet die Reihenfolge des Eingangs; weitere Personen werden auf eine Warteliste gesetzt. Eine Ummeldung in einen Parallelkurs ist nur möglich, wenn dort noch Plätze frei sind und der Kurs noch nicht begonnen hat. Die Benachrichtigung erfolgt an die im Nutzerkonto gespeicherte Adresse.\n\n**Paragraph 29**\nWer an einem Kurstag verhindert ist, informiert die Kursleitung oder das Sekretariat möglichst vor Beginn der Veranstaltung. Bei berufsbezogenen Zertifikatskursen darf höchstens ein Fünftel der Unterrichtszeit versäumt werden. Wird diese Grenze überschritten, kann der Kurs zwar weiter besucht werden, die Ausstellung einer Bescheinigung ist jedoch ausgeschlossen. Bereits gezahlte Kursentgelte werden wegen einzelner Fehlzeiten nicht erstattet. Ausnahmen entscheidet die Leitung nur bei vorheriger schriftlicher Vereinbarung.\n\n**Paragraph 30**\nEine Teilnahmebescheinigung wird ausgestellt, wenn die Anwesenheitspflicht erfüllt ist und alle vorgesehenen Aufgaben abgegeben wurden. Die Bescheinigung enthält Kursumfang, Thema und Zeitraum, jedoch keine Einzelnoten. Sie wird in der Regel innerhalb von zehn Werktagen digital bereitgestellt. Ein gedrucktes Duplikat kann innerhalb eines Jahres gegen eine Verwaltungsgebühr beantragt werden. Bei Rückfragen zu digitalen Bescheinigungen ist die Verwaltung innerhalb von vier Wochen zu kontaktieren.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "payload": {
+            "context": "Hausordnung des Lernzentrums Lindenhof\n\nBeispiel: 0 Lösung g\n\n**Paragraph 0**\nTeilnehmende erhalten zu Kursbeginn einen persönlichen Zugangsausweis. Der Ausweis ist beim Betreten des Gebäudes sichtbar zu tragen und darf nicht an andere Personen weitergegeben werden. Bei Verlust wird eine Ersatzgebüh..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Kursanmeldung"
+          },
+          "explanation": "Die richtige Antwort ist a (\"Kursanmeldung\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "payload": {
+            "context": "Hausordnung des Lernzentrums Lindenhof\n\nBeispiel: 0 Lösung g\n\n**Paragraph 0**\nTeilnehmende erhalten zu Kursbeginn einen persönlichen Zugangsausweis. Der Ausweis ist beim Betreten des Gebäudes sichtbar zu tragen und darf nicht an andere Personen weitergegeben werden. Bei Verlust wird eine Ersatzgebüh..."
+          },
+          "suggested_answer": {
+            "key": 7,
+            "text": "H: Fehlzeiten"
+          },
+          "explanation": "Die richtige Antwort ist h (\"Fehlzeiten\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "[Satz 2] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "payload": {
+            "context": "Hausordnung des Lernzentrums Lindenhof\n\nBeispiel: 0 Lösung g\n\n**Paragraph 0**\nTeilnehmende erhalten zu Kursbeginn einen persönlichen Zugangsausweis. Der Ausweis ist beim Betreten des Gebäudes sichtbar zu tragen und darf nicht an andere Personen weitergegeben werden. Bei Verlust wird eine Ersatzgebüh..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Teilnahmebescheinigung"
+          },
+          "explanation": "Die richtige Antwort ist b (\"Teilnahmebescheinigung\"). Dieser Paragraph regelt den genannten Sachverhalt."
+        }
+      ]
+    }
+  ]
+}

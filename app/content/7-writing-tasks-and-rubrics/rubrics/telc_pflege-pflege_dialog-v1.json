@@ -1,0 +1,45 @@
+{
+  "id": 5,
+  "board": "telc_pflege",
+  "module": "sprechen",
+  "task_type": "pflege_dialog",
+  "version": 1,
+  "provisional": false,
+  "dimensions": [
+    {
+      "n": "I",
+      "id": "aufgabenbewaeltigung",
+      "label": "Aufgabenbewältigung",
+      "per_subtask": true
+    },
+    {
+      "n": "II",
+      "id": "aussprache",
+      "label": "Aussprache/Intonation",
+      "per_subtask": false
+    },
+    {
+      "n": "III",
+      "id": "fluessigkeit",
+      "label": "Flüssigkeit",
+      "per_subtask": false
+    },
+    {
+      "n": "IV",
+      "id": "korrektheit",
+      "label": "Korrektheit",
+      "per_subtask": false
+    },
+    {
+      "n": "V",
+      "id": "wortschatz",
+      "label": "Wortschatz",
+      "per_subtask": false
+    }
+  ],
+  "scale_max": 25,
+  "subtest_weight": null,
+  "pass_mark": 0,
+  "borderline_low": 0,
+  "borderline_high": 0
+}

@@ -1,0 +1,38 @@
+{
+  "id": "s01_vier_tage_woche",
+  "rubric_id": 1,
+  "prompt_de": "Sie haben online die Diskussion über die Vier-Tage-Woche gelesen. Schreiben Sie einen Forumsbeitrag von ca. 150 Wörtern. Gehen Sie dabei auf folgende Punkte ein: 1. Ihre eigene Meinung zur Vier-Tage-Woche. 2. Ein Argument, das für Ihre Position spricht. 3. Ein Gegenargument und Ihre Reaktion darauf. 4. Ein Vorschlag, wie eine Umsetzung gelingen könnte.",
+  "content_points": [
+    {
+      "id": "meinung",
+      "detector": "(meiner meinung nach|ich finde|ich denke|ich glaube|ich bin (der (meinung|ansicht)|dafür|dagegen)|aus meiner sicht|meines erachtens|ich halte)",
+      "label_de": "Eigene Meinung"
+    },
+    {
+      "id": "argument",
+      "detector": "(zum einen|erstens|ein (wichtiges )?argument|spricht daf(ü|ue)r|ein vorteil|studien|zeigen|belegen|zum beispiel|beispielsweise)",
+      "label_de": "Argument dafür"
+    },
+    {
+      "id": "gegenarg",
+      "detector": "(allerdings|jedoch|andererseits|kritiker|einwand|einwenden|zwar|dennoch|trotzdem|gegner|manche (leute )?sagen)",
+      "label_de": "Gegenargument + Reaktion"
+    },
+    {
+      "id": "vorschlag",
+      "detector": "(vorschlag|ich schlage vor|sollte man|k(ö|oe)nnte man|m(ü|ue)sste man|lie(ß|ss)e sich|w(ä|ae)re es sinnvoll|denkbar w(ä|ae)re|man sollte|man k(ö|oe)nnte)",
+      "label_de": "Vorschlag"
+    }
+  ],
+  "target_words": 150,
+  "source": "authored — /Users/harsh/B2/content/s01_vier_tage_woche.md",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

@@ -34,6 +34,13 @@ const VERSIONS = [
   require("../src/seed/b2/core2026b/v1").V1,
   require("../src/seed/b2/core2026b/v2").V2,
   require("../src/seed/b2/core2026b/v3").V3,
+  require("../src/seed/b2/core2026b/v4").V4,
+  require("../src/seed/b2/core2026b/v5").V5,
+  require("../src/seed/b2/core2026b/v6").V6,
+  require("../src/seed/b2/core2026b/v7").V7,
+  require("../src/seed/b2/core2026b/v8").V8,
+  require("../src/seed/b2/core2026b/v9").V9,
+  require("../src/seed/b2/core2026b/v10").V10,
 ];
 
 /**

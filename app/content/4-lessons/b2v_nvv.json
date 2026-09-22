@@ -1,0 +1,247 @@
+{
+  "id": "b2v_nvv",
+  "order_index": 3,
+  "icon": "🔗",
+  "title": "Noun-verb pairs that read as B2",
+  "capability": "You can use the fixed phrases examiners look for instead of the simple verb.",
+  "proof": "Wir müssen das in Betracht ziehen.",
+  "subs": [
+    {
+      "key": "learn",
+      "label": "Learn",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "German has a fixed pair for things you would say with one plain verb.",
+            "„Wir denken darüber nach“ is fine. „Wir ziehen es in Betracht“ is B2.",
+            "The verb is the part that is fixed — get that wrong and the phrase is gone."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "hack",
+          "body": "<b>unter Druck stehen</b> — never „unter Druck haben“. The noun is the easy half; examiners mark the verb.",
+          "title": "The verb is not negotiable."
+        },
+        {
+          "t": "match",
+          "ws": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Wir",
+            "müssen",
+            "das",
+            "in",
+            "Betracht",
+            "ziehen"
+          ],
+          "en": "We have to take that into consideration.",
+          "hard": true,
+          "extra": [
+            "nehmen"
+          ]
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Das",
+            "Team",
+            "hat",
+            "seit",
+            "Wochen",
+            "unter",
+            "Druck"
+          ],
+          "context": "In a written report:",
+          "shouldBe": "steht",
+          "wrongIdx": 2
+        },
+        {
+          "t": "speak",
+          "de": "Wir müssen das in Betracht ziehen.",
+          "en": "We have to take that into consideration."
+        }
+      ],
+      "teaches": [
+        [
+          "in Betracht ziehen",
+          "to take into consideration",
+          "🔗"
+        ],
+        [
+          "zur Verfügung stehen",
+          "to be available",
+          "🔗"
+        ],
+        [
+          "unter Druck stehen",
+          "to be under pressure",
+          "🔗"
+        ]
+      ]
+    },
+    {
+      "key": "use",
+      "label": "Use it",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Three more. These three are what turn a description into an argument."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "hack",
+          "body": "<b>an seine Grenzen stoßen</b> names the problem. <b>unter die Lupe nehmen</b> asks for scrutiny. <b>einen Standpunkt vertreten</b> is you, taking a side.",
+          "title": "Where each one belongs."
+        },
+        {
+          "t": "match",
+          "ws": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Das",
+            "System",
+            "stößt",
+            "an",
+            "seine",
+            "Grenzen"
+          ],
+          "en": "The system is reaching its limits.",
+          "hard": true,
+          "extra": [
+            "kommt"
+          ]
+        },
+        {
+          "t": "translate",
+          "de": "Wir sollten den Dienstplan unter die Lupe nehmen.",
+          "en": [
+            "We",
+            "should",
+            "examine",
+            "the",
+            "shift",
+            "schedule",
+            "closely"
+          ],
+          "extra": [
+            "ignore"
+          ]
+        },
+        {
+          "t": "chat",
+          "who": "Kollegin",
+          "goal": "Make the case using the pairs, not the plain verbs.",
+          "turns": [
+            {
+              "en": "The ward has been understaffed for weeks.",
+              "opts": [
+                {
+                  "de": "Das Team stößt an seine Grenzen.",
+                  "en": "The team is reaching its limits.",
+                  "ok": true
+                },
+                {
+                  "de": "Das Team ist müde.",
+                  "en": "The team is tired."
+                }
+              ],
+              "them": "Die Station ist seit Wochen unterbesetzt."
+            },
+            {
+              "en": "And what do you suggest?",
+              "opts": [
+                {
+                  "de": "Wir sollten den Dienstplan unter die Lupe nehmen.",
+                  "en": "We should examine the shift schedule closely.",
+                  "ok": true
+                },
+                {
+                  "de": "Wir sollten den Dienstplan ansehen.",
+                  "en": "We should look at the shift schedule."
+                }
+              ],
+              "them": "Und was schlägst du vor?"
+            }
+          ],
+          "avatar": "🔗"
+        },
+        {
+          "t": "speakcards",
+          "cards": [
+            {
+              "de": "Das Team stößt an seine Grenzen.",
+              "en": "The team is reaching its limits."
+            },
+            {
+              "de": "Wir sollten den Dienstplan unter die Lupe nehmen.",
+              "en": "We should examine the shift schedule closely."
+            },
+            {
+              "de": "Ich vertrete einen klaren Standpunkt.",
+              "en": "I hold a clear position."
+            }
+          ]
+        }
+      ],
+      "teaches": [
+        [
+          "an seine Grenzen stoßen",
+          "to reach one's limits",
+          "🔗"
+        ],
+        [
+          "unter die Lupe nehmen",
+          "to examine closely",
+          "🔍"
+        ],
+        [
+          "einen Standpunkt vertreten",
+          "to hold a position",
+          "🔗"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "retired",
+  "retired_reason": "a1_methodology_conflict",
+  "retired_at": "2026-09-07T13:07:20.348Z"
+}

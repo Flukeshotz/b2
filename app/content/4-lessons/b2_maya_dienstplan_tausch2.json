@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_dienstplan_tausch2",
+  "order_index": 15,
+  "icon": "💬",
+  "title": "Eine Kollegin um einen Schichttausch bitten",
+  "capability": "asking a colleague, not a manager, for a genuine favour",
+  "proof": "Eine Kollegin um einen Schichttausch bitten",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_dienstplan_tausch2"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

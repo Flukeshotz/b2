@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t2-p3",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #3",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "Vier kleine Betriebe testeten das Modell für ein Quartal; zwei verlängerten den Versuch, zwei kehrten zur alten Woche zurück. In Handwerksbetrieben und kleinen Firmen wird darüber diskutiert, ob eine Vier-Tage-Woche auch dort funktionieren kann. Einige Unternehmen suchen nach Wegen, Fachkräfte zu halten und Belastung zu reduzieren.\n\nAuf der positiven Seite steht ein praktisches Argument: Ein zusätzlicher freier Tag kann Erholung und Motivation erhöhen. So könnten Mitarbeitende seltener erschöpft zur Arbeit kommen. Wo Aufgaben planbar waren, sank die Zahl kurzfristiger Ausfälle und freie Stellen ließen sich leichter besetzen.\n\nEine Werkstatt fand den freien Freitag attraktiv, musste aber Telefonzeiten neu organisieren. Auch die Länge der übrigen Arbeitstage ist wichtig, denn zehn anstrengende Stunden bedeuten nicht automatisch weniger Belastung. Auf der anderen Seite zeigt sich ein praktisches Risiko: Kundenservice, Vertretung und Öffnungszeiten werden schwieriger. Kritiker befürchten außerdem, dass Arbeit nur auf längere Tage verschoben wird. Bäckerei, Werkstatt oder Pflegedienst können ihre Kundschaft jedoch nicht einfach an einem Wochentag abweisen.\n\nEin Betrieb könnte freie Tage im Team versetzt planen und zunächst nur eine Abteilung für zwölf Wochen teilnehmen lassen. Gemessen werden sollten Überstunden, Fehler, Kundenbeschwerden und Erholung statt nur die allgemeine Stimmung am Ende des Versuchs.\n\nDie Beschäftigten müssten außerdem an der Gestaltung beteiligt sein. Manche wünschen einen festen freien Tag, andere lieber kürzere Tage. Nur wenn Arbeitszeit, Lohn und Pausen eindeutig geregelt sind, kann das Modell fair mit der bisherigen Woche verglichen werden.\n\nFür das Thema „Vier-Tage-Woche im kleinen Betrieb“ reicht ein Grundsatzbeschluss nicht; auch Aufwand und Verteilung der Folgen zählen. Ob vier Tage funktionieren, entscheidet daher weniger ein modernes Etikett als die ehrliche Organisation des konkreten Betriebs.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Vier-Tage-Woche im kleinen Betrieb?\n\nKürzere Arbeitszeit klingt attraktiv, stellt Teams aber vor neue Fragen",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Bezug zum Text nehmen: die gemischten Erfahrungen der vier Betriebe kurz aufgreifen (zwei verlängert, zwei zurückgekehrt).",
+              "Eigene Meinung klar formulieren und mit mindestens zwei Argumenten begründen (z. B. Motivation vs. Kundenbetreuung).",
+              "Konkrete Beispiele aus eigener Erfahrung oder Beobachtung einbringen (z. B. Handwerk, Pflege, Büro).",
+              "Über Lösungen und Bedingungen sprechen: versetzte freie Tage, Testphase, Mitarbeiterbeteiligung, klare Regeln.",
+              "Typische B2-Redemittel nutzen: 'Ich bin der Meinung, dass...', 'Einerseits... andererseits...', 'Was die Lösung betrifft, ...'"
+            ],
+            "expected_answer": "Also, ich finde das Thema Vier-Tage-Woche in kleinen Betrieben wirklich spannend, und der Text zeigt ja ganz klar, dass es nicht nur Vorteile gibt. Ich habe gelesen, dass von den vier Testbetrieben zwei wieder zur alten Woche zurückgekehrt sind, und das überrascht mich ehrlich gesagt nicht. Ich bin der Meinung, dass dieses Modell stark vom konkreten Arbeitsbereich abhängt. Einerseits sehe ich die positiven Aspekte, die im Text genannt werden: Ein zusätzlicher freier Tag kann wirklich die Erholung und die Motivation erhöhen. Wenn ich an meinen eigenen Bekanntenkreis denke, da arbeitet jemand in einem kleinen Architekturbüro, und dort hat man die Vier-Tage-Woche eingeführt. Die Mitarbeiter sind tatsächlich seltener krank und konzentrierter bei der Arbeit, weil sie wissen, sie haben ein langes Wochenende vor sich. Das hilft dem Betrieb auch, Fachkräfte zu halten, was heutzutage ja ein riesiges Problem ist. Andererseits muss ich sagen, dass ich die praktischen Risiken für absolut entscheidend halte. Der Text spricht von Bäckereien, Werkstätten oder Pflegediensten, und da frage ich mich wirklich: Wie soll das funktionieren? Eine Bäckerei kann doch nicht einfach freitags schließen, die Kunden wollen doch ihre Brötchen. Da wird die Arbeit dann vielleicht nur auf längere Tage verschoben, und zehn Stunden in einer Werkstatt sind körperlich extrem anstrengend. Das ist dann keine echte Entlastung, sondern nur eine Umverteilung der Belastung. Aus meiner Erfahrung als Kunde würde ich mich auch ärgern, wenn mein Handwerker plötzlich einen Tag nicht erreichbar ist. Was die Lösung betrifft, finde ich den Vorschlag aus dem Text sehr klug, die freien Tage im Team versetzt zu planen. So könnte man den Kundenservice aufrechterhalten. Außerdem halte ich eine Testphase für unverzichtbar, aber man muss dabei wirklich konkrete Dinge messen, wie Überstunden oder Kundenbeschwerden, und nicht nur die allgemeine Stimmung. Ganz entscheidend ist für mich auch, dass die Beschäftigten mitentscheiden dürfen. Nicht jeder will einen ganzen Tag frei, manche hätten vielleicht lieber kürzere Tage. Nur wenn das Modell fair organisiert ist und die Löhne gleich bleiben, kann es funktionieren. Zusammenfassend glaube ich, dass die Vier-Tage-Woche kein Allheilmittel ist. Für einen kleinen Betrieb ist es eine riesige organisatorische Herausforderung. Es reicht nicht, einfach zu sagen 'Wir machen jetzt modern', sondern man braucht eine ehrliche und durchdachte Planung, die zum konkreten Betrieb passt. Sonst scheitert es, wie bei den zwei Betrieben im Text.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

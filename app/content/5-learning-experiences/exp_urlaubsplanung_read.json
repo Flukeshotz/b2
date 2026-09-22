@@ -1,0 +1,131 @@
+{
+  "id": "exp_urlaubsplanung_read",
+  "source_id": "src_urlaubsplanung",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Urlaubsplanung: nach Dienstalter oder nach Wunsch?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: sollen Urlaubswünsche nach Dienstalter entschieden werden?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_urlaubsplanung"
+    },
+    {
+      "q": "Wer erklärt, unter welchen historischen Umständen die Regel einmal fair war?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Renate_Stationsleitung erklärt die Herkunft der Regel — aus einer Zeit mit weniger Konflikten um Ferienzeiten — und stellt selbst infrage, ob das heute noch gilt. Die anderen sprechen über die Regel in der Gegenwart.",
+      "options": [
+        "annika",
+        "wolfgang",
+        "renate",
+        "murat"
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer schlägt eine konkrete Kompromisslösung vor?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Murat_K schlägt vor, Dienstalter für die meisten Zeiträume beizubehalten, aber bei Sommerferien eine Ausnahme für Eltern schulpflichtiger Kinder zu machen. Die anderen beschreiben Probleme oder Herkunft, aber keine konkrete neue Regel.",
+      "options": [
+        "annika",
+        "wolfgang",
+        "renate",
+        "murat"
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht Wolfgang_D mit diesem Satz?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Als Prinzip finde ich Dienstalter eigentlich richtig — wer lange dabei ist, sollte etwas davon haben.",
+      "answer": 1,
+      "explain": "Er beginnt mit einer grundsätzlichen Verteidigung des Prinzips — und schränkt sie im nächsten Satz sofort auf Annikas konkrete Situation ein. Beide Teile gehören zusammen; wer nur den ersten Satz liest, hält ihn für einen reinen Verteidiger der Regel.",
+      "options": [
+        "Er lehnt Annikas Beschwerde vollständig ab.",
+        "Er verteidigt das allgemeine Prinzip, bevor er im nächsten Satz den Einzelfall anerkennt.",
+        "Er fordert, die Regel sofort abzuschaffen."
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Satz zu Renates vorherigem Satz „Damals war sie fair“?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "Ob sie das heute noch ist, frage ich mich inzwischen selbst.",
+      "answer": 1,
+      "explain": "„Damals war sie fair“ bestätigt die Vergangenheit. Der Satz danach trennt bewusst zwischen damals und heute — er bestreitet nicht, dass es früher passte, sondern lässt offen, ob es das immer noch tut.",
+      "options": [
+        "Er bestätigt, dass die Regel auch heute noch fair ist.",
+        "Er stellt infrage, ob eine damals berechtigte Regel auch heute noch berechtigt ist.",
+        "Er widerspricht der Aussage über die Vergangenheit.",
+        "Er wiederholt den vorherigen Satz mit anderen Worten."
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "structure"
+    },
+    {
+      "q": "Murat schlägt vor, Dienstalter für „alle anderen Zeiträume“ beizubehalten. Was folgt daraus für sein Verhältnis zum Prinzip Dienstalter?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Indem er das Prinzip für „alle anderen Zeiträume“ ausdrücklich beibehalten will, zeigt er, dass er es grundsätzlich für sinnvoll hält — sein Vorschlag ist eine punktuelle Anpassung, keine grundsätzliche Ablehnung.",
+      "options": [
+        "Er lehnt das Prinzip Dienstalter insgesamt ab.",
+        "Er akzeptiert das Prinzip weitgehend und will nur einen einzelnen Sonderfall anders regeln.",
+        "Er kennt das Prinzip Dienstalter nicht genau."
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Annika F. das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht das Dienstalter als Prinzip — mich stört, dass es ausgerechnet bei den Schulferien keine Ausnahme gibt, obwohl das der einzige Zeitraum ist, in dem ich wirklich keine Wahl habe.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine generelle Beschwerde über das Dienstalter-Prinzip. Am Ende wird klar: sie will nur eine Ausnahme für Schulferien — genau Murats Vorschlag. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin des Prinzips. Das ist sie nicht.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Beschwerde falsch war.",
+        "Um klarzustellen, dass sie nicht das Prinzip Dienstalter ablehnt, sondern eine einzelne fehlende Ausnahme kritisiert.",
+        "Um Wolfgang_D vorzuwerfen, dass er ihr nicht zugehört hat.",
+        "Um vorzuschlagen, Dienstalter komplett abzuschaffen."
+      ],
+      "sourceId": "src_urlaubsplanung",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:18:28.923Z",
+  "updated_at": "2026-09-16T07:18:28.923Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

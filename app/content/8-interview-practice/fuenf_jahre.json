@@ -1,0 +1,11 @@
+{
+  "id": "fuenf_jahre",
+  "de": "Wo sehen Sie sich beruflich in fünf Jahren?",
+  "category": "personal",
+  "sourced": true,
+  "assesses": "Whether you are planning to stay — the thing they are actually paying to find out.",
+  "trap": "Plans that lead out of nursing, or out of Germany.",
+  "strong": "A direction inside the profession: a Fachweiterbildung, a ward, a role.",
+  "followUp": "Und was brauchen Sie von uns, damit das gelingt?",
+  "model_answer": null
+}

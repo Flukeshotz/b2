@@ -1,0 +1,271 @@
+{
+  "id": "b2g_konjunktiv2",
+  "order_index": 1,
+  "icon": "🎚️",
+  "title": "Suggest without demanding",
+  "capability": "You can propose something so it lands as a suggestion, not an order.",
+  "proof": "Man könnte die Übergabe früher machen.",
+  "subs": [
+    {
+      "key": "learn",
+      "label": "Learn",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "„Wir machen die Übergabe früher.“ — that is a decision you just announced.",
+            "One vowel turns it into a suggestion someone can say yes to."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "q": "Which one is <b>könnte</b>?",
+          "t": "pick",
+          "from": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "q": "Which one is <b>wäre</b>?",
+          "t": "pick",
+          "from": [
+            2,
+            3
+          ]
+        },
+        {
+          "t": "hack",
+          "body": "kann → <b>könnte</b>, muss → <b>müsste</b>, war → <b>wäre</b>, hatte → <b>hätte</b>. Same verb, softer claim.",
+          "title": "The umlaut is the whole trick."
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "t": "match",
+          "ws": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Das",
+            "wäre",
+            "eine",
+            "gute",
+            "Lösung"
+          ],
+          "en": "That would be a good solution.",
+          "hard": true,
+          "extra": [
+            "ist"
+          ]
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Wir",
+            "machen",
+            "die",
+            "Übergabe",
+            "früher"
+          ],
+          "context": "In a written proposal to the ward manager:",
+          "shouldBe": "könnten",
+          "wrongIdx": 1
+        },
+        {
+          "t": "speak",
+          "de": "Das wäre eine gute Lösung.",
+          "en": "That would be a good solution."
+        }
+      ],
+      "teaches": [
+        [
+          "könnte",
+          "could",
+          "🎚️"
+        ],
+        [
+          "müsste",
+          "would have to",
+          "🎚️"
+        ],
+        [
+          "wäre",
+          "would be",
+          "🎚️"
+        ],
+        [
+          "hätte",
+          "would have",
+          "🎚️"
+        ]
+      ]
+    },
+    {
+      "key": "use",
+      "label": "Use it",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Now put it where it earns its keep: a proposal someone can accept."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "t": "hack",
+          "body": "<b>Man könnte …</b> (one could) and <b>Es wäre sinnvoll, wenn …</b> (it would make sense if). Both leave the other person room to agree.",
+          "title": "Two openers that carry a whole proposal."
+        },
+        {
+          "t": "build",
+          "de": [
+            "Man",
+            "könnte",
+            "die",
+            "Übergabe",
+            "früher",
+            "machen"
+          ],
+          "en": "One could do the handover earlier.",
+          "hard": true,
+          "extra": [
+            "muss"
+          ]
+        },
+        {
+          "t": "translate",
+          "de": "Es wäre sinnvoll, wenn wir früher anfangen.",
+          "en": [
+            "It",
+            "would",
+            "be",
+            "sensible",
+            "if",
+            "we",
+            "start",
+            "earlier"
+          ],
+          "extra": [
+            "is"
+          ]
+        },
+        {
+          "t": "chat",
+          "who": "Stationsleitung",
+          "goal": "Make the proposal — as a proposal, not an announcement.",
+          "turns": [
+            {
+              "en": "You wanted to propose something, {name}?",
+              "opts": [
+                {
+                  "de": "Man könnte die Übergabe früher machen.",
+                  "en": "One could do the handover earlier.",
+                  "ok": true
+                },
+                {
+                  "de": "Wir machen die Übergabe früher.",
+                  "en": "We are doing the handover earlier."
+                }
+              ],
+              "them": "Sie wollten etwas vorschlagen, {name}?"
+            },
+            {
+              "en": "Hm. And what does that achieve?",
+              "opts": [
+                {
+                  "de": "Es wäre sinnvoll, wenn wir mehr Zeit hätten.",
+                  "en": "It would be sensible if we had more time.",
+                  "ok": true
+                },
+                {
+                  "de": "Es ist sinnvoll, weil wir mehr Zeit haben.",
+                  "en": "It is sensible because we have more time."
+                }
+              ],
+              "them": "Hm. Und was bringt das?"
+            }
+          ],
+          "avatar": "💡"
+        },
+        {
+          "t": "speakcards",
+          "cards": [
+            {
+              "de": "Man könnte die Übergabe früher machen.",
+              "en": "One could do the handover earlier."
+            },
+            {
+              "de": "Das wäre eine gute Lösung.",
+              "en": "That would be a good solution."
+            },
+            {
+              "de": "Es wäre sinnvoll, wenn wir mehr Zeit hätten.",
+              "en": "It would be sensible if we had more time."
+            }
+          ]
+        }
+      ],
+      "teaches": [
+        [
+          "die Übergabe",
+          "the handover",
+          "🔁"
+        ],
+        [
+          "der Vorschlag",
+          "the proposal",
+          "💡"
+        ],
+        [
+          "vorschlagen",
+          "to propose",
+          "💡"
+        ],
+        [
+          "sinnvoll",
+          "sensible",
+          "✅"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "retired",
+  "retired_reason": "a1_methodology_conflict",
+  "retired_at": "2026-09-07T13:07:20.348Z"
+}

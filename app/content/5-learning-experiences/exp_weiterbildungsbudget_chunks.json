@@ -1,0 +1,127 @@
+{
+  "id": "exp_weiterbildungsbudget_chunks",
+  "source_id": "src_weiterbildungsbudget",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Zustimmung an Bedingungen zu knüpfen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Einfach zu verwalten schon, gerecht aber nicht unbedingt.",
+      "easy to administer, sure, but not necessarily fair",
+      "🔗"
+    ],
+    [
+      "Nur, wenn klare Kriterien gelten, würde ich das unterstützen.",
+      "only if clear criteria apply would I support that",
+      "🔗"
+    ],
+    [
+      "Ob das für alle so gilt, wage ich zu bezweifeln.",
+      "whether that holds for everyone, I dare to doubt",
+      "🔗"
+    ],
+    [
+      "Das war bei mir vielleicht einfach Glück.",
+      "that might just have been luck in my case",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man Zustimmung an Bedingungen knüpft, ohne pauschal zu urteilen."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "einfach_zu_verwalten_gerecht_aber_nicht_unbedingt",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "nur_wenn_klare_kriterien_gelten_sonst_nicht",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "q": "Wie äußern Sie das?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A macht Ihre Zustimmung von einer klaren Bedingung abhängig — genau die Situation. B kommentiert eine bestehende Regel, nicht einen neuen Vorschlag. C bezieht sich auf eine eigene Erfahrung, die hier nicht das Thema ist.",
+      "options": [
+        "Nur, wenn klare Kriterien gelten, würde ich das unterstützen.",
+        "Einfach zu verwalten schon, gerecht aber nicht unbedingt.",
+        "Das war bei mir vielleicht einfach Glück."
+      ],
+      "exercises": [
+        "nur_wenn_klare_kriterien_gelten_sonst_nicht"
+      ],
+      "situation": "Ein Kollege schlägt eine neue Regel vor, bei der eine einzelne Person über die Verteilung von Ressourcen entscheidet. Sie sind offen dafür, aber nur unter einer bestimmten Voraussetzung."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "wage_ich_zu_bezweifeln",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "bei_mir_war_das_vielleicht_einfach_glueck",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "q": "Wie äußern Sie Ihren Zweifel höflich?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A zweifelt direkt an der Verallgemeinerbarkeit, ohne die Erfahrung selbst anzugreifen — genau Ihre Position. B wäre eine passende Antwort, wenn SIE die Erfahrung gemacht hätten, nicht Ihr Kollege. C setzt eine neue Bedingung, statt Ihren Zweifel zu äußern.",
+      "options": [
+        "Ob das für alle so gilt wie bei dir, wage ich zu bezweifeln.",
+        "Das war bei mir vielleicht einfach Glück.",
+        "Nur, wenn klare Kriterien gelten, würde ich das unterstützen."
+      ],
+      "exercises": [
+        "wage_ich_zu_bezweifeln"
+      ],
+      "situation": "Ein Kollege berichtet, dass ein neues System bei ihm hervorragend funktioniert hat, und schlägt vor, es für alle einzuführen. Sie bezweifeln, dass seine Erfahrung repräsentativ ist."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "einfach_zu_verwalten_gerecht_aber_nicht_unbedingt",
+      "hint": "Erst die Einfachheit zugeben, dann die Gerechtigkeit infrage stellen.",
+      "context": "Eine Regel bei Ihnen ist sehr einfach umzusetzen. Sie bezweifeln trotzdem, dass sie wirklich gerecht ist. Sagen Sie beides.",
+      "sourceId": "src_weiterbildungsbudget"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "bei_mir_war_das_vielleicht_einfach_glueck",
+      "hint": "Die eigene Erfahrung nicht zurücknehmen — nur ihre Verallgemeinerbarkeit infrage stellen.",
+      "context": "Sie haben eine gute eigene Erfahrung mit etwas gemacht, wollen aber nicht, dass andere sie als allgemeingültig ansehen. Relativieren Sie sie selbst.",
+      "sourceId": "src_weiterbildungsbudget"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:57:43.270Z",
+  "updated_at": "2026-09-16T07:57:43.270Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

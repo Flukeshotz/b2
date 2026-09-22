@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_reklamation_hotel",
+  "order_index": 36,
+  "icon": "💬",
+  "title": "Das gebuchte Zimmer ist nicht verfügbar",
+  "capability": "explaining why a booking detail matters and negotiating a fair fix",
+  "proof": "Das gebuchte Zimmer ist nicht verfügbar",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_reklamation_hotel"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

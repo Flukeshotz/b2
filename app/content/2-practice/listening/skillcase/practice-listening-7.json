@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-7",
+  "board": "custom",
+  "title": "Hörverstehen — Zwei Freunde planen einen Umzug",
+  "minutes": 9,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Zwei Freunde planen einen Umzug",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 9,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_7_umzugsplanung.mp3",
+        "duration_seconds": 37.7,
+        "voices": "jan+klaus"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war der ursprüngliche Plan von Freund 1 für den Transport?",
+          "options": [
+            "Eine Umzugsfirma beauftragen.",
+            "Alles mit dem eigenen Auto transportieren.",
+            "Einen Umzugswagen mieten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Einen Umzugswagen mieten."
+          },
+          "explanation": "\"Sollen wir einen Umzugswagen mieten …\" ist der erste Vorschlag."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum empfiehlt Freund 2 eine Umzugsfirma?",
+          "options": [
+            "Weil ein Wagen zu teuer wäre.",
+            "Weil er selbst nicht mithelfen kann.",
+            "Wegen des schweren Klaviers."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Wegen des schweren Klaviers."
+          },
+          "explanation": "\"du hast ja auch das schwere Klavier. Eine Firma wäre bei dem Gewicht wahrscheinlich sicherer.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die beiden treffen sich am Samstag, um die Kartons zu packen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Samstag geht bei Freund 2 nicht — sie einigen sich stattdessen auf Sonntag."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Auf welchen Termin einigen sich die beiden am Ende für das Packen?",
+          "options": [
+            "Sonntag ab zehn Uhr.",
+            "Freitagabend.",
+            "Samstagnachmittag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sonntag ab zehn Uhr."
+          },
+          "explanation": "\"dann machen wir Sonntag ab zehn Uhr\"."
+        }
+      ]
+    }
+  ]
+}

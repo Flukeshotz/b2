@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p6",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #6",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie studieren an einer Hochschule. Bei der Anmeldung zu einem Seminar wurde Ihr Name versehentlich nicht auf die Teilnehmerliste gesetzt. Schreiben Sie eine Nachricht an den Studienkoordinator, Herrn Lehmann.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie studieren an einer Hochschule. Bei der Anmeldung zu einem Seminar wurde Ihr Name versehentlich nicht auf die Teilnehmerliste gesetzt. Schreiben Sie eine Nachricht an den Studienkoordinator, Herrn Lehmann.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie studieren an einer Hochschule. Bei der Anmeldung zu einem Seminar wurde Ihr Name versehentlich nicht auf die Teilnehmerliste gesetzt. Schreiben Sie eine Nachricht an den Studienkoordinator, Herrn Lehmann.",
+            "guidance": [
+              "Bieten Sie an, Nachweise zu schicken.",
+              "Nennen Sie, warum das Seminar für Sie wichtig ist.",
+              "Erklären Sie das Problem.",
+              "Bitten Sie um Korrektur der Anmeldung."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bieten Sie an, Nachweise zu schicken.",
+              "Nennen Sie, warum das Seminar für Sie wichtig ist.",
+              "Erklären Sie das Problem.",
+              "Bitten Sie um Korrektur der Anmeldung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Logische Reihenfolge: Problem erklären → Wichtigkeit des Seminars begründen → Nachweise anbieten → um Korrektur bitten.",
+              "Höfliche, formelle Anrede und Grußformel verwenden („Sehr geehrter Herr Lehmann“, „Mit freundlichen Grüßen“).",
+              "Konkrete Angaben zum Seminar (Titel, Kursnummer) und zum eigenen Studiengang/Fachsemester machen.",
+              "Typische B2-Redemittel nutzen: „versehentlich nicht aufgenommen worden“, „von großer Bedeutung für mein Studium“, „selbstverständlich Nachweise zukommen lassen“, „wäre Ihnen sehr dankbar, wenn…“."
+            ],
+            "expected_answer": "Sehr geehrter Herr Lehmann,\n\nich wende mich an Sie, da mein Name bei der Anmeldung zum Seminar „Einführung in die Betriebswirtschaftslehre“ (Kursnummer BWL-202) versehentlich nicht auf die Teilnehmerliste gesetzt wurde. Obwohl ich mich fristgerecht über das Online-Portal registriert habe, scheint ein technischer Fehler vorzuliegen.\n\nDieses Seminar ist für mein Studium von großer Bedeutung, da es ein Pflichtmodul im dritten Semester meines Wirtschaftsingenieurwesens-Studiums darstellt und die Grundlage für weiterführende Kurse bildet. Ohne die Teilnahme würde sich mein Studienverlauf erheblich verzögern.\n\nGerne kann ich Ihnen meine Anmeldebestätigung sowie einen Screenshot des Portals als Nachweis zukommen lassen. Ich wäre Ihnen sehr dankbar, wenn Sie die Anmeldung korrigieren und mich nachträglich in die Teilnehmerliste aufnehmen könnten.\n\nMit freundlichen Grüßen\nMaximilian Weber",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

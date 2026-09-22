@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p7",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #7",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Ihre Teamleiterin hat gefragt, ob Sie neue Mitarbeitende am ersten Arbeitstag unterstützen können. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Peters.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ihre Teamleiterin hat gefragt, ob Sie neue Mitarbeitende am ersten Arbeitstag unterstützen können. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Peters.",
+          "options": null,
+          "payload": {
+            "prompt": "Ihre Teamleiterin hat gefragt, ob Sie neue Mitarbeitende am ersten Arbeitstag unterstützen können. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Peters.",
+            "guidance": [
+              "Fragen Sie, welche Informationen besonders wichtig sind.",
+              "Sagen Sie, wobei Sie helfen können.",
+              "Bestätigen Sie Ihre Bereitschaft.",
+              "Schlagen Sie einen konkreten Ablauf vor."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Fragen Sie, welche Informationen besonders wichtig sind.",
+              "Sagen Sie, wobei Sie helfen können.",
+              "Bestätigen Sie Ihre Bereitschaft.",
+              "Schlagen Sie einen konkreten Ablauf vor."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge klar behandeln (z. B. Bereitschaft bestätigen, nach wichtigen Infos fragen, Hilfe anbieten, Ablauf vorschlagen).",
+              "Passende Redemittel für formelle interne Kommunikation nutzen (z. B. 'vielen Dank für Ihre Anfrage', 'Gerne stehe ich zur Verfügung', 'Ich könnte mir folgenden Ablauf vorstellen').",
+              "Konkrete, realistische Vorschläge für den ersten Arbeitstag machen (z. B. Rundgang, IT-Zugang, Vorstellung im Team, Mittagessen).",
+              "Text logisch mit Konnektoren verknüpfen (z. B. 'außerdem', 'darüber hinaus', 'anschließend') und auf einen freundlichen, professionellen Ton achten."
+            ],
+            "expected_answer": "Liebe Frau Peters,\n\nvielen Dank für Ihre Anfrage. Ich bestätige hiermit gerne meine Bereitschaft, die neuen Mitarbeitenden an ihrem ersten Arbeitstag zu unterstützen. Bevor ich mit der Planung beginne, würde ich gerne von Ihnen wissen, welche Informationen Ihnen dabei besonders am Herzen liegen. Soll der Fokus eher auf der Unternehmenskultur oder auf den praktischen Abläufen liegen?\n\nIch könnte auf jeden Fall bei der Begrüßung, einem umfassenden Rundgang durch das Gebäude und der Einrichtung der IT-Zugänge helfen. Außerdem würde ich die neuen Kolleginnen und Kollegen den einzelnen Teams vorstellen.\n\nFür den Ablauf schlage ich vor, dass wir morgens mit einer kurzen Begrüßungsrunde und Kaffee starten. Anschließend übernehme ich den Rundgang und helfe bei den ersten administrativen Schritten. Nach der Mittagspause könnte dann die fachliche Einarbeitung mit den jeweiligen Mentoren beginnen.\n\nIch freue mich auf Ihre Rückmeldung.\n\nHerzliche Grüße\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

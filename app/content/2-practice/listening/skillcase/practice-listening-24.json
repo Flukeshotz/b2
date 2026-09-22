@@ -1,0 +1,114 @@
+{
+  "id": "practice-listening-24",
+  "board": "custom",
+  "title": "Hörverstehen — Rat zur Berufswahl unter Freunden",
+  "minutes": 9,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Rat zur Berufswahl unter Freunden",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 9,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_24_berufswahl.mp3",
+        "duration_seconds": 41.4,
+        "voices": "mia+ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worüber ist die Freundin unsicher?",
+          "options": [
+            "Ob sie umziehen soll.",
+            "Ob sie zu einer großen Firma wechseln oder im Start-up bleiben soll.",
+            "Ob sie überhaupt arbeiten möchte."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ob sie zu einer großen Firma wechseln oder im Start-up bleiben soll."
+          },
+          "explanation": "\"ob ich das Angebot der großen Firma annehmen soll oder bei dem kleinen Start-up bleiben soll.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was reizt sie am meisten am Angebot der großen Firma?",
+          "options": [
+            "Ein internationales Team.",
+            "Flexiblere Arbeitszeiten.",
+            "Sicherheit und ein höheres Gehalt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sicherheit und ein höheres Gehalt."
+          },
+          "explanation": "\"Vor allem die Sicherheit und das deutlich höhere Gehalt.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Woran erinnert die Ratgeberin sie?",
+          "options": [
+            "An die Eigenverantwortung, die sie im Start-up schätzt.",
+            "An die schlechte Bezahlung im Start-up.",
+            "An einen früheren Streit mit dem Chef."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "An die Eigenverantwortung, die sie im Start-up schätzt."
+          },
+          "explanation": "\"du hast mir letzten Monat noch erzählt, wie sehr du die Eigenverantwortung im Start-up schätzt.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche konkrete Methode schlägt die Ratgeberin am Ende vor?",
+          "options": [
+            "Beide Angebote gleichzeitig annehmen.",
+            "Eine Münze werfen.",
+            "Aufschreiben, was man in einem Jahr am meisten bereuen würde."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Aufschreiben, was man in einem Jahr am meisten bereuen würde."
+          },
+          "explanation": "\"für beide Optionen aufzuschreiben, was du in einem Jahr rückblickend am meisten bereuen würdest.\""
+        }
+      ]
+    }
+  ]
+}

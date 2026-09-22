@@ -1,0 +1,78 @@
+{
+  "id": "b2_register_aufklaerung",
+  "order_index": 12,
+  "icon": "📐",
+  "title": "Für den Arzt oder für den Patienten?",
+  "capability": "pitching information appropriately for colleagues versus patients",
+  "proof": "Register anpassen im Stationsalltag",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Register anpassen",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Frau Sommer (68 Jahre) hatte gestern eine Knie-OP. In der Nacht entwickelte sie einen akuten Harnverhalt — 650 ml Restharn im Ultraschall. Nach steriler Einmalkatheterisierung flossen 600 ml ab.",
+            "Das Labor meldet außerdem: Kalium bei 3,1 mmol/l (leicht erniedrigt). Sie hat eine Kalium-Infusion angehängt bekommen.",
+            "Dieselbe klinische Situation — zwei völlig verschiedene Adressaten. Sie schreiben jetzt beide Texte."
+          ]
+        },
+        {
+          "t": "notice",
+          "body": "An den Arzt: kurz, dicht, Passiv, Fachwörter (Harnverhalt, Restharn, Hypokaliämie, Einmalkatheterisierung). An die Patientin: zugewandt, verständlich, Ursache und Beruhigung ohne Fachchinesisch.",
+          "title": "Register macht den Unterschied"
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Schreiben Sie eine kurze, präzise Übergabenotiz für die ärztliche Visite (mind. 35 Wörter). Nutzen Sie den fachsprachlichen Berichtsstil (Passiv, nominale Fügungen, Fachterminologie).",
+          "guidance": [
+            "Wesentliche Fakten: Harnverhalt, Restharnmenge, Katheterisierung, Kaliumwert, Infusion.",
+            "Sachlicher, verdichteter Berichtsstil (z. B. ‚Bei Z. n. … wurde … durchgeführt‘).",
+            "Keine Umgangssprache, keine weitschweifigen Schilderungen."
+          ],
+          "minWords": 35,
+          "taskType": "workplace",
+          "afterHints": [
+            "Postoperativ entwickelte die Patientin einen akuten Harnverhalt.",
+            "Nach steriler Einmalkatheterisierung wurden 600 ml Urin entleert.",
+            "Aufgrund einer leichten Hypokaliämie wurde eine Kaliumsubstitution veranlasst."
+          ],
+          "capabilities": [
+            "adapt_register",
+            "structure"
+          ],
+          "experienceId": "exp_register_arzt"
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Erklären Sie Frau Sommer die Situation verständlich und einfühlsam am Krankenbett (mind. 40 Wörter). Erklären Sie, warum der Katheter nötig war und was die Infusion bewirkt — ohne Fachjargon.",
+          "guidance": [
+            "Erklären Sie die Narkose-Nachwirkung in einfachen Worten.",
+            "Vermeiden Sie Fachbegriffe wie ‚Hypokaliämie‘ oder ‚Harnverhalt‘.",
+            "Beruhigen Sie die Patientin und sagen Sie, wie es weitergeht."
+          ],
+          "minWords": 40,
+          "taskType": "patientenkommunikation",
+          "afterHints": [
+            "Nach der Narkose braucht die Blase manchmal etwas Zeit, um wieder richtig zu arbeiten.",
+            "Wir haben mit einem kleinen Schlauch nachgeholfen, damit der Druck nachlässt.",
+            "Über die Infusion bekommen Sie einen wichtigen Mineralstoff, der im Blut etwas zu niedrig war."
+          ],
+          "capabilities": [
+            "adapt_register",
+            "justify"
+          ],
+          "experienceId": "exp_register_patient"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

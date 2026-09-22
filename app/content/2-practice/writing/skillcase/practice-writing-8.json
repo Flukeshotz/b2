@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-8",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 8 — Reaktion auf einen Forumsbeitrag: Vier-Tage-Woche",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Ein anderer Nutzer hat im Forum geschrieben: \"Die Vier-Tage-Woche funktioniert nur in Büros, nicht in der Pflege oder im Handwerk.\" Schreiben Sie eine Antwort, in der Sie zustimmen, widersprechen oder differenzieren.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Gehen Sie konkret auf die Aussage des anderen Nutzers ein.",
+              "Räumen Sie ggf. einen berechtigten Punkt ein, bevor Sie widersprechen.",
+              "Formulieren Sie Ihre eigene Position klar."
+            ],
+            "register": "informell bis neutral",
+            "min_words": 90,
+            "rubric_id": 8,
+            "task_type": "response_to_opinion",
+            "rubric_key": "kurzantwort",
+            "target_words": 110
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Gehen Sie konkret auf die Aussage des anderen Nutzers ein.",
+              "Räumen Sie ggf. einen berechtigten Punkt ein, bevor Sie widersprechen.",
+              "Formulieren Sie Ihre eigene Position klar."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Direkter Bezug auf die Aussage des Vorposters mit klarer Positionsangabe (Zustimmung, Widerspruch oder Differenzierung).",
+              "Einräumung eines berechtigten Arguments des Vorposters (z. B. physische Anwesenheit in Pflege/Handwerk), bevor die eigene Sicht entfaltet wird.",
+              "Konkrete Beispiele oder Modelle für die Umsetzung der Vier-Tage-Woche in nicht-bürotypischen Berufen nennen.",
+              "Eigene Position mit einer präzisen Begründung abschließen, z. B. durch Hinweis auf Arbeitsorganisation oder gesellschaftlichen Nutzen.",
+              "Typische B2-Redemittel: ‚Ich verstehe Ihren Einwand, dass …‘, ‚Allerdings bin ich der Meinung …‘, ‚Das lässt sich durchaus auch auf … übertragen.‘"
+            ],
+            "expected_answer": "Ich verstehe Ihren Einwand, dass die Vier-Tage-Woche in der Pflege oder im Handwerk schwerer umsetzbar scheint, da diese Berufe eine ständige physische Anwesenheit erfordern. Allerdings bin ich der Meinung, dass eine pauschale Ablehnung zu kurz greift. Natürlich kann eine Krankenschwester nicht einfach weniger Tage arbeiten, ohne dass die Versorgung leidet. Doch genau hier setzen innovative Arbeitszeitmodelle an: Durch eine bessere Schichtplanung, Jobsharing oder den gezielten Einsatz von Assistenzkräften ließe sich die Arbeitslast anders verteilen. Im Handwerk könnten flexiblere Kundentermine und optimierte Abläufe längere Wochenenden ermöglichen. Entscheidend ist nicht die Branche, sondern die Bereitschaft, Arbeitsprozesse neu zu denken. Daher bin ich überzeugt, dass die Vier-Tage-Woche mit durchdachten Konzepten auch außerhalb von Büros funktionieren kann und zu zufriedeneren, gesünderen Mitarbeitern führt.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t1-p9",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #9",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Nachbarschaftshilfe\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Einleitung mit Nennung des gewählten Themas und einer persönlichen Relevanz oder These.",
+              "Strukturierte Darstellung von 2–3 konkreten Aspekten (z. B. praktische Hilfe, soziale Funktion, moderne Formen) mit Beispielen aus dem Alltag.",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z. B. ‚Ein wichtiger Aspekt ist...‘, ‚Darüber hinaus...‘, ‚Ein konkretes Beispiel wäre...‘).",
+              "Abwägung von Vor- und Nachteilen oder eine differenzierte Betrachtung (z. B. Grenzen der Nachbarschaftshilfe).",
+              "Ein runder Schluss mit einer persönlichen Schlussfolgerung oder einem Ausblick, der das Publikum einbezieht (z. B. ‚Ich bin überzeugt, dass...‘)."
+            ],
+            "expected_answer": "Guten Tag zusammen, ich habe mich für das Thema Nachbarschaftshilfe entschieden, weil ich finde, dass es in unserer heutigen, oft sehr anonymen Gesellschaft eine enorm wichtige Rolle spielt. In meinem kurzen Vortrag möchte ich darauf eingehen, was Nachbarschaftshilfe konkret bedeutet, welche Vorteile sie mit sich bringt und wo vielleicht auch ihre Grenzen liegen.\n\nZunächst einmal versteht man unter Nachbarschaftshilfe ja die freiwillige und unentgeltliche Unterstützung unter Menschen, die in unmittelbarer Nähe zueinander wohnen. Ein wichtiger Aspekt ist dabei die praktische Hilfe im Alltag. Das können ganz kleine Dinge sein, die aber für den Einzelnen eine große Erleichterung bedeuten. Man denke nur an eine ältere Dame, die nicht mehr so gut zu Fuß ist. Wenn die Nachbarin für sie mit einkaufen geht oder der junge Mann von nebenan ihr den schweren Müllsack die Treppe hinunterträgt, ist das eine direkte und unkomplizierte Unterstützung. Ein konkretes Beispiel aus meinem eigenen Umfeld: In meinem Haus wohnt eine Familie mit kleinen Kindern, und als die Eltern letztens kurzfristig ins Krankenhaus mussten, hat eine andere Nachbarin sofort und ohne zu zögern auf die Kinder aufgepasst. Das zeigt, wie wertvoll dieses Netzwerk ist.\n\nDarüber hinaus hat Nachbarschaftshilfe eine wichtige soziale Funktion. Sie schafft Vertrauen und kann Einsamkeit bekämpfen. Ein kurzer Plausch über den Gartenzaun oder eine Einladung zum Kaffee, wenn man merkt, dass jemand allein ist – das stärkt den Zusammenhalt und gibt einem das Gefühl, nicht anonym in einer großen Stadt zu leben, sondern Teil einer Gemeinschaft zu sein. Gerade in einer Zeit, in der viele Menschen unter Stress und Isolation leiden, ist diese emotionale Komponente nicht zu unterschätzen.\n\nAllerdings muss man auch die Grenzen sehen. Nachbarschaftshilfe funktioniert nur auf der Basis von Freiwilligkeit und Gegenseitigkeit. Es darf nicht zu einer dauerhaften Überforderung kommen oder zu dem Gefühl, ausgenutzt zu werden. Professionelle Pflege oder regelmäßige Betreuung kann und soll sie nicht ersetzen. Ein weiterer Punkt ist, dass in manchen modernen Wohnsiedlungen die Anonymität so groß ist, dass man seinen Nachbarn kaum kennt. Hier muss man oft erst die Initiative ergreifen, um diese Barrieren zu überwinden.\n\nZusammenfassend bin ich überzeugt, dass Nachbarschaftshilfe eine kleine, aber feine Form des gesellschaftlichen Zusammenhalts ist, die unseren Alltag menschlicher macht. Sie kostet oft nicht viel Zeit, kann aber einen riesigen Unterschied bewirken. Vielleicht nehmen Sie ja die Anregung mit und fragen sich heute Abend: Wem in meiner Nachbarschaft könnte ich mal wieder eine kleine Freude machen oder helfen? Vielen Dank für Ihre Aufmerksamkeit.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

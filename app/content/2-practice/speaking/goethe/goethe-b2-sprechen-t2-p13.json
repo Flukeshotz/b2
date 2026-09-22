@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-t2-p13",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #13",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Lieferdienste in Wohngebieten stärker begrenzt werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Zustimmung oder Ablehnung der Begrenzung) und logische Struktur mit Einleitung, Argumenten und Schlussfolgerung.",
+              "Nennung von mindestens zwei ausführlichen Argumenten, die sowohl Vorteile (z.B. weniger Verkehr, Lärm) als auch Nachteile (z.B. Bequemlichkeit, Arbeitsplätze) abwägen.",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (z.B. 'Meiner Ansicht nach', 'Einerseits... andererseits', 'Ich plädiere für...') und zur Abwägung (z.B. 'Zwar... aber', 'Dennoch').",
+              "Konkrete Beispiele aus dem Alltag zur Veranschaulichung der Argumente (z.B. Situationen mit Lieferwagen in der eigenen Straße).",
+              "Ein klares, zusammenfassendes Fazit, das die eigene Position noch einmal bekräftigt und eventuell einen Kompromissvorschlag enthält."
+            ],
+            "expected_answer": "Meiner Ansicht nach ist eine stärkere Begrenzung von Lieferdiensten in Wohngebieten nicht nur sinnvoll, sondern sogar dringend notwendig. Ich möchte das gerne mit zwei Hauptargumenten begründen. Erstens geht es um die Lebensqualität der Anwohner. In meiner eigenen Straße ist es zum Beispiel so, dass abends ab sechs Uhr praktisch eine Blechlawine durchrollt. Ständig halten Lieferwagen in zweiter Reihe, blockieren die Fahrbahn und verursachen einen enormen Lärmpegel. Das ist nicht nur nervig, sondern stellt auch eine echte Gefahr für spielende Kinder und ältere Menschen dar. Ein Wohngebiet sollte in erster Linie ein Ort der Ruhe und Erholung sein, und nicht eine Durchgangszone für kommerziellen Verkehr. Zweitens hat dieser ständige Lieferverkehr gravierende ökologische Folgen. Jeder einzelne Lieferwagen, der nur eine Pizza oder ein Paar Schuhe bringt, stößt CO2 und Feinstaub aus. Wenn wir über Klimaschutz reden, dann müssen wir genau hier ansetzen und unnötige Fahrten vermeiden. Zwar verstehe ich das Gegenargument, dass Lieferdienste unglaublich bequem sind und viele Menschen, besonders Berufstätige oder Personen mit eingeschränkter Mobilität, darauf angewiesen sind. Auch das Argument der Arbeitsplätze in dieser Branche ist nicht von der Hand zu weisen. Dennoch glaube ich, dass die negativen Aspekte überwiegen. Ein komplettes Verbot wäre allerdings kontraproduktiv und realitätsfern. Ich plädiere daher für eine intelligente Regulierung. Konkret könnte das so aussehen: Feste Zeitfenster für Lieferungen, etwa nur bis 20 Uhr, und die Einrichtung von zentralen Mikro-Depots in den Vierteln. Von dort aus könnten Waren gebündelt und mit umweltfreundlichen Lastenrädern zugestellt werden. Das würde den Verkehr drastisch reduzieren und die Aufenthaltsqualität in unseren Wohnvierteln deutlich erhöhen. Abschließend möchte ich sagen, dass es nicht darum geht, den Fortschritt aufzuhalten, sondern ihn so zu gestalten, dass er für alle verträglich ist. Eine Begrenzung der Lieferdienste ist daher ein notwendiger Schritt, um die Interessen der Anwohner, die Umwelt und den Komfort der Kunden in ein vernünftiges Gleichgewicht zu bringen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

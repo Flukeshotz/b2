@@ -1,0 +1,280 @@
+{
+  "id": "b2g_konzessiv",
+  "order_index": 0,
+  "icon": "🔀",
+  "title": "Concede, then disagree",
+  "capability": "You can agree with part of what someone says, then make your own point.",
+  "proof": "Obwohl es spät ist, bleibe ich.",
+  "subs": [
+    {
+      "key": "learn",
+      "label": "Learn",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "At B2 you are rarely asked to just agree or just disagree.",
+            "You are asked to do both: give the other side something, then make your point.",
+            "That move runs on four words."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "q": "Which one is <b>obwohl</b>?",
+          "t": "pick",
+          "from": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "q": "Which one is <b>trotzdem</b>?",
+          "t": "pick",
+          "from": [
+            1,
+            0
+          ]
+        },
+        {
+          "t": "hack",
+          "body": "Obwohl es spät <b>ist</b>, bleibe ich. — But trotzdem does not: Es ist spät. Trotzdem bleibe ich.",
+          "title": "obwohl throws the verb to the end."
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "t": "match",
+          "ws": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Obwohl",
+            "es",
+            "spät",
+            "ist",
+            "bleibe",
+            "ich"
+          ],
+          "en": "Although it is late, I am staying.",
+          "hard": true,
+          "extra": [
+            "trotzdem"
+          ]
+        },
+        {
+          "t": "spotmistake",
+          "tokens": [
+            "Ich",
+            "bin",
+            "müde,",
+            "obwohl",
+            "arbeite",
+            "ich",
+            "weiter"
+          ],
+          "context": "A colleague writes in the handover:",
+          "shouldBe": "trotzdem",
+          "wrongIdx": 3
+        },
+        {
+          "t": "speak",
+          "de": "Obwohl es spät ist, bleibe ich.",
+          "en": "Although it is late, I am staying."
+        }
+      ],
+      "teaches": [
+        [
+          "obwohl",
+          "although",
+          "🔀"
+        ],
+        [
+          "trotzdem",
+          "all the same",
+          "🔀"
+        ],
+        [
+          "dennoch",
+          "even so",
+          "🔀"
+        ],
+        [
+          "zwar",
+          "admittedly",
+          "🔀"
+        ]
+      ]
+    },
+    {
+      "key": "use",
+      "label": "Use it",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Now the version you will actually write at work."
+          ]
+        },
+        {
+          "t": "teach",
+          "w": 0
+        },
+        {
+          "t": "teach",
+          "w": 1
+        },
+        {
+          "t": "teach",
+          "w": 2
+        },
+        {
+          "t": "hack",
+          "body": "Say the concession with <b>zwar</b>, then turn it with <b>aber</b>: Der Plan steht <b>zwar</b> fest, <b>aber</b> wir brauchen eine Ausnahme.",
+          "title": "zwar … aber is one move, not two words."
+        },
+        {
+          "t": "teach",
+          "w": 3
+        },
+        {
+          "t": "translate",
+          "de": "Der Dienstplan steht fest. Trotzdem brauchen wir eine Ausnahme.",
+          "en": [
+            "The",
+            "shift",
+            "schedule",
+            "is",
+            "fixed",
+            "All",
+            "the",
+            "same",
+            "we",
+            "need",
+            "an",
+            "exception"
+          ],
+          "extra": [
+            "although"
+          ]
+        },
+        {
+          "t": "build",
+          "de": [
+            "Der",
+            "Plan",
+            "steht",
+            "zwar",
+            "fest",
+            "aber",
+            "wir",
+            "brauchen",
+            "eine",
+            "Ausnahme"
+          ],
+          "en": "Admittedly the plan is fixed, but we need an exception.",
+          "hard": true
+        },
+        {
+          "t": "chat",
+          "who": "Stationsleitung",
+          "goal": "Concede that the schedule is fixed — then ask for the exception anyway.",
+          "turns": [
+            {
+              "en": "{name}, the shift schedule has been fixed since Monday.",
+              "opts": [
+                {
+                  "de": "Der Plan steht zwar fest, aber ich brauche eine Ausnahme.",
+                  "en": "Admittedly the plan is fixed, but I need an exception.",
+                  "ok": true
+                },
+                {
+                  "de": "Ja, der Plan steht fest.",
+                  "en": "Yes, the plan is fixed."
+                }
+              ],
+              "them": "{name}, der Dienstplan steht seit Montag fest."
+            },
+            {
+              "en": "And why should I do that?",
+              "opts": [
+                {
+                  "de": "Obwohl es kurzfristig ist, finde ich einen Tausch.",
+                  "en": "Although it is short notice, I will find a swap.",
+                  "ok": true
+                },
+                {
+                  "de": "Trotzdem ich einen Tausch finde.",
+                  "en": "(not German)"
+                }
+              ],
+              "them": "Und warum sollte ich das machen?"
+            }
+          ],
+          "avatar": "🗓️"
+        },
+        {
+          "t": "speakcards",
+          "cards": [
+            {
+              "de": "Obwohl es spät ist, bleibe ich.",
+              "en": "Although it is late, I am staying."
+            },
+            {
+              "de": "Der Plan steht zwar fest, aber wir brauchen eine Ausnahme.",
+              "en": "Admittedly the plan is fixed, but we need an exception."
+            },
+            {
+              "de": "Es ist kurzfristig. Trotzdem finde ich einen Tausch.",
+              "en": "It is short notice. All the same, I will find a swap."
+            }
+          ]
+        }
+      ],
+      "teaches": [
+        [
+          "allerdings",
+          "however",
+          "🔀"
+        ],
+        [
+          "der Dienstplan",
+          "the shift schedule",
+          "🗓️"
+        ],
+        [
+          "die Ausnahme",
+          "the exception",
+          "🔓"
+        ],
+        [
+          "zwar … aber",
+          "admittedly … but",
+          "🔀"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "retired",
+  "retired_reason": "a1_methodology_conflict",
+  "retired_at": "2026-09-07T13:07:20.348Z"
+}

@@ -26,10 +26,10 @@ const { BLUEPRINT } = require("../src/seed/b2/core2026b/blueprint");
    of the script that was synthesised, and the database stores the audio, not
    the text. If a seed file is absent the pace check is simply skipped. */
 const SEED_BY_ID = {};
-for (const f of ["v1", "v2", "v3"]) {
+for (const f of ["v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10"]) {
   try {
     const m = require(`../src/seed/b2/core2026b/${f}`);
-    const v = m.V1 || m.V2 || m.V3;
+    const v = m.V1 || m.V2 || m.V3 || m.V4 || m.V5 || m.V6 || m.V7 || m.V8 || m.V9 || m.V10;
     if (v) SEED_BY_ID[v.id] = v;
   } catch { /* seed file absent — pace check skipped for that version */ }
 }

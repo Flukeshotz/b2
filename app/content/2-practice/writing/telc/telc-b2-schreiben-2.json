@@ -1,0 +1,68 @@
+{
+  "id": "telc-b2-schreiben-2",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Schreiben, Übungsset 2",
+  "minutes": 30,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Schreiben — not an official telc task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Halbformelle E-Mail: Fortbildungswunsch",
+      "instruction": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie möchten an einer beruflichen Fortbildung zum Thema Projektmanagement teilnehmen, die während Ihrer Arbeitszeit stattfindet. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.",
+              "Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.",
+              "Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden."
+            ],
+            "min_words": 120,
+            "rubric_id": 2,
+            "rubric_key": "halbformelle_email",
+            "target_words": 150
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.",
+              "Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.",
+              "Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Betreffzeile und korrekte Anrede (Frau/Herr + Nachname).",
+              "Alle drei Leitpunkte klar strukturiert und in sinnvoller Reihenfolge behandeln.",
+              "Nützlichkeit konkret mit Bezug zur eigenen Arbeit begründen (z. B. aktuelle Projekte, Effizienzsteigerung).",
+              "Passende Redemittel für Bitte und höfliche Nachfrage verwenden (z. B. Konjunktiv II: 'Ich würde mich freuen, wenn...', 'Wäre es möglich...').",
+              "Angemessener Schlusssatz und Grußformel."
+            ],
+            "expected_answer": "Betreff: Anfrage für Fortbildung „Effizientes Projektmanagement“\n\nSehr geehrte Frau Müller,\n\nich hoffe, es geht Ihnen gut. Ich wende mich heute mit einer Bitte an Sie.\n\nIch habe die Möglichkeit, an einer beruflichen Fortbildung zum Thema „Effizientes Projektmanagement“ teilzunehmen. Der Kurs wird von der IHK angeboten und findet am 15. und 16. Juni, jeweils von 9 bis 17 Uhr, statt. Da die Termine in meine reguläre Arbeitszeit fallen, möchte ich Sie um Ihre Genehmigung bitten.\n\nDiese Fortbildung wäre für meine Arbeit sehr nützlich. In meiner Abteilung betreue ich derzeit mehrere komplexe Projekte, und ich bin überzeugt, dass ich durch neue Methoden die Planung und Koordination deutlich verbessern könnte. Das würde nicht nur mir, sondern dem gesamten Team helfen, effizienter zu arbeiten und Termine sicherer einzuhalten.\n\nIch würde mich sehr freuen, wenn Sie mir die Teilnahme ermöglichen könnten. Wäre es außerdem möglich, dass der Arbeitgeber die Kursgebühr in Höhe von 380 Euro übernimmt? Für ein kurzes Feedback oder ein persönliches Gespräch stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Schneider",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Höfliche halbformelle E-Mail mit passender Anrede und Schlussformel. Klare Darlegung von Zweck und Terminen der Weiterbildung, fundierte Nutzenargumentation für das Unternehmen und formvollendete Bitte um Freistellung und Kostenübernahme im Konjunktiv II."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-hoeren-2",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Hören, Übungsset 2",
+  "minutes": 8,
+  "source": "Skillcase, original transcript and audio (Azure Neural TTS). Exam-format practice for Goethe B2 Hören — not an official Goethe recording.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Interview: Wechsel in die Selbstständigkeit",
+      "instruction": "Hören Sie das Interview einmal und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe_hoeren_2_selbststaendigkeit.mp3",
+        "duration_seconds": 44.8,
+        "voices": "mia+ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Albrecht hat sich spontan, ohne Vorbereitung, selbstständig gemacht.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Ganz im Gegenteil. Ich habe über ein Jahr lang nebenbei erste Kunden aufgebaut.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum konnte Frau Albrecht den Schritt in die Selbstständigkeit wagen?",
+          "options": [
+            "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit.",
+            "Wegen eines Kredits der Bank.",
+            "Wegen eines Erbes."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit."
+          },
+          "explanation": "\"Ohne dieses finanzielle Polster hätte ich mich das nicht getraut.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was nennt Frau Albrecht als größte Herausforderung am Anfang?",
+          "options": [
+            "Die Buchhaltung.",
+            "Die Kundengewinnung.",
+            "Die technische Ausstattung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Buchhaltung."
+          },
+          "explanation": "\"Eindeutig die Buchhaltung.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "speculate",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was würde Frau Albrecht rückblickend anders machen?",
+          "options": [
+            "Von Anfang an eine Steuerberaterin einbeziehen.",
+            "Später selbstständig werden.",
+            "Ganz auf die Selbstständigkeit verzichten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Von Anfang an eine Steuerberaterin einbeziehen."
+          },
+          "explanation": "\"Ich würde von Anfang an eine Steuerberaterin einbeziehen, statt das ein Jahr lang allein zu versuchen.\""
+        }
+      ]
+    }
+  ]
+}

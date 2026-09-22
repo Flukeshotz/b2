@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-27",
+  "board": "custom",
+  "title": "Leseverstehen — Künstliche Intelligenz am Arbeitsplatz: Werkzeug oder Bedrohung?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Künstliche Intelligenz am Arbeitsplatz: Werkzeug oder Bedrohung?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Kaum ein Thema wird in Belegschaften derzeit so kontrovers diskutiert wie der Einsatz von KI-gestützten Werkzeugen im Arbeitsalltag. Die einen sehen darin eine Entlastung von Routineaufgaben, die anderen fürchten um ihre Stellen.\n\nEine Befragung aus dem letzten Jahr liefert ein differenziertes Bild: 58 Prozent der befragten Angestellten gaben an, KI-Werkzeuge würden ihnen bei repetitiven Aufgaben wie Terminplanung oder Standardkorrespondenz spürbar Zeit sparen. Gleichzeitig äußerten 41 Prozent Sorge, dass genau diese eingesparte Zeit langfristig zu Stellenabbau führen könnte, statt den Mitarbeitenden zugutezukommen.\n\nBemerkenswert ist, dass beide Sorgen nicht zwangsläufig im Widerspruch stehen — es handelt sich weniger um eine Frage von \"richtig\" oder \"falsch\", sondern darum, WIE ein Unternehmen die freiwerdende Zeit tatsächlich nutzt. In Unternehmen, die die Zeitersparnis nachweislich in neue, anspruchsvollere Aufgabenfelder investierten, war die Zustimmung zu KI-Werkzeugen signifikant höher als in Unternehmen, die parallel Stellen abbauten.\n\nDie Schlussfolgerung liegt nahe: Nicht die Technologie selbst entscheidet über Akzeptanz, sondern die Art, wie ein Unternehmen mit den dadurch entstehenden Freiräumen umgeht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was gaben 58 Prozent der Befragten laut Text an?",
+          "options": [
+            "Dass sie KI-Werkzeuge grundsätzlich ablehnen.",
+            "Dass ihr Gehalt durch KI gesunken ist.",
+            "Dass KI-Werkzeuge ihnen bei repetitiven Aufgaben Zeit sparen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Dass KI-Werkzeuge ihnen bei repetitiven Aufgaben Zeit sparen."
+          },
+          "explanation": "\"58 Prozent … gaben an, KI-Werkzeuge würden ihnen … spürbar Zeit sparen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Text stehen die beiden genannten Haltungen (Zeitersparnis und Sorge um Stellenabbau) zwangsläufig im Widerspruch zueinander.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"beide Sorgen nicht zwangsläufig im Widerspruch stehen\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In welchen Unternehmen war laut Text die Zustimmung zu KI-Werkzeugen höher?",
+          "options": [
+            "In Unternehmen ohne jede KI-Nutzung.",
+            "In Unternehmen, die die Zeitersparnis in neue Aufgabenfelder investierten.",
+            "In Unternehmen, die gleichzeitig Stellen abbauten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "In Unternehmen, die die Zeitersparnis in neue Aufgabenfelder investierten."
+          },
+          "explanation": "\"In Unternehmen, die die Zeitersparnis nachweislich in neue, anspruchsvollere Aufgabenfelder investierten, war die Zustimmung … signifikant höher.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zentrale Schlussfolgerung zieht der Text?",
+          "options": [
+            "Nicht die Technologie selbst, sondern der Umgang mit den entstehenden Freiräumen entscheidet über Akzeptanz.",
+            "Nur die Menge der eingesetzten KI-Werkzeuge ist entscheidend.",
+            "KI-Werkzeuge sollten in allen Unternehmen sofort verboten werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Nicht die Technologie selbst, sondern der Umgang mit den entstehenden Freiräumen entscheidet über Akzeptanz."
+          },
+          "explanation": "\"Nicht die Technologie selbst entscheidet über Akzeptanz, sondern die Art, wie ein Unternehmen mit den … Freiräumen umgeht.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "exp_rufbereitschaft_read",
+  "source_id": "src_rufbereitschaft",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Rufbereitschaft: wer übernimmt sie?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — die Frage: warum landet Rufbereitschaft immer bei denselben Leuten?",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_rufbereitschaft"
+    },
+    {
+      "q": "Wer erklärt, warum es keine feste Rotation gibt?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "Birthe_Stationsleitung erklärt das Verfahren: es wird immer die am ehesten erreichbare Person gefragt, nicht nach einer festen Liste. Die anderen sprechen über die Wirkung dieser Praxis, nicht über das Verfahren selbst.",
+      "options": [
+        "sandra",
+        "andre",
+        "birthe",
+        "lukas"
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer benennt einen konkreten Nachteil einer festen Rotation?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 3,
+      "explain": "Lukas_F weist darauf hin, dass eine starre Liste private Gründe für bestimmte Wochen ignorieren würde. Die anderen sprechen nicht über Nachteile einer Rotation, sondern über das aktuelle System.",
+      "options": [
+        "sandra",
+        "andre",
+        "birthe",
+        "lukas"
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "compare"
+    },
+    {
+      "q": "Was macht André_K mit dieser Aussage vor allem?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Das verteilt sich einfach ungleich, das liegt an niemandem persönlich",
+      "answer": 1,
+      "explain": "Er bestätigt die Ungleichheit sogar ausdrücklich, trennt sie aber von persönlicher Schuld. Das ist etwas anderes, als die Ungleichheit selbst zu bestreiten oder jemanden zu beschuldigen.",
+      "options": [
+        "Er bestreitet, dass die Verteilung ungleich ist.",
+        "Er erklärt die ungleiche Verteilung, ohne jemandem Absicht zu unterstellen.",
+        "Er beschuldigt die Stationsleitung, absichtlich ungerecht zu handeln."
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "argue"
+    },
+    {
+      "q": "Wie steht dieser Teil zu Birthes Erklärung des Verfahrens davor?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "aber es macht es nicht automatisch gerecht",
+      "answer": 1,
+      "explain": "Birthe erklärt zuerst, WARUM es passiert (Erreichbarkeit statt Rotation) — und stellt selbst fest, dass diese Erklärung die Ungerechtigkeit nicht auflöst. Erklärung und Rechtfertigung sind für sie zwei verschiedene Dinge.",
+      "options": [
+        "Er widerspricht der Erklärung des Verfahrens.",
+        "Er akzeptiert die Erklärung als Erklärung, bestreitet aber, dass sie das Ergebnis rechtfertigt.",
+        "Er wiederholt die Erklärung mit anderen Worten.",
+        "Er schlägt ein neues Verfahren vor."
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "structure"
+    },
+    {
+      "q": "Sandra sagt in ihrem letzten Beitrag, Lukas' Einwand sei „berechtigt“. Was folgt daraus für ihre Position zu einer festen Rotation?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Sie erkennt Lukas' Punkt an, formuliert aber direkt danach ihre eigentliche Forderung neu — nicht starre Rotation, sondern ein Limit gegen dauerhafte Überlastung. Ihr Ziel bleibt bestehen, nur der Weg dahin wird offener.",
+      "options": [
+        "Dass sie eine starre Liste jetzt vollständig ablehnt.",
+        "Dass sie Lukas' Bedenken ernst nimmt, ohne deshalb ihre grundsätzliche Forderung nach Fairness aufzugeben.",
+        "Dass sie das Thema nicht mehr wichtig findet."
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Sandra_H das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Mich stört gar nicht, dass es flexibel gehandhabt wird — mich stört, dass es dabei kein Limit gibt.",
+      "answer": 1,
+      "explain": "Ihr erster Beitrag klingt wie eine Forderung nach gleichmäßiger Verteilung. Am Ende zeigt sich: sie akzeptiert Flexibilität, solange es eine Grenze gegen dauerhafte Mehrbelastung gibt. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin des flexiblen Systems. Das ist sie nicht.",
+      "options": [
+        "Um zuzugeben, dass ihre erste Beschwerde falsch war.",
+        "Um klarzustellen, dass sie kein starres System fordert, sondern eine Obergrenze innerhalb des flexiblen Systems.",
+        "Um André_K vorzuwerfen, dass er sich zu wenig einsetzt.",
+        "Um vorzuschlagen, Rufbereitschaft ganz abzuschaffen."
+      ],
+      "sourceId": "src_rufbereitschaft",
+      "capability": "compare"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:54:10.634Z",
+  "updated_at": "2026-09-16T07:54:10.634Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

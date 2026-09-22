@@ -1,0 +1,117 @@
+{
+  "id": "b2_dienstkleidung_chunks",
+  "order_index": 70,
+  "icon": "🔗",
+  "title": "Vier Sätze, um Recht und Fairness auseinanderzuhalten",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Dienstkleidung: wer zahlt dafür?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Vier Sätze, um Recht und Fairness auseinanderzuhalten",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+            "Keine Vokabeln — vier Züge, mit denen man Regeln diskutiert, ohne persönlich zu werden."
+          ]
+        },
+        {
+          "t": "notice",
+          "w": 0,
+          "ex": "bei_mir_persoenlich_war_das_anders",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "t": "notice",
+          "w": 1,
+          "ex": "mag_rechtlich_stimmen_hat_aber_mit_fair_wenig_zu_tun",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "q": "Wie antworten Sie?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A akzeptiert die rechtliche Aussage und öffnet gleichzeitig die Fairness-Frage — genau Ihre Position. B passt inhaltlich nicht, es geht nicht um eine persönliche Erfahrung. C würde bedeuten, dass Sie einverstanden sind, was nicht stimmt.",
+          "options": [
+            "Das mag rechtlich stimmen, hat aber mit Fairness wenig zu tun.",
+            "Bei mir persönlich war das anders.",
+            "Solange das rechtlich so bleibt, bin ich einverstanden."
+          ],
+          "exercises": [
+            "mag_rechtlich_stimmen_hat_aber_mit_fair_wenig_zu_tun"
+          ],
+          "situation": "Ein Kollege sagt, eine Regel sei rechtlich völlig zulässig und deshalb kein Problem. Sie stimmen der rechtlichen Einschätzung zu, finden die Regel aber trotzdem unfair."
+        },
+        {
+          "t": "notice",
+          "w": 2,
+          "ex": "solange_x_gilt_bin_ich_einverstanden",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "t": "notice",
+          "w": 3,
+          "ex": "stoert_nicht_geld_sondern_erklaerung",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "q": "Wie sagen Sie das?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A macht die Zustimmung von einer Bedingung abhängig — hier: dem fehlenden Grund. B widerspricht dem, was Sie eigentlich sagen wollen. C beschreibt nur eine andere Erfahrung, keine Bedingung für Zustimmung.",
+          "options": [
+            "Wenn ich den Grund wüsste, würde ich es vermutlich auch akzeptieren.",
+            "Mich stört die Regel an sich, ganz unabhängig vom Grund.",
+            "Bei mir persönlich war das schon immer anders geregelt."
+          ],
+          "exercises": [
+            "solange_x_gilt_bin_ich_einverstanden"
+          ],
+          "situation": "Ihr Betrieb schlägt eine neue Regel vor. Niemand hat bisher erklärt, warum sie eingeführt wurde. Wenn Sie den Grund kennen würden, wären Sie vermutlich einverstanden."
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "bei_mir_persoenlich_war_das_anders",
+          "hint": "Stellen Sie Ihre Erfahrung neben die Aussage, statt sie zu bestreiten.",
+          "context": "In einer Diskussion beschreibt jemand eine Regel als allgemeingültig. Ihre eigene Erfahrung war anders. Beschreiben Sie sie, ohne die andere Person zu widerlegen.",
+          "sourceId": "src_dienstkleidung"
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "stoert_nicht_geld_sondern_erklaerung",
+          "hint": "Schließen Sie zuerst aus, was Sie NICHT stört — dann das eigentliche Problem.",
+          "context": "Eine unpopuläre Entscheidung wurde bei Ihnen getroffen, ohne dass jemand den Grund erklärt hat. Sagen Sie, was Sie wirklich stört.",
+          "sourceId": "src_dienstkleidung"
+        }
+      ],
+      "teaches": [
+        [
+          "Bei mir persönlich war das anders: …",
+          "for me personally it was different: …",
+          "🔗"
+        ],
+        [
+          "Das mag rechtlich stimmen, hat aber mit X wenig zu tun.",
+          "that may be legally correct, but it has little to do with X",
+          "🔗"
+        ],
+        [
+          "Solange X gilt, bin ich einverstanden.",
+          "as long as X holds, I'm fine with it",
+          "🔗"
+        ],
+        [
+          "Mich stört gar nicht so sehr X an sich — mich stört, dass …",
+          "it's not really X itself that bothers me — what bothers me is that …",
+          "🔗"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

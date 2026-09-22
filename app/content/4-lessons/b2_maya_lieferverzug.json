@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_lieferverzug",
+  "order_index": 27,
+  "icon": "💬",
+  "title": "Die Lieferung verzögert sich weiter",
+  "capability": "noticing a vague replacement offer and insisting on a firm commitment",
+  "proof": "Die Lieferung verzögert sich weiter",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_lieferverzug"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

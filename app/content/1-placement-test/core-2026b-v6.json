@@ -1,0 +1,799 @@
+{
+  "id": "core-2026b-v6",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V6",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Schichttausch — wo hört Kollegialität auf?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Bei uns im Team können Schichten getauscht werden, solange beide Seiten\neinverstanden sind und die Leitung informiert wird. Ich fand das immer eine\ngute Lösung — bis vor drei Monaten.\n\nDamals hat eine Kollegin mich gebeten, kurzfristig einzuspringen, weil sie einen\nArzttermin hatte. Kein Problem, dachte ich. Seitdem häufen sich die Anfragen: mal\nein Termin, mal ein privates Ereignis, immer kurzfristig, immer an mich gerichtet.\n\nZunächst wollte ich einfach nicht als unkollegial gelten. Nach einem Gespräch mit\nunserem Schichtleiter sehe ich das differenzierter. Er hat mir klar gemacht, dass\nKollegialität keine Einbahnstraße sein darf — und dass ich das genauso offen sagen\ndarf wie jede andere Bitte.\n\nWas ich inzwischen mache: Ich frage zurück, ob auch andere im Team angefragt wurden,\nbevor ich zusage. Das hat schon zweimal dazu geführt, dass die Anfrage sich erledigt\nhat, weil jemand anderes übernehmen konnte.\n\nGanz ablehnen würde ich Tauschanfragen deshalb trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt der Autor die Situation am Ende?",
+          "options": [
+            "Er lehnt Schichttausch inzwischen grundsätzlich ab.",
+            "Er akzeptiert Tauschanfragen weiterhin, aber mit einer eigenen Bedingung.",
+            "Er findet, das System habe sich von selbst erledigt."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er akzeptiert Tauschanfragen weiterhin, aber mit einer eigenen Bedingung."
+          },
+          "explanation": "Er würde Tauschanfragen „trotzdem nicht“ ablehnen, stellt aber inzwischen eine Rückfrage, bevor er zusagt. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Rückfrage des Autors hat schon zweimal dazu geführt, dass jemand anderes übernommen hat.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„Das hat schon zweimal dazu geführt, dass die Anfrage sich erledigt hat, weil jemand anderes übernehmen konnte.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt der Autor ein?",
+          "options": [
+            "Dass er zunächst aus Angst vor dem Ruf „unkollegial“ zu häufig zugesagt hat.",
+            "Dass die Kollegin ihn absichtlich ausgenutzt hat.",
+            "Dass er selbst nie wieder tauschen möchte."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass er zunächst aus Angst vor dem Ruf „unkollegial“ zu häufig zugesagt hat."
+          },
+          "explanation": "„Zunächst wollte ich einfach nicht als unkollegial gelten“ — das Eingeständnis betrifft sein eigenes Verhalten, nicht die Absicht der Kollegin."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wodurch hat sich die Sicht des Autors verändert?",
+          "options": [
+            "Durch ein Gespräch mit dem Schichtleiter.",
+            "Durch eine offizielle Änderung der Tauschregel.",
+            "Durch eine Beschwerde der Kollegin."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Durch ein Gespräch mit dem Schichtleiter."
+          },
+          "explanation": "„Nach einem Gespräch mit unserem Schichtleiter sehe ich das differenzierter.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Ein Tausch setzt die Zustimmung beider Seiten voraus.",
+            "Der Autor lehnt inzwischen jede Tauschanfrage ab.",
+            "Die Anfragen häuften sich nach dem ersten Einspringen.",
+            "Der Schichtleiter hat die Tauschregel abgeschafft."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Ein Tausch setzt die Zustimmung beider Seiten voraus.",
+              "Der Autor lehnt inzwischen jede Tauschanfrage ab.",
+              "Die Anfragen häuften sich nach dem ersten Einspringen.",
+              "Der Schichtleiter hat die Tauschregel abgeschafft."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              2
+            ],
+            "text": [
+              "Ein Tausch setzt die Zustimmung beider Seiten voraus.",
+              "Die Anfragen häuften sich nach dem ersten Einspringen."
+            ]
+          },
+          "explanation": "„solange beide Seiten einverstanden sind“ und „seitdem häufen sich die Anfragen“ stehen explizit im Text; abgelehnt wird nichts grundsätzlich, und die Regel besteht weiter."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Er beschreibt die erste Tauschanfrage.",
+              "Er bemerkt, dass sich die Anfragen häufen.",
+              "Ein Gespräch verändert seine Sicht.",
+              "Er beschreibt seine neue Rückfrage-Strategie."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Er beschreibt die erste Tauschanfrage.",
+              "Er bemerkt, dass sich die Anfragen häufen.",
+              "Ein Gespräch verändert seine Sicht.",
+              "Er beschreibt seine neue Rückfrage-Strategie."
+            ]
+          },
+          "explanation": "Erste Anfrage → Häufung → korrigierendes Gespräch → neue Strategie. Der Text argumentiert chronologisch von der ersten Anfrage zur heutigen Praxis."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Auf der Station. Zwei Kolleginnen sprechen über einen Schichttausch.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v6_schichttausch.mp3",
+        "duration_seconds": 45.5,
+        "voices": "katja+mia"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollegin A",
+          "text": "Du, die Frühschicht am Samstag — die wollte doch Sandra mit mir tauschen, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "War der erste Plan, ja. Herr Brandt hat das aber noch mal angepasst, weil am Samstag ohnehin zwei Leute fehlen. Jetzt übernimmt Tobias die Frühschicht, und du bleibst bei deiner ursprünglichen Spätschicht."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Tobias übernimmt sie also, nicht Sandra. Und mein Frei am Sonntag — bleibt das?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Ja, das bleibt unverändert. Er hat nur eine Sache geändert: Die Übergabe findet jetzt eine halbe Stunde früher statt."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Moment, habe ich das richtig verstanden — die Übergabezeit wurde vorgezogen, aber sonst ändert sich für mich nichts?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das sinnvoll; die alte Übergabezeit war ohnehin immer zu knapp."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer übernimmt am Ende die Frühschicht am Samstag?",
+          "options": [
+            "Sandra.",
+            "Tobias.",
+            "Kollegin A selbst."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Tobias."
+          },
+          "explanation": "Sandra war der erste Plan und wurde ersetzt: „Jetzt übernimmt Tobias die Frühschicht.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die vorgezogene Übergabezeit?",
+          "options": [
+            "Sie hält sie für unnötig.",
+            "Sie hält sie für sinnvoll.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie hält sie für sinnvoll."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das sinnvoll“ — die Bewertung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das freie Wochenende von Kollegin A am Sonntag entfällt durch die Änderung.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Ja, das bleibt unverändert.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde der ursprüngliche Tauschplan geändert?",
+          "options": [
+            "Weil am Samstag ohnehin zwei Leute fehlen.",
+            "Weil Sandra krank geworden ist.",
+            "Weil Kollegin A den Tausch abgelehnt hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil am Samstag ohnehin zwei Leute fehlen."
+          },
+          "explanation": "„weil am Samstag ohnehin zwei Leute fehlen.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das sinnvoll.“",
+              "„Er hat nur eine Sache geändert.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das sinnvoll.“ → eine Meinung äußern",
+              "„Er hat nur eine Sache geändert.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Ich übernehme die Schicht. Nur dieses eine Mal.",
+            "Ich übernehme die Schicht zwar, aber nur dieses eine Mal."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen einer Tauschanfrage teilweise zu und stellen dann eine Bedingung."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich übernehme die Schicht zwar, aber nur dieses eine Mal."
+          },
+          "explanation": "„zwar … aber“ räumt die Zusage ein und setzt zugleich die Bedingung dagegen. Zwei Sätze nebeneinander zeigen kein Abwägen."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir verteilen Tauschanfragen künftig reihum.",
+            "Man könnte Tauschanfragen künftig reihum verteilen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen einen neuen Ablauf ins Gespräch, der noch verhandelbar bleiben soll."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte Tauschanfragen künftig reihum verteilen."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag, über den das Team noch entscheiden darf."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wegen des Personalmangels bitten wir um eine neue Regelung.",
+            "Wegen dem Personalmangel bitten wir um eine neue Regelung."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine kurze Notiz an den Schichtleiter."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen des Personalmangels bitten wir um eine neue Regelung."
+          },
+          "explanation": "Gesprochen hört man „wegen dem“ ständig. Geschrieben verlangt „wegen“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Die Übergabezeit wurde vorgezogen, weil die alte Regelung immer wieder zu knapp bemessen war.",
+            "Die Übergabezeit wurde vorgezogen. Die alte Regelung war knapp. Das war ein Problem."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen im Protokoll, warum die Übergabezeit geändert wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Übergabezeit wurde vorgezogen, weil die alte Regelung immer wieder zu knapp bemessen war."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung nebeneinandergestellter Hauptsätze."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Der Schichtplan wurde nach der Beschwerde schließlich ___, nachdem alle Beteiligten ihre Bedenken ___ hatten.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "angepasst",
+                  "geändert"
+                ]
+              },
+              {
+                "accepted": [
+                  "geäußert",
+                  "vorgebracht"
+                ]
+              }
+            ],
+            "text": [
+              "angepasst / geändert",
+              "geäußert / vorgebracht"
+            ]
+          },
+          "explanation": "„einen Plan anpassen/ändern“ und „Bedenken äußern/vorbringen“ — feste Verbindungen, die auf B2 erwartet werden."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Schichten erfolgt jetzt digital; nur die ___ der Sonderfälle dauert noch etwas länger.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Verteilung",
+                  "Planung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Bearbeitung"
+                ]
+              }
+            ],
+            "text": [
+              "Verteilung / Planung",
+              "Bearbeitung"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Verteilung“ und präzise Nomen wie „Bearbeitung“ gehören zum B2-Wortschatz; „das Verteilen“ und „das Machen“ wären der A2-Ersatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "eine Schicht",
+              "Rücksicht",
+              "zur Verfügung",
+              "zur Sprache"
+            ],
+            "right": [
+              "nehmen",
+              "übernehmen",
+              "stehen",
+              "bringen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2,
+              "3": 3
+            },
+            "text": [
+              "eine Schicht → übernehmen",
+              "Rücksicht → nehmen",
+              "zur Verfügung → stehen",
+              "zur Sprache → bringen"
+            ]
+          },
+          "explanation": "eine Schicht übernehmen · Rücksicht nehmen · zur Verfügung stehen · etwas zur Sprache bringen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Kannst du das kurz checken? Bei mir klappt der Tausch grad nicht.",
+            "Ich bitte Sie, den Tauschwunsch zu prüfen; die Zuweisung ist derzeit noch offen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine Nachricht an den Schichtleiter."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich bitte Sie, den Tauschwunsch zu prüfen; die Zuweisung ist derzeit noch offen."
+          },
+          "explanation": "„kurz checken“ und „klappt grad nicht“ gehören ins Gespräch. An den Schichtleiter kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — gleich sind Sie dran.",
+            "Ich war noch nicht fertig! Immer unterbrechen Sie mich.",
+            "Schon gut, sagen Sie einfach, was Sie meinen."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In der Übergabe unterbricht Sie ein Kollege mitten im Satz."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — gleich sind Sie dran."
+          },
+          "explanation": "Man behält den eigenen Redebeitrag sachlich, ohne Vorwurf und ohne ihn aufzugeben. Der Vorwurf eskaliert, das Aufgeben verschenkt das Wort."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich der Umgang des Autors mit Tauschanfragen entwickelt hat. Nennen Sie auch, was ihn dazu bewegt hat.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die die anfängliche Zusage aus Sorge vor dem Ruf „unkollegial“, das klärende Gespräch UND die neue Rückfrage-Strategie nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die die anfängliche Zusage aus Sorge vor dem Ruf „unkollegial“, das klärende Gespräch UND die neue Rückfrage-Strategie nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Nenne die anfängliche Reaktion (Zusage aus Angst, als unkollegial zu gelten).",
+              "Beschreibe den Wendepunkt (das klärende Gespräch mit einem Kollegen).",
+              "Erläutere die neue Strategie (kritische Rückfragen statt sofortiger Zusage).",
+              "Verwende Konnektoren wie 'zunächst', 'nachdem' oder 'infolgedessen'."
+            ],
+            "expected_answer": "Zunächst sagte der Autor Tauschanfragen stets zu, weil er fürchtete, als unkollegial zu gelten. Nach einem klärenden Gespräch mit einem Kollegen änderte er jedoch sein Verhalten und begann, kritisch nachzufragen, bevor er einer Bitte zustimmte.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihr Kollege schreibt: „Kannst du am Freitag für mich einspringen?“ Sie sind nicht sicher, um welche Schicht es geht und ob schon jemand anderes gefragt wurde. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und nicht eine Meinung.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen stellen (z. B. indirekte Fragesätze oder Konjunktiv II).",
+              "Nach der genauen Schicht (Uhrzeit/Dauer) fragen.",
+              "Nachfragen, ob bereits andere Kollegen angefragt wurden oder zugesagt haben.",
+              "Angemessene Anrede und Grußformel für eine kurze, kollegiale E-Mail verwenden."
+            ],
+            "expected_answer": "Hallo [Name],\nvielen Dank für deine Anfrage. Könntest du mir bitte sagen, um welche Schicht es sich genau handelt? Wurde vielleicht schon jemand anderes gefragt?\nViele Grüße",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob Schichttausch künftig nur noch über eine zentrale Liste statt direkt zwischen Kolleginnen und Kollegen organisiert werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zur zentralen Liste (Zustimmung oder Ablehnung) mit direkter Ansprache der Kollegen.",
+              "Mindestens zwei gut ausgeführte Argumente (z. B. Fairness, Überblick, weniger Konflikte vs. Flexibilität, persönliche Absprachen).",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position (Konjunktiv II: 'könnte... sein', 'wäre...').",
+              "Konkreter, praktikabler Lösungsvorschlag (z. B. Hybrid-Modell, Fristen, Notfallregelung) und passender Abschlussgruß."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nzum Vorschlag einer zentralen Schichttauschliste möchte ich klar Stellung beziehen: Ich halte diese Idee für sehr sinnvoll. Erstens schafft sie mehr Transparenz, da offene Schichten für alle sichtbar sind und nicht nur im engen Freundeskreis getauscht werden. Zweitens reduziert sie das Konfliktpotenzial, weil die Verantwortung nicht mehr bei Einzelnen liegt und Absprachen nicht vergessen werden können. Ein Nachteil könnte allerdings sein, dass spontane, kurzfristige Tauschaktionen etwas an Flexibilität verlieren. Daher schlage ich ein hybrides Modell vor: Grundsätzlich läuft alles über die Liste, aber in dringenden Ausnahmefällen sollte ein direkter Tausch mit kurzer Bestätigung per Mail an die Leitung weiterhin möglich sein.\n\nViele Grüße,\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Teams verteilen Schichttausch über eine zentrale Liste, andere organisieren ihn direkt zwischen Kolleginnen und Kollegen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der festen Überzeugung, dass...').",
+              "Mindestens zwei gut ausgeführte Argumente für die eigene Position (z. B. Fairness, Effizienz, Überblick).",
+              "Ein explizit eingeräumter Nachteil der anderen Methode (Konzessivsatz: 'Zwar..., aber...').",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z. B. 'Ein wesentlicher Vorteil ist...', 'Hinzu kommt...', 'Dagegen spricht...').",
+              "Ein kurzer, schlüssiger Schlusssatz, der die eigene Meinung zusammenfasst."
+            ],
+            "expected_answer": "Ich bin der festen Überzeugung, dass eine zentrale Liste für den Schichttausch die deutlich sinnvollere Methode ist, auch wenn die direkte Absprache unter Kollegen auf den ersten Blick unkomplizierter wirkt. Ein wesentlicher Vorteil der zentralen Liste ist für mich die Transparenz. Jeder im Team hat sofort den gleichen Überblick, welche Schichten offen sind, und es entsteht nicht der Eindruck, dass Absprachen nur in kleinen, eingespielten Gruppen stattfinden. Das fördert die Fairness ungemein. Hinzu kommt die Effizienz: Anstatt mühsam mehrere Kollegen einzeln anzurufen oder anzuschreiben, sehe ich auf einen Blick alle Möglichkeiten und kann meinen Tauschwunsch direkt eintragen. Das spart enorm viel Zeit und Nerven. Natürlich muss ich einräumen, dass die direkte Kommunikation zwischen Kollegen persönlicher ist und schnelle, informelle Lösungen ermöglicht. Ein entscheidender Nachteil dieser Methode ist jedoch, dass sie oft zu Unübersichtlichkeit und sogar zu Konflikten führt, wenn Absprachen vergessen werden oder nicht alle einbezogen sind. Aus all diesen Gründen halte ich eine gut gepflegte, zentrale Liste für den besseren Weg, um Schichttausch gerecht und strukturiert zu organisieren.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p8",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #8",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "In einem Wohnhaus kennen sich viele Nachbarinnen und Nachbarn kaum. Die Hausverwaltung erlaubt einen Nachmittag im Innenhof, aber nur bis 20 Uhr und ohne laute Musik. Ältere Bewohner brauchen Sitzplätze, Familien wünschen sich etwas für Kinder und das Budget ist klein.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nGemeinsamer Nachmittag im Innenhof",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete, budgetfreundliche Vorschläge für alle Altersgruppen machen (z. B. Picknick, Spielecke, Sitzgelegenheiten organisieren).",
+              "Auf die Bedenken der Hausverwaltung eingehen (Ende um 20 Uhr, keine laute Musik) und Lösungen anbieten (leise Hintergrundmusik, gemeinsames Aufräumen).",
+              "Die Partnerin/den Partner aktiv einbeziehen (Fragen stellen, auf Ideen reagieren, gemeinsam abwägen: „Was meinst du zu …?“, „Sollen wir lieber … oder …?“).",
+              "Typische B2-Redemittel für Vorschläge und Absprachen verwenden („Ich schlage vor, dass …“, „Hättest du Lust, … zu übernehmen?“, „Wir könnten uns doch darauf einigen, dass …“).",
+              "Einen realistischen, konkreten Plan mit Aufgabenverteilung, Zeitrahmen und einfacher Organisation entwickeln."
+            ],
+            "expected_answer": "Also, ich habe mir überlegt, wie wir diesen gemeinsamen Nachmittag im Innenhof organisieren könnten, ohne viel Geld auszugeben und so, dass wirklich alle etwas davon haben. Ich schlage vor, dass wir das Ganze als eine Art lockeres Nachbarschaftspicknick planen. Jeder bringt einfach etwas zu essen oder zu trinken mit, zum Beispiel einen Kuchen, Salat oder Limonade. So verteilen sich die Kosten und es gibt eine große Vielfalt. Was hältst du davon? Eine große Tafel könnten wir aus mehreren zusammengestellten Tischen aufbauen, die sich bestimmt in den Kellern der Bewohner finden lassen. Um die älteren Nachbarn kümmern wir uns besonders. Ich würde vorschlagen, dass wir ein paar gemütliche Sitzgruppen mit Stühlen und vielleicht Bänken aus Wohnungen schaffen, die nicht so schwer sind. Vielleicht könnten wir sogar zwei oder drei Leute bitten, ihre Gartenstühle kurz rauszustellen. Für die Kinder plane ich eine kleine Spielecke, ganz ohne teure Sachen. Wir könnten eine Plane für Straßenmalkreide auslegen, ein paar Seifenblasen besorgen und vielleicht organisieren wir einen kleinen Ball. Das kostet fast nichts und hält die Kleinen gut beschäftigt. Jetzt zu den Regeln der Hausverwaltung: Dass wir um 20 Uhr enden müssen, ist ja völlig in Ordnung. Ich denke, wir fangen einfach schon um 15 Uhr an, dann haben wir genug Zeit. Und wegen der Musik: Laute Musik ist ja verboten, aber ich fände eine ganz leise Hintergrundbeschallung schön, einfach ein bisschen Jazz oder so von einem kleinen Bluetooth-Lautsprecher, den man kaum hört. Das stört niemanden und schafft trotzdem Atmosphäre. Wie siehst du das? Wichtig ist mir, dass wir das gemeinsam stemmen. Hättest du Lust, eine kleine Einladung für das schwarze Brett zu entwerfen? Ich könnte mich dann um die Koordination der Essensliste kümmern, damit wir nicht 20 Nudelsalate haben. Und wir sollten zwei, drei Leute direkt ansprechen, ob sie beim Auf- und Abbau helfen. Wenn wir das so aufteilen, wird es ein richtig schöner, entspannter Nachmittag für alle, ohne großen Aufwand und ohne dass es uns etwas kostet. Findest du den Plan so realistisch?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-6",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 6 — Nominalisierung & Adjektivdeklination",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Die Situation zu verbessern\" lässt sich nominalisieren als:",
+          "options": [
+            "die Verbesserung der Situation",
+            "die Situation-Verbesserung",
+            "das Verbessern die Situation"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Verbesserung der Situation"
+          },
+          "explanation": "Nominalisierung mit Genitiv-Anschluss: \"die Verbesserung der Situation\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nominalisierung von \"entscheiden\":",
+          "options": [
+            "beide sind möglich, je nach Kontext",
+            "die Entscheidung",
+            "das Entscheiden"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "beide sind möglich, je nach Kontext"
+          },
+          "explanation": "\"Die Entscheidung\" (das Ergebnis) und \"das Entscheiden\" (der Vorgang) sind beide korrekte, aber unterschiedlich nuancierte Nominalisierungen."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nach einem unbestimmten Artikel: \"ein ___ Patient\"",
+          "options": [
+            "kritische",
+            "kritisches",
+            "kritischer"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "kritischer"
+          },
+          "explanation": "Maskulin, Nominativ, nach unbestimmtem Artikel: starke Endung \"-er\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ohne Artikel: \"___ Patienten benötigen intensive Betreuung.\"",
+          "options": [
+            "Kritischer",
+            "Kritischen",
+            "Kritische"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Kritische"
+          },
+          "explanation": "Plural, Nominativ, ohne Artikel: starke Endung \"-e\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Man kann das Dokument nicht mehr ändern.\" — Nominalisiert:",
+          "options": [
+            "die Änderung des Dokuments",
+            "das Ändern-Können",
+            "die Unveränderbarkeit des Dokuments"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die Unveränderbarkeit des Dokuments"
+          },
+          "explanation": "\"Nicht mehr ändern können\" wird zu \"die Unveränderbarkeit\" — Wortbildung mit \"-barkeit\" für eine Eigenschaft."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Genitiv nach einem stark deklinierten Adjektiv ohne Artikel: \"trotz ___ Wetters\"",
+          "options": [
+            "schlechtem",
+            "schlechten",
+            "schlechtes"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "schlechten"
+          },
+          "explanation": "Genitiv Singular Neutrum ohne Artikel nimmt die Endung \"-en\": \"schlechten Wetters\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nominalisierung von \"zuverlässig sein\":",
+          "options": [
+            "die Zuverlässigkeit",
+            "die Verlässlichkeit ohne Bezug",
+            "das Zuverlässige"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die Zuverlässigkeit"
+          },
+          "explanation": "Adjektiv + \"-keit\" bildet das Abstraktum \"die Zuverlässigkeit\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Mit bestimmtem Artikel Dativ Plural: \"mit den ___ Kolleginnen\"",
+          "options": [
+            "neue",
+            "neuen Kolleginen",
+            "neuen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "neuen"
+          },
+          "explanation": "Nach bestimmtem Artikel im Dativ Plural: schwache Endung \"-en\" für alle Adjektive."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Es ist wichtig, dass man pünktlich ist.\" — Nominalisiert:",
+          "options": [
+            "das Wichtige am Pünktlichsein",
+            "die Pünktlichkeit ist wichtig genannt",
+            "die Wichtigkeit der Pünktlichkeit"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "die Wichtigkeit der Pünktlichkeit"
+          },
+          "explanation": "Doppelte Nominalisierung: \"wichtig\" → \"die Wichtigkeit\", \"pünktlich sein\" → \"die Pünktlichkeit\"."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gemischte Deklination nach \"kein\": \"kein ___ Grund\"",
+          "options": [
+            "triftiger",
+            "triftigen",
+            "triftige"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "triftiger"
+          },
+          "explanation": "Nach \"kein\" (wie nach unbestimmtem Artikel) im Nominativ Maskulin: starke Endung \"-er\"."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wortbildung: aus \"das Personal\" + \"der Mangel\" wird:",
+          "options": [
+            "der Personalmangel",
+            "das Mangelpersonal",
+            "die Personalmangelung"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "der Personalmangel"
+          },
+          "explanation": "Determinativkompositum: Bestimmungswort + Grundwort, das Genus richtet sich nach dem Grundwort \"der Mangel\"."
+        }
+      ]
+    }
+  ]
+}

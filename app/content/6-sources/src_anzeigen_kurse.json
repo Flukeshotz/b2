@@ -1,0 +1,84 @@
+{
+  "id": "src_anzeigen_kurse",
+  "kind": "text",
+  "title": "Vier Anzeigen: welche passt?",
+  "hook": "Vier Kursangebote, vier ganz unterschiedliche Zielgruppen — und mehr als eine Anzeige, die auf den ersten Blick passen könnte.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Teil 3 — Anzeigen einer Situation zuordnen",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "Anzeigensprache: Zielgruppe, Voraussetzung, Teilnahmegebühr, Anmeldeschluss",
+      "eine Situation gegen mehrere Angebote prüfen, statt nur das erste passende zu nehmen"
+    ],
+    "primary_capability": "structure",
+    "secondary_capabilities": []
+  },
+  "script": [
+    {
+      "de": "Deutsch im Beruf — Aufbaukurs B2/C1. Für Berufstätige, die ihr Deutsch auf ein höheres Niveau bringen wollen, mit Schwerpunkt auf schriftlicher Kommunikation im Büroalltag: E-Mails, Protokolle, Berichte. Obwohl der Kurs anspruchsvoll ist, richtet er sich bewusst nicht an Anfänger, sondern an alle, die bereits mindestens B2-Niveau mitbringen und gezielt an ihrem Schreiben arbeiten möchten. Der Kurs findet zweimal wöchentlich abends statt, 18 bis 20 Uhr. Teilnahmegebühr: 340 Euro pro Semester, Ermäßigung bei Nachweis einer Arbeitgeberbeteiligung. Anmeldeschluss: 15. des Vormonats.",
+      "when": "",
+      "handle": "a",
+      "speaker": "Anzeige A"
+    },
+    {
+      "de": "Konversationskurs für Wiedereinsteiger. Sie haben früher Deutsch gelernt, trauen sich aber nicht mehr, frei zu sprechen? Dieser Kurs setzt auf lockeres Sprechen in kleinen Gruppen, und zwar ganz ohne Grammatikprüfung und ohne Test am Ende, weil es hier allein ums Reden geht, nicht ums Bewerten. Termine flexibel, je nach Gruppengröße, tagsüber unter der Woche. Kostenlos für Teilnehmende mit Wohnsitz im Stadtteil, sonst 15 Euro pro Termin. Keine Voraussetzung außer Grundkenntnissen.",
+      "when": "",
+      "handle": "b",
+      "speaker": "Anzeige B"
+    },
+    {
+      "de": "Intensivkurs Deutsch für den Pflegeberuf. Speziell für Personen, die eine Anerkennung ihrer im Ausland erworbenen Qualifikation anstreben und dafür ein bestimmtes Sprachniveau nachweisen müssen. Der Kurs ist zwar zeitintensiv, weil er ganztägig von Montag bis Freitag über sechs Wochen läuft, dafür enthält er aber auch die vollständige Vorbereitung auf eine anerkannte Sprachprüfung. Teilnahmegebühr: 890 Euro, in Raten zahlbar. Bewerbung mit Nachweis der beruflichen Qualifikation erforderlich.",
+      "when": "",
+      "handle": "c",
+      "speaker": "Anzeige C"
+    },
+    {
+      "de": "Deutsch am Wochenende — für Eltern mit Kindern. Kurs samstags, 10 bis 13 Uhr, mit kostenloser Kinderbetreuung im Nebenraum, damit auch diejenigen teilnehmen können, die unter der Woche schlicht keine Zeit finden. Geeignet für Teilnehmende auf A2- bis B1-Niveau. Schwerpunkt: Alltagsdeutsch, mündliche Kommunikation. Teilnahmegebühr: 120 Euro pro Semester. Anmeldung jederzeit möglich, solange Plätze frei sind.",
+      "when": "",
+      "handle": "d",
+      "speaker": "Anzeige D"
+    }
+  ],
+  "transcript": "Anzeige A\nDeutsch im Beruf — Aufbaukurs B2/C1. Für Berufstätige, die ihr Deutsch auf ein höheres Niveau bringen wollen, mit Schwerpunkt auf schriftlicher Kommunikation im Büroalltag: E-Mails, Protokolle, Berichte. Obwohl der Kurs anspruchsvoll ist, richtet er sich bewusst nicht an Anfänger, sondern an alle, die bereits mindestens B2-Niveau mitbringen und gezielt an ihrem Schreiben arbeiten möchten. Der Kurs findet zweimal wöchentlich abends statt, 18 bis 20 Uhr. Teilnahmegebühr: 340 Euro pro Semester, Ermäßigung bei Nachweis einer Arbeitgeberbeteiligung. Anmeldeschluss: 15. des Vormonats.\n\nAnzeige B\nKonversationskurs für Wiedereinsteiger. Sie haben früher Deutsch gelernt, trauen sich aber nicht mehr, frei zu sprechen? Dieser Kurs setzt auf lockeres Sprechen in kleinen Gruppen, und zwar ganz ohne Grammatikprüfung und ohne Test am Ende, weil es hier allein ums Reden geht, nicht ums Bewerten. Termine flexibel, je nach Gruppengröße, tagsüber unter der Woche. Kostenlos für Teilnehmende mit Wohnsitz im Stadtteil, sonst 15 Euro pro Termin. Keine Voraussetzung außer Grundkenntnissen.\n\nAnzeige C\nIntensivkurs Deutsch für den Pflegeberuf. Speziell für Personen, die eine Anerkennung ihrer im Ausland erworbenen Qualifikation anstreben und dafür ein bestimmtes Sprachniveau nachweisen müssen. Der Kurs ist zwar zeitintensiv, weil er ganztägig von Montag bis Freitag über sechs Wochen läuft, dafür enthält er aber auch die vollständige Vorbereitung auf eine anerkannte Sprachprüfung. Teilnahmegebühr: 890 Euro, in Raten zahlbar. Bewerbung mit Nachweis der beruflichen Qualifikation erforderlich.\n\nAnzeige D\nDeutsch am Wochenende — für Eltern mit Kindern. Kurs samstags, 10 bis 13 Uhr, mit kostenloser Kinderbetreuung im Nebenraum, damit auch diejenigen teilnehmen können, die unter der Woche schlicht keine Zeit finden. Geeignet für Teilnehmende auf A2- bis B1-Niveau. Schwerpunkt: Alltagsdeutsch, mündliche Kommunikation. Teilnahmegebühr: 120 Euro pro Semester. Anmeldung jederzeit möglich, solange Plätze frei sind.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "level: script only warns on sentence_complexity — Ø 12.5 Wörter pro Satz, 4 verschiedene Nebensatz-Einleitungen (obwohl, weil, damit, solange)."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T08:23:45.020Z",
+  "updated_at": "2026-09-16T08:23:45.020Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

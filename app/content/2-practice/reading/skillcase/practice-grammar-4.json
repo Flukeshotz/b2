@@ -1,0 +1,257 @@
+{
+  "id": "practice-grammar-4",
+  "board": "custom",
+  "title": "Gezielte Grammatikübung 4 — Doppelkonnektoren & je…desto",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 grammar practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Grammatik — gemischte Strukturen",
+      "instruction": "Wählen Sie die richtige Form.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ sie mehr Erfahrung sammelt, ___ sicherer wird sie im Umgang mit Notfällen.",
+          "options": [
+            "Umso … je",
+            "Je … desto",
+            "Desto … je"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Je … desto"
+          },
+          "explanation": "Feste Korrelation \"je + Komparativ … desto + Komparativ\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ er sich gut vorbereitet hatte, ___ war er bei der Prüfung nervös.",
+          "options": [
+            "Obwohl … dennoch",
+            "Sowohl … als auch",
+            "Zwar … aber"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Zwar … aber"
+          },
+          "explanation": "\"Zwar … aber\" ist das übliche Konzessiv-Paar; \"obwohl … dennoch\" wiederholt die Konzession doppelt und ist stilistisch falsch."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie spricht ___ Deutsch ___ auch fließend Englisch.",
+          "options": [
+            "entweder … oder",
+            "weder … noch",
+            "sowohl … als auch"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "sowohl … als auch"
+          },
+          "explanation": "\"Sowohl … als auch\" verbindet zwei zutreffende Dinge."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er hat ___ die Fortbildung ___ das Zertifikat beantragt — nur eins von beiden.",
+          "options": [
+            "entweder … oder",
+            "sowohl … als auch",
+            "weder … noch"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "entweder … oder"
+          },
+          "explanation": "\"Entweder … oder\" markiert eine Alternative, von der nur eine zutrifft."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Station hat ___ genug Personal ___ ausreichend Material für die Nachtschicht.",
+          "options": [
+            "sowohl … als auch",
+            "weder … noch",
+            "je … desto"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "weder … noch"
+          },
+          "explanation": "\"Weder … noch\" verneint beide genannten Dinge gleichzeitig."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Weil die Unterlagen fehlten, ___ konnte die Anmeldung nicht bearbeitet werden.",
+          "options": [
+            "obwohl",
+            "damit",
+            "deshalb"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "deshalb"
+          },
+          "explanation": "Konsekutiv-Konnektor \"deshalb\" leitet die Folge einer bereits genannten Ursache ein."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ der Regen goss, fand die Schulung im Freien statt.",
+          "options": [
+            "Obwohl",
+            "Sodass",
+            "Weil"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Obwohl"
+          },
+          "explanation": "\"Obwohl\" markiert den unerwarteten Gegensatz: Regen, aber trotzdem draußen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sie hat so lange erklärt, ___ auch der letzte Zweifel verschwunden war.",
+          "options": [
+            "sodass",
+            "damit",
+            "bis"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sodass"
+          },
+          "explanation": "\"Sodass\" leitet die Folge (Konsequenz) einer Handlung ein: erklären → Zweifel verschwinden."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ das Wetter schlecht ist, ___ wollen wir die Exkursion nicht verschieben.",
+          "options": [
+            "Auch wenn … so",
+            "Je … desto",
+            "Sowohl … als auch"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Auch wenn … so"
+          },
+          "explanation": "\"Auch wenn … so\" ist eine konzessive Konstruktion: trotz eines Umstands bleibt die Entscheidung bestehen."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Maßnahme wurde eingeführt, ___ die Fehlerquote zu senken.",
+          "options": [
+            "damit",
+            "sodass",
+            "um"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "um"
+          },
+          "explanation": "Gleiches Subjekt (die Maßnahme selbst „senkt” nichts, aber der Zweck bezieht sich auf denselben Träger) → Infinitivkonstruktion \"um … zu\" ist hier idiomatisch für einen Zweck."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "___ mehr Kolleginnen krank werden, ___ enger wird der Dienstplan.",
+          "options": [
+            "Je … desto",
+            "Entweder … oder",
+            "Zwar … aber"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Je … desto"
+          },
+          "explanation": "\"Je + Komparativ … desto + Komparativ\" für proportionale Zusammenhänge."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-1",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Sprechen, Übungsset 1",
+  "minutes": 4,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Sprechen (Gemeinsam etwas planen) — not an official telc task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Gemeinsam planen: Betriebsausflug",
+      "instruction": "Sprechen Sie etwa 2 Minuten.",
+      "minutes": 4,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Nennung des Ausflugsziels mit kurzer, lebendiger Beschreibung",
+              "Mindestens zwei überzeugende Begründungen (z. B. Teambuilding, Erholung, Kultur, Kosten, Erreichbarkeit)",
+              "Direkte Ansprache der Kollegin/des Kollegen und Einladung zur Rückmeldung",
+              "Verwendung von B2-Redemitteln: Vorschläge machen („Ich würde vorschlagen, dass …“), Begründungen einleiten („Ein wichtiger Grund dafür ist …“), Abwägen („Zwar …, aber …“)"
+            ],
+            "expected_answer": "Hallo Lisa, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug an den Bodensee machen. Ich stelle mir vor, dass wir mit einem gemieteten Bus nach Konstanz fahren und von dort aus eine gemeinsame Schifffahrt zur Insel Mainau unternehmen. Ich finde, das wäre eine wunderbare Gelegenheit, um mal richtig aus dem Büroalltag herauszukommen und die Natur zu genießen. Ein wichtiger Grund für mein Vorschlag ist, dass der Bodensee für jeden etwas bietet. Die Blumenpracht auf der Mainau ist einfach beeindruckend und sorgt für eine entspannte Atmosphäre. Gleichzeitig können die aktiveren Kolleginnen und Kollegen die Insel auf eigene Faust erkunden oder sogar eine kleine Radtour am Ufer machen. Zwar ist die Anreise etwas länger, aber ich bin überzeugt, dass sich der Ausflug lohnt, weil so ein Tapetenwechsel das Teambuilding enorm stärkt. Außerdem könnten wir den Tag mit einem gemeinsamen Abendessen in einem See-Restaurant ausklingen lassen, was den Zusammenhalt noch weiter fördert. Was die Kosten betrifft, habe ich mich bereits informiert: Es gibt günstige Gruppenrabatte für die Schifffahrt und den Eintritt zur Insel. Ich finde, das Preis-Leistungs-Verhältnis ist absolut fair. Was meinst du dazu? Ich würde mich freuen, wenn wir den Vorschlag gemeinsam in der nächsten Teamsitzung vorstellen könnten.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Aktive Gesprächsführung und Interaktion. Machen Sie konkrete Vorschläge zum Ausflug, begründen Sie diese, gehen Sie auf Einwände des Partners ein und treffen Sie am Ende eine gemeinsame Vereinbarung."
+        }
+      ]
+    }
+  ]
+}

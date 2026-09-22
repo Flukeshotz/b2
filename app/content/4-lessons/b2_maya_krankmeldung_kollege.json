@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_krankmeldung_kollege",
+  "order_index": 29,
+  "icon": "💬",
+  "title": "Eine kurzfristige Krankmeldung",
+  "capability": "reacting to a sudden staffing change instead of just agreeing",
+  "proof": "Eine kurzfristige Krankmeldung",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_krankmeldung_kollege"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

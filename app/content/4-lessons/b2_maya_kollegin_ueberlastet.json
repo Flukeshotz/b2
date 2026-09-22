@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_kollegin_ueberlastet",
+  "order_index": 23,
+  "icon": "💬",
+  "title": "Eine überlastete Kollegin ansprechen",
+  "capability": "offering concrete help a colleague can actually accept",
+  "proof": "Eine überlastete Kollegin ansprechen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_kollegin_ueberlastet"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

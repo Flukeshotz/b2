@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-7",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 7 — Antonyme & Präzisierung",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"zuverlässig\":",
+          "options": [
+            "unsicher",
+            "ungenau",
+            "unzuverlässig"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "unzuverlässig"
+          },
+          "explanation": "Direktes Antonym mit Negationspräfix \"un-\": \"unzuverlässig\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"ausführlich\" (bei einer Erklärung):",
+          "options": [
+            "unklar",
+            "falsch",
+            "knapp"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "knapp"
+          },
+          "explanation": "\"Knapp\" beschreibt das Gegenteil von \"ausführlich\" in Bezug auf Länge/Detailgrad."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Präziser als \"gut\": \"Die Behandlung verlief ___.\"",
+          "options": [
+            "reibungslos",
+            "gut",
+            "okay"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "reibungslos"
+          },
+          "explanation": "\"Reibungslos\" ist präziser und formeller als das vage \"gut\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"vertraulich\" (bei Informationen):",
+          "options": [
+            "wichtig",
+            "öffentlich",
+            "geheim"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "öffentlich"
+          },
+          "explanation": "\"Öffentlich\" ist das direkte Gegenteil von \"vertraulich\" (nicht für alle bestimmt)."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Präziser als \"schlecht\": \"Die Kommunikation im Team war ___.\"",
+          "options": [
+            "nicht so gut",
+            "mangelhaft",
+            "schlecht"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "mangelhaft"
+          },
+          "explanation": "\"Mangelhaft\" ist eine präzisere, formellere Bewertung als das allgemeine \"schlecht\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"eindeutig\" (bei einer Anweisung):",
+          "options": [
+            "kurz",
+            "höflich",
+            "missverständlich"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "missverständlich"
+          },
+          "explanation": "\"Missverständlich\" beschreibt genau das Gegenteil von \"eindeutig/klar\"."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Präziser als \"viel Arbeit\": \"Die Station hatte ___ zu bewältigen.\"",
+          "options": [
+            "viel Arbeit",
+            "ein hohes Arbeitsaufkommen",
+            "'ne Menge Kram"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ein hohes Arbeitsaufkommen"
+          },
+          "explanation": "\"Ein hohes Arbeitsaufkommen\" ist die präzise, formelle Formulierung für \"viel Arbeit\"."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"nachvollziehbar\" (bei einer Entscheidung):",
+          "options": [
+            "unwichtig",
+            "unhöflich",
+            "unverständlich"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "unverständlich"
+          },
+          "explanation": "\"Unverständlich\" ist das direkte Gegenteil von \"nachvollziehbar\"."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Präziser als \"schnell\": \"Die Reaktion des Teams war ___.\"",
+          "options": [
+            "schnell",
+            "ziemlich fix",
+            "prompt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "prompt"
+          },
+          "explanation": "\"Prompt\" ist eine formellere, präzisere Alternative zu \"schnell\" in einem Bericht."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Gegenteil von \"freiwillig\":",
+          "options": [
+            "spontan",
+            "unfreiwillig gemeint als selten genutzt",
+            "verpflichtend"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "verpflichtend"
+          },
+          "explanation": "\"Verpflichtend\" ist das gebräuchliche Gegenteil von \"freiwillig\" im institutionellen Kontext."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Präziser als \"viele Leute\": \"An der Schulung nahmen ___ teil.\"",
+          "options": [
+            "viele Leute",
+            "'ne ganze Menge Leute",
+            "zahlreiche Mitarbeitende"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "zahlreiche Mitarbeitende"
+          },
+          "explanation": "\"Zahlreiche Mitarbeitende\" ist präziser und im Berufskontext angemessener als \"viele Leute\"."
+        }
+      ]
+    }
+  ]
+}

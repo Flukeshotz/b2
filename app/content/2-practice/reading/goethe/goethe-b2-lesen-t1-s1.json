@@ -1,0 +1,242 @@
+{
+  "id": "goethe-b2-lesen-t1-s1",
+  "board": "goethe",
+  "title": "Goethe B2 — Lesen Teil 1 — Zuordnung (Meinungen & Personen), Satz 1",
+  "minutes": 18,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 9,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Lesen Teil 1 — Zuordnung (Meinungen & Personen)",
+      "instruction": "Sie lesen in einem Forum, wie Menschen über den Umgang mit Stress im Alltag denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+      "minutes": 18,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ich mir am Ende des Tages drei Dinge auf, die erledigt sind, und zwei, die morgen warten können. Das klingt banal, hilft mir aber, nicht alles im Kopf mitzunehmen. Ganz stressfrei wird mein Beruf nie sein, denn Menschen kommen oft mit Sorgen oder Schmerzen zu uns. Deshalb finde ich es unrealistisch, jede Belastung vermeiden zu wollen. Wichtig ist für mich eher, freundlich zu bleiben und trotzdem Grenzen zu setzen. Nach der Arbeit koche ich meistens etwas Einfaches und rufe keine Kolleginnen mehr an. Am Wochenende übernehme ich manchmal einen Notdienst, aber nur, wenn ich rechtzeitig planen kann.\n\n**b Tobias**\nWenn Leute sagen, sie hätten ständig Stress, frage ich mich oft, ob sie ihren Alltag wirklich organisieren. Bei mir ist vieles durchgeplant: Einkäufe am Dienstag, Sport am Donnerstag, private Nachrichten erst abends. Das klingt streng, aber genau dadurch habe ich Freiheit. Ich arbeite als Projektassistent und weiß, dass Termine sich verschieben können. Trotzdem entsteht Panik meistens, weil jemand zu spät angefangen hat oder alles gleichzeitig machen will. Natürlich bin ich nicht immer gelassen. Wenn mein Zug ausfällt, ärgere ich mich auch. Aber ich plane Puffer ein und habe wichtige Unterlagen offline dabei. Was mich stresst, sind eher Menschen, die jede Kleinigkeit als Drama darstellen und dann erwarten, dass andere sie retten. Entspannung bedeutet für mich nicht, einfach nichts zu tun, sondern vorher kluge Entscheidungen zu treffen. Ein voller Kalender ist kein Problem, solange er realistisch bleibt.\n\n**c Lea**\nIch habe lange gedacht, Stress müsse man einfach aushalten, besonders im Studium und später im Beruf. Erst nach einer Phase mit Schlafproblemen habe ich gemerkt, dass mein Körper ziemlich deutlich reagiert. Seitdem gehe ich fast jeden Mittag zwanzig Minuten raus, auch wenn nur der Park hinter dem Büro drin ist. Bewegung ist für mich keine sportliche Leistung, sondern eine Art Schalter: Danach kann ich wieder klarer denken. Manchmal nehme ich Kolleginnen mit, manchmal will ich bewusst allein sein. Zuhause hilft mir Musik, aber nur, wenn ich nicht gleichzeitig Nachrichten lese. Meine Schwester meint, Meditation wäre besser, doch still sitzen macht mich eher nervös. Ich finde außerdem, dass man nicht jedes Angebot annehmen muss. Letztes Jahr habe ich ein Ehrenamt pausiert, obwohl es mir wichtig war. Das war kein Aufgeben, sondern eine Grenze. Seitdem sage ich früher, wenn mir etwas zu viel wird.\n\n**d Hakan**\nIn meiner Familie hieß es früher immer: Wer viel arbeitet, darf sich nicht beklagen. Ich habe diese Haltung lange übernommen, bis ich als Küchenleiter gemerkt habe, dass schlechte Stimmung ansteckend ist. Wenn ich hektisch werde, arbeitet das ganze Team unsauberer. Deshalb fange ich jede Schicht mit einer kurzen Besprechung an: Wer macht was, wo könnte es eng werden, was ist heute besonders wichtig? Das spart später Diskussionen. Stress verschwindet dadurch nicht, besonders wenn Gäste gleichzeitig kommen oder jemand krank ist. Aber er wird überschaubarer. Privat brauche ich dagegen keine festen Pläne. Meine Frau wundert sich, dass ich am freien Tag kaum Termine mache. Für mich ist gerade das erholsam: einkaufen, wenn ich Lust habe, mit den Kindern spontan zum See fahren oder einfach den Balkon bepflanzen. Ich glaube nicht, dass Stress immer schlecht ist. Er zeigt nur, dass etwas Aufmerksamkeit braucht. Dauerstress ist aber ein Warnsignal.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer hält Stress häufig für eine Folge schlechter Organisation?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Tobias"
+          },
+          "explanation": "Die richtige Antwort ist b (Tobias). Tobias sagt sinngemäß, dass Panik meistens entsteht, wenn man zu spät anfängt oder schlecht plant. Die Falle ist d (Hakan), weil auch er mit Planung im Team arbeitet. Entscheidend ist der Unterschied zwischen Stress als Planungsfehler und Stress als Arbeitsrealität."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Für wen hilft Bewegung beim Denken?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Lea"
+          },
+          "explanation": "Die richtige Antwort ist c (Lea). Lea sagt sinngemäß, dass Bewegung für sie keine sportliche Leistung ist, sondern ihr danach wieder klares Denken ermöglicht. Die Falle ist b (Tobias), weil er Sport fest einplant. Entscheidend ist der Unterschied zwischen Bewegung als Denkpause und Sport als Termin im Wochenplan."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer vermeidet Gespräche über die Arbeit?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Miriam"
+          },
+          "explanation": "Die richtige Antwort ist a (Miriam). Miriam sagt sinngemäß, dass sie nach der Arbeit keine Kolleginnen mehr anruft, damit sie den Tag nicht mitnimmt. Die Falle ist c (Lea), weil sie zu Hause ebenfalls Ablenkung sucht. Entscheidend ist der Unterschied zwischen Abstand von beruflichen Kontakten und allgemeiner Entspannung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei wem beeinflusst die eigene Unruhe direkt die Arbeit anderer?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Hakan"
+          },
+          "explanation": "Die richtige Antwort ist d (Hakan). Hakan erklärt, dass sein hektisches Verhalten das ganze Küchenteam unsauberer arbeiten lässt. Die Falle ist a (Miriam), weil sie im Beruf freundlich bleiben muss. Entscheidend ist der Unterschied zwischen Kundenkontakt und direktem Einfluss auf die Teamleistung."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer zieht trotz Überzeugung eine Grenze?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 2,
+            "text": "C: Lea"
+          },
+          "explanation": "Die richtige Antwort ist c (Lea). Lea sagt sinngemäß, dass ihr das Ehrenamt wichtig war, sie es aber trotzdem pausiert hat, weil es sonst zu viel wurde. Die Falle ist a (Miriam), weil Miriam ebenfalls Grenzen setzt, aber bei beruflichen Diensten. Entscheidend ist der Unterschied zwischen einer Grenze trotz persönlicher Überzeugung und einer planbaren Arbeitsgrenze."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Für wen schafft Planung Freiheit?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Tobias"
+          },
+          "explanation": "Die richtige Antwort ist b (Tobias). Tobias sagt sinngemäß, dass sein durchgeplanter Alltag streng klingt, ihm aber gerade dadurch Freiheit gibt. Die Falle ist d (Hakan), weil er im Beruf ebenfalls strukturiert vorgeht. Entscheidend ist der Unterschied zwischen selbst gewählter Planung als Freiheit und Teamorganisation zur Stressbegrenzung."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer sieht bestimmte Belastungen als unvermeidbaren Teil des Berufs?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "A: Miriam"
+          },
+          "explanation": "Die richtige Antwort ist a (Miriam). Miriam sagt sinngemäß, dass ihr Beruf nie ganz stressfrei sein wird, weil Patientinnen und Patienten mit Sorgen kommen. Die Falle ist d (Hakan), weil auch er Stress in der Küche kennt. Entscheidend ist der Unterschied zwischen unvermeidbarer emotionaler Belastung im Beruf und organisatorisch begrenzbarem Arbeitsdruck."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer erholt sich ohne feste Pläne?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 3,
+            "text": "D: Hakan"
+          },
+          "explanation": "Die richtige Antwort ist d (Hakan). Hakan beschreibt, dass er an freien Tagen kaum Termine macht und Spontanität als erholsam erlebt. Die Falle ist b (Tobias), weil er gerade durch Planung Freiheit gewinnt. Entscheidend ist der Unterschied zwischen Erholung durch Spontanität und Entlastung durch Planung."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wer stört sich an Dramatisierung?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "payload": {
+            "context": "**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ..."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "B: Tobias"
+          },
+          "explanation": "Die richtige Antwort ist b (Tobias). Tobias kritisiert Menschen, die jede Kleinigkeit als Drama darstellen und Hilfe erwarten. Die Falle ist a (Miriam), weil sie beruflich mit Sorgen anderer umgehen muss. Entscheidend ist der Unterschied zwischen privater Kritik an Dramatisierung und professionellem Umgang mit belasteten Menschen."
+        }
+      ]
+    }
+  ]
+}

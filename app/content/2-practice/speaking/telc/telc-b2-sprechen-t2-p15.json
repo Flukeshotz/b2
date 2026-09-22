@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t2-p15",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #15",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "Ein Verkehrsverbund befragte 730 Fahrgäste; ein niedriger Preis war wichtig, doch abends nannten viele fehlende Verbindungen als größeres Problem. Verkehrsbetriebe und Kommunen beschäftigen sich mit der Frage, ob ein günstiges Monatsticket für alle sinnvoll wäre. Steigende Preise machen Bus und Bahn für viele Menschen unattraktiv.\n\nBefürworter heben zunächst diesen Nutzen hervor: Ein günstiges Ticket erleichtert Teilhabe und kann Autoverkehr reduzieren. So könnten mehr Menschen Bus und Bahn regelmäßig nutzen. Ein übersichtlicher Tarif erleichtert Pendlern, Auszubildenden und Familien die Planung ihrer monatlichen Mobilitätskosten.\n\nEine Auszubildende konnte mit einem günstigen Ticket leichter zum Betrieb fahren, fand abends aber selten passende Verbindungen. Außerhalb großer Städte bringt selbst ein günstiger Fahrschein wenig, wenn der letzte Bus schon am frühen Abend fährt. Kritische Stimmen verweisen jedoch auf diese Schwierigkeit: Die Finanzierung ist schwierig und das Angebot muss zuverlässig sein. Kritiker befürchten außerdem, dass volle Züge ohne Ausbau zu Frust führen. Wenn zusätzliche Fahrgäste in bereits volle Busse steigen, wird ein billiges Ticket ohne Angebotsausbau schnell enttäuschen.\n\nEin sozial gestaffelter Preis könnte mit häufigeren Verbindungen und Mindeststandards für ländliche Strecken verbunden werden. Finanzierung, Auslastung und Pünktlichkeit müssten gemeinsam geprüft werden, damit der Erfolg nicht nur an verkauften Tickets gemessen wird.\n\nEin einheitlicher Preis erleichtert zwar die Orientierung, doch regionale Unterschiede bleiben. In dicht besiedelten Gebieten fahren viele Linien; auf dem Land kostet jeder zusätzliche Takt mehr. Die Finanzierung müsste diese ungleichen Voraussetzungen offen berücksichtigen.\n\nOb „Ein günstiges Monatsticket für alle“ überzeugt, hängt daher vom Nutzen, der praktischen Belastung und einer fairen Umsetzung ab. Bezahlbare Mobilität braucht somit einen guten Tarif und ein Angebot, auf das sich die Fahrgäste tatsächlich verlassen können.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Ein günstiges Monatsticket für alle?\n\nÖffentlicher Verkehr soll einfacher werden, doch jemand muss ihn bezahlen",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Nennen Sie klar Ihre Position und begründen Sie diese mit mindestens zwei Argumenten (z. B. soziale Teilhabe, Umweltschutz vs. Finanzierung, Angebotslücken).",
+              "Beziehen Sie sich konkret auf den Text (z. B. Auszubildende, abendliche Verbindungen, volle Züge) und verknüpfen Sie dies mit eigenen Erfahrungen.",
+              "Diskutieren Sie Lösungsvorschläge aus dem Text (z. B. sozial gestaffelter Preis, Angebotsausbau, Mindeststandards) und bewerten Sie diese.",
+              "Verwenden Sie typische B2-Redemittel zur Meinungsäußerung (z. B. 'Ich bin der festen Überzeugung, dass...', 'Einerseits... andererseits...', 'Dem Text zufolge...', 'Meiner Erfahrung nach...')."
+            ],
+            "expected_answer": "Also, ich finde das Thema wirklich spannend, denn es betrifft ja fast jeden von uns. Ich habe den Text aufmerksam gelesen und bin der Meinung, dass ein günstiges Monatsticket für alle eine großartige Idee ist, aber nur, wenn bestimmte Bedingungen erfüllt sind. Einfach nur den Preis zu senken, wäre meiner Ansicht nach zu kurz gedacht. Ich möchte das gerne anhand meiner eigenen Erfahrungen erklären. Ich wohne selbst etwas außerhalb der Stadt und bin auf den Bus angewiesen, um zur Arbeit zu kommen. Dem Text zufolge wurde ja in der Umfrage festgestellt, dass abends fehlende Verbindungen ein noch größeres Problem sind als der Preis. Genau das kann ich aus eigener Erfahrung bestätigen. Ein günstiges Ticket nützt mir leider überhaupt nichts, wenn ich abends nach einem Kinobesuch oder einem Treffen mit Freunden nicht mehr nach Hause komme, weil der letzte Bus schon um kurz nach acht fährt. Dann bin ich quasi gezwungen, doch das Auto zu nehmen, obwohl ich eigentlich lieber umweltfreundlich fahren würde. Das Argument der Befürworter, dass ein günstiges Ticket den Autoverkehr reduzieren kann, ist zwar absolut richtig und wünschenswert, aber es funktioniert eben nur, wenn das Angebot auch stimmt. Einerseits verstehe ich die kritischen Stimmen im Text sehr gut, die vor vollen Zügen und Frust warnen. Wenn ich morgens im überfüllten Bus stehen muss, weil nicht genug Wagen eingesetzt werden, dann ist das wirklich unangenehm und schreckt ab. Andererseits finde ich den Vorschlag eines sozial gestaffelten Preises sehr überzeugend. Warum sollte ein Spitzenverdiener genauso viel bezahlen wie eine Auszubildende oder ein Student? Das wäre doch viel gerechter und würde auch einen Teil der Finanzierungsprobleme lösen, die im Text angesprochen werden. Das Geld, das so eingenommen wird, könnte man dann direkt in den dringend nötigen Ausbau der Infrastruktur stecken, besonders auf dem Land. Ich bin der festen Überzeugung, dass die Politik hier in der Pflicht ist. Bezahlbare Mobilität ist ein Teil der öffentlichen Daseinsvorsorge und darf nicht nur am Gewinn gemessen werden, wie es im Text so schön heißt. Man müsste die Finanzierung, die Auslastung und die Pünktlichkeit gemeinsam betrachten. Eine mögliche Lösung wäre aus meiner Sicht, einen Mindeststandard für ländliche Strecken gesetzlich festzulegen, zum Beispiel einen Stundentakt bis Mitternacht. Nur wenn der Tarif günstig und das Angebot zuverlässig ist, werden die Leute wirklich umsteigen. Dann wäre das Ticket ein echter Gewinn für die Umwelt und die soziale Teilhabe.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

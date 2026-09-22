@@ -1,0 +1,70 @@
+{
+  "id": "practice-writing-14",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 14 — Begründung: Urlaubsantrag außerhalb der Saison",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie möchten Ihren Jahresurlaub außerhalb der üblichen Ferienzeiten nehmen, was in Ihrer Abteilung unüblich ist. Schreiben Sie eine kurze Begründung an Ihre Führungskraft.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie einen konkreten, nachvollziehbaren Grund.",
+              "Zeigen Sie, dass Sie die Auswirkung auf das Team bedacht haben.",
+              "Formulieren Sie höflich, aber direkt."
+            ],
+            "register": "halbformell",
+            "min_words": 70,
+            "rubric_id": 8,
+            "task_type": "give_reasons",
+            "rubric_key": "kurzantwort",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie einen konkreten, nachvollziehbaren Grund.",
+              "Zeigen Sie, dass Sie die Auswirkung auf das Team bedacht haben.",
+              "Formulieren Sie höflich, aber direkt."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Anrede und Betreffzeile nicht vergessen",
+              "Konkreten, nachvollziehbaren Grund nennen (z. B. Familienfeier, besondere Reisebedingungen, Kurse)",
+              "Verständnis für die unübliche Zeit zeigen und Auswirkungen aufs Team bedenken (z. B. Übergabe, Vertretung, keine Projektkollisionen)",
+              "Klare, direkte Bitte formulieren und Gesprächsbereitschaft signalisieren",
+              "Typische B2-Redemittel: ‚Ich würde gerne … beantragen‘, ‚Mir ist bewusst, dass …‘, ‚Um Engpässe zu vermeiden, habe ich …‘, ‚Ich bitte um Ihr Verständnis‘"
+            ],
+            "expected_answer": "Betreff: Urlaubsantrag außerhalb der Ferienzeiten\n\nSehr geehrte Frau Müller,\n\nhiermit möchte ich meinen Jahresurlaub vom 12. bis 23. Mai beantragen. Der Grund ist die Hochzeit meines Bruders in Kanada, die ich mit der ganzen Familie feiern werde. Mir ist bewusst, dass dieser Zeitraum außerhalb der üblichen Ferien liegt. Um Engpässe zu vermeiden, habe ich bereits mit dem Team gesprochen und eine detaillierte Übergabe an Herrn Schulze vorbereitet, der meine Aufgaben übernehmen kann. Zudem fallen in diesen zwei Wochen keine wichtigen Projekttermine an. Ich bitte Sie daher um Ihr Verständnis und hoffe auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\nAnna Berger",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_nachbarschaftsstreit",
+  "order_index": 19,
+  "icon": "💬",
+  "title": "Fahrräder im Treppenhaus",
+  "capability": "de-escalating a neighbour dispute while still fixing the problem",
+  "proof": "Fahrräder im Treppenhaus",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_nachbarschaftsstreit"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

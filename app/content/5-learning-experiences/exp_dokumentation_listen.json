@@ -1,0 +1,112 @@
+{
+  "id": "exp_dokumentation_listen",
+  "source_id": "src_dokumentation",
+  "kind": "listening",
+  "ord": 0,
+  "title": "Dokumentation: Tablet oder Papier?",
+  "minutes": 8,
+  "primary_capability": "understand_speech",
+  "secondary_capabilities": [
+    "concede",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein kurzes Gespräch zwischen zwei Kollegen. Eine neue App, ein Streit — und am Ende geht es um etwas anderes, als es zuerst klang.",
+        "Sie hören es zweimal: einmal ganz, dann in Abschnitten. Genau wie in der Prüfung."
+      ]
+    },
+    {
+      "t": "listen_source",
+      "mode": "whole",
+      "plays": 2,
+      "sourceId": "src_dokumentation"
+    },
+    {
+      "q": "Was hat Markus letzte Woche mit der App erlebt?",
+      "t": "sourceq",
+      "ms": 12111,
+      "kind": "detail",
+      "answer": 0,
+      "explain": "Er sagt es direkt: „letzte Woche hat die App bei mir einen Fehler gefunden … Zwei Einträge, die sich widersprochen haben.“",
+      "options": [
+        "Die App hat einen Widerspruch zwischen zwei Einträgen gefunden.",
+        "Die App ist bei ihm mehrmals abgestürzt.",
+        "Er hat die App zum ersten Mal benutzt."
+      ],
+      "sourceId": "src_dokumentation"
+    },
+    {
+      "q": "Warum findet Sabine Papier trotzdem oft schneller?",
+      "t": "sourceq",
+      "ms": 53167,
+      "kind": "detail",
+      "answer": 0,
+      "explain": "Sie sagt es genau so: „Ich muss nicht warten, bis das Gerät hochgefahren ist.“ Über ihre technischen Fähigkeiten oder die Fehlerquote von Papier sagt sie nichts.",
+      "options": [
+        "Weil sie nicht warten muss, bis ein Gerät hochgefahren ist.",
+        "Weil sie mit Tablets grundsätzlich nicht gut umgehen kann.",
+        "Weil Papier weniger Fehler enthält."
+      ],
+      "sourceId": "src_dokumentation"
+    },
+    {
+      "q": "Markus sagt: „Das ist doch eher ein Problem mit den alten Geräten, oder? Nicht mit der Idee an sich.“ Was macht er damit?",
+      "t": "sourceq",
+      "ms": 65222,
+      "kind": "inference",
+      "answer": 1,
+      "explain": "Indem er das Problem auf „die alten Geräte“ schiebt, rettet er die grundsätzliche Idee der App vor Sabines Kritik — ohne ihren Punkt (das Hochfahren nervt) zu bestreiten.",
+      "options": [
+        "Er gibt zu, dass die ganze App eine schlechte Idee war.",
+        "Er trennt zwischen der Technik, die man verbessern kann, und dem Prinzip, das er verteidigen will.",
+        "Er fordert, sofort neue Geräte zu kaufen."
+      ],
+      "sourceId": "src_dokumentation"
+    },
+    {
+      "q": "Worum geht es Sabine am Ende wirklich?",
+      "t": "sourceq",
+      "ms": 76833,
+      "kind": "main_idea",
+      "answer": 1,
+      "explain": "Ihr letzter Beitrag macht es klar: „Mich stört ehrlich gesagt weniger die App selbst als der Zeitpunkt.“ Wer nur ihren ersten Satz hört, hält sie für eine grundsätzliche Gegnerin der App. Das ist sie nicht.",
+      "options": [
+        "Sie lehnt die App insgesamt ab und will zu Papier zurück.",
+        "Sie stört sich weniger an der App als am fehlenden Training und am schlechten Zeitpunkt der Einführung.",
+        "Sie ist mit allem einverstanden, solange die Geräte neu sind."
+      ],
+      "sourceId": "src_dokumentation"
+    },
+    {
+      "q": "Wie reagiert Markus, als Sabine sagt, es habe an einer Einweisung gefehlt?",
+      "t": "sourceq",
+      "ms": 88000,
+      "kind": "attitude",
+      "answer": 1,
+      "explain": "„Da hast du recht. Eine Schulung vorher wäre besser gewesen.“ Kurz und ohne Einschränkung — anders als bei den Punkten davor, wo er jeweils noch ein Gegenargument brachte.",
+      "options": [
+        "Er widerspricht ihr und verteidigt die Einführung.",
+        "Er stimmt ihr zu, ohne etwas hinzuzufügen.",
+        "Er wechselt sofort das Thema zurück zur Technik."
+      ],
+      "sourceId": "src_dokumentation"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_dokumentation_listen",
+  "created_at": "2026-09-16T06:44:54.621Z",
+  "updated_at": "2026-09-16T06:47:13.171Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

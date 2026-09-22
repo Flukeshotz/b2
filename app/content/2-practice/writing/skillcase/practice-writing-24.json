@@ -1,0 +1,69 @@
+{
+  "id": "practice-writing-24",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 24 — E-Mail: Terminabsprache mit einem Lieferanten",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Schreiben Sie eine E-Mail an einen Lieferanten, um einen Termin für eine Lieferung zu vereinbaren, die sich mit Ihrem aktuellen Zeitplan überschneidet.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Erklären Sie kurz die Terminüberschneidung.",
+              "Schlagen Sie konkret einen alternativen Termin vor.",
+              "Bitten Sie um Bestätigung."
+            ],
+            "register": "formell",
+            "min_words": 80,
+            "rubric_id": 8,
+            "task_type": "workplace_email",
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie kurz die Terminüberschneidung.",
+              "Schlagen Sie konkret einen alternativen Termin vor.",
+              "Bitten Sie um Bestätigung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klarer Betreff und höfliche Anrede/Grußformel (E-Mail-Format)",
+              "Sachliche Erklärung der Terminüberschneidung mit konkretem Datum",
+              "Konkreter, realistischer Alternativtermin mit Begründung (z. B. ‚besser geeignet, weil…‘)",
+              "Höfliche Bitte um Rückmeldung/Bestätigung (z. B. Konjunktiv II: ‚Wäre es möglich…?‘)"
+            ],
+            "expected_answer": "Betreff: Terminänderung für Lieferung am 15.06.\n\nSehr geehrte Damen und Herren,\n\nleider überschneidet sich der vereinbarte Liefertermin am 15.06. um 10:00 Uhr mit einer dringenden internen Veranstaltung, sodass wir die Ware zu diesem Zeitpunkt nicht annehmen können.\n\nWäre es möglich, die Lieferung auf den 16.06. um 14:00 Uhr zu verschieben? Dieser Termin würde deutlich besser in unseren Zeitplan passen und wir könnten die Annahme reibungslos gewährleisten.\n\nIch wäre Ihnen dankbar, wenn Sie mir den Alternativtermin kurz bestätigen könnten. Für Rückfragen stehe ich Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t2-p5",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #5",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Innenstädte sonntags autofrei werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Struktur: Klare Positionierung zu Beginn, 2–3 gut ausgeführte Argumente mit Beispielen, kurzer Blick auf die Gegenseite, abschließende Zusammenfassung der eigenen Haltung.",
+              "Inhalt: Konkrete Vorteile nennen (z. B. Lebensqualität, Umweltschutz, neue Nutzungsmöglichkeiten des Raums) und mögliche Gegenargumente (z. B. Erreichbarkeit, Anwohner) sachlich entkräften.",
+              "Redemittel B2: Konjunktiv II für Vorschläge („könnte man“, „wäre es sinnvoll“), komplexe Satzstrukturen mit „indem“, „dadurch, dass“, Diskursmarker wie „Ein weiterer Aspekt ist…“, „Dem lässt sich entgegenhalten, dass…“, „Zusammenfassend möchte ich betonen…“.",
+              "Zeitmanagement: Ca. 330 Wörter in 180 Sekunden bedeuten klares, nicht zu schnelles Sprechen; Fokus auf flüssige Übergänge zwischen den Argumenten."
+            ],
+            "expected_answer": "Meiner Ansicht nach ist die Idee, Innenstädte sonntags autofrei zu machen, absolut unterstützenswert, und ich möchte das gerne mit einigen Punkten untermauern. Zunächst einmal geht es um die Lebensqualität. Stellen Sie sich vor, Sie gehen an einem Sonntag durch die Stadt, und anstatt von Abgasen und Motorenlärm geplagt zu werden, hören Sie Vogelgezwitscher, Kinderlachen und vielleicht einen Straßenmusiker. Indem wir den Verkehr für einen Tag in der Woche drastisch reduzieren, schaffen wir Räume, in denen Menschen sich wirklich erholen können. Das ist ein unschätzbarer Wert, gerade in unserer oft so hektischen Zeit. Ein zweiter wichtiger Aspekt ist die Möglichkeit, den öffentlichen Raum völlig neu zu nutzen. Cafés und Restaurants könnten ihre Terrassen großzügig erweitern, es gäbe Platz für spontane Flohmärkte, für Sportkurse im Freien oder einfach dafür, dass Familien gefahrlos Fahrrad fahren können. Dadurch, dass die Straßen nicht mehr nur reine Verkehrsadern sind, wird die Innenstadt zu einem echten sozialen Treffpunkt, was auch den lokalen Einzelhandel und die Gastronomie beleben kann, weil die Leute viel lieber und länger verweilen. Natürlich muss man die Gegenargumente ernst nehmen. Kritiker könnten einwenden, dass die Erreichbarkeit für Anwohner oder ältere Menschen leidet und dass der Lieferverkehr vor Problemen steht. Dem lässt sich jedoch entgegenhalten, dass man kluge Ausnahmeregelungen schaffen kann. Anwohner könnten mit einer Sondergenehmigung zu ihren Parkplätzen fahren, und für den Lieferverkehr ließe sich ein Zeitfenster am frühen Morgen einrichten. Auch der öffentliche Nahverkehr müsste natürlich weiterhin uneingeschränkt fahren und vielleicht sogar verdichtet werden. Was die Befürchtung angeht, dass der Verkehr einfach in die umliegenden Wohngebiete verlagert wird, so wäre es die Aufgabe der Stadtplanung, durch gute Park-and-Ride-Konzepte am Stadtrand gegenzusteuern. Zusammenfassend möchte ich betonen, dass ein autofreier Sonntag kein Selbstzweck ist, sondern eine Investition in die Zukunft unserer Städte. Es ist eine Chance, einmal in der Woche zu erleben, wie eine menschengerechte und nicht autogerechte Stadt aussehen kann. Ich bin überzeugt, dass die Vorteile für das Gemeinwohl die organisatorischen Herausforderungen bei Weitem überwiegen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

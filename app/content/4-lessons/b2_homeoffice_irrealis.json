@@ -1,0 +1,155 @@
+{
+  "id": "b2_homeoffice_irrealis",
+  "order_index": 59,
+  "icon": "📐",
+  "title": "Was gewesen wäre",
+  "capability": "proposing something so it lands as a suggestion, not an order",
+  "proof": "Homeoffice: zwei Tage im Büro — Pflicht oder Unsinn?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Was gewesen wäre",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Ein Satz aus dem Thread. Der letzte von Kerstin_M — und der wichtigste.",
+            "Erst schauen wir, was er bedeutet. Die Form kommt später."
+          ]
+        },
+        {
+          "q": "Was ist in Kerstins Firma tatsächlich passiert?",
+          "t": "readq",
+          "mode": "meaning",
+          "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+          "answer": 1,
+          "explain": "Genau umgekehrt, als der Satz auf den ersten Blick klingt. Sie beschreibt nicht, was war — sie beschreibt, was NICHT war. Im ersten Beitrag steht es direkt: „festgelegt vom Teamleiter, nicht von uns“.",
+          "options": [
+            "Die Regel wurde im Team ausgehandelt.",
+            "Die Regel wurde ohne das Team festgelegt.",
+            "Es gibt bei ihr gar keine Anwesenheitspflicht."
+          ],
+          "sourceId": "src_homeoffice",
+          "capability": "speculate"
+        },
+        {
+          "q": "Und was sagt sie damit über sich selbst?",
+          "t": "readq",
+          "mode": "meaning",
+          "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+          "answer": 2,
+          "explain": "Beides zugleich, und das ist der Trick: Sie sagt, wozu sie bereit gewesen wäre, und macht damit sichtbar, dass es nicht dazu gekommen ist. Ein normaler Vergangenheitssatz kann nur eines von beidem.",
+          "options": [
+            "Dass sie die Regel mitgetragen hat.",
+            "Dass sie die Regel künftig mitragen wird.",
+            "Dass sie sie mitgetragen hätte — es aber nicht getan hat."
+          ],
+          "sourceId": "src_homeoffice",
+          "capability": "speculate"
+        },
+        {
+          "q": "Sie könnte auch einfach schreiben: „Die Regel ist falsch.“ Warum tut sie das nicht?",
+          "t": "readq",
+          "mode": "meaning",
+          "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+          "answer": 1,
+          "explain": "Der unwirkliche Satz erledigt zwei Dinge auf einmal: Er nimmt der Gegenseite das Argument, sie sei grundsätzlich dagegen — und er benennt trotzdem, was schiefgelaufen ist. Deshalb schreibt sie danach: „dann wäre vermutlich etwas ganz Ähnliches dabei herausgekommen“.",
+          "options": [
+            "Weil sie sich nicht traut, deutlich zu werden.",
+            "Weil sie die Regel gar nicht ablehnt — sondern nur, wie sie zustande kam.",
+            "Weil sie hofft, dass die Regel zurückgenommen wird."
+          ],
+          "sourceId": "src_homeoffice",
+          "capability": "speculate"
+        },
+        {
+          "q": "Welcher Satz sagt Ihnen, dass es NICHT so gelaufen ist?",
+          "t": "gcontrast",
+          "lead": "Zwei Sätze, fast dieselben Wörter.",
+          "answer": 1,
+          "explain": "A berichtet: es ist passiert, und sie hat mitgetragen. B nimmt beides zurück — weder wurde ausgehandelt, noch hat sie mitgetragen. Dieselben Ereignisse, entgegengesetzte Wirklichkeit.",
+          "options": [
+            "A",
+            "B",
+            "Beide sagen dasselbe"
+          ],
+          "sourceId": "src_homeoffice",
+          "variants": [
+            {
+              "de": "Die Regel wurde im Team ausgehandelt. Ich habe sie mitgetragen.",
+              "label": "A"
+            },
+            {
+              "de": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie mitgetragen.",
+              "label": "B"
+            }
+          ]
+        },
+        {
+          "q": "Bei welchem Satz ist die Sache noch offen?",
+          "t": "gcontrast",
+          "lead": "Und jetzt zwei unwirkliche Sätze.",
+          "answer": 0,
+          "explain": "C spricht über etwas, das noch passieren könnte — ein Angebot, fast. D spricht über eine Gelegenheit, die vorbei ist; da ist nichts mehr zu verhandeln. Wer D meint und C sagt, klingt versöhnlicher, als er ist. Kerstin meint D.",
+          "options": [
+            "C",
+            "D",
+            "Bei beiden"
+          ],
+          "sourceId": "src_homeoffice",
+          "variants": [
+            {
+              "de": "Würde die Regel im Team ausgehandelt, würde ich sie mittragen.",
+              "label": "C"
+            },
+            {
+              "de": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie mitgetragen.",
+              "label": "D"
+            }
+          ]
+        },
+        {
+          "t": "gform",
+          "lead": "Jetzt die Form. Sie besteht aus zwei Hälften, und beide sehen gleich aus.",
+          "rule": "Beide Hälften: <b>hätte</b> oder <b>wäre</b> + Partizip. Mehr ist es nicht.",
+          "label": "Konjunktiv II, Vergangenheit",
+          "parts": [
+            {
+              "de": "Wäre die Regel ausgehandelt worden,",
+              "note": "was nicht der Fall war",
+              "role": "Bedingung"
+            },
+            {
+              "de": "hätte ich sie mitgetragen.",
+              "note": "und deshalb auch nicht geschah",
+              "role": "Folge"
+            }
+          ],
+          "extras": [
+            "„Wenn“ darf wegfallen — dann steht das Verb vorn: <b>Hätte</b> man uns gefragt, …",
+            "Mit „wenn“ geht es genauso: <b>Wenn</b> man uns gefragt <b>hätte</b>, …"
+          ]
+        },
+        {
+          "t": "guse",
+          "hint": "Die Bedingung, die gefehlt hat — und die Folge, zu der es deshalb nicht gekommen ist.",
+          "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+          "context": "Bei Ihnen wurde einmal etwas entschieden, ohne dass jemand Sie vorher gefragt hat. Machen Sie Kerstins Zug: Sie sind nicht gegen die Entscheidung selbst — Sie sind gegen das Verfahren. Bringen Sie beides in einen Satz.",
+          "sourceId": "src_homeoffice"
+        },
+        {
+          "t": "guse",
+          "hint": "Zwei Hälften: die eine Sache, die anders sein musste — und die Folge, die daran hing.",
+          "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+          "context": "Etwas ist bei Ihnen einmal schiefgegangen — eine Planung, eine Schicht, ein Termin. Es lag an einer einzelnen Sache: eine Information kam zu spät, jemand fiel aus, ein Raum war belegt. Schreiben Sie über den anderen Verlauf, den es deshalb nicht gab.",
+          "sourceId": "src_homeoffice"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

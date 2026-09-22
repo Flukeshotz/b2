@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-4",
+  "board": "custom",
+  "title": "Hörverstehen — Interview: Alltag einer Physiotherapeutin",
+  "minutes": 10,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Interview: Alltag einer Physiotherapeutin",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_4_physiotherapeutin.mp3",
+        "duration_seconds": 48.1,
+        "voices": "klaus+ingrid"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was, laut Frau Adler, denken viele Menschen fälschlicherweise über ihren Beruf?",
+          "options": [
+            "Dass der Beruf keine Ausbildung erfordert.",
+            "Dass Physiotherapie sehr gut bezahlt wird.",
+            "Dass es nur um ein bisschen Massage geht."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Dass es nur um ein bisschen Massage geht."
+          },
+          "explanation": "\"Die meisten denken, wir massieren nur ein bisschen und das war's.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was nennt Frau Adler als größte Herausforderung?",
+          "options": [
+            "Die körperliche Anstrengung.",
+            "Zu wenige Patienten.",
+            "Die knappe Zeit pro Patient."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Die knappe Zeit pro Patient."
+          },
+          "explanation": "\"Ehrlich gesagt die Zeit … der Terminkalender lässt meistens nur zwanzig zu.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Adler bräuchte pro Patient eigentlich mehr Zeit, als der Terminkalender zulässt.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"bräuchte ich oft dreißig Minuten … aber der Terminkalender lässt meistens nur zwanzig zu.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Woran macht Frau Adler ihre Zufriedenheit mit dem Beruf fest?",
+          "options": [
+            "An der Zusammenarbeit mit Ärzten.",
+            "An den guten Arbeitszeiten.",
+            "Am sichtbaren Erfolg, wenn ein Patient wieder schmerzfrei ist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Am sichtbaren Erfolg, wenn ein Patient wieder schmerzfrei ist."
+          },
+          "explanation": "\"Wenn ein Patient … wieder schmerzfrei die Treppe hochgehen kann, ist das ein Erfolg, den man direkt sieht.\""
+        }
+      ]
+    }
+  ]
+}

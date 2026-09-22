@@ -1,0 +1,93 @@
+{
+  "id": "practice-listening-19",
+  "board": "custom",
+  "title": "Hörverstehen — Anrufbeantworter: Wohnungsbesichtigung absagen",
+  "minutes": 6,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Anrufbeantworter: Wohnungsbesichtigung absagen",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_19_besichtigung_absage.mp3",
+        "duration_seconds": 29,
+        "voices": "mia"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum ruft Frau Sailer an?",
+          "options": [
+            "Um sich über die Wohnung zu beschweren.",
+            "Um die Wohnung sofort zu mieten.",
+            "Um den Besichtigungstermin für morgen abzusagen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Um den Besichtigungstermin für morgen abzusagen."
+          },
+          "explanation": "\"der für morgen um siebzehn Uhr geplant war. Leider muss ich kurzfristig absagen.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum kann Frau Sailer den Termin nicht wahrnehmen?",
+          "options": [
+            "Wegen eines dringenden Termins auf der Arbeit.",
+            "Weil sie kein Interesse mehr an der Wohnung hat.",
+            "Weil sie krank ist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen eines dringenden Termins auf der Arbeit."
+          },
+          "explanation": "\"weil bei mir auf der Arbeit ein dringender Termin dazwischengekommen ist.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt Frau Sailer als Alternative vor?",
+          "options": [
+            "Freitagvormittag, zu einem beliebigen Zeitpunkt.",
+            "Denselben Tag, nur später am Abend.",
+            "Erst in zwei Wochen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Freitagvormittag, zu einem beliebigen Zeitpunkt."
+          },
+          "explanation": "\"stattdessen am Freitag zu einem beliebigen Zeitpunkt am Vormittag vorbeizukommen.\""
+        }
+      ]
+    }
+  ]
+}

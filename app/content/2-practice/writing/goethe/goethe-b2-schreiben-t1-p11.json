@@ -1,0 +1,71 @@
+{
+  "id": "goethe-b2-schreiben-t1-p11",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #11",
+  "minutes": 45,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+      "minutes": 45,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie schreiben einen Forumsbeitrag zu kostenlosem öffentlichem Nahverkehr.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie schreiben einen Forumsbeitrag zu kostenlosem öffentlichem Nahverkehr.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie schreiben einen Forumsbeitrag zu kostenlosem öffentlichem Nahverkehr.",
+            "guidance": [
+              "Äußern Sie Ihre Meinung zu kostenlosem öffentlichem Nahverkehr.",
+              "Nennen Sie Gründe, warum diese Idee in vielen Städten diskutiert wird.",
+              "Nennen Sie Schwierigkeiten bei der Umsetzung.",
+              "Nennen Sie Vorteile, wenn der Nahverkehr attraktiver gemacht wird."
+            ],
+            "min_words": 150,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "forum_post",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Äußern Sie Ihre Meinung zu kostenlosem öffentlichem Nahverkehr.",
+              "Nennen Sie Gründe, warum diese Idee in vielen Städten diskutiert wird.",
+              "Nennen Sie Schwierigkeiten bei der Umsetzung.",
+              "Nennen Sie Vorteile, wenn der Nahverkehr attraktiver gemacht wird."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Meinungsäußerung zu kostenlosem Nahverkehr mit Begründung (nicht nur Ja/Nein).",
+              "Nennung von mindestens zwei konkreten Gründen für die Diskussion (z. B. Klimaschutz, Verkehrsentlastung).",
+              "Darstellung realistischer Umsetzungsschwierigkeiten (z. B. Finanzierung, Kapazitätsprobleme).",
+              "Beschreibung von Vorteilen eines attraktiveren Nahverkehrs, die über die Kostenfreiheit hinausgehen (z. B. Taktung, Komfort).",
+              "Kohärenter Textaufbau mit Einleitung, logischer Verknüpfung der Leitpunkte und einem Schlusssatz."
+            ],
+            "expected_answer": "Liebe Forumsmitglieder,\n\nzum Thema kostenloser öffentlicher Nahverkehr möchte ich heute meine Gedanken teilen. Ich persönlich stehe dieser Idee zwiegespalten gegenüber, denn so verlockend sie auf den ersten Blick klingt, so komplex ist die Umsetzung.\n\nDass diese Idee in vielen Städten diskutiert wird, hat meiner Meinung nach zwei Hauptgründe. Einerseits ist der Kampf gegen den Klimawandel dringender denn je, und ein attraktiver Nahverkehr könnte viele Menschen zum Umstieg vom Auto bewegen. Andererseits leiden zahlreiche Innenstädte unter Verkehrsinfarkt und Luftverschmutzung, sodass man nach radikalen Lösungen sucht, um die Lebensqualität zu verbessern.\n\nAllerdings sehe ich erhebliche Schwierigkeiten bei der Umsetzung. Die zentrale Frage ist die Finanzierung: Woher soll das Geld kommen, wenn Ticketeinnahmen wegfallen? Die Steuerzahler müssten vermutlich dafür aufkommen, was sozial ungerecht sein kann. Zudem wären die Verkehrsbetriebe in Stoßzeiten völlig überlastet, wenn die Nachfrage sprunghaft anstiege, ohne dass die Kapazitäten entsprechend ausgebaut würden.\n\nUnabhängig von der Kostenfrage ist es entscheidend, den Nahverkehr generell attraktiver zu machen. Ein engmaschigeres Netz, häufigere Fahrten und moderne, saubere Fahrzeuge wären enorme Vorteile. Wenn Busse und Bahnen auch in ländliche Regionen fahren und man sich sicher und komfortabel fühlt, würden viele freiwillig umsteigen. Das wäre meines Erachtens nachhaltiger als ein rein kostenloses, aber möglicherweise überfülltes und vernachlässigtes System.\n\nAbschließend bin ich überzeugt, dass nicht der Preis allein, sondern vor allem die Qualität und Verlässlichkeit des Angebots den Ausschlag geben.\n\nViele Grüße\nMarie",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "t03_aupair_beschwerde",
+  "rubric_id": 2,
+  "prompt_de": "Sie hatten aufgrund der folgenden Werbeanzeige über Schultz & Partner eine Au-pair-Stelle in Deutschland angetreten und sind nun sehr enttäuscht.\n\nHerzlich Willkommen in Deutschland! \nMöchten Sie gerne als Au-pair nach Deutschland?\nDann finden Sie hier alle Infos und jede Hilfe, die Sie dafür brauchen. \nBei uns finden Sie Beratung, Vermittlung und Betreuung, günstige Konditionen, langjährige Erfahrung und einen super-guten Service. \nAu-pair-Agentur Schultz & Partner\nRegenstr. 101 \n90451 Nürnberg\nTel.: 0911 / 5544223 \nFax: 0911 / 5544224\nE-Mail: au-pair-schultz@web.de\n\nSie haben etwa ein Vierteljahr bei einer Gastfamilie in Deutschland verbracht. Sie sind mit Ihrer Situation sehr unzufrieden. Auch Ihre Betreuung durch die Agentur entspricht in keiner Weise den Vertragsbedingungen. \nSchreiben Sie einen Brief an die Au-pair-Agentur, in dem Sie sich über Ihre Situation beschweren. \nBehandeln Sie darin entweder\na) mindestens drei der folgenden Punkte oder \nb) mindestens zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl.\nIhre Situation in der Gastfamilie\nIhre Erwartungen\nBetreuung durch die Agentur\nLösungsvorschlag\nBevor Sie den Brief schreiben, überlegen Sie sich die passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Ihre Adresse, Adresse der Agentur, Datum, Betreffzeile, Anrede und Schlussformel. Schreiben Sie mindestens 150 Wörter.",
+  "content_points": [
+    {
+      "id": "situation",
+      "detector": "(gastfamilie|situation|bei der familie|meine aufgaben|arbeite)",
+      "label_de": "Ihre Situation in der Gastfamilie"
+    },
+    {
+      "id": "erwartungen",
+      "detector": "(erwartet|erwartung|versprochen|gehofft|gedacht, dass)",
+      "label_de": "Ihre Erwartungen"
+    },
+    {
+      "id": "betreuung",
+      "detector": "(agentur|betreuung|ansprechpartner|niemand .{0,20}erreich|keine hilfe)",
+      "label_de": "Betreuung durch die Agentur"
+    },
+    {
+      "id": "loesung",
+      "detector": "(vorschlag|schlage vor|l(ö|oe)sung|bitte ich sie|erwarte ich|w(ü|ue)rde ich vorschlagen)",
+      "label_de": "Lösungsvorschlag"
+    }
+  ],
+  "target_words": 150,
+  "source": "MERLIN corpus (CC BY-SA 4.0), Eurac Research",
+  "information_points": null,
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

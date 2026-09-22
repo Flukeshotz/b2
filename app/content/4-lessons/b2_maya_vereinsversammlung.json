@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_vereinsversammlung",
+  "order_index": 31,
+  "icon": "💬",
+  "title": "Neue Trainingszeiten vorschlagen",
+  "capability": "arguing for change while respecting an established tradition",
+  "proof": "Neue Trainingszeiten vorschlagen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_vereinsversammlung"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

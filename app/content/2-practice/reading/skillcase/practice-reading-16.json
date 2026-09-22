@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-16",
+  "board": "custom",
+  "title": "Leseverstehen — Forum: Lohnt sich ein Diensthandy wirklich?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Lohnt sich ein Diensthandy wirklich?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "JONAS_R: Meine Firma bietet jetzt ein Diensthandy an, aber ich zögere. Bedeutet das nicht, dass ich auch abends und am Wochenende erreichbar sein muss?\n\nNADINE_W: Kommt total auf die Firmenkultur an. Bei uns gibt es ein Diensthandy, aber eine klare Regel: nach 18 Uhr wird nicht erwartet, dass man antwortet. Für mich ist es super praktisch — ich muss mein privates Handy nicht für berufliche Apps nutzen.\n\nJONAS_R: Klingt gut, aber gilt diese Regel bei euch auch wirklich in der Praxis, oder nur auf dem Papier?\n\nNADINE_W: Ehrlich gesagt: größtenteils schon. Es gab am Anfang zwei, drei Fälle, wo ein Teamleiter trotzdem spätabends geschrieben hat, aber das wurde intern angesprochen und hat sich seitdem erledigt.\n\nTOM_B: Bei uns ist es leider anders — offiziell heißt es auch \"keine Erwartung nach Feierabend\", aber wer nicht innerhalb von einer Stunde antwortet, bekommt am nächsten Tag komische Blicke. Das Diensthandy ist bei uns eher ein Fluch als ein Segen.\n\nNADINE_W: Das zeigt wohl: Die Technik selbst ist neutral. Entscheidend ist, ob die Firma die eigene Regel auch tatsächlich lebt.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Sorge äußert Jonas zu Beginn?",
+          "options": [
+            "Dass ein Diensthandy ständige Erreichbarkeit bedeuten könnte.",
+            "Dass er kein Diensthandy bekommt.",
+            "Dass ein Diensthandy zu teuer ist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass ein Diensthandy ständige Erreichbarkeit bedeuten könnte."
+          },
+          "explanation": "\"Bedeutet das nicht, dass ich auch abends und am Wochenende erreichbar sein muss?\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei Toms Firma wird informell erwartet, dass man auch nach Feierabend schnell reagiert.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"wer nicht innerhalb von einer Stunde antwortet, bekommt am nächsten Tag komische Blicke\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie unterscheiden sich Nadines und Toms Erfahrungen trotz ähnlicher offizieller Regeln?",
+          "options": [
+            "Nadine hat gar keine Regel, Tom schon.",
+            "Beide haben identische Erfahrungen gemacht.",
+            "Bei Nadine wird die Regel weitgehend eingehalten, bei Tom nur auf dem Papier."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Bei Nadine wird die Regel weitgehend eingehalten, bei Tom nur auf dem Papier."
+          },
+          "explanation": "Nadine: \"größtenteils schon\" eingehalten; Tom: \"eher ein Fluch als ein Segen\" trotz gleicher offizieller Regel."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Schlussfolgerung zieht Nadine am Ende der Diskussion?",
+          "options": [
+            "Entscheidend ist, ob die Firma ihre eigene Regel tatsächlich lebt.",
+            "Nur junge Mitarbeitende sollten ein Diensthandy bekommen.",
+            "Diensthandys sollten grundsätzlich abgeschafft werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Entscheidend ist, ob die Firma ihre eigene Regel tatsächlich lebt."
+          },
+          "explanation": "\"Entscheidend ist, ob die Firma die eigene Regel auch tatsächlich lebt.\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "staerken_schwaechen",
+  "de": "Was sind Ihre Stärken und Schwächen?",
+  "category": "self",
+  "sourced": true,
+  "assesses": "Self-awareness, and whether you can talk about a weakness without hiding.",
+  "trap": "A disguised strength ('I work too hard'). Interviewers hear it every time.",
+  "trapDetect": {
+    "pattern": "(zu (viel|hart|genau|perfekt)|perfektionist|arbeite zu)",
+    "scope": "all"
+  },
+  "strong": "A real weakness plus what you actively do about it.",
+  "followUp": "Und woran merken Sie, dass sich das verbessert hat?",
+  "model_answer": null
+}

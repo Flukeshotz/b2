@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_elternabend",
+  "order_index": 26,
+  "icon": "💬",
+  "title": "Zu viele Hausaufgaben ansprechen",
+  "capability": "raising a concern with a teacher in appropriately adapted register",
+  "proof": "Zu viele Hausaufgaben ansprechen",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_elternabend"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

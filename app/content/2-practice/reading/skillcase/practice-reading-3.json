@@ -1,0 +1,127 @@
+{
+  "id": "practice-reading-3",
+  "board": "custom",
+  "title": "Leseverstehen — Die Vier-Tage-Woche: mutig oder naiv?",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Die Vier-Tage-Woche: mutig oder naiv?",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Seit ein mittelständisches Softwareunternehmen aus Leipzig letztes Jahr auf eine Vier-Tage-Woche bei vollem Lohnausgleich umgestellt hat, wird in den Medien wieder heftig diskutiert, ob dieses Modell tatsächlich zukunftsfähig ist oder ob es sich nur ein paar Branchen leisten können.\n\nBefürworter verweisen auf die Zahlen des Leipziger Unternehmens: Die Fehlzeiten sanken um ein Drittel, die Fluktuation nahm spürbar ab, und überraschenderweise blieb die Produktivität nahezu unverändert — die Mitarbeitenden arbeiteten an vier Tagen konzentrierter, statt an fünf Tagen mit Leerlauf. Für Befürworter ist das der Beweis, dass Arbeitszeit und Ergebnis längst nicht mehr proportional zusammenhängen.\n\nKritiker halten dagegen, dass sich dieses Ergebnis kaum auf andere Branchen übertragen lässt. In der Pflege, im Einzelhandel oder in der Produktion, wo physische Anwesenheit zu bestimmten Zeiten zwingend nötig ist, lässt sich verlorene Zeit nicht einfach durch höhere Konzentration wettmachen. Ein Krankenhaus kann nicht vier Tage lang doppelt so schnell pflegen, um am fünften Tag zu schließen.\n\nAm Ende, so resümiert eine Wirtschaftsforscherin, werde die Vier-Tage-Woche wohl kein Modell für alle, sondern ein Werkzeug für Branchen, in denen Ergebnis und Anwesenheit tatsächlich entkoppelt werden können.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war laut Text das überraschende Ergebnis beim Leipziger Unternehmen?",
+          "options": [
+            "Die Fluktuation stieg stark an.",
+            "Die Produktivität blieb trotz weniger Arbeitstage fast gleich.",
+            "Die Löhne mussten gesenkt werden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Produktivität blieb trotz weniger Arbeitstage fast gleich."
+          },
+          "explanation": "\"überraschenderweise blieb die Produktivität nahezu unverändert\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Laut Text lässt sich das Leipziger Ergebnis problemlos auf die Pflege übertragen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Kritiker: \"kaum auf andere Branchen übertragen\", explizit am Beispiel Pflege."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Argument nutzen die Kritiker konkret gegen die Übertragbarkeit?",
+          "options": [
+            "Die Mitarbeitenden wollen keine kürzere Woche.",
+            "Die Löhne sind in anderen Branchen zu niedrig.",
+            "Physische Anwesenheit ist in manchen Berufen zeitlich zwingend."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Physische Anwesenheit ist in manchen Berufen zeitlich zwingend."
+          },
+          "explanation": "\"wo physische Anwesenheit zu bestimmten Zeiten zwingend nötig ist\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie fasst die Wirtschaftsforscherin die Debatte am Ende zusammen?",
+          "options": [
+            "Die Vier-Tage-Woche wird sich überall durchsetzen.",
+            "Das Modell wird komplett scheitern.",
+            "Es wird kein Modell für alle, sondern für Branchen mit entkoppeltem Ergebnis und Anwesenheit."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Es wird kein Modell für alle, sondern für Branchen mit entkoppeltem Ergebnis und Anwesenheit."
+          },
+          "explanation": "Der letzte Satz formuliert genau diese differenzierte Schlussfolgerung."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was bedeutet im Text die Formulierung \"Ergebnis und Anwesenheit entkoppeln\"?",
+          "options": [
+            "Mitarbeitende müssen öfter anwesend sein.",
+            "Das Ergebnis wird nicht mehr gemessen.",
+            "Das Ergebnis hängt nicht mehr direkt von der Anwesenheitszeit ab."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Das Ergebnis hängt nicht mehr direkt von der Anwesenheitszeit ab."
+          },
+          "explanation": "Der Begriff fasst zusammen, dass in manchen Branchen weniger Zeit dasselbe Ergebnis liefern kann — anders als etwa in der Pflege."
+        }
+      ]
+    }
+  ]
+}

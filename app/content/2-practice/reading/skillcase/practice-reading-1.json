@@ -1,0 +1,127 @@
+{
+  "id": "practice-reading-1",
+  "board": "custom",
+  "title": "Leseverstehen — Zwischen zwei Kulturen",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Zwischen zwei Kulturen",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Als ich vor vier Jahren aus Manila nach Deutschland kam, dachte ich, die größte Herausforderung würde die Sprache sein. Ich hatte recht — aber nicht so, wie ich es erwartet hatte. Die Grammatik konnte ich lernen, die Vokabeln büffeln. Was mir wirklich zu schaffen machte, war etwas, wofür es in keinem Lehrbuch eine Lektion gab: der Ton.\n\nIn den Philippinen sagt man selten direkt \"Nein\". Man sagt \"Vielleicht\", \"Wir schauen mal\" oder \"Das könnte schwierig werden\" — und jeder versteht, dass die Antwort eigentlich Nein bedeutet. Hier auf der Station lernte ich schnell, dass diese Höflichkeit oft als Unklarheit missverstanden wurde. Eine Kollegin fragte mich einmal frustriert: \"Kannst du das jetzt machen oder nicht?\" Ich hatte \"Ich versuche es\" gesagt und dabei eigentlich gemeint, dass es eng werden würde.\n\nInzwischen sage ich direkter, was ich meine. Nicht, weil ich meine Höflichkeit aufgegeben hätte, sondern weil ich verstanden habe, dass Direktheit hier nicht als unfreundlich gilt, sondern als Klarheit, die dem Team hilft. Umgekehrt musste sich auch mein Team daran gewöhnen, dass eine zurückhaltende Antwort von mir nicht automatisch Zustimmung bedeutet.\n\nWas mir am meisten geholfen hat, war eine einzige Frage, die eine erfahrene Kollegin mir stellte, nachdem sie das Missverständnis bemerkt hatte: \"Was genau meinst du, wenn du 'vielleicht' sagst?\" Diese Frage — ohne Vorwurf, mit echtem Interesse — hat mehr für die Zusammenarbeit getan als jeder Sprachkurs.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war für die Autorin die größere Herausforderung als die deutsche Grammatik?",
+          "options": [
+            "Vokabeln lernen",
+            "die Aussprache",
+            "den richtigen Ton/die richtige Direktheit zu treffen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "den richtigen Ton/die richtige Direktheit zu treffen"
+          },
+          "explanation": "\"Was mir wirklich zu schaffen machte, war … der Ton\" — nicht Grammatik oder Vokabeln."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In den Philippinen sagt man laut Text häufig direkt \"Nein\".",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Der Text sagt das Gegenteil: \"man sagt selten direkt 'Nein'\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie reagierte die Kollegin auf die Aussage \"Ich versuche es\"?",
+          "options": [
+            "Sie verstand die Höflichkeit sofort.",
+            "Sie ignorierte die Aussage.",
+            "Sie war frustriert und fragte direkt nach."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie war frustriert und fragte direkt nach."
+          },
+          "explanation": "\"Eine Kollegin fragte mich einmal frustriert: 'Kannst du das jetzt machen oder nicht?'\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat die Autorin nach eigener Aussage NICHT aufgegeben, obwohl sie direkter geworden ist?",
+          "options": [
+            "ihre Zurückhaltung im Team",
+            "ihre Höflichkeit",
+            "ihre Sprache"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ihre Höflichkeit"
+          },
+          "explanation": "\"Nicht, weil ich meine Höflichkeit aufgegeben hätte …\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Frage der Kollegin half der Autorin am meisten?",
+          "options": [
+            "\"Kannst du das machen oder nicht?\"",
+            "\"Warum bist du so unklar?\"",
+            "\"Was genau meinst du, wenn du 'vielleicht' sagst?\""
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "\"Was genau meinst du, wenn du 'vielleicht' sagst?\""
+          },
+          "explanation": "Die letzte, ohne Vorwurf gestellte Frage wird im Text explizit als die hilfreichste genannt."
+        }
+      ]
+    }
+  ]
+}

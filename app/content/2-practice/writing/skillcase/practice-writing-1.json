@@ -1,0 +1,67 @@
+{
+  "id": "practice-writing-1",
+  "board": "custom",
+  "title": "Kurzantwort-Übung 1 — Stellung nehmen",
+  "minutes": 20,
+  "source": "Skillcase, authored. General B2 writing practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Kurzantwort",
+      "instruction": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "minutes": 20,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Team wird diskutiert, ob feste Pausenzeiten mit einer Vertretungsliste eingeführt werden sollen (siehe die Diskussion um Personalmangel und Pausenausfall). Nehmen Sie dazu kurz Stellung: Sind Sie dafür oder dagegen, und warum? Nennen Sie mindestens zwei Gründe.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Geben Sie mindestens zwei Gründe.",
+              "Nutzen Sie kausale Konnektoren (weil, da, deshalb)."
+            ],
+            "min_words": 80,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 100
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Nennen Sie Ihre Position klar am Anfang.",
+              "Geben Sie mindestens zwei Gründe.",
+              "Nutzen Sie kausale Konnektoren (weil, da, deshalb)."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (dafür/dagegen) mit einem Satz wie 'Ich bin der festen Überzeugung, dass...'",
+              "Zwei gut ausgeführte Gründe mit kausalen Konnektoren (weil, da, deshalb, aus diesem Grund) und einem konkreten Beispiel",
+              "Logischer Textaufbau: Einleitung mit Position, zwei Argumente mit Begründung, kurzer Schlusssatz",
+              "B2-typische Redemittel: 'Ein weiterer wichtiger Aspekt ist...', 'Dies führt dazu, dass...', 'Zusammenfassend lässt sich sagen...'"
+            ],
+            "expected_answer": "Ich bin klar für die Einführung fester Pausenzeiten mit einer Vertretungsliste. Erstens erhöht eine verbindliche Regelung die Planungssicherheit für alle, weil jeder Mitarbeiter genau weiß, wann er sich erholen kann und wann er Kollegen vertreten muss. Dies führt dazu, dass niemand aus falsch verstandener Rücksichtnahme auf seine Pause verzichtet. Zweitens wird die Arbeitsbelastung durch die Vertretungsliste gerechter verteilt, da nicht immer dieselben Personen einspringen müssen. Aus diesem Grund sinkt das Risiko von Überlastung und krankheitsbedingten Ausfällen. Insgesamt bin ich überzeugt, dass diese Lösung sowohl die Gesundheit des Einzelnen als auch die Teamatmosphäre stärkt.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien B2: Strukturierter Aufbau, angemessener Wortschatz, korrekte Satzverknüpfungen und präziser Bezug zur Aufgabenstellung."
+        }
+      ]
+    }
+  ]
+}

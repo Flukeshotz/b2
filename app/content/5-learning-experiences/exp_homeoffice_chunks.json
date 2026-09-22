@@ -1,0 +1,156 @@
+{
+  "id": "exp_homeoffice_chunks",
+  "source_id": "src_homeoffice",
+  "kind": "vocabulary",
+  "ord": 2,
+  "title": "Fünf Sätze, mit denen man widerspricht",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "concede",
+    "justify",
+    "structure"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Begründet wird das mit …",
+      "the reason they give for it is …",
+      "🔗"
+    ],
+    [
+      "Ich will das gar nicht rundweg ablehnen",
+      "I don't want to reject that out of hand",
+      "🔗"
+    ],
+    [
+      "Nur folgt daraus doch nicht …",
+      "but that doesn't mean …",
+      "🔗"
+    ],
+    [
+      "Mich stört weniger X als Y",
+      "what bothers me is less X than Y",
+      "🔗"
+    ],
+    [
+      "…, weiß ich allerdings auch nicht",
+      "…, I don't actually know either",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Fünf Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — fünf Züge. Damit kann man widersprechen, ohne dass es nach Streit klingt."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "begruendet_wird_das_mit",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "nicht_rundweg_ablehnen",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "q": "Womit fangen Sie an?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A räumt zuerst ein und macht damit Platz für den Einwand. C ist auch richtiges Deutsch und würde später im Gespräch gut passen — nur nimmt es das Zugeständnis nicht mit, und genau das brauchen Sie, wenn Sie nicht als Bremser gelten wollen. B gibt bloß eine fremde Begründung wieder; das ist kein Einwand.",
+      "options": [
+        "Ich will das gar nicht rundweg ablehnen — nur kommt es gerade zur Unzeit.",
+        "Begründet wird das mit der neuen Software.",
+        "Mich stört weniger das Programm als der Zeitpunkt."
+      ],
+      "exercises": [
+        "nicht_rundweg_ablehnen",
+        "stoert_weniger_als"
+      ],
+      "situation": "Ihre Abteilung soll auf ein neues Programm umsteigen. Sie halten die Umstellung nicht für falsch — aber der Zeitpunkt ist schlecht, und das wollen Sie sagen, ohne als Bremser dazustehen."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "nur_folgt_daraus_nicht",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "q": "Wie widersprechen Sie, ohne ihr zu widersprechen?",
+      "t": "chunk_choose",
+      "answer": 1,
+      "explain": "B lässt ihre Aussage vollständig stehen und greift nur den Schluss an — sie kann nichts verteidigen, weil Sie ihr nichts weggenommen haben. A bestreitet die Aussage selbst, was Sie gar nicht wollten. C gibt nur wieder, was gesagt wurde.",
+      "options": [
+        "Das sehe ich anders — neue Mitarbeiter kommen gut allein zurecht.",
+        "Nur folgt daraus doch nicht, dass alle jede Woche kommen müssen.",
+        "Begründet wird das mit der Einarbeitung."
+      ],
+      "exercises": [
+        "nur_folgt_daraus_nicht"
+      ],
+      "situation": "Eine Kollegin sagt: „Neue Mitarbeiter brauchen mehr Anleitung.“ Sie finden das völlig richtig. Trotzdem lehnen Sie ihren Vorschlag ab, deshalb alle Teams wöchentlich zusammenzurufen."
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "stoert_weniger_als",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "t": "notice",
+      "w": 4,
+      "ex": "weiss_ich_allerdings_auch_nicht",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "q": "Womit hören Sie auf?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A räumt eine Grenze des eigenen Arguments ein — nach vier Minuten, in denen Sie recht hatten, macht das glaubwürdig statt schwach. B ordnet zwei Probleme, aber Sie haben ja schon gesagt, worum es geht. C ist ein Zugeständnis an jemand anderen; hier gab es niemanden, dem Sie etwas zugestehen müssten.",
+      "options": [
+        "Ob ein anderer Dienstplan das löst, weiß ich allerdings auch nicht.",
+        "Mich stört weniger die Übergabe als der Dienstplan.",
+        "Ich will das gar nicht rundweg ablehnen."
+      ],
+      "exercises": [
+        "weiss_ich_allerdings_auch_nicht",
+        "stoert_weniger_als"
+      ],
+      "situation": "Sie haben in einer Besprechung vier Minuten lang erklärt, woran die Übergaben scheitern. Ihre Analyse steht. Eine Lösung haben Sie aber nicht."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "nur_folgt_daraus_nicht",
+      "hint": "Erst zugeben, dann den Schluss angreifen. Was soll daraus angeblich folgen — und warum folgt es nicht?",
+      "context": "Jemand sagt Ihnen: „Die Krankenstände sind seit dem Frühjahr gestiegen.“ Nehmen Sie an, das stimmt. Widersprechen Sie trotzdem dem Schluss, den die Person daraus zieht.",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "stoert_weniger_als",
+      "hint": "Beide Hälften: was Sie weniger stört, und was stattdessen.",
+      "context": "Etwas an Ihrer Arbeit oder Ihrem Alltag stört Sie — aber nicht das, was alle vermuten. Stellen Sie das richtig.",
+      "sourceId": "src_homeoffice"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_homeoffice_chunks",
+  "created_at": "2026-09-08T07:40:35.714Z",
+  "updated_at": "2026-09-09T08:13:18.463Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

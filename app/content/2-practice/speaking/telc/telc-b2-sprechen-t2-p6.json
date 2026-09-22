@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t2-p6",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 2 — Diskussion über ein Thema #6",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion über ein Thema",
+      "instruction": "Lesen Sie folgenden Text. Diskutieren Sie mit Ihrer Partnerin bzw. Ihrem Partner über den Inhalt des Textes, bringen Sie Ihre Erfahrungen ein und äußern Sie Ihre Meinung. Begründen Sie Ihre Argumente. Sprechen Sie über mögliche Lösungen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": "In Familien und Stadtteilprojekten wird derzeit darüber diskutiert, ob Familien regelmäßig bildschirmfreie Zeiten einführen sollten. Viele Eltern berichten, dass private Bildschirme Gespräche, Schlaf und gemeinsame Aktivitäten beeinflussen.\n\nEine Familie spielte wieder gemeinsam, musste aber Ausnahmen für Fahrpläne zulassen. Sieben Familien führten vier Wochen lang Tagebuch; manche genossen die Ruhe, andere mussten wegen Schule und Verabredungen Ausnahmen machen.\n\nGegen eine pauschale Regel spricht jedoch: Kontakte, Hausaufgaben und Planung laufen oft digital. Kritiker befürchten außerdem, dass ein strenger ganzer Tag schnell zu Konflikten führt. Für getrennt lebende Verwandte oder Jugendliche mit digitalen Lerngruppen kann ein ganzer Offline-Tag jedoch unpraktisch sein.\n\nDer Vorschlag verspricht vor allem folgenden Gewinn: Gemeinsame Zeit kann bewusster erlebt und Streit um Geräte reduziert werden. So könnten Kinder und Erwachsene wieder andere Freizeitideen entwickeln. Gemeinsames Kochen, Spaziergänge und Spiele bekamen wieder einen festen Platz, weil kein Gerät ständig Aufmerksamkeit verlangte.\n\nBesonders viel Streit entstand dort, wo Erwachsene ihre eigenen Regeln weniger ernst nahmen als die der Kinder. Realistischer wäre ein gemeinsam vereinbartes Zeitfenster mit erlaubten Ausnahmen für Fahrpläne, Hausaufgaben und wichtige Kontakte. Jede Familie könnte nach einigen Sonntagen prüfen, ob Gespräche, Stimmung und Schlaf tatsächlich besser geworden sind.\n\nDer Vorschlag sollte nicht zu einem Wettbewerb um die strengste Familie werden. Entscheidend ist, ob alle Beteiligten gemeinsam Zeit gewinnen. Wenn Kinder nur gelangweilt warten, während Erwachsene heimlich Nachrichten lesen, wird das Ziel offensichtlich verfehlt.\n\nBei „Bildschirmfreie Sonntage für Familien“ entscheidet am Ende nicht nur die Idee, sondern auch ihre faire und realistische Durchführung. Eine freiwillige Pause überzeugt eher durch gute gemeinsame Erlebnisse als durch ein Verbot, das niemand konsequent einhält.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Bildschirmfreie Sonntage für Familien?\n\nEin freier Tag ohne Handy und Tablet verspricht Ruhe, passt aber nicht immer",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Wiedergabe der Kernidee und der Hauptargumente aus dem Text (Pro: mehr gemeinsame Zeit, weniger Streit; Contra: unpraktisch für Schule/Kontakte, Konfliktpotenzial).",
+              "Einbringen eigener Erfahrungen oder Beobachtungen zum Medienkonsum in Familien oder im eigenen Umfeld.",
+              "Klare, begründete Meinungsäußerung mit Abwägung von Vor- und Nachteilen (z. B. Flexibilität statt striktes Verbot).",
+              "Vorschlag realistischer Lösungen oder Kompromisse (z. B. feste Zeitfenster, Vorbildfunktion der Eltern, Ausnahmen definieren).",
+              "Verwendung typischer B2-Redemittel zur Diskussion (z. B. 'Einerseits... andererseits...', 'Ich bin der festen Überzeugung, dass...', 'Was den Text betrifft, so...')."
+            ],
+            "expected_answer": "Also, ich finde das Thema bildschirmfreie Sonntage wirklich spannend und auch sehr aktuell. Der Text zeigt ja ganz gut beide Seiten: Einerseits den Wunsch nach mehr Ruhe und echter gemeinsamer Zeit, andererseits die praktischen Schwierigkeiten im Alltag. Was den Text betrifft, so stimme ich völlig zu, dass ständige Bildschirme oft Gespräche und gemeinsame Aktivitäten stören. Ich habe das selbst in meiner Familie beobachtet. Wenn mein kleiner Neffe zu Besuch ist und alle am Handy hängen, spielt er irgendwann nur noch allein. Das ist wirklich schade. Von daher finde ich die Grundidee, bewusst offline zu sein, absolut unterstützenswert. Man gewinnt ja so viel: Man kocht zusammen, macht einen Spaziergang oder spielt einfach mal wieder ein Brettspiel. Diese Qualität der gemeinsamen Zeit ist durch nichts zu ersetzen. Allerdings halte ich eine pauschale, strenge Regel für den ganzen Tag, so wie sie im Text auch kritisch gesehen wird, für wenig sinnvoll. Ich bin der festen Überzeugung, dass ein totales Verbot schnell zu Streit und Widerstand führt, besonders bei Jugendlichen. Meiner Erfahrung nach ist es doch so, dass Schule, Hausaufgaben und die Planung von Treffen mit Freunden heute fast vollständig digital laufen. Einem Teenager zu verbieten, am Sonntag seine Lerngruppe zu kontaktieren oder den Fahrplan zu checken, das sorgt nur für schlechte Stimmung und erreicht genau das Gegenteil von dem, was man möchte. Die Gefahr sehe ich auch darin, dass es zu einem Wettbewerb wird, welche Familie die strengste ist, oder dass die Eltern heimlich doch aufs Handy schauen, während die Kinder es nicht dürfen. Das ist, wie der Text treffend sagt, völlig kontraproduktiv. Meiner Meinung nach liegt der Schlüssel in einem flexiblen und fairen Kompromiss. Anstatt eines ganzen Tages fände ich ein gemeinsam vereinbartes Zeitfenster viel realistischer, zum Beispiel von 10 bis 17 Uhr. In dieser Zeit sind die Geräte weg, aber wichtige Ausnahmen für Hausaufgaben oder ein kurzes Telefonat mit den Großeltern, die weiter weg wohnen, sind erlaubt. Entscheidend ist doch, dass die Eltern mit gutem Beispiel vorangehen und sich auch wirklich daran halten. Nur so kann aus einer lästigen Pflicht ein freiwilliger Gewinn für alle werden. Wenn die Familie nach ein paar Wochen merkt, dass die Stimmung besser ist und man wieder mehr miteinander redet, dann überzeugt das viel mehr als jedes Verbot. Letztendlich geht es ja nicht um Perfektion, sondern darum, gemeinsam Zeit zu gewinnen und andere Freizeitideen wiederzuentdecken.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

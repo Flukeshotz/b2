@@ -1,0 +1,89 @@
+{
+  "id": "practice-listening-6",
+  "board": "custom",
+  "title": "Hörverstehen — Bahnhofsdurchsage: Verspätung",
+  "minutes": 5,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Bahnhofsdurchsage: Verspätung",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_6_bahnhofsdurchsage.mp3",
+        "duration_seconds": 27.6,
+        "voices": "conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Um wie viele Minuten verspätet sich der Zug?",
+          "options": [
+            "Fünfundzwanzig Minuten.",
+            "Fünfzehn Minuten.",
+            "Zwölf Minuten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Fünfundzwanzig Minuten."
+          },
+          "explanation": "\"verspätet sich voraussichtlich um fünfundzwanzig Minuten\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist der Grund für die Verspätung?",
+          "options": [
+            "Eine technische Störung an einem vorausfahrenden Zug.",
+            "Ein Streik des Personals.",
+            "Schlechtes Wetter."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Eine technische Störung an einem vorausfahrenden Zug."
+          },
+          "explanation": "\"Grund ist eine technische Störung an einem vorausfahrenden Zug.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Reisende mit Anschluss in Hannover sollen sich am Servicepunkt informieren.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"werden gebeten, sich am Servicepunkt über alternative Verbindungen zu informieren\"."
+        }
+      ]
+    }
+  ]
+}

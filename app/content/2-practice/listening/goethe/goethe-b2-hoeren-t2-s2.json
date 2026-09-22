@@ -1,0 +1,156 @@
+{
+  "id": "goethe-b2-hoeren-t2-s2",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 2",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil2-set2.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Neumann meint, Computerspiele gehören ins Museum, weil sie ...",
+          "options": [
+            "heute teurer produziert werden als Filme.",
+            "junge Leute mit Spielwettbewerben ins Haus locken.",
+            "etwas über Kultur und Gesellschaft erzählen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "heute teurer produziert werden als Filme."
+          },
+          "explanation": "Die richtige Antwort ist a) \"heute teurer produziert werden als Filme.\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist beim Bewahren alter Spiele besonders schwierig?",
+          "options": [
+            "Man muss neben Geräten auch Software, Rechte und Spielkontexte sichern.",
+            "Man muss vor dem Ausstellen alle Gebrauchsspuren entfernen.",
+            "Ein Foto vom Gerät ersetzt die technische Sammlung."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man muss vor dem Ausstellen alle Gebrauchsspuren entfernen."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Man muss vor dem Ausstellen alle Gebrauchsspuren entfernen.\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum lässt Frau Neumann Besucher nicht einfach stundenlang spielen?",
+          "options": [
+            "Die meisten alten Spiele sind für das Publikum zu schwierig.",
+            "Ausstellungen brauchen kurze und gelenkte Spielsituationen.",
+            "Alle alten Geräte sind für Besucher grundsätzlich gesperrt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Alle alten Geräte sind für Besucher grundsätzlich gesperrt."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Alle alten Geräte sind für Besucher grundsätzlich gesperrt.\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bei älteren Museumsbesuchern hat Frau Neumann beobachtet, dass sie ...",
+          "options": [
+            "sich hauptsächlich technische Details erklären lassen.",
+            "Ausstellungen zu Computerspielen meistens meiden.",
+            "Spiele oft mit eigenen Erinnerungen verbinden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sich hauptsächlich technische Details erklären lassen."
+          },
+          "explanation": "Die richtige Antwort ist a) \"sich hauptsächlich technische Details erklären lassen.\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie geht Frau Neumann mit problematischen Spielinhalten um?",
+          "options": [
+            "Sie zeigt solche Spiele grundsätzlich nicht.",
+            "Sie ordnet die Inhalte ein, statt sie zu verstecken oder zu feiern.",
+            "Sie überlässt die Bewertung allein den Besuchern."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie ordnet die Inhalte ein, statt sie zu verstecken oder zu feiern."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Sie ordnet die Inhalte ein, statt sie zu verstecken oder zu feiern.\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sollten Jugendliche ihrer Ansicht nach lernen?",
+          "options": [
+            "nach Entscheidungen und Regeln in Spielen zu fragen.",
+            "möglichst schnell selbst Spiele zu programmieren.",
+            "alte Spiele nicht mit neuen Spielen zu vergleichen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "alte Spiele nicht mit neuen Spielen zu vergleichen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"alte Spiele nicht mit neuen Spielen zu vergleichen.\"."
+        }
+      ]
+    }
+  ]
+}

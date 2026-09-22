@@ -1,0 +1,152 @@
+{
+  "id": "telc-b2-sprachbausteine-2",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Sprachbausteine, Übungsset 2",
+  "minutes": 15,
+  "source": "Skillcase, authored. Exam-format practice for telc B2 Sprachbausteine — not an official telc question.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Flexible Arbeitsmodelle",
+      "instruction": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Immer mehr Betriebe bieten Modelle an, (1) ___ Beschäftigte ihre Arbeitszeit selbst einteilen können. Diese Modelle werden von vielen (2) ___ akzeptiert als noch vor einigen Jahren. Ein Vorteil solcher Modelle ist, dass sie sich (3) ___ jeder Lebensphase bewähren — ob mit kleinen Kindern oder pflegebedürftigen Angehörigen. Kritiker weisen (4) ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können. Manche Teams treffen sich deshalb einmal (5) ___ Woche persönlich, um Absprachen zu treffen. So bleibt der Kontakt bestehen, (6) ___ die Arbeitszeiten sich unterscheiden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 1: \"…Modelle an, ___ Beschäftigte ihre Arbeitszeit selbst einteilen können.\"",
+          "options": [
+            "bei denen",
+            "die",
+            "wobei"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "bei denen"
+          },
+          "explanation": "Relativsatz mit Präposition: \"Modelle, BEI DENEN man…\" — das Bezugswort verlangt die Präposition \"bei\" + Relativpronomen im Dativ."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 2: \"Diese Modelle werden von vielen ___ akzeptiert als noch vor einigen Jahren.\"",
+          "options": [
+            "breiter",
+            "breit",
+            "am breitesten"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "breiter"
+          },
+          "explanation": "Vergleichsstruktur mit \"als\" verlangt den Komparativ (\"breiter… als\"), nicht den Positiv oder Superlativ."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 3: \"…dass sie sich ___ jeder Lebensphase bewähren.\"",
+          "options": [
+            "in",
+            "an",
+            "auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "in"
+          },
+          "explanation": "Feste reflexive Verb-Präposition-Verbindung: \"sich in etwas (Dativ) bewähren\" — die Modelle bewähren sich IN jeder Lebensphase. \"An\"/\"auf\" bilden mit \"sich bewähren\" keine feste Verbindung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 4: \"Kritiker weisen ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können.\"",
+          "options": [
+            "darauf",
+            "davon",
+            "dabei"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "darauf"
+          },
+          "explanation": "Feste Verbindung \"auf etwas hinweisen\" — Pronominaladverb \"darauf\" leitet den folgenden dass-Satz ein."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 5: \"…treffen sich deshalb einmal ___ Woche persönlich.\"",
+          "options": [
+            "die",
+            "der",
+            "einer"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die"
+          },
+          "explanation": "Feste Zeitangabe \"einmal DIE Woche\" (= pro Woche) — Akkusativ in dieser festen Wendung."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 6: \"So bleibt der Kontakt bestehen, ___ die Arbeitszeiten sich unterscheiden.\"",
+          "options": [
+            "auch wenn",
+            "sodass",
+            "weil"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "auch wenn"
+          },
+          "explanation": "Konzessiv: der Kontakt bleibt TROTZ unterschiedlicher Arbeitszeiten bestehen — \"auch wenn\" leitet den Gegensatz ein."
+        }
+      ]
+    }
+  ]
+}

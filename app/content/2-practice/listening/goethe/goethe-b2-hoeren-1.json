@@ -1,0 +1,110 @@
+{
+  "id": "goethe-b2-hoeren-1",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Hören, Übungsset 1",
+  "minutes": 8,
+  "source": "Skillcase, original transcript and audio (Azure Neural TTS). Exam-format practice for Goethe B2 Hören — not an official Goethe recording.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Kurzvortrag: Ergebnisse eines Mitarbeitergesprächs",
+      "instruction": "Hören Sie den Kurzvortrag einmal und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe_hoeren_1_mitarbeitergespraech.mp3",
+        "duration_seconds": 39.7,
+        "voices": "conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie viele Mitarbeitergespräche wurden insgesamt geführt?",
+          "options": [
+            "84",
+            "48",
+            "8"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "84"
+          },
+          "explanation": "\"Insgesamt wurden 84 Gespräche geführt.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was war der am häufigsten genannte Wunsch?",
+          "options": [
+            "Mehr Klarheit über Aufstiegsmöglichkeiten.",
+            "Flexiblere Arbeitszeiten.",
+            "Ein höheres Gehalt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Mehr Klarheit über Aufstiegsmöglichkeiten."
+          },
+          "explanation": "\"Der am häufigsten genannte Wunsch war mehr Klarheit über Aufstiegsmöglichkeiten.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Flexiblere Arbeitszeiten wurden genauso oft genannt wie Aufstiegsmöglichkeiten.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"An zweiter Stelle … allerdings mit deutlichem Abstand\" — nicht gleich häufig."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat den Personalleiter positiv überrascht?",
+          "options": [
+            "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit.",
+            "Die niedrige Teilnahmequote.",
+            "Der Wunsch nach mehr Homeoffice."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit."
+          },
+          "explanation": "\"Positiv überrascht hat uns, dass die Zufriedenheit mit der Zusammenarbeit im Team … spürbar gestiegen ist.\""
+        }
+      ]
+    }
+  ]
+}

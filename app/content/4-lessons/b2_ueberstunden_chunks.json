@@ -1,0 +1,117 @@
+{
+  "id": "b2_ueberstunden_chunks",
+  "order_index": 66,
+  "icon": "🔗",
+  "title": "Vier Sätze, mit denen man eine Verallgemeinerung eingrenzt",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Überstunden: auszahlen oder abbauen?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Vier Sätze, mit denen man eine Verallgemeinerung eingrenzt",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+            "Keine Vokabeln — vier Züge, mit denen man widerspricht, ohne zu verallgemeinern."
+          ]
+        },
+        {
+          "t": "notice",
+          "w": 3,
+          "ex": "keine_boese_absicht_sondern",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "t": "notice",
+          "w": 0,
+          "ex": "mag_fuer_x_gelten_fuer_y_nicht",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "q": "Wie widersprechen Sie der Unterstellung?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A erklärt eine plausible andere Ursache, ohne die Regel selbst gutzuheißen — genau das brauchen Sie hier. B passt inhaltlich nicht: es geht nicht um eine Verallgemeinerung. C fragt nur nach, ohne der Unterstellung eine Erklärung entgegenzusetzen.",
+          "options": [
+            "Das ist keine böse Absicht, sondern vermutlich einfach Zeitdruck.",
+            "Das mag für ihn gelten, für uns aber nicht.",
+            "Ist das wirklich so eindeutig?"
+          ],
+          "exercises": [
+            "keine_boese_absicht_sondern"
+          ],
+          "situation": "Ihr Vorgesetzter hat eine unbeliebte Regel eingeführt. Ein Kollege unterstellt ihm böse Absicht. Sie glauben eher an einen anderen Grund, ohne die Regel selbst zu verteidigen."
+        },
+        {
+          "t": "notice",
+          "w": 1,
+          "ex": "ist_das_wirklich_so_eindeutig",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "t": "notice",
+          "w": 2,
+          "ex": "denkbar_waere_doch",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "q": "Wie widersprechen Sie, ohne seine Erfahrung zu bestreiten?",
+          "t": "chunk_choose",
+          "answer": 0,
+          "explain": "A lässt seine Erfahrung vollständig gelten und grenzt nur die Reichweite auf Sie selbst ein — das ist genau die Situation. B passt nicht: niemand hat ihm etwas Böses unterstellt. C schlägt eine Lösung vor, die hier gar nicht gefragt ist.",
+          "options": [
+            "Das mag für dich gelten, für mich aber nicht.",
+            "Das ist keine böse Absicht, sondern eine ehrliche Einschätzung.",
+            "Denkbar wäre doch, den Frühdienst ganz abzuschaffen."
+          ],
+          "exercises": [
+            "mag_fuer_x_gelten_fuer_y_nicht"
+          ],
+          "situation": "Ein Kollege sagt: „Frühdienst ist für alle am anstrengendsten.“ Für Sie persönlich stimmt das nicht — Sie kommen mit Frühdienst gut zurecht, mit Spätdienst weniger."
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "denkbar_waere_doch",
+          "hint": "Der Konjunktiv macht aus der Forderung einen Vorschlag zur Diskussion.",
+          "context": "In Ihrem Team gibt es eine starre Regel, die nicht für jeden gleich gut passt. Schlagen Sie eine flexiblere Alternative vor, ohne sie zu fordern.",
+          "sourceId": "src_ueberstunden"
+        },
+        {
+          "t": "chunk_produce",
+          "ex": "ist_das_wirklich_so_eindeutig",
+          "hint": "Eine Frage, keine Gegenbehauptung.",
+          "context": "Jemand stellt eine Erklärung als völlig sicher dar. Sie sind nicht überzeugt. Fragen Sie höflich nach, statt zu widersprechen.",
+          "sourceId": "src_ueberstunden"
+        }
+      ],
+      "teaches": [
+        [
+          "Das mag für X gelten, für Y aber nicht.",
+          "that may be true for X, but not for Y",
+          "🔗"
+        ],
+        [
+          "Ist das wirklich so eindeutig?",
+          "is that really so clear-cut?",
+          "🔗"
+        ],
+        [
+          "Denkbar wäre doch, …",
+          "one could imagine …",
+          "🔗"
+        ],
+        [
+          "Das ist keine böse Absicht, sondern …",
+          "that's not malicious intent, it's just …",
+          "🔗"
+        ]
+      ]
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

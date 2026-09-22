@@ -1,0 +1,799 @@
+{
+  "id": "core-2026b-v9",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V9",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Das Jahresgespräch — Pflichttermin oder Chance?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Jedes Jahr im Herbst steht bei uns das Mitarbeitergespräch an. Lange habe ich es\nals Pflichttermin gesehen: Man sitzt eine Stunde zusammen, füllt ein Formular aus,\nund die Ziele fürs nächste Jahr stehen ohnehin schon fest, bevor man etwas sagt.\n\nDieses Jahr habe ich mich zum ersten Mal vorbereitet. Ich habe aufgeschrieben, was\nim letzten Jahr gut lief, wo ich Unterstützung gebraucht hätte und welches Ziel mich\nselbst interessiert. Das Ergebnis hat mich überrascht: Von den drei Zielen, die wir\nvereinbart haben, stammen zwei aus meinem eigenen Vorschlag.\n\nMir ist dabei klar geworden, dass die Ziele früher nicht deshalb von oben kamen,\nweil meine Meinung nicht zählte, sondern weil ich nie eine eingebracht hatte. Meine\nVorgesetzte hat das im Gespräch sogar offen angesprochen.\n\nWas mich weiterhin stört, ist der Abstand: Ein Gespräch pro Jahr ist zu wenig, um\nZiele wirklich nachzuhalten. Im Frühjahr weiß oft niemand mehr genau, was vereinbart\nwurde.\n\nAbschaffen würde ich das Gespräch deshalb trotzdem nicht.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt die Autorin das Mitarbeitergespräch am Ende?",
+          "options": [
+            "Sie hält es weiterhin für einen reinen Pflichttermin.",
+            "Sie sieht es jetzt als Chance, kritisiert aber den großen zeitlichen Abstand.",
+            "Sie findet, es sollte ganz abgeschafft werden."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie sieht es jetzt als Chance, kritisiert aber den großen zeitlichen Abstand."
+          },
+          "explanation": "Sie würde das Gespräch „trotzdem nicht“ abschaffen, kritisiert aber, dass ein Termin pro Jahr zu wenig ist. Beides zusammen ergibt die Gesamthaltung."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Zwei der drei vereinbarten Ziele gehen auf den Vorschlag der Autorin zurück.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "„Von den drei Zielen … stammen zwei aus meinem eigenen Vorschlag.“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt die Autorin ein?",
+          "options": [
+            "Dass die Ziele früher von oben kamen, weil sie selbst keine Meinung eingebracht hatte.",
+            "Dass ihre Vorgesetzte ihre Vorschläge grundsätzlich ablehnt.",
+            "Dass sie das Formular nie ausgefüllt hat."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass die Ziele früher von oben kamen, weil sie selbst keine Meinung eingebracht hatte."
+          },
+          "explanation": "„… nicht deshalb von oben kamen, weil meine Meinung nicht zählte, sondern weil ich nie eine eingebracht hatte.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was hat die Autorin dieses Jahr anders gemacht?",
+          "options": [
+            "Sie hat sich zum ersten Mal auf das Gespräch vorbereitet.",
+            "Sie hat das Gespräch verschoben.",
+            "Sie hat eine Kollegin mitgenommen."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie hat sich zum ersten Mal auf das Gespräch vorbereitet."
+          },
+          "explanation": "„Dieses Jahr habe ich mich zum ersten Mal vorbereitet.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Das Gespräch findet jedes Jahr im Herbst statt.",
+            "Die Vorgesetzte hat das Thema im Gespräch offen angesprochen.",
+            "Es wurden fünf Ziele vereinbart.",
+            "Die Autorin möchte das Gespräch abschaffen."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Das Gespräch findet jedes Jahr im Herbst statt.",
+              "Die Vorgesetzte hat das Thema im Gespräch offen angesprochen.",
+              "Es wurden fünf Ziele vereinbart.",
+              "Die Autorin möchte das Gespräch abschaffen."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Das Gespräch findet jedes Jahr im Herbst statt.",
+              "Die Vorgesetzte hat das Thema im Gespräch offen angesprochen."
+            ]
+          },
+          "explanation": "„Jedes Jahr im Herbst“ und „Meine Vorgesetzte hat das … offen angesprochen“ stehen im Text; es waren drei Ziele, und abgeschafft werden soll nichts."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Sie beschreibt das Gespräch als früheren Pflichttermin.",
+              "Sie bereitet sich zum ersten Mal vor.",
+              "Sie erkennt, warum die Ziele früher von oben kamen.",
+              "Sie benennt, was sie am Abstand stört."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "text": [
+              "Sie beschreibt das Gespräch als früheren Pflichttermin.",
+              "Sie bereitet sich zum ersten Mal vor.",
+              "Sie erkennt, warum die Ziele früher von oben kamen.",
+              "Sie benennt, was sie am Abstand stört."
+            ]
+          },
+          "explanation": "Pflichttermin → Vorbereitung → Erkenntnis → verbleibende Kritik. Der Text dreht nach der Vorbereitung."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Im Büro. Zwei Kolleginnen sprechen über ein Mitarbeitergespräch.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v9_mitarbeitergespraech.mp3",
+        "duration_seconds": 44.7,
+        "voices": "mia+katja"
+      },
+      "listening_script": [
+        {
+          "speaker": "Kollegin A",
+          "text": "Du, dein Jahresgespräch — das war doch für diesen Donnerstag angesetzt, oder?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "War es, ja. Frau Keller hat es aber verschoben, weil sie die Zahlen aus dem Quartal noch abwarten will. Jetzt ist es am Dienstag in zwei Wochen."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Dienstag in zwei Wochen also, nicht diesen Donnerstag. Und das Formular — musst du das vorher ausfüllen?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Ja, das bleibt so. Sie hat nur eine Sache ergänzt: Ich soll zusätzlich ein eigenes Ziel mitbringen, das ich selbst vorschlage."
+        },
+        {
+          "speaker": "Kollegin A",
+          "text": "Moment, habe ich das richtig verstanden — das Formular bleibt, aber du bringst jetzt auch ein eigenes Ziel mit?"
+        },
+        {
+          "speaker": "Kollegin B",
+          "text": "Genau das. Ehrlich gesagt finde ich das gut; so wird es mehr ein Gespräch und weniger eine Kontrolle."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wann findet das Gespräch jetzt statt?",
+          "options": [
+            "Diesen Donnerstag.",
+            "Am Dienstag in zwei Wochen.",
+            "Erst im nächsten Quartal."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Am Dienstag in zwei Wochen."
+          },
+          "explanation": "Donnerstag war angesetzt und wurde verschoben: „Jetzt ist es am Dienstag in zwei Wochen.“"
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie bewertet Kollegin B die neue Vorgabe mit dem eigenen Ziel?",
+          "options": [
+            "Sie findet sie lästig.",
+            "Sie findet sie gut.",
+            "Sie hat dazu keine Meinung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie findet sie gut."
+          },
+          "explanation": "„Ehrlich gesagt finde ich das gut“ — die Bewertung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Formular muss vor dem Gespräch nicht mehr ausgefüllt werden.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Ja, das bleibt so.“ — das Formular muss weiterhin vorher ausgefüllt werden."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde das Gespräch verschoben?",
+          "options": [
+            "Weil Frau Keller die Quartalszahlen abwarten will.",
+            "Weil Kollegin B krank ist.",
+            "Weil das Formular fehlte."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Weil Frau Keller die Quartalszahlen abwarten will."
+          },
+          "explanation": "„weil sie die Zahlen aus dem Quartal noch abwarten will.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Moment, habe ich das richtig verstanden …?“",
+              "„Ehrlich gesagt finde ich das gut.“",
+              "„Sie hat nur eine Sache ergänzt.“"
+            ],
+            "right": [
+              "eine Meinung äußern",
+              "sich vergewissern",
+              "eine Information weitergeben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 2
+            },
+            "text": [
+              "„Moment, habe ich das richtig verstanden …?“ → sich vergewissern",
+              "„Ehrlich gesagt finde ich das gut.“ → eine Meinung äußern",
+              "„Sie hat nur eine Sache ergänzt.“ → eine Information weitergeben"
+            ]
+          },
+          "explanation": "„Habe ich richtig verstanden …?“ sichert das eigene Verständnis ab — auf B2 eine eigene Funktion, nicht bloß eine Frage."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Das Ziel ist ehrgeizig. Ich halte es für erreichbar.",
+            "Das Ziel ist zwar ehrgeizig, ich halte es aber für erreichbar."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie stimmen einem Ziel teilweise zu und machen dann Ihren eigenen Punkt."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das Ziel ist zwar ehrgeizig, ich halte es aber für erreichbar."
+          },
+          "explanation": "„zwar … aber“ räumt den Einwand ein und macht trotzdem den eigenen Punkt."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir treffen uns im Frühjahr noch einmal.",
+            "Man könnte sich im Frühjahr noch einmal treffen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schlagen im Gespräch einen zusätzlichen Termin vor, ohne ihn zu fordern."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte sich im Frühjahr noch einmal treffen."
+          },
+          "explanation": "Der Konjunktiv II macht aus einer Ansage einen Vorschlag."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Während des Gesprächs wurden drei Ziele vereinbart.",
+            "Während dem Gespräch wurden drei Ziele vereinbart."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine Notiz nach dem Gespräch."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Während des Gesprächs wurden drei Ziele vereinbart."
+          },
+          "explanation": "Gesprochen hört man „während dem“ häufig. Geschrieben verlangt „während“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Das Ziel wurde angepasst, weil sich die Zuständigkeiten geändert hatten und es in der alten Form nicht mehr erreichbar gewesen wäre.",
+            "Das Ziel wurde angepasst. Die Zuständigkeiten hatten sich geändert. Es war nicht mehr erreichbar."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie begründen im Protokoll, warum ein Ziel angepasst wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Ziel wurde angepasst, weil sich die Zuständigkeiten geändert hatten und es in der alten Form nicht mehr erreichbar gewesen wäre."
+          },
+          "explanation": "Auf B2 wird der Zusammenhang im Satzgefüge gebaut, nicht in einer Aufzählung von Hauptsätzen."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Im Gespräch wurde eine klare Vereinbarung ___, nachdem beide Seiten ihre Erwartungen ___ hatten.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "getroffen"
+                ]
+              },
+              {
+                "accepted": [
+                  "geäußert",
+                  "formuliert"
+                ]
+              }
+            ],
+            "text": [
+              "getroffen",
+              "geäußert / formuliert"
+            ]
+          },
+          "explanation": "„eine Vereinbarung treffen“ und „Erwartungen äußern/formulieren“ — feste Verbindungen auf B2-Niveau."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Ziele erfolgt einmal im Jahr; die ___ im Frühjahr fehlt bisher.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Vereinbarung",
+                  "Festlegung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Überprüfung",
+                  "Kontrolle"
+                ]
+              }
+            ],
+            "text": [
+              "Vereinbarung / Festlegung",
+              "Überprüfung / Kontrolle"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Vereinbarung“ und „Überprüfung“ gehören zum B2-Wortschatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "ein Ziel",
+              "Feedback",
+              "Verantwortung",
+              "zur Sprache"
+            ],
+            "right": [
+              "übernehmen",
+              "setzen",
+              "bringen",
+              "geben"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 3,
+              "2": 0,
+              "3": 2
+            },
+            "text": [
+              "ein Ziel → setzen",
+              "Feedback → geben",
+              "Verantwortung → übernehmen",
+              "zur Sprache → bringen"
+            ]
+          },
+          "explanation": "ein Ziel setzen · Feedback geben · Verantwortung übernehmen · zur Sprache bringen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Passt Ihnen Dienstag oder soll ich was anderes vorschlagen?",
+            "Ich möchte Sie fragen, ob Ihnen der Dienstag passt oder ob ich einen anderen Termin vorschlagen soll."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine E-Mail an Ihre Vorgesetzte."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Ich möchte Sie fragen, ob Ihnen der Dienstag passt oder ob ich einen anderen Termin vorschlagen soll."
+          },
+          "explanation": "„was anderes“ gehört ins Gespräch. In einer E-Mail an die Vorgesetzte kostet das auf B2 Punkte."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Darf ich den Vorschlag kurz zu Ende erklären? Dann wird klarer, worum es geht.",
+            "Sie hören mir ja gar nicht zu.",
+            "Dann lassen wir das Ziel eben weg."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "Ihre Vorgesetzte unterbricht Sie, bevor Sie Ihr Ziel erklärt haben."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Darf ich den Vorschlag kurz zu Ende erklären? Dann wird klarer, worum es geht."
+          },
+          "explanation": "Man behält den eigenen Beitrag sachlich — ohne Vorwurf und ohne ihn aufzugeben."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Sicht der Autorin auf das Mitarbeitergespräch verändert hat. Nennen Sie auch, was sie weiterhin kritisiert.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die den Wandel (Pflichttermin → Chance durch Vorbereitung) UND die Kritik am Jahresabstand nennt.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die den Wandel (Pflichttermin → Chance durch Vorbereitung) UND die Kritik am Jahresabstand nennt.",
+            "guidance": [
+              "Den Wandel der Sichtweise klar darstellen: vom Pflichttermin hin zu einer Chance durch Vorbereitung.",
+              "Die anhaltende Kritik am zu großen zeitlichen Abstand (Jahresrhythmus) explizit nennen.",
+              "Zwei bis drei prägnante Sätze im Präsens oder Perfekt formulieren.",
+              "Typische Redemittel zur Beschreibung von Veränderungen nutzen (z.B. 'während... früher', 'inzwischen... jedoch')."
+            ],
+            "expected_answer": "Während die Autorin das Mitarbeitergespräch früher als lästigen Pflichttermin empfand, sieht sie es inzwischen dank guter Vorbereitung als echte Chance für die berufliche Entwicklung. Sie kritisiert jedoch weiterhin, dass ein Gespräch pro Jahr zu selten ist, um zeitnah auf Veränderungen reagieren zu können.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Ihre Vorgesetzte schreibt: „Bringen Sie bitte ein Ziel mit.“ Sie sind nicht sicher, ob es ein fachliches oder persönliches Ziel sein soll und wie konkret es sein muss. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen im Konjunktiv II oder mit Modalverben (z. B. 'Dürfte ich...', 'Wäre es möglich...').",
+              "Beide Fragen adressieren die Unklarheit: eine zum Typ des Ziels (fachlich vs. persönlich), eine zur gewünschten Konkretheit.",
+              "Angemessene Anrede und Grußformel für die kurze E-Mail-Antwort an die Vorgesetzte."
+            ],
+            "expected_answer": "Liebe Frau Müller, vielen Dank für Ihre Nachricht. Dürfte ich kurz nachfragen, ob Sie ein fachliches oder ein persönliches Ziel meinen? Zudem wäre es hilfreich zu wissen, wie konkret das Ziel formuliert sein sollte. Mit freundlichen Grüßen, [Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob das jährliche Mitarbeitergespräch durch kurze Gespräche alle drei Monate ersetzt werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zur vorgeschlagenen Änderung (Zustimmung oder Ablehnung).",
+              "Zwei gut ausgeführte Argumente mit Beispielen oder logischer Begründung (z. B. Aktualität, Feedback-Kultur, Zeitaufwand).",
+              "Ehrliches Eingeständnis eines Nachteils der eigenen Position (Relativierung).",
+              "Konkreter, praktikabler Kompromissvorschlag, der den genannten Nachteil abmildert.",
+              "Typische B2-Redemittel: ‚Meiner Ansicht nach...‘, ‚Ein wesentlicher Vorteil ist...‘, ‚Allerdings muss man zugeben, dass...‘, ‚Daher schlage ich vor...‘."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Umstellung auf vierteljährliche Gespräche für eine sehr gute Idee. Meiner Ansicht nach ermöglicht dieser Rhythmus ein zeitnahes Feedback, sodass man Projekte schneller anpassen kann, statt einmal im Jahr vor vollendeten Tatsachen zu stehen. Zudem wird die Kommunikation zwischen Führungskraft und Mitarbeitenden dadurch deutlich verbindlicher und vertrauensvoller. Allerdings muss man zugeben, dass der administrative Aufwand für die Vorbereitung bei vier Terminen pro Jahr spürbar steigt. Daher schlage ich vor, die Quartalsgespräche auf jeweils 20 Minuten zu begrenzen und mit einer einfachen digitalen Checkliste zu arbeiten. So bleibt der Prozess schlank und effizient.\n\nViele Grüße\nAnna Berger",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Firmen führen ein Mitarbeitergespräch pro Jahr, andere kurze Gespräche jedes Quartal. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der Meinung, dass...').",
+              "Mindestens zwei gut ausgeführte Argumente für die eigene Position (z. B. Aktualität, Motivation, schnellere Problemlösung).",
+              "Ein kurzer, fair eingeräumter Nachteil der anderen Option (z. B. Zeitaufwand bei Quartalsgesprächen oder fehlende Aktualität bei Jahresgesprächen).",
+              "Verwendung typischer B2-Redemittel zur Strukturierung (z. B. 'Einerseits... andererseits', 'Hinzu kommt, dass...', 'Allerdings muss man zugeben, dass...').",
+              "Ein kurzer, runder Schlusssatz, der die eigene Meinung noch einmal bekräftigt."
+            ],
+            "expected_answer": "Ich persönlich halte kürzere Gespräche jedes Quartal für deutlich sinnvoller als ein einzelnes Jahresgespräch. Meiner Meinung nach ist der größte Vorteil die hohe Aktualität. In der heutigen schnelllebigen Arbeitswelt verändern sich Projekte und Aufgaben ständig. Wenn man nur einmal im Jahr ein Feedbackgespräch führt, werden wichtige Probleme vielleicht erst nach Monaten angesprochen. Dann ist das Kind aber oft schon in den Brunnen gefallen. Ein vierteljährliches Gespräch ermöglicht es dagegen, frühzeitig gegenzusteuern und Ziele flexibel anzupassen. Ein weiterer Pluspunkt ist die Motivation der Mitarbeiter. Durch regelmäßige Treffen fühlen sie sich kontinuierlich wertgeschätzt und ernst genommen, weil ihre Arbeit nicht nur einmal jährlich Beachtung findet. Das stärkt die Bindung zum Unternehmen enorm. Natürlich muss man zugeben, dass quartalsweise Gespräche für Führungskräfte einen höheren Zeitaufwand bedeuten und manchmal etwas Bürokratie verursachen können. Trotzdem glaube ich, dass dieser Aufwand gut investiert ist, denn unzufriedene oder orientierungslose Mitarbeiter kosten ein Unternehmen am Ende viel mehr. Daher bin ich fest davon überzeugt, dass der regelmäßige Austausch der bessere Weg ist.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

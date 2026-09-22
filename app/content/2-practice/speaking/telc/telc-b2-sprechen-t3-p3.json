@@ -1,0 +1,56 @@
+{
+  "id": "telc-b2-sprechen-t3-p3",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #3",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Die Stadtbibliothek möchte einen kostenlosen Nachmittag für einfache digitale Fragen anbieten. Viele Besucherinnen und Besucher brauchen Hilfe bei Onlineformularen, Dateien oder Videoanrufen. Es gibt zehn Tablets, einen Gruppenraum und zwei Personen, die helfen können. Datenschutz ist besonders wichtig.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nDigitale Hilfe in der Stadtbibliothek",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Struktur: Begrüßung, Nennung des Ziels, eigene Vorschläge (Organisation, Datenschutz, Ablauf), Einladung zur Partnerreaktion.",
+              "Konkrete Vorschläge zu Zeitfenstern, Anmeldung und Raumnutzung (z. B. feste Slots, Nummern ziehen).",
+              "Datenschutz-Aspekt aktiv ansprechen (z. B. Sichtschutz, keine Passwörter notieren, Geräte zurücksetzen).",
+              "Typische B2-Redemittel nutzen: ‚Ich würde vorschlagen, dass …‘, ‚Was hältst du von …?‘, ‚Man könnte …‘, ‚Es wäre sinnvoll, wenn …‘."
+            ],
+            "expected_answer": "Also, ich finde die Idee mit der digitalen Hilfe in der Stadtbibliothek wirklich super, und ich habe mir schon ein paar Gedanken gemacht, wie wir das organisieren könnten. Ich würde vorschlagen, dass wir das Ganze an zwei festen Nachmittagen pro Woche anbieten, zum Beispiel dienstags und donnerstags von 14 bis 17 Uhr. So können sich die Leute darauf einstellen. Was hältst du davon, wenn wir mit einem einfachen Anmeldesystem arbeiten? Man könnte sich entweder vor Ort in eine Liste eintragen oder kurz anrufen. Ich glaube, das ist besser, als wenn alle gleichzeitig kommen, denn wir haben ja nur zehn Tablets und zwei Helfer. Wir könnten pro Person eine halbe Stunde einplanen, dann schaffen wir zwölf Leute pro Nachmittag. Der Gruppenraum ist ideal, weil er eine ruhige Atmosphäre bietet. Wir könnten die Tische so stellen, dass etwas Abstand zwischen den Plätzen ist. Jetzt zum Datenschutz, das ist ja ein zentraler Punkt. Ich schlage vor, dass wir zu Beginn jeder Sitzung eine kurze, mündliche Einverständniserklärung einholen, dass die Person Hilfe bei privaten Daten möchte. Die Helfer sollten außerdem angewiesen werden, niemals Passwörter aufzuschreiben oder zu speichern. Es wäre auch sinnvoll, wenn die Tablets nach jeder Benutzung automatisch alle eingegebenen Daten löschen, also so eine Art Gastmodus. Vielleicht könnten wir zusätzlich einen kleinen Sichtschutz an den Tischen anbringen, damit niemand von außen auf die Bildschirme schauen kann. Was mir noch wichtig ist: Die Helfer sollten nicht nur technische Fragen beantworten, sondern auch ganz praktisch zeigen, wie man zum Beispiel ein Formular ausfüllt, aber die Person tippt selbst. So bleibt die Kontrolle bei den Besuchern. Ich würde außerdem ein kleines Infoblatt vorbereiten, auf dem die wichtigsten Datenschutzregeln einfach erklärt stehen. Das können wir dann auslegen. Ja, das sind so meine ersten Ideen. Was meinst du dazu? Hast du noch andere Vorschläge oder fällt dir etwas ein, das wir anders machen sollten?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

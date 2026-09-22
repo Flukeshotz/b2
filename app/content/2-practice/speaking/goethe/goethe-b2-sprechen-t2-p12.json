@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t2-p12",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 2 — Diskussion mit Partner #12",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 2 — Diskussion mit Partner",
+      "instruction": "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die Frage.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Diskussionsthema: Sollten Kleidungstauschbörsen in Gemeinden stärker gefördert werden?",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Ja/Nein) und strukturierter Aufbau: Einleitung, Hauptteil mit 2-3 Argumenten, Schlussfolgerung.",
+              "Verwendung typischer B2-Redemittel zur Meinungsäußerung (z.B. 'Meiner Ansicht nach', 'Ich bin der festen Überzeugung'), zum Abwägen ('Einerseits... andererseits', 'Obwohl...') und zur Schlussfolgerung ('Aus diesen Gründen', 'Zusammenfassend lässt sich sagen').",
+              "Konkrete und differenzierte Argumente, die über reine Alltagserfahrung hinausgehen (z.B. ökologische, soziale und wirtschaftliche Aspekte ansprechen).",
+              "Adressatengerechte Formulierung für eine Diskussionsrunde (z.B. direkte Ansprache 'Liebe Debattierfreunde', Bezugnahme auf mögliche Gegenargumente)."
+            ],
+            "expected_answer": "Liebe Debattierfreunde, ich bin der festen Überzeugung, dass Kleidungstauschbörsen in unseren Gemeinden unbedingt stärker gefördert werden sollten. Meiner Ansicht nach bieten sie eine Vielzahl von Vorteilen, die weit über den rein modischen Aspekt hinausgehen und sowohl ökologische als auch soziale und wirtschaftliche Dimensionen umfassen. Einerseits ist das ein enorm wichtiger Beitrag zum Umweltschutz. Die Fast-Fashion-Industrie ist einer der größten Umweltverschmutzer weltweit, und indem wir die Lebensdauer von Kleidungsstücken durch Tauschbörsen verlängern, reduzieren wir aktiv den Müllberg und schonen wertvolle Ressourcen wie Wasser und Rohstoffe. Anstatt ständig neue Billigware zu kaufen, die oft nach kurzer Zeit im Müll landet, geben wir gut erhaltener Kleidung eine zweite Chance. Andererseits haben diese Initiativen eine starke soziale Komponente. Sie sind Orte der Begegnung, wo Menschen unabhängig von ihrem Geldbeutel zusammenkommen. Gerade in Zeiten steigender Lebenshaltungskosten ermöglichen sie auch finanziell schwächer gestellten Personen, ihre Garderobe aufzustocken, ohne sich verschulden zu müssen. Das fördert den sozialen Zusammenhalt und setzt ein Zeichen gegen die Wegwerfmentalität. Natürlich könnte man einwenden, dass solche Börsen den lokalen Einzelhandel beeinträchtigen könnten. Ich bin jedoch der Meinung, dass sie vielmehr eine sinnvolle Ergänzung darstellen und das Bewusstsein für Qualität und Nachhaltigkeit schärfen, wovon langfristig auch kleine, lokale Modegeschäfte profitieren können, die auf Langlebigkeit setzen. Zusammenfassend lässt sich sagen, dass die Förderung von Kleidungstauschbörsen eine einfache, aber äußerst effektive Maßnahme ist, um ökologische Verantwortung, sozialen Ausgleich und ein neues Konsumbewusstsein in unseren Gemeinden zu verankern. Daher appelliere ich an alle Entscheidungsträger, hierfür Räumlichkeiten und organisatorische Unterstützung bereitzustellen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

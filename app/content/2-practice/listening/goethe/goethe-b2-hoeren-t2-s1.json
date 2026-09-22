@@ -1,0 +1,156 @@
+{
+  "id": "goethe-b2-hoeren-t2-s1",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 1",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 6,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil2-set1.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Frau Krüger hält einzelne kühle Parks für nicht ausreichend, weil ...",
+          "options": [
+            "sie nachts selbst zu viel Wärme speichern.",
+            "auch der Weg dorthin für viele Menschen erträglich sein muss.",
+            "sie nachts weniger Wärme speichern als steinerne Plätze."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "sie nachts selbst zu viel Wärme speichern."
+          },
+          "explanation": "Die richtige Antwort ist a) \"sie nachts selbst zu viel Wärme speichern.\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ergaben die Messungen in manchen Nebenstraßen?",
+          "options": [
+            "Dichte Bebauung kann Wärme bis in den Abend halten.",
+            "Hauptstraßen sind abends grundsätzlich kühler.",
+            "Parks werden von den Sensoren kaum erfasst."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Hauptstraßen sind abends grundsätzlich kühler."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Hauptstraßen sind abends grundsätzlich kühler.\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Einschränkung nennt Frau Krüger bei neuen Bäumen?",
+          "options": [
+            "Sie eignen sich nur für Fußgängerzonen.",
+            "Sie machen Haltestellen im Sommer zu dunkel.",
+            "Sie wirken erst mit der Zeit und brauchen passende Bedingungen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie wirken erst mit der Zeit und brauchen passende Bedingungen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Sie wirken erst mit der Zeit und brauchen passende Bedingungen.\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Sehr helle Flächen können laut Frau Krüger problematisch sein, weil sie ...",
+          "options": [
+            "blenden oder Wärme ungünstig zurückwerfen können.",
+            "immer verhindern, dass Regenwasser versickert.",
+            "nur zusammen mit Entsiegelung und Schatten sinnvoll wirken."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "blenden oder Wärme ungünstig zurückwerfen können."
+          },
+          "explanation": "Die richtige Antwort ist a) \"blenden oder Wärme ungünstig zurückwerfen können.\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche soziale Frage betont Frau Krüger?",
+          "options": [
+            "Viele Menschen bleiben aus freien Stücken im Homeoffice.",
+            "Touristen brauchen vor allem angenehmere Plätze.",
+            "Manche Gruppen können Hitze nicht einfach ausweichen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Touristen brauchen vor allem angenehmere Plätze."
+          },
+          "explanation": "Die richtige Antwort ist b) \"Touristen brauchen vor allem angenehmere Plätze.\"."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was empfiehlt sie Städten als ersten Schritt?",
+          "options": [
+            "sofort alle großen Straßen vollständig umzubauen.",
+            "bei besonders belasteten Alltagsorten zu beginnen.",
+            "erst nach vielen Jahren Messungen zu handeln."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "erst nach vielen Jahren Messungen zu handeln."
+          },
+          "explanation": "Die richtige Antwort ist c) \"erst nach vielen Jahren Messungen zu handeln.\"."
+        }
+      ]
+    }
+  ]
+}

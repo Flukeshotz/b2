@@ -1,0 +1,11 @@
+{
+  "id": "schichtdienst",
+  "de": "Sind Sie bereit, im Schichtdienst zu arbeiten — auch nachts und am Wochenende?",
+  "category": "integration",
+  "sourced": false,
+  "assesses": "A yes/no with a reason. Hesitation here is costly.",
+  "trap": "Hedging.",
+  "strong": "A clear yes, and evidence you have already done it.",
+  "followUp": "Wie war das für Sie, als Sie zuletzt Nachtdienst hatten?",
+  "model_answer": null
+}

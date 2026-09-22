@@ -1,0 +1,93 @@
+{
+  "id": "goethe-b2-hoeren-t2-s3",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 3",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil2-set3.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was kritisiert Herr Berger an vielen kurzen Onlinekursen?",
+          "options": [
+            "Sie bleiben oft ohne Anwendung im Arbeitsalltag.",
+            "Sie dauern meistens länger als angekündigt.",
+            "Sie passen zeitlich kaum in einen Arbeitstag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie bleiben oft ohne Anwendung im Arbeitsalltag."
+          },
+          "explanation": "Die richtige Antwort ist a) \"Sie bleiben oft ohne Anwendung im Arbeitsalltag.\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kurze Lernimpulse helfen am Arbeitsplatz besonders, wenn sie ...",
+          "options": [
+            "außerhalb der Arbeitszeit erledigt werden.",
+            "ohne Rückmeldung abgeschlossen werden können.",
+            "an konkrete Aufgaben im Betrieb anschließen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "ohne Rückmeldung abgeschlossen werden können."
+          },
+          "explanation": "Die richtige Antwort ist b) \"ohne Rückmeldung abgeschlossen werden können.\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Rolle haben Führungskräfte laut Herrn Berger?",
+          "options": [
+            "Sie sollten die Lernzeiten möglichst genau kontrollieren.",
+            "Sie müssen Raum für Anwendung und kurze Gespräche schaffen.",
+            "Sie sollten jede Woche vor allem Tabellen prüfen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sie sollten jede Woche vor allem Tabellen prüfen."
+          },
+          "explanation": "Die richtige Antwort ist c) \"Sie sollten jede Woche vor allem Tabellen prüfen.\"."
+        }
+      ]
+    }
+  ]
+}

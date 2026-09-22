@@ -1,0 +1,70 @@
+{
+  "id": "telc-b2-schreiben-p13",
+  "board": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #13",
+  "minutes": 30,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "instruction": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Aufgabe A: Bitte um Informationen:\nSie arbeiten täglich am Computer und haben häufig Verspannungen. Sie möchten wissen, ob der Kurs zu Ihren Beschwerden passt und ob Ihre Krankenkasse eventuell einen Teil bezahlt.\n\nAufgabe B: Kündigung / Beschwerde:\nSie haben fristgerecht per E-Mail gekündigt. Trotzdem wurde im nächsten Monat abgebucht, und auf der Rechnung steht ein Zusatzkurs, den Sie nie gebucht haben.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie arbeiten täglich am Computer und haben häufig Verspannungen. Sie möchten wissen, ob der Kurs zu Ihren Beschwerden passt und ob Ihre Krankenkasse eventuell einen Teil bezahlt.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie arbeiten täglich am Computer und haben häufig Verspannungen. Sie möchten wissen, ob der Kurs zu Ihren Beschwerden passt und ob Ihre Krankenkasse eventuell einen Teil bezahlt.",
+            "guidance": [
+              "Beschreiben Sie kurz Ihre berufliche Situation und Beschwerden.",
+              "Fragen Sie nach Übungen, Kursniveau und gesundheitlichen Voraussetzungen.",
+              "Bitten Sie um Informationen zum Zuschuss der Krankenkasse.",
+              "Klären Sie Anmeldung, Termine und Fragebogen."
+            ],
+            "min_words": 150,
+            "rubric_id": "telc_b2_writing",
+            "task_type": "formal_letter",
+            "target_words": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Beschreiben Sie kurz Ihre berufliche Situation und Beschwerden.",
+              "Fragen Sie nach Übungen, Kursniveau und gesundheitlichen Voraussetzungen.",
+              "Bitten Sie um Informationen zum Zuschuss der Krankenkasse.",
+              "Klären Sie Anmeldung, Termine und Fragebogen."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Betreffzeile und passende Anrede (Sehr geehrte/r...) nicht vergessen.",
+              "Berufliche Situation und Beschwerden (tägliche PC-Arbeit, konkrete Verspannungen) kurz und präzise darstellen.",
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge abarbeiten: Eignung des Kurses, Kostenübernahme durch Krankenkasse, organisatorische Details (Anmeldung, Termine).",
+              "Höfliche Fragesätze und Konjunktiv II (wäre, könnte, würde) verwenden; auf eine klare Schlussformel und Gruß achten."
+            ],
+            "expected_answer": "Betreff: Anfrage zu Ihrem Kursangebot gegen Verspannungen\n\nSehr geehrte Damen und Herren,\n\nich arbeite täglich acht Stunden am Computer und leide in letzter Zeit zunehmend unter starken Verspannungen im Nacken- und Schulterbereich. Gelegentlich treten auch Kopfschmerzen auf. Daher bin ich auf Ihr Kursangebot aufmerksam geworden und habe einige Fragen.\n\nZunächst würde mich interessieren, ob der Kurs speziell für Beschwerden geeignet ist, die durch langes Sitzen am Bildschirm entstehen. Welche konkreten Übungen werden durchgeführt, und welches Niveau wird vorausgesetzt? Gibt es gesundheitliche Einschränkungen, die eine Teilnahme ausschließen?\n\nDarüber hinaus wäre es für mich wichtig zu erfahren, ob meine Krankenkasse, die AOK, unter bestimmten Voraussetzungen einen Zuschuss zu den Kursgebühren leistet. Könnten Sie mir dazu nähere Informationen zukommen lassen oder mir mitteilen, welche Unterlagen ich dafür benötige?\n\nAbschließend bitte ich Sie um Auskunft zum Anmeldeverfahren. Gibt es einen Fragebogen, den ich vorab ausfüllen muss? Wann startet der nächste Kurs und an welchen Wochentagen findet er statt?\n\nIch danke Ihnen herzlich für Ihre Mühe und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Vorname Nachname]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertung nach telc B2 Kriterien: Ausdrucksfähigkeit, Aufgabenbewältigung, formale Richtigkeit."
+        }
+      ]
+    }
+  ]
+}

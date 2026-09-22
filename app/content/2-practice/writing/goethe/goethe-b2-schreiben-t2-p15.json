@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p15",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #15",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie können an einem Prüfungstermin nicht teilnehmen, weil er mit einem verpflichtenden Termin Ihres Arbeitgebers zusammenfällt. Schreiben Sie eine Nachricht an die Prüfungsbeauftragte, Frau Becker.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie können an einem Prüfungstermin nicht teilnehmen, weil er mit einem verpflichtenden Termin Ihres Arbeitgebers zusammenfällt. Schreiben Sie eine Nachricht an die Prüfungsbeauftragte, Frau Becker.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie können an einem Prüfungstermin nicht teilnehmen, weil er mit einem verpflichtenden Termin Ihres Arbeitgebers zusammenfällt. Schreiben Sie eine Nachricht an die Prüfungsbeauftragte, Frau Becker.",
+            "guidance": [
+              "Bieten Sie an, einen Nachweis einzureichen.",
+              "Beschreiben Sie den Terminkonflikt.",
+              "Bitten Sie um einen Ersatztermin.",
+              "Erklären Sie, warum die Prüfung wichtig ist."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bieten Sie an, einen Nachweis einzureichen.",
+              "Beschreiben Sie den Terminkonflikt.",
+              "Bitten Sie um einen Ersatztermin.",
+              "Erklären Sie, warum die Prüfung wichtig ist."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Anrede und klare Nennung des Anliegens (Prüfungsabsage) im ersten Satz.",
+              "Konkrete Beschreibung des Terminkonflikts: Datum der Prüfung nennen und den verpflichtenden Arbeitstermin (z. B. wichtige Schulung) begründen.",
+              "Bitte um einen Ersatztermin formulieren und dabei Flexibilität signalisieren.",
+              "Anbieten, einen Nachweis des Arbeitgebers einzureichen, und die Wichtigkeit der Prüfung für die berufliche Zukunft betonen."
+            ],
+            "expected_answer": "Sehr geehrte Frau Becker,\n\nleider muss ich Ihnen mitteilen, dass ich den Prüfungstermin am 15. Mai nicht wahrnehmen kann. Der Grund dafür ist ein unaufschiebbarer Konflikt mit meiner beruflichen Verpflichtung. Genau an diesem Tag hat mein Arbeitgeber eine ganztägige, verpflichtende Fortbildung angesetzt, von der ich mich leider nicht befreien lassen kann. Da mir diese Prüfung für meine berufliche Entwicklung äußerst wichtig ist, bitte ich Sie höflichst um einen Ersatztermin. Ich bin zeitlich sehr flexibel und könnte auch kurzfristig einspringen. Selbstverständlich kann ich Ihnen eine offizielle Bescheinigung meines Arbeitgebers als Nachweis für diesen Terminkonflikt zukommen lassen. Für Ihre Bemühungen danke ich Ihnen im Voraus herzlich.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

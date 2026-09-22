@@ -1,0 +1,114 @@
+{
+  "id": "practice-listening-26",
+  "board": "custom",
+  "title": "Hörverstehen — Pflegekräfte besprechen einen Medikamentenplan",
+  "minutes": 8,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Pflegekräfte besprechen einen Medikamentenplan",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 8,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_26_medikamentenplan.mp3",
+        "duration_seconds": 30.5,
+        "voices": "ingrid+conrad"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was wurde bei Herrn Fischer geändert?",
+          "options": [
+            "Das Medikament wurde komplett abgesetzt.",
+            "Die Dosis wurde verdoppelt.",
+            "Die Dosis wurde auf zwei kleinere Gaben pro Tag aufgeteilt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Die Dosis wurde auf zwei kleinere Gaben pro Tag aufgeteilt."
+          },
+          "explanation": "\"statt zehn Milligramm morgens sind es jetzt fünf Milligramm morgens und fünf Milligramm abends.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wurde die Änderung vorgenommen?",
+          "options": [
+            "Um Blutdruckschwankungen über den Tag zu reduzieren.",
+            "Weil das alte Medikament nicht mehr verfügbar war.",
+            "Auf Wunsch des Patienten."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Um Blutdruckschwankungen über den Tag zu reduzieren."
+          },
+          "explanation": "\"wollte damit die Blutdruckschwankungen über den Tag reduzieren.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was macht Pflegekraft 2 im Anschluss an das Gespräch?",
+          "options": [
+            "Den Arzt noch einmal anrufen.",
+            "Die Änderung sofort dokumentieren, damit die Nachtschicht informiert ist.",
+            "Nichts, da die Änderung erst morgen gilt."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Die Änderung sofort dokumentieren, damit die Nachtschicht informiert ist."
+          },
+          "explanation": "\"ich trage die Änderung sofort in die Dokumentation ein, damit die Nachtschicht nicht versehentlich noch die alte Dosis gibt.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie fragt Pflegekraft 2 zur Bestätigung nach?",
+          "options": [
+            "Ob die Dosis jetzt auf zwei Gaben aufgeteilt ist.",
+            "Ob der Patient das Medikament verweigert hat.",
+            "Ob das Medikament überhaupt notwendig ist."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ob die Dosis jetzt auf zwei Gaben aufgeteilt ist."
+          },
+          "explanation": "\"Aufgeteilt auf zwei Gaben also, nicht mehr eine große Morgendosis?\""
+        }
+      ]
+    }
+  ]
+}

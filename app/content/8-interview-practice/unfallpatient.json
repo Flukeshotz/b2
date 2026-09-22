@@ -1,0 +1,11 @@
+{
+  "id": "unfallpatient",
+  "de": "Ein Unfallpatient wird hereingebracht. Was ist Ihre Aufgabe — der Reihe nach?",
+  "category": "clinical",
+  "sourced": true,
+  "assesses": "Whether the procedure is actually yours, in order, or only described in general.",
+  "trap": "Jumping to the doctor. They want what YOU do in the first minutes.",
+  "strong": "Vitalzeichen, Zugang legen, Monitor, then informing the Arzt — sequenced, with your own role clear.",
+  "followUp": "Und was machen Sie zuerst, wenn der Patient nicht ansprechbar ist?",
+  "model_answer": null
+}

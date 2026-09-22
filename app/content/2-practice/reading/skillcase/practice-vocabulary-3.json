@@ -1,0 +1,257 @@
+{
+  "id": "practice-vocabulary-3",
+  "board": "custom",
+  "title": "Gezielte Wortschatzübung 3 — formell vs. umgangssprachlich",
+  "minutes": 11,
+  "source": "Skillcase, authored. General B2 vocabulary/register practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 11,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprachbausteine",
+      "skill": "vocabulary",
+      "title": "Wortschatz",
+      "instruction": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "minutes": 11,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formelles Synonym für \"anfangen\":",
+          "options": [
+            "los machen",
+            "starten (umgangssprachlich)",
+            "beginnen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "beginnen"
+          },
+          "explanation": "\"Beginnen\" ist das neutral-formelle Synonym zu \"anfangen\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formelles Synonym für \"kriegen\":",
+          "options": [
+            "schnappen",
+            "erhalten",
+            "packen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "erhalten"
+          },
+          "explanation": "\"Erhalten\" ist die schriftsprachliche, formelle Variante von \"kriegen\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formelles Synonym für \"kaputt\" (bei einem Gerät):",
+          "options": [
+            "im Eimer",
+            "hin",
+            "defekt"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "defekt"
+          },
+          "explanation": "\"Defekt\" ist die neutrale, für offizielle Berichte geeignete Bezeichnung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Umgangssprachlich \"checken\" heißt formell:",
+          "options": [
+            "kontrollieren, aber informell",
+            "überprüfen",
+            "gucken"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "überprüfen"
+          },
+          "explanation": "\"Überprüfen\" ist das formelle Äquivalent zu umgangssprachlichem \"checken\"."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formelles Synonym für \"viele\" in einem Bericht:",
+          "options": [
+            "zahlreiche",
+            "haufenweise",
+            "'ne Menge"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "zahlreiche"
+          },
+          "explanation": "\"Zahlreiche\" ist die schriftsprachlich-formelle Variante."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Das Problem lösen\" formell umschrieben:",
+          "options": [
+            "das Problem knacken",
+            "eine Lösung für das Problem finden/erarbeiten",
+            "das Problem fixen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "eine Lösung für das Problem finden/erarbeiten"
+          },
+          "explanation": "\"Eine Lösung erarbeiten\" ist die formelle, in Berichten übliche Umschreibung."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Formelles Synonym für \"sagen, dass etwas nicht stimmt\":",
+          "options": [
+            "widersprechen / darauf hinweisen, dass …",
+            "meckern",
+            "quatschen"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "widersprechen / darauf hinweisen, dass …"
+          },
+          "explanation": "\"Widersprechen\" bzw. \"darauf hinweisen\" ist die sachliche, formelle Formulierung."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Ich hab keine Ahnung\" formell:",
+          "options": [
+            "Das ist mir nicht bekannt.",
+            "Keine Idee.",
+            "Weiß nicht."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das ist mir nicht bekannt."
+          },
+          "explanation": "\"Das ist mir nicht bekannt\" ist die formelle, unpersönliche Formulierung."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Wir müssen das nochmal genauer angucken\" formell:",
+          "options": [
+            "Wir müssen mal reinschauen.",
+            "Wir müssen das genauer prüfen.",
+            "Wir gucken da noch mal rein."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Wir müssen das genauer prüfen."
+          },
+          "explanation": "\"Prüfen\" ersetzt umgangssprachliches \"angucken\" in einem formellen Kontext."
+        },
+        {
+          "item_no": 10,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Das nervt mich total\" formell umschrieben:",
+          "options": [
+            "Das kotzt mich an.",
+            "Das empfinde ich als sehr belastend.",
+            "Das geht mir auf die Nerven."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das empfinde ich als sehr belastend."
+          },
+          "explanation": "\"Als belastend empfinden\" ist die sachlich-distanzierte, formelle Umschreibung eines Ärgers."
+        },
+        {
+          "item_no": 11,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "\"Kannste mal kurz vorbeikommen?\" formell:",
+          "options": [
+            "Häng dich mal kurz rein.",
+            "Könnten Sie kurz vorbeikommen?",
+            "Kommste kurz mal?"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Könnten Sie kurz vorbeikommen?"
+          },
+          "explanation": "Konjunktiv II + \"Sie\"-Form ist die formelle Entsprechung."
+        }
+      ]
+    }
+  ]
+}

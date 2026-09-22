@@ -1,0 +1,49 @@
+{
+  "id": "b2_muede_produce",
+  "order_index": 51,
+  "icon": "✍️",
+  "title": "Whose side are you on?",
+  "capability": "building an argument someone could disagree with",
+  "proof": "Warum sind wir immer müde?",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Whose side are you on?",
+      "steps": [
+        {
+          "t": "story",
+          "lines": [
+            "Jetzt Sie. Kurz – etwa 80 Wörter reichen.",
+            "Sie haben beide Seiten gehört. Für welche entscheiden Sie sich?"
+          ]
+        },
+        {
+          "t": "produce",
+          "mode": "write",
+          "prompt": "Dr. Bergmann sagt, wir seien müde, weil wir uns falsch verhalten. Frau Krause sagt, es liege am Dienstplan. Wem stimmen Sie eher zu – und warum?",
+          "guidance": [
+            "Geben Sie der Gegenseite zuerst etwas zu.",
+            "Begründen Sie Ihre Meinung.",
+            "Ein Beispiel aus Ihrem eigenen Alltag hilft."
+          ],
+          "minWords": 70,
+          "afterHints": [
+            "zwar … aber",
+            "das liegt vor allem daran, dass",
+            "das lässt sich nicht pauschal sagen"
+          ],
+          "capabilities": [
+            "argue",
+            "concede",
+            "justify"
+          ]
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

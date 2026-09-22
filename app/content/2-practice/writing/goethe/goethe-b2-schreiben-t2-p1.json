@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p1",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #1",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Sie arbeiten neben dem Studium in einer Werbeagentur. Wegen einer zusätzlichen Hausarbeit können Sie einen Bericht nicht bis Freitag fertigstellen. Schreiben Sie eine Nachricht an Ihre Projektleiterin, Frau Schneider.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie arbeiten neben dem Studium in einer Werbeagentur. Wegen einer zusätzlichen Hausarbeit können Sie einen Bericht nicht bis Freitag fertigstellen. Schreiben Sie eine Nachricht an Ihre Projektleiterin, Frau Schneider.",
+          "options": null,
+          "payload": {
+            "prompt": "Sie arbeiten neben dem Studium in einer Werbeagentur. Wegen einer zusätzlichen Hausarbeit können Sie einen Bericht nicht bis Freitag fertigstellen. Schreiben Sie eine Nachricht an Ihre Projektleiterin, Frau Schneider.",
+            "guidance": [
+              "Zeigen Sie Verständnis für die Projektplanung.",
+              "Erklären Sie Ihre Situation.",
+              "Machen Sie einen Vorschlag für die weitere Arbeit.",
+              "Bitten Sie um eine kurze Fristverlängerung."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Zeigen Sie Verständnis für die Projektplanung.",
+              "Erklären Sie Ihre Situation.",
+              "Machen Sie einen Vorschlag für die weitere Arbeit.",
+              "Bitten Sie um eine kurze Fristverlängerung."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Zeigen Sie explizit Verständnis für die Wichtigkeit des Berichts und die Projektplanung (z. B. 'Ich weiß, wie wichtig der Bericht für...').",
+              "Erklären Sie die Situation klar und nachvollziehbar (unerwartete Hausarbeit, Zeitkonflikt), ohne zu viele private Details.",
+              "Machen Sie einen konkreten, realistischen Vorschlag für die weitere Arbeit (z. B. Teillieferung, neuer Abgabetermin).",
+              "Bitten Sie höflich um eine kurze Fristverlängerung und formulieren Sie eine präzise Bitte (z. B. 'Wäre eine Verlängerung bis Montag möglich?')."
+            ],
+            "expected_answer": "Betreff: Bericht zum Projekt Alpha – kurze Fristverlängerung\n\nSehr geehrte Frau Schneider,\n\nich weiß, dass der Bericht für die morgige Projektbesprechung eine wichtige Grundlage ist, und es ist mir sehr bewusst, dass meine Verspätung Ihre Planung beeinträchtigen könnte. Leider hat sich meine Situation kurzfristig geändert, da ich eine unerwartete, umfangreiche Hausarbeit für die Universität annehmen musste, die diese Woche abzugeben ist. Aus diesem Grund kann ich den Bericht nicht wie vereinbart bis Freitag fertigstellen. Um den Arbeitsfluss dennoch so wenig wie möglich zu stören, könnte ich Ihnen am Freitag eine detaillierte Zusammenfassung der wichtigsten Ergebnisse zukommen lassen. Den vollständigen, finalen Bericht würde ich dann bis Montagmittag fertigstellen. Wäre eine kurze Fristverlängerung bis dahin für Sie in Ordnung? Ich bitte um Ihr Verständnis und würde mich über eine kurze Rückmeldung sehr freuen.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

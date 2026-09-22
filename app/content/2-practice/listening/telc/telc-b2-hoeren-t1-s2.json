@@ -1,0 +1,115 @@
+{
+  "id": "telc-b2-hoeren-t1-s2",
+  "board": "telc",
+  "title": "telc B2 — Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen), Satz 2",
+  "minutes": 6,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "DRAFT",
+  "difficulty": "B",
+  "item_count": 5,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen)",
+      "instruction": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "minutes": 6,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc/teil1-q6.mp3",
+        "duration_seconds": 60,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Stadt Grünwalde hat eine neue Abgabe auf unbebaute Grundstücke beschlossen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Der Tunnel bei Berghausen bleibt wegen der Bauarbeiten ein ganzes Jahr geschlossen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Die Molkerei Elbtal will einen Teil ihrer Produktion in der Region einstellen.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 4,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Für das neue Stipendium können sich Studierende aller Fachrichtungen bewerben.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        },
+        {
+          "item_no": 5,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Das Theaterfestival in Seestadt bietet trotz geringerer Förderung genauso viele Aufführungen wie geplant.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "This item's answer key could not be verified against a transcript and is flagged for review — not stated here to avoid asserting a possibly-wrong answer."
+        }
+      ]
+    }
+  ]
+}

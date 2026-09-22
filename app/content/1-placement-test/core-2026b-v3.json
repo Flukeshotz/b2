@@ -1,0 +1,797 @@
+{
+  "id": "core-2026b-v3",
+  "board": "custom",
+  "title": "Skillcase B2 — Einstufung V3",
+  "minutes": 15,
+  "source": "Skillcase, authored. Coverage informed by Kontext B2 Kursbuch.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 24,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Forum: Teamtage — bringen die etwas?",
+      "instruction": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Unsere Abteilung fährt einmal im Jahr für zwei Tage weg. Klettern, gemeinsam kochen,\nabends zusammensitzen.\n\nIch habe das lange für verlorene Arbeitszeit gehalten. Wer sich im Büro nicht versteht,\nversteht sich auch am Kletterseil nicht, dachte ich, und hinterher sind alle wieder genau\nso wie vorher.\n\nNach dem letzten Mal sehe ich das differenzierter. Es hat tatsächlich etwas verändert —\nallerdings nicht das, was im Programm stand. Geholfen haben nicht die Übungen, sondern die\nlangen Fahrten im Bus, auf denen Leute miteinander geredet haben, die sonst nie ein Wort\nwechseln. Das ließe sich vermutlich auch billiger haben.\n\nWas mich weiterhin stört, ist die Freiwilligkeit. Offiziell muss niemand mitfahren. Wer\nabsagt, bekommt aber jedes Mal dieselbe Frage gestellt, warum er denn nicht dabei sei.\nFreiwillig ist etwas anderes.\n\nAngemeldet habe ich mich für dieses Jahr trotzdem wieder.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wie beurteilt die Autorin die Teamtage heute?",
+          "options": [
+            "Sie hält sie inzwischen für gut investierte Arbeitszeit.",
+            "Sie sieht eine Wirkung, aber nicht durch das geplante Programm.",
+            "Sie hält sie weiterhin für verlorene Arbeitszeit."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sie sieht eine Wirkung, aber nicht durch das geplante Programm."
+          },
+          "explanation": "„Es hat tatsächlich etwas verändert — allerdings nicht das, was im Programm stand.“ Beide Hälften des Satzes gehören zum Urteil."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Nach Ansicht der Autorin haben vor allem die gemeinsamen Übungen gewirkt.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„Geholfen haben nicht die Übungen, sondern die langen Fahrten im Bus …“"
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was räumt die Autorin ein?",
+          "options": [
+            "Dass die Teamtage doch eine Wirkung hatten.",
+            "Dass die Freiwilligkeit inzwischen funktioniert.",
+            "Dass die Übungen gut ausgewählt waren."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Dass die Teamtage doch eine Wirkung hatten."
+          },
+          "explanation": "„Nach dem letzten Mal sehe ich das differenzierter. Es hat tatsächlich etwas verändert.“ Die Freiwilligkeit kritisiert sie weiter, die Übungen stellt sie ausdrücklich zurück."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Womit begründet die Autorin die Wirkung?",
+          "options": [
+            "Mit dem gemeinsamen Klettern.",
+            "Mit den Gesprächen während der Fahrten.",
+            "Mit der Länge der Veranstaltung."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Mit den Gesprächen während der Fahrten."
+          },
+          "explanation": "„… sondern die langen Fahrten im Bus, auf denen Leute miteinander geredet haben, die sonst nie ein Wort wechseln.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MULTI_SELECT",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche zwei Aussagen treffen auf den Text zu?",
+          "options": [
+            "Die Autorin hält die Wirkung für billiger erreichbar.",
+            "Wer nicht mitfährt, wird nach seinen Gründen gefragt.",
+            "Die Teilnahme ist offiziell verpflichtend.",
+            "Die Autorin wird dieses Jahr nicht mitfahren."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": null,
+            "options": [
+              "Die Autorin hält die Wirkung für billiger erreichbar.",
+              "Wer nicht mitfährt, wird nach seinen Gründen gefragt.",
+              "Die Teilnahme ist offiziell verpflichtend.",
+              "Die Autorin wird dieses Jahr nicht mitfahren."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              0,
+              1
+            ],
+            "text": [
+              "Die Autorin hält die Wirkung für billiger erreichbar.",
+              "Wer nicht mitfährt, wird nach seinen Gründen gefragt."
+            ]
+          },
+          "explanation": "„Das ließe sich vermutlich auch billiger haben“ und „Wer absagt, bekommt aber jedes Mal dieselbe Frage gestellt“. Offiziell ist die Teilnahme freiwillig, und angemeldet hat sie sich."
+        },
+        {
+          "item_no": 6,
+          "item_type": "ORDERING",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "items": [
+              "Sie nennt, was sie weiterhin stört.",
+              "Sie erklärt, was tatsächlich gewirkt hat.",
+              "Sie beschreibt die Teamtage.",
+              "Sie begründet ihre frühere Ablehnung."
+            ]
+          },
+          "suggested_answer": {
+            "key": [
+              2,
+              3,
+              1,
+              0
+            ],
+            "text": [
+              "Sie beschreibt die Teamtage.",
+              "Sie begründet ihre frühere Ablehnung.",
+              "Sie erklärt, was tatsächlich gewirkt hat.",
+              "Sie nennt, was sie weiterhin stört."
+            ]
+          },
+          "explanation": "Beschreibung → Begründung der Ablehnung → Erklärung der Wirkung → verbleibender Einwand."
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Am Telefon. Eine Mitarbeiterin spricht mit einem Anbieter für Teamveranstaltungen.",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/core2026b_v3_teamtag.mp3",
+        "duration_seconds": 48.9,
+        "voices": "mia+klaus"
+      },
+      "listening_script": [
+        {
+          "speaker": "Mitarbeiterin",
+          "text": "Guten Tag, Kowalski von der Firma Terlinden. Wir hatten für den zwölften Juni angefragt, für achtzehn Personen."
+        },
+        {
+          "speaker": "Anbieter",
+          "text": "Kowalski, achtzehn Personen … ja, den zwölften habe ich hier. Allerdings steht bei mir der Kletterpark, und Sie hatten in der Mail nach der Kochwerkstatt gefragt."
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "text": "Die Kochwerkstatt, genau. Geht das an dem Tag noch?"
+        },
+        {
+          "speaker": "Anbieter",
+          "text": "Am zwölften leider nicht mehr, da ist die Küche belegt. Ich könnte Ihnen den neunzehnten anbieten, gleiche Gruppengröße, gleicher Preis."
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "text": "Und wenn wir beim zwölften bleiben — was verstehen Sie denn genau unter Kletterpark? Ist das auch etwas für Leute, die nicht schwindelfrei sind?"
+        },
+        {
+          "speaker": "Anbieter",
+          "text": "Gute Frage. Es gibt zwei Höhen, und die untere ist wirklich für alle machbar. Ganz ehrlich: Für eine gemischte Gruppe würde ich eher dazu raten als zur Küche."
+        }
+      ],
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ist am zwölften Juni möglich?",
+          "options": [
+            "Die Kochwerkstatt.",
+            "Der Kletterpark.",
+            "Beides."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Der Kletterpark."
+          },
+          "explanation": "Gebucht steht der Kletterpark; die Kochwerkstatt geht „am zwölften leider nicht mehr, da ist die Küche belegt“."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Wozu rät der Anbieter der Anruferin?",
+          "options": [
+            "Zur Kochwerkstatt am neunzehnten.",
+            "Für eine gemischte Gruppe eher zum Kletterpark.",
+            "Er hält beide Angebote für gleich geeignet."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Für eine gemischte Gruppe eher zum Kletterpark."
+          },
+          "explanation": "„Für eine gemischte Gruppe würde ich eher dazu raten als zur Küche.“ Die Empfehlung steht erst im letzten Satz."
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Für den neunzehnten verlangt der Anbieter einen höheren Preis.",
+          "options": null,
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "„… gleiche Gruppengröße, gleicher Preis.“"
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum ist die Kochwerkstatt am zwölften nicht möglich?",
+          "options": [
+            "Weil die Gruppe zu groß ist.",
+            "Weil die Küche an dem Tag belegt ist.",
+            "Weil die Anfrage zu spät gekommen ist."
+          ],
+          "payload": {
+            "band": "SKILL"
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Weil die Küche an dem Tag belegt ist."
+          },
+          "explanation": "„… da ist die Küche belegt.“"
+        },
+        {
+          "item_no": 5,
+          "item_type": "MATCHING",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Funktion hat welche Äußerung?",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "left": [
+              "„Was verstehen Sie denn genau unter Kletterpark?“",
+              "„Ich könnte Ihnen den neunzehnten anbieten.“",
+              "„Für eine gemischte Gruppe würde ich eher dazu raten.“"
+            ],
+            "right": [
+              "eine Empfehlung geben",
+              "eine Alternative anbieten",
+              "nach einer genaueren Erklärung fragen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 2,
+              "1": 1,
+              "2": 0
+            },
+            "text": [
+              "„Was verstehen Sie denn genau unter Kletterpark?“ → nach einer genaueren Erklärung fragen",
+              "„Ich könnte Ihnen den neunzehnten anbieten.“ → eine Alternative anbieten",
+              "„Für eine gemischte Gruppe würde ich eher dazu raten.“ → eine Empfehlung geben"
+            ]
+          },
+          "explanation": "„Was verstehen Sie unter …?“ fragt nach einer genaueren Erklärung — auf B2 eine eigene Funktion und der Unterschied zwischen Nachfragen und Nachhaken."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Sprache im Kontext",
+      "instruction": "Welche Formulierung passt besser?",
+      "minutes": 3,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "concede",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Der Termin passt uns nicht. Das Angebot ist gut.",
+            "Das Angebot ist zwar gut, der Termin passt uns aber nicht."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie sagen einen Termin ab, ohne das Angebot abzuwerten."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Das Angebot ist zwar gut, der Termin passt uns aber nicht."
+          },
+          "explanation": "„zwar … aber“ hält Anerkennung und Absage in einem Satz zusammen; nebeneinandergestellt wirken sie unverbunden."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "speculate",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Wir machen es dieses Jahr in der Nähe.",
+            "Man könnte es dieses Jahr auch in der Nähe machen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie bringen einen anderen Ort ins Gespräch, ohne ihn durchzusetzen."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Man könnte es dieses Jahr auch in der Nähe machen."
+          },
+          "explanation": "Der Konjunktiv II öffnet eine Möglichkeit; der Indikativ verkündet eine Entscheidung."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "adapt_register",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Trotz des guten Angebots müssen wir leider absagen.",
+            "Trotz dem guten Angebot müssen wir leider absagen."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie schreiben eine Absage an den Anbieter."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Trotz des guten Angebots müssen wir leider absagen."
+          },
+          "explanation": "Gesprochen ist „trotz dem“ verbreitet. Geschrieben verlangt „trotz“ den Genitiv."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Das Angebot wurde abgelehnt, weil der Termin nicht passte und eine Verschiebung den Ablauf der Projektwoche gestört hätte.",
+            "Das Angebot wurde abgelehnt. Der Termin passte nicht. Eine Verschiebung hätte gestört."
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Sie halten im Protokoll fest, warum ein Angebot abgelehnt wurde."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Das Angebot wurde abgelehnt, weil der Termin nicht passte und eine Verschiebung den Ablauf der Projektwoche gestört hätte."
+          },
+          "explanation": "Auf B2 werden Grund und Folge im Satzgefüge verbunden, nicht in drei Hauptsätzen aufgezählt."
+        },
+        {
+          "item_no": 5,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Wir haben mit dem Anbieter Kontakt ___ und ihm unsere Wünsche zur Kenntnis ___.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "aufgenommen"
+                ]
+              },
+              {
+                "accepted": [
+                  "gebracht"
+                ]
+              }
+            ],
+            "text": [
+              "aufgenommen",
+              "gebracht"
+            ]
+          },
+          "explanation": "„Kontakt aufnehmen“ und „etwas zur Kenntnis bringen“ — feste Nomen-Verb-Verbindungen."
+        },
+        {
+          "item_no": 6,
+          "item_type": "GAP_FILL",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Ergänzen Sie die Lücken.",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "text": "Die ___ der Veranstaltung übernimmt die Abteilung; über die ___ der Kosten entscheidet die Zentrale.",
+            "match": "ignore_case"
+          },
+          "suggested_answer": {
+            "key": [
+              {
+                "accepted": [
+                  "Organisation",
+                  "Planung"
+                ]
+              },
+              {
+                "accepted": [
+                  "Verteilung",
+                  "Aufteilung"
+                ]
+              }
+            ],
+            "text": [
+              "Organisation / Planung",
+              "Verteilung / Aufteilung"
+            ]
+          },
+          "explanation": "Nominalisierungen wie „Organisation“ und „Verteilung“ gehören zum B2-Wortschatz."
+        },
+        {
+          "item_no": 7,
+          "item_type": "MATCHING",
+          "skill": "vocabulary",
+          "capability": "argue",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welches Verb gehört zu welchem Nomen?",
+          "options": null,
+          "payload": {
+            "band": "KNOWLEDGE",
+            "left": [
+              "eine Rolle",
+              "Interesse",
+              "einen Kompromiss",
+              "Rücksicht"
+            ],
+            "right": [
+              "wecken",
+              "spielen",
+              "nehmen",
+              "schließen"
+            ],
+            "context": null
+          },
+          "suggested_answer": {
+            "key": {
+              "0": 1,
+              "1": 0,
+              "2": 3,
+              "3": 2
+            },
+            "text": [
+              "eine Rolle → spielen",
+              "Interesse → wecken",
+              "einen Kompromiss → schließen",
+              "Rücksicht → nehmen"
+            ]
+          },
+          "explanation": "eine Rolle spielen · Interesse wecken · einen Kompromiss schließen · Rücksicht nehmen."
+        },
+        {
+          "item_no": 8,
+          "item_type": "MCQ",
+          "skill": "vocabulary",
+          "capability": "adapt_register",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welcher Satz passt besser?",
+          "options": [
+            "Hallo, können Sie uns mal sagen, was das ungefähr kostet?",
+            "Sehr geehrte Damen und Herren, könnten Sie uns bitte ein Angebot zusenden?"
+          ],
+          "payload": {
+            "band": "KNOWLEDGE",
+            "context": "Eine erste E-Mail an einen Anbieter, mit dem Sie noch nie gesprochen haben."
+          },
+          "suggested_answer": {
+            "key": 1,
+            "text": "Sehr geehrte Damen und Herren, könnten Sie uns bitte ein Angebot zusenden?"
+          },
+          "explanation": "Beim Erstkontakt mit einem Unternehmen ist die formelle Anrede erwartbar; „mal sagen“ gehört ins Gespräch."
+        },
+        {
+          "item_no": 9,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Welche Reaktion ist auf B2-Niveau angemessen?",
+          "options": [
+            "Einen Moment noch, ich möchte den Gedanken kurz zu Ende führen.",
+            "Sie kommen gleich dran, jetzt rede ich.",
+            "Schon gut, sagen Sie ruhig."
+          ],
+          "payload": {
+            "band": "SKILL",
+            "context": "In der Teamsitzung fällt Ihnen jemand ins Wort, während Sie einen Vorschlag begründen."
+          },
+          "suggested_answer": {
+            "key": 0,
+            "text": "Einen Moment noch, ich möchte den Gedanken kurz zu Ende führen."
+          },
+          "explanation": "Man behält das Wort höflich und begrenzt den Anspruch zeitlich. Die zweite Option ist eine Zurechtweisung, die dritte gibt den Redebeitrag auf."
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben",
+      "instruction": "Bearbeiten Sie die folgenden Aufgaben.",
+      "minutes": 5,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "summarise",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Fassen Sie in zwei bis drei Sätzen zusammen, wie die Autorin des Forumsbeitrags die Teamtage einschätzt und welchen Einwand sie behält.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine Zusammenfassung, die die revidierte Einschätzung UND den Einwand zur Freiwilligkeit nennt, ohne den Text nachzuerzählen.",
+            "guidance": null,
+            "min_words": 25,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 40
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine Zusammenfassung, die die revidierte Einschätzung UND den Einwand zur Freiwilligkeit nennt, ohne den Text nachzuerzählen.",
+            "guidance": [
+              "Die revidierte Einschätzung der Autorin klar benennen (anfangs positiv, jetzt kritischer).",
+              "Den konkreten Einwand zur Freiwilligkeit der Teamtage präzise wiedergeben.",
+              "Eigene Formulierungen verwenden, nicht den Originaltext zitieren oder nacherzählen.",
+              "Auf 2–3 prägnante Sätze beschränken."
+            ],
+            "expected_answer": "Die Autorin bewertet Teamtage inzwischen kritischer als zu Beginn. Sie sieht zwar ihren Nutzen für den Zusammenhalt, bemängelt jedoch, dass die Teilnahme oft nicht wirklich freiwillig ist und sozialer Druck ausgeübt wird.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 2,
+          "item_type": "SHORT_TEXT",
+          "skill": "writing",
+          "capability": "ask_followup",
+          "difficulty": "A",
+          "scoring_mode": "RUBRIC",
+          "points": 2,
+          "stem": "Der Anbieter schreibt: „Der neunzehnte wäre bei uns frei, sonst alles wie besprochen.“ Sie wissen nicht, ob damit die Kochwerkstatt gemeint ist und ob der Preis unverändert gilt. Formulieren Sie zwei höfliche Rückfragen.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und keine Zusage.",
+            "guidance": null,
+            "min_words": 15,
+            "rubric_id": 8,
+            "rubric_key": "kurzantwort",
+            "target_words": 30
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Zwei echte Klärungsfragen in angemessener Höflichkeitsform — nicht eine Wiederholung der Aussage und keine Zusage.",
+            "guidance": [
+              "Zwei klar formulierte, höfliche Rückfragen stellen (z. B. mit Konjunktiv II oder Modalverben wie 'dürfte', 'könnte').",
+              "Bezug auf die genannten Unklarheiten nehmen: Ort (Kochwerkstatt) und Preis.",
+              "Angemessene Anrede- und Grußformel verwenden (E-Mail-Stil).",
+              "Nicht die Aussage wiederholen oder eine Zusage geben, sondern echte Klärungsfragen formulieren."
+            ],
+            "expected_answer": "Sehr geehrte Damen und Herren,\nich hätte zwei kurze Rückfragen: Dürfte ich erfahren, ob sich der genannte Termin auf die Kochwerkstatt bezieht und ob der ursprünglich vereinbarte Preis weiterhin gültig ist?\nMit freundlichen Grüßen",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        },
+        {
+          "item_no": 3,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "In Ihrem Betrieb wird diskutiert, ob die jährlichen Teamtage abgeschafft und das Geld stattdessen auf die Abteilungen verteilt werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": null,
+            "guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "min_words": 60,
+            "rubric_id": 1,
+            "rubric_key": "forumsbeitrag",
+            "target_words": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Sagen Sie, was Sie davon halten.",
+              "Begründen Sie Ihre Position mit mindestens zwei Argumenten.",
+              "Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.",
+              "Machen Sie einen konkreten Vorschlag."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zu Beginn (Pro oder Contra Teamtage).",
+              "Zwei gut ausgeführte Argumente mit Konnektoren (z.B. erstens..., darüber hinaus...).",
+              "Einen Nachteil der eigenen Position einräumen und relativieren (z.B. Allerdings..., Zugegebenermaßen...).",
+              "Einen konkreten, konstruktiven Kompromissvorschlag formulieren (z.B. Ich schlage vor...)."
+            ],
+            "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich bin klar gegen die Abschaffung der Teamtage. Erstens stärken diese gemeinsamen Erlebnisse außerhalb des Büros den Zusammenhalt und das Vertrauen, was im stressigen Alltag oft zu kurz kommt. Darüber hinaus fördert der informelle Austausch die abteilungsübergreifende Zusammenarbeit und Kreativität. Zugegebenermaßen ist die Planung zeitaufwendig, aber dieser Aufwand ist eine lohnende Investition in unser Betriebsklima. Ich schlage daher einen Kompromiss vor: Wir behalten einen verkürzten, kostengünstigeren Teamtag bei und verteilen das restliche Budget für kleinere, selbstorganisierte Teamessen in den Abteilungen.\n\nViele Grüße\nAnna Meier",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen",
+      "instruction": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+      "minutes": 2,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Manche Betriebe organisieren feste Teamveranstaltungen für alle, andere überlassen es den Abteilungen, ob und wie sie etwas gemeinsam machen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+          "options": null,
+          "payload": {
+            "band": "SKILL",
+            "expected": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "prep_seconds": 30,
+            "speak_seconds": 90
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": "Eine klare Position, mindestens zwei Begründungen und ein eingeräumter Punkt der Gegenseite.",
+            "guidance": [
+              "Klare Positionierung zu Beginn (z. B. 'Ich bin der Meinung, dass...' oder 'Meiner Ansicht nach...').",
+              "Mindestens zwei gut ausgeführte Begründungen für die eigene Wahl (z. B. Zusammenhalt, Identifikation mit der Firma, abteilungsübergreifende Kommunikation).",
+              "Einen Nachteil der anderen Option kurz und präzise nennen (z. B. Gefahr von Cliquenbildung oder fehlendes Wir-Gefühl im Gesamtunternehmen).",
+              "Typische B2-Redemittel nutzen: 'Ein wesentlicher Vorteil ist...', 'Hinzu kommt, dass...', 'Allerdings muss man zugeben, dass...', 'Aus diesen Gründen halte ich... für sinnvoller.'"
+            ],
+            "expected_answer": "Meiner Meinung nach ist es sinnvoller, wenn ein Betrieb feste, zentrale Teamveranstaltungen für alle Mitarbeiter organisiert. Ein wesentlicher Vorteil ist, dass dadurch ein starkes Gemeinschaftsgefühl im gesamten Unternehmen entsteht. Wenn Kollegen aus verschiedenen Abteilungen, die im Arbeitsalltag kaum Berührungspunkte haben, gemeinsam etwas unternehmen, werden Barrieren abgebaut und das 'Wir-Gefühl' wird gestärkt. Hinzu kommt, dass solche festen Events eine klare Wertschätzung der Geschäftsleitung signalisieren. Die Mitarbeiter fühlen sich gesehen und das steigert nachweislich die Motivation und die Identifikation mit dem Arbeitgeber. Wenn man diese Organisation hingegen den einzelnen Abteilungen überlässt, besteht die große Gefahr, dass sich isolierte Gruppen bilden. Man kennt dann zwar sein eigenes Team sehr gut, aber ein übergreifender Austausch und ein Verständnis für die Arbeit der anderen fehlen völlig. Das kann langfristig zu einer Art Konkurrenzdenken zwischen den Abteilungen führen, was für die Zusammenarbeit im Unternehmen nicht förderlich ist. Aus diesen Gründen halte ich zentral geplante Veranstaltungen für die deutlich bessere Lösung.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "src_weiterbildungsbudget",
+  "kind": "text",
+  "title": "Weiterbildungsbudget: pro Kopf oder nach Bedarf?",
+  "hook": "Fünf Beiträge zu einer Frage, die zunächst nach Geld klingt — und eigentlich nach Vertrauen.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "eine Regel als einfach, aber ungenau kritisieren: einfach zu verwalten schon, gerecht aber nicht unbedingt",
+      "eine Befürchtung mit einer Bedingung entkräften: nur, wenn klare Kriterien gelten, sonst nicht",
+      "einen Vorschlag mit dem eigenen Zweifel versehen: ob das in der Praxis funktioniert, wage ich zu bezweifeln",
+      "eine Erfahrung als Einzelfall relativieren: das war bei mir vielleicht einfach Glück"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns bekommt jeder pro Jahr denselben Betrag für Weiterbildung, egal ob jemand einen teuren Kurs braucht oder gar keinen möchte. Einfach zu verwalten schon, gerecht aber nicht unbedingt — wer wirklich etwas Teures braucht, geht leer aus.",
+      "when": "Mo 10:20",
+      "handle": "elena",
+      "speaker": "Elena_W"
+    },
+    {
+      "de": "Bei einer Vergabe nach Bedarf hätte ich allerdings Bedenken: wer entscheidet dann, wessen Bedarf größer ist? Nur, wenn klare Kriterien gelten, würde ich das unterstützen — sonst wird es schnell zu einer Frage von Sympathie.",
+      "when": "Mo 11:35",
+      "handle": "hakan",
+      "speaker": "Hakan_T"
+    },
+    {
+      "de": "Bei mir persönlich hat die Vergabe nach Bedarf bisher gut funktioniert — ich habe letztes Jahr einen teuren Kurs bekommen, den ich wirklich brauchte. Das war bei mir vielleicht einfach Glück, ich will das nicht verallgemeinern.",
+      "when": "Mo 14:10",
+      "handle": "petra2",
+      "speaker": "Petra_L2"
+    },
+    {
+      "de": "Ob das in der Praxis für alle so fair läuft wie bei Petra, wage ich allerdings zu bezweifeln. Gerade wer sich weniger traut, seinen Bedarf laut zu äußern, geht bei einer reinen Bedarfsvergabe eher leer aus als bei einem festen Betrag für alle.",
+      "when": "Di 08:50",
+      "handle": "michael2",
+      "speaker": "Michael_D"
+    },
+    {
+      "de": "Michaels Einwand trifft eigentlich genau das, was mich beschäftigt. Mich stört gar nicht die Idee einer bedarfsgerechten Verteilung an sich — mich stört, dass dabei genau die leiser Sprechenden übersehen werden könnten. Vielleicht bräuchte es beides: einen kleinen Grundbetrag für alle und zusätzlich eine Bedarfsvergabe.",
+      "when": "Di 12:15",
+      "handle": "elena",
+      "speaker": "Elena_W"
+    }
+  ],
+  "transcript": "Bei uns bekommt jeder pro Jahr denselben Betrag für Weiterbildung, egal ob jemand einen teuren Kurs braucht oder gar keinen möchte. Einfach zu verwalten schon, gerecht aber nicht unbedingt — wer wirklich etwas Teures braucht, geht leer aus.\n\nBei einer Vergabe nach Bedarf hätte ich allerdings Bedenken: wer entscheidet dann, wessen Bedarf größer ist? Nur, wenn klare Kriterien gelten, würde ich das unterstützen — sonst wird es schnell zu einer Frage von Sympathie.\n\nBei mir persönlich hat die Vergabe nach Bedarf bisher gut funktioniert — ich habe letztes Jahr einen teuren Kurs bekommen, den ich wirklich brauchte. Das war bei mir vielleicht einfach Glück, ich will das nicht verallgemeinern.\n\nOb das in der Praxis für alle so fair läuft wie bei Petra, wage ich allerdings zu bezweifeln. Gerade wer sich weniger traut, seinen Bedarf laut zu äußern, geht bei einer reinen Bedarfsvergabe eher leer aus als bei einem festen Betrag für alle.\n\nMichaels Einwand trifft eigentlich genau das, was mich beschäftigt. Mich stört gar nicht die Idee einer bedarfsgerechten Verteilung an sich — mich stört, dass dabei genau die leiser Sprechenden übersehen werden könnten. Vielleicht bräuchte es beides: einen kleinen Grundbetrag für alle und zusätzlich eine Bedarfsvergabe.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "expression \"wage_ich_zu_bezweifeln\": \"gilt\" is in the citation but not in the source line it claims to come from",
+      "level: script only warns on lexical_range — Abstrakte Nomen: weiterbildung, eigentlich, verteilung. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:57:43.262Z",
+  "updated_at": "2026-09-16T07:57:43.262Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

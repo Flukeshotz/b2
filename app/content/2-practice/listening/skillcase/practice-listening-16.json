@@ -1,0 +1,110 @@
+{
+  "id": "practice-listening-16",
+  "board": "custom",
+  "title": "Hörverstehen — Teambesprechung: Neue Software",
+  "minutes": 9,
+  "source": "Skillcase, original transcript. Audio: Azure Neural TTS — see tools/make_listening_audio.js.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Teambesprechung: Neue Software",
+      "instruction": "Hören Sie und beantworten Sie die Aufgaben.",
+      "minutes": 9,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/practice_listening_16_neue_software.mp3",
+        "duration_seconds": 41.4,
+        "voices": "klaus+mia+jan"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worüber muss das Team entscheiden?",
+          "options": [
+            "Ob die neue Software nächsten Monat oder im neuen Jahr eingeführt wird.",
+            "Ob ein neuer Anbieter gesucht wird.",
+            "Ob die alte Software komplett abgeschafft wird."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Ob die neue Software nächsten Monat oder im neuen Jahr eingeführt wird."
+          },
+          "explanation": "\"Wir müssen entscheiden, ob wir die neue Buchhaltungssoftware schon nächsten Monat einführen oder erst im neuen Jahr.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "justify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum ist Mitarbeiter 2 zunächst gegen eine Einführung im nächsten Monat?",
+          "options": [
+            "Er hat noch keine Schulung erhalten.",
+            "Er hält eine Umstellung mitten im Quartal für riskant.",
+            "Er findet die Software insgesamt überflüssig."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Er hält eine Umstellung mitten im Quartal für riskant."
+          },
+          "explanation": "\"mitten im laufenden Quartal umzustellen halte ich für riskant.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Mitarbeiterin 1 räumt ein, dass das Risiko-Argument von Mitarbeiter 2 berechtigt ist.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Ein berechtigtes Risiko, das gebe ich zu.\""
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was ändert am Ende Mitarbeiter 2s Meinung?",
+          "options": [
+            "Ein direkter Befehl des Teamleiters.",
+            "Ein günstigerer Preis des Anbieters.",
+            "Die Aussicht auf eine parallele Testphase mit dem alten System."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Die Aussicht auf eine parallele Testphase mit dem alten System."
+          },
+          "explanation": "\"Wenn die Testphase wirklich parallel läuft, ändert das meine Einschätzung.\""
+        }
+      ]
+    }
+  ]
+}

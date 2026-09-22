@@ -1,0 +1,128 @@
+{
+  "id": "exp_fahrtkosten_chunks",
+  "source_id": "src_fahrtkosten",
+  "kind": "vocabulary",
+  "ord": 1,
+  "title": "Vier Sätze, um Theorie und Praxis zu vergleichen",
+  "minutes": 9,
+  "primary_capability": "argue",
+  "secondary_capabilities": [
+    "structure",
+    "justify",
+    "concede"
+  ],
+  "checks": [
+    "lexical_range"
+  ],
+  "teaches": [
+    [
+      "Auf dem Papier klingt das fair, in der Praxis sieht es anders aus.",
+      "on paper that sounds fair, in practice it looks different",
+      "🔗"
+    ],
+    [
+      "Das war eher die Ausnahme als der Normalfall.",
+      "that was more the exception than the norm",
+      "🔗"
+    ],
+    [
+      "Anderswo wird das längst so gemacht.",
+      "elsewhere it's already done that way",
+      "🔗"
+    ],
+    [
+      "Ganz sicher bin ich mir da selbst nicht.",
+      "I'm not entirely sure about that myself",
+      "🔗"
+    ]
+  ],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Vier Sätze aus dem Thread, den Sie gerade gelesen haben.",
+        "Keine Vokabeln — vier Züge, mit denen man eine Regel gegen die Realität prüft."
+      ]
+    },
+    {
+      "t": "notice",
+      "w": 0,
+      "ex": "auf_dem_papier_fair_in_der_praxis_anders",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "t": "notice",
+      "w": 1,
+      "ex": "eher_die_ausnahme_als_der_normalfall",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "q": "Wie beschreiben Sie das?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A trennt genau Theorie und Praxis — genau die Situation. B ist ein Vergleich mit anderswo, den Sie hier noch nicht gemacht haben. C ist eine Unsicherheit über die eigene Position, nicht das Thema hier.",
+      "options": [
+        "Auf dem Papier klingt das fair, in der Praxis sieht es anders aus.",
+        "Anderswo wird das längst so gemacht.",
+        "Ganz sicher bin ich mir da selbst nicht."
+      ],
+      "exercises": [
+        "auf_dem_papier_fair_in_der_praxis_anders"
+      ],
+      "situation": "Eine Regel bei Ihnen sieht auf den ersten Blick gerecht aus. Sobald Sie genauer hinschauen, funktioniert sie für eine bestimmte Gruppe aber nicht."
+    },
+    {
+      "t": "notice",
+      "w": 2,
+      "ex": "anderswo_wird_das_laengst_so_gemacht",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "t": "notice",
+      "w": 3,
+      "ex": "ganz_sicher_bin_ich_mir_da_selbst_nicht",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "q": "Wie stützen Sie Ihre Forderung?",
+      "t": "chunk_choose",
+      "answer": 0,
+      "explain": "A liefert das konkrete Beispiel und den Vergleich — genau Ihre Position. B und C passen inhaltlich nicht: hier geht es um einen positiven Vergleich, nicht um einen Theorie-Praxis-Unterschied oder eine historische Einordnung.",
+      "options": [
+        "Bei meinem letzten Arbeitgeber gab es das schon. Anderswo wird das längst so gemacht.",
+        "Auf dem Papier klingt das fair, in der Praxis sieht es anders aus.",
+        "Das war eher die Ausnahme als der Normalfall."
+      ],
+      "exercises": [
+        "anderswo_wird_das_laengst_so_gemacht"
+      ],
+      "situation": "Sie fordern eine Änderung bei der Arbeit und wissen von einem früheren Arbeitgeber, dass diese Änderung dort erfolgreich umgesetzt wurde."
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "eher_die_ausnahme_als_der_normalfall",
+      "hint": "Nennen Sie den damaligen Status als Ausnahme, im Gegensatz zu heute.",
+      "context": "Eine alte Regel bei Ihnen beruht auf einer Situation, die früher selten war und heute häufig ist. Erklären Sie den Unterschied.",
+      "sourceId": "src_fahrtkosten"
+    },
+    {
+      "t": "chunk_produce",
+      "ex": "ganz_sicher_bin_ich_mir_da_selbst_nicht",
+      "hint": "Ehrlich bleiben, statt Sicherheit vorzutäuschen.",
+      "context": "Sie vertreten eine Position in einer Diskussion, sind sich aber bei einem Detail selbst nicht ganz sicher. Räumen Sie das ein.",
+      "sourceId": "src_fahrtkosten"
+    }
+  ],
+  "status": "gated",
+  "published_topic_id": null,
+  "created_at": "2026-09-16T07:56:00.337Z",
+  "updated_at": "2026-09-16T07:56:00.337Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

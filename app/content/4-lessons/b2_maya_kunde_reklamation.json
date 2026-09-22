@@ -1,0 +1,25 @@
+{
+  "id": "b2_maya_kunde_reklamation",
+  "order_index": 24,
+  "icon": "💬",
+  "title": "Eine unklare Reklamation",
+  "capability": "getting the real problem out of a vague complaint",
+  "proof": "Eine unklare Reklamation",
+  "subs": [
+    {
+      "key": "main",
+      "label": "Gespräch",
+      "steps": [
+        {
+          "t": "converse",
+          "scenarioId": "maya_kunde_reklamation"
+        }
+      ],
+      "teaches": []
+    }
+  ],
+  "level": "b2",
+  "status": "live",
+  "retired_reason": null,
+  "retired_at": null
+}

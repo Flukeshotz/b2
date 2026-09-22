@@ -1,0 +1,57 @@
+{
+  "id": "goethe-b2-sprechen-2",
+  "board": "goethe",
+  "title": "Goethe-Zertifikat B2 — Sprechen, Übungsset 2",
+  "minutes": 5,
+  "source": "Skillcase, authored. Exam-format practice for Goethe B2 Sprechen Teil 1 — not an official Goethe task.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Kurzvortrag: Lebenslanges Lernen im Beruf",
+      "instruction": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden — auch in der Freizeit. Ist das fair? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Positionierung zur Fairness-Frage (Ja/Nein/teilweise) direkt zu Beginn nennen.",
+              "Zwei bis drei strukturierte Argumente mit Beispielen aus dem Berufsleben (z. B. Zeitmangel, Karrierevorteile, Work-Life-Balance) liefern.",
+              "Typische B2-Redemittel zur Meinungsäußerung und Abwägung verwenden (z. B. 'Einerseits... andererseits', 'Ich bin der festen Überzeugung, dass...', 'Hinzu kommt, dass...').",
+              "Auf die Abgrenzung von Arbeitszeit und Freizeit sowie die Verantwortung des Arbeitgebers eingehen.",
+              "Ein kurzes, persönliches Fazit mit Ausblick oder Wunsch formulieren."
+            ],
+            "expected_answer": "Die Frage, ob es fair ist, dass Arbeitgeber erwarten, dass sich Beschäftigte auch in ihrer Freizeit weiterbilden, ist aus meiner Sicht nicht pauschal zu beantworten. Ich persönlich finde diese Erwartung grundsätzlich problematisch, auch wenn ich die Notwendigkeit von Weiterbildung durchaus sehe. Ich bin der festen Überzeugung, dass die Freizeit in erster Linie der Erholung dienen sollte, und eine regelmäßige Verpflichtung zur Weiterbildung außerhalb der Arbeitszeit empfinde ich oft als unfair.\n\nEinerseits verstehe ich das Argument, dass lebenslanges Lernen in unserer schnelllebigen Arbeitswelt unverzichtbar ist. Besonders in technischen Berufen oder im IT-Bereich verändert sich das Wissen so rasant, dass man ohne ständige Aktualisierung schnell den Anschluss verliert. Viele Arbeitnehmer bilden sich daher aus eigenem Antrieb weiter, um ihre Karrierechancen zu verbessern oder einfach, weil ihnen ihr Fachgebiet Freude bereitet. In solchen Fällen, wenn es sich um eine freiwillige Entscheidung handelt, ist das natürlich völlig in Ordnung.\n\nAndererseits, und das ist der entscheidende Punkt, sehe ich eine große Gefahr für die Work-Life-Balance, wenn diese Erwartung vom Arbeitgeber ausgeht und quasi zur Pflicht wird. Nach einem anstrengenden Acht-Stunden-Tag noch Fachbücher zu lesen oder Online-Kurse zu belegen, kann schnell zu Überforderung und im schlimmsten Fall zu einem Burnout führen. Hinzu kommt, dass viele Menschen familiäre Verpflichtungen haben, zum Beispiel Kinderbetreuung oder die Pflege von Angehörigen. Für sie ist es schlichtweg unmöglich, neben dem Job noch regelmäßig Zeit für Weiterbildung zu finden. Es entsteht eine Ungerechtigkeit, weil nicht alle die gleichen Voraussetzungen haben.\n\nMeiner Meinung nach liegt die Hauptverantwortung für die Weiterbildung der Mitarbeiter beim Arbeitgeber. Wenn ein Unternehmen von aktuellen Kenntnissen seiner Beschäftigten profitiert, dann sollte es auch die Zeit und die Kosten dafür bereitstellen. Ein faires Modell wäre zum Beispiel, wenn der Arbeitgeber feste Weiterbildungszeiten während der Arbeitszeit anbietet oder für externe Kurse einen finanziellen Ausgleich und Freizeitausgleich gewährt. Nur so kann sichergestellt werden, dass die Beschäftigten gesund und motiviert bleiben.\n\nZusammenfassend möchte ich sagen, dass die Erwartung, sich in der Freizeit weiterzubilden, in den meisten Fällen nicht fair ist. Sie verschiebt die Grenze zwischen Beruf und Privatleben zu Ungunsten der Arbeitnehmer. Ich wünsche mir eine Arbeitskultur, in der Weiterbildung als gemeinsame Investition von Arbeitgeber und Arbeitnehmer gesehen und vor allem in der bezahlten Arbeitszeit ermöglicht wird.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Flüssiger, kohärenter Kurzvortrag (ca. 3 Minuten) mit deutlicher Gliederung. Argumentieren Sie differenziert zur Verteilung von beruflicher Weiterbildung und Freizeit, formulieren Sie Ihre eigene Haltung klar und nutzen Sie Redemittel zur Argumentation und Nuancierung."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "src_urlaubsplanung",
+  "kind": "text",
+  "title": "Urlaubsplanung: nach Dienstalter oder nach Wunsch?",
+  "hook": "Fünf Beiträge zu einer alten Regel, die kaum jemand mehr für zeitgemäß hält — und trotzdem hat sie auch heute noch Verteidiger.",
+  "theme": 3,
+  "context": "universal",
+  "cefr_tier": "developing",
+  "declaration": {
+    "exam": "Goethe Lesen Aufgabe 2 (Standpunkte zuordnen) und Schreiben Aufgabe 1 (Forumsbeitrag)",
+    "theme": 3,
+    "checks": [],
+    "cefr_tier": "developing",
+    "difficulty": {
+      "content": [
+        "competing_viewpoints",
+        "implicit_cohesion",
+        "inference_required"
+      ],
+      "delivery": []
+    },
+    "experience_types": [
+      "reading",
+      "vocabulary"
+    ],
+    "recognition_only": true,
+    "language_resources": [
+      "ein Prinzip verteidigen, ohne den Einzelfall zu bestreiten: als Prinzip finde ich das richtig, in diesem Fall aber …",
+      "eine Regel auf ihre Herkunft zurückführen: die Regel stammt noch aus einer Zeit, als …",
+      "eine Alternative als Kompromiss anbieten: ein Mittelweg wäre doch …",
+      "zwischen Sicherheit und Fairness unterscheiden: sicher schon, aber ist es auch fair?"
+    ],
+    "primary_capability": "compare",
+    "secondary_capabilities": [
+      "structure",
+      "concede",
+      "argue"
+    ]
+  },
+  "script": [
+    {
+      "de": "Bei uns bekommen die Wünsche für die Sommerferien immer noch nach Dienstalter Vorrang. Ich bin erst seit zwei Jahren dabei und habe kleine Kinder — trotzdem bekomme ich fast nie die Woche, die ich brauche.",
+      "when": "Mo 16:05",
+      "handle": "annika",
+      "speaker": "Annika F."
+    },
+    {
+      "de": "Als Prinzip finde ich Dienstalter eigentlich richtig — wer lange dabei ist, sollte etwas davon haben. In deinem Fall mit kleinen Kindern klingt das allerdings hart, das gebe ich zu.",
+      "when": "Mo 17:30",
+      "handle": "wolfgang",
+      "speaker": "Wolfgang_D"
+    },
+    {
+      "de": "Diese Regelung stammt noch aus einer Zeit, als die meisten Kolleginnen keine schulpflichtigen Kinder hatten und die Ferienzeiten weniger Konflikte verursachten. Damals war sie eine Frage der Gerechtigkeit gegenüber langjährigen Mitarbeiterinnen. Ob sie das heute noch ist, frage ich mich inzwischen selbst.",
+      "when": "Di 08:12",
+      "handle": "renate",
+      "speaker": "Renate_Stationsleitung"
+    },
+    {
+      "de": "Ein Mittelweg wäre doch, Eltern schulpflichtiger Kinder bei den Sommerferien Vorrang zu geben und Dienstalter für alle anderen Zeiträume beizubehalten. Dann bleibt das Prinzip erhalten, ohne dass es an der Stelle hart wird, wo es am meisten wehtut.",
+      "when": "Di 10:45",
+      "handle": "murat",
+      "speaker": "Murat_K"
+    },
+    {
+      "de": "Murats Vorschlag trifft eigentlich genau das, was ich wollte. Mich stört gar nicht das Dienstalter als Prinzip — mich stört, dass es ausgerechnet bei den Schulferien keine Ausnahme gibt, obwohl das der einzige Zeitraum ist, in dem ich wirklich keine Wahl habe.",
+      "when": "Di 14:20",
+      "handle": "annika",
+      "speaker": "Annika F."
+    }
+  ],
+  "transcript": "Bei uns bekommen die Wünsche für die Sommerferien immer noch nach Dienstalter Vorrang. Ich bin erst seit zwei Jahren dabei und habe kleine Kinder — trotzdem bekomme ich fast nie die Woche, die ich brauche.\n\nAls Prinzip finde ich Dienstalter eigentlich richtig — wer lange dabei ist, sollte etwas davon haben. In deinem Fall mit kleinen Kindern klingt das allerdings hart, das gebe ich zu.\n\nDiese Regelung stammt noch aus einer Zeit, als die meisten Kolleginnen keine schulpflichtigen Kinder hatten und die Ferienzeiten weniger Konflikte verursachten. Damals war sie eine Frage der Gerechtigkeit gegenüber langjährigen Mitarbeiterinnen. Ob sie das heute noch ist, frage ich mich inzwischen selbst.\n\nEin Mittelweg wäre doch, Eltern schulpflichtiger Kinder bei den Sommerferien Vorrang zu geben und Dienstalter für alle anderen Zeiträume beizubehalten. Dann bleibt das Prinzip erhalten, ohne dass es an der Stelle hart wird, wo es am meisten wehtut.\n\nMurats Vorschlag trifft eigentlich genau das, was ich wollte. Mich stört gar nicht das Dienstalter als Prinzip — mich stört, dass es ausgerechnet bei den Schulferien keine Ausnahme gibt, obwohl das der einzige Zeitraum ist, in dem ich wirklich keine Wahl habe.",
+  "audio_url": null,
+  "duration_s": null,
+  "markers": [],
+  "status": "gated",
+  "gate_report": {
+    "ok": true,
+    "fails": [],
+    "warns": [
+      "expression \"als_prinzip_richtig_in_diesem_fall_aber\": \"diesem\" is in the citation but not in the source line it claims to come from",
+      "expression \"als_prinzip_richtig_in_diesem_fall_aber\": \"aber\" is in the citation but not in the source line it claims to come from",
+      "level: script only warns on lexical_range — Abstrakte Nomen: eigentlich, regelung, gerechtigkeit. Auf B2 erwartet man noch mehr davon."
+    ]
+  },
+  "review_notes": null,
+  "approved_by": null,
+  "approved_at": null,
+  "created_at": "2026-09-16T07:18:28.920Z",
+  "updated_at": "2026-09-16T07:18:28.920Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null,
+  "audio_required": false,
+  "audio_asset_id": null
+}

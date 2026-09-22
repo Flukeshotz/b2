@@ -1,0 +1,70 @@
+{
+  "id": "goethe-b2-schreiben-t2-p11",
+  "board": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #11",
+  "minutes": 30,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": "Du besuchst einen Sprachkurs. Du warst krank und hast die Partneraufgabe mit deiner Kursfreundin Mira nicht vorbereiten können. Schreib eine Nachricht an Mira.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Du besuchst einen Sprachkurs. Du warst krank und hast die Partneraufgabe mit deiner Kursfreundin Mira nicht vorbereiten können. Schreib eine Nachricht an Mira.",
+          "options": null,
+          "payload": {
+            "prompt": "Du besuchst einen Sprachkurs. Du warst krank und hast die Partneraufgabe mit deiner Kursfreundin Mira nicht vorbereiten können. Schreib eine Nachricht an Mira.",
+            "guidance": [
+              "Bitte um einen neuen Übungstermin.",
+              "Entschuldige dich.",
+              "Erkläre, was du schon vorbereitet hast.",
+              "Schlage vor, wie ihr die Aufgabe aufteilen könnt."
+            ],
+            "min_words": 100,
+            "rubric_id": "goethe_b2_writing",
+            "task_type": "formal_email",
+            "target_words": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Bitte um einen neuen Übungstermin.",
+              "Entschuldige dich.",
+              "Erkläre, was du schon vorbereitet hast.",
+              "Schlage vor, wie ihr die Aufgabe aufteilen könnt."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Informelle, aber höfliche Anrede und Grußformel verwenden (z. B. „Liebe Mira“, „Viele Grüße“).",
+              "Alle vier Leitpunkte in sinnvoller Reihenfolge abdecken: zuerst entschuldigen, dann um neuen Termin bitten, eigenen Vorbereitungsstand erklären und schließlich einen Aufteilungsvorschlag machen.",
+              "Gefühle und Höflichkeit sprachlich ausdrücken (z. B. „Es tut mir wirklich leid“, „Wäre das für dich in Ordnung?“).",
+              "Text logisch mit Konnektoren verknüpfen (z. B. „deshalb“, „trotzdem“, „außerdem“, „zum Beispiel“)."
+            ],
+            "expected_answer": "Liebe Mira,\n\nes tut mir wirklich leid, dass ich unseren Termin nicht einhalten konnte. Ich war leider die ganze Woche krank und lag nur im Bett, deshalb habe ich es nicht geschafft, dir früher Bescheid zu sagen. Könnten wir uns vielleicht morgen Nachmittag in der Bibliothek treffen, um die Partneraufgabe gemeinsam zu besprechen?\n\nTrotz meiner Erkältung habe ich schon ein wenig vorbereitet. Ich habe mir das Thema genau durchgelesen und bereits einige Ideen für die Einleitung gesammelt. Außerdem habe ich wichtige Vokabeln herausgeschrieben, die wir gut verwenden können. Was hältst du davon, wenn ich den theoretischen Teil übernehme und du dich auf die praktischen Beispiele konzentrierst? Natürlich können wir die Aufgaben auch anders aufteilen, falls du einen besseren Vorschlag hast.\n\nIch hoffe, du bist mir nicht böse. Vielen Dank für dein Verständnis!\n\nViele Grüße\n[Dein Name]",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Prüfen Sie, ob alle Leitpunkte differenziert behandelt und die vorgegebene Wortzahl erreicht wurden."
+        }
+      ]
+    }
+  ]
+}

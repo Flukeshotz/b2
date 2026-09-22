@@ -1,0 +1,132 @@
+{
+  "id": "exp_homeoffice_read",
+  "source_id": "src_homeoffice",
+  "kind": "reading",
+  "ord": 0,
+  "title": "Homeoffice: wer entscheidet das eigentlich?",
+  "minutes": 11,
+  "primary_capability": "compare",
+  "secondary_capabilities": [
+    "structure",
+    "argue"
+  ],
+  "checks": [],
+  "teaches": [],
+  "steps": [
+    {
+      "t": "story",
+      "lines": [
+        "Ein Forum. Fünf Beiträge, vier Leute — und sie sind sich gründlich uneinig.",
+        "Lesen Sie den ganzen Thread einmal durch. Danach bleibt er offen: Sie dürfen jederzeit zurückblättern."
+      ]
+    },
+    {
+      "t": "read_source",
+      "sourceId": "src_homeoffice"
+    },
+    {
+      "q": "Wer beschreibt einen konkreten Vorgang, der im Homeoffice wegfällt?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 2,
+      "explain": "A. Reinhardt nennt nicht „die Stimmung“, sondern eine bestimmte Handlung: die Frage über den Schreibtisch hinweg, die zwei Minuten kostet statt einer Mail und zwei Tagen. Die anderen sprechen über die Regel, nicht über den Vorgang.",
+      "options": [
+        "kerstin",
+        "tobi",
+        "reinhardt",
+        "nadja"
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "compare"
+    },
+    {
+      "q": "Wer bezweifelt, dass die offizielle Begründung der wirkliche Grund ist?",
+      "t": "readq",
+      "mode": "attribute",
+      "answer": 1,
+      "explain": "tobi_87: „Zusammenhalt ist doch nur das Wort, das man benutzt, wenn man Kontrolle meint.“ Kerstin_M zweifelt an der Wirkung der Regel, nicht an der Ehrlichkeit der Begründung — das ist ein anderer Einwand.",
+      "options": [
+        "kerstin",
+        "tobi",
+        "reinhardt",
+        "nadja"
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "compare"
+    },
+    {
+      "q": "Dieser Satz von tobi_87 — was ist er?",
+      "t": "readq",
+      "mode": "stance",
+      "quote": "Vor 2020 hat auch niemand behauptet, das Büro sei ein sozialer Ort.",
+      "answer": 1,
+      "explain": "Er sagt nicht, woher er das weiß, und „niemand“ ist nicht überprüfbar. Der Satz wirkt wie ein Beweis, weil er konkret klingt — er ist aber nur eine zweite Behauptung. A. Reinhardt macht es an derselben Stelle anders: er beschreibt einen Vorgang, den man nachvollziehen kann.",
+      "options": [
+        "Ein Beleg: er stützt seine These mit etwas Nachprüfbarem.",
+        "Eine Behauptung: sie klingt überzeugend, wird aber nicht belegt.",
+        "Ein Zugeständnis: er gibt der Gegenseite teilweise recht."
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "argue"
+    },
+    {
+      "q": "Nadja W. schreibt zuerst: „Das Argument mit den Neuen höre ich oft, und es stimmt vermutlich.“ Wie steht der Satz danach zu diesem ersten Satz?",
+      "t": "readq",
+      "mode": "relation",
+      "quote": "Nur folgt daraus doch nicht die Pflicht für alle.",
+      "answer": 2,
+      "explain": "„Nur folgt daraus doch nicht …“ greift nicht die Aussage an, sondern den Schluss. Sie räumt erst ein („es stimmt vermutlich“) und schränkt dann die Folgerung ein. Das Beispiel aus ihrer Firma kommt danach — es stützt ihren Gegenvorschlag, nicht den ersten Satz.",
+      "options": [
+        "Er widerspricht ihm: sie hält das Argument doch für falsch.",
+        "Er belegt ihn mit einem Beispiel aus ihrer Firma.",
+        "Er lässt ihn gelten und bestreitet nur, was daraus folgen soll.",
+        "Er wiederholt ihn mit anderen Worten."
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "structure"
+    },
+    {
+      "q": "Kerstin_M schreibt, an ihrem Bürotag säßen ausgerechnet die drei Kollegen zu Hause, mit denen sie zusammenarbeitet. Was folgt daraus für die Anwesenheitspflicht?",
+      "t": "readq",
+      "mode": "implication",
+      "answer": 1,
+      "explain": "Die Regel wird mit dem Zusammenhalt im Team begründet. Wenn sie an ihrem Bürotag niemanden aus ihrem Team antrifft, erreicht die Regel bei ihr genau dieses Ziel nicht. Von Absicht steht nichts da — das wäre hineingelesen.",
+      "options": [
+        "Sie arbeitet lieber allein als im Team.",
+        "In ihrem Fall bewirkt die Regel gerade das nicht, wofür es sie gibt.",
+        "Ihr Teamleiter hat die Tage absichtlich falsch verteilt.",
+        "Sie hält zwei Tage im Büro für zu wenig."
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "compare"
+    },
+    {
+      "q": "Warum schreibt Kerstin_M das ganz am Ende?",
+      "t": "readq",
+      "mode": "intention",
+      "quote": "Wäre die Regel im Team ausgehandelt worden, hätte ich sie wahrscheinlich mitgetragen",
+      "answer": 1,
+      "explain": "Sie sagt selbst: „Mich stört … weniger der Bürotag als die Art, wie er zustande gekommen ist.“ Und sie geht weiter — bei einem anderen Verfahren wäre vermutlich dieselbe Regel herausgekommen. Wer nur ihren ersten Beitrag liest, hält sie für eine Gegnerin der Anwesenheitspflicht. Sie ist es nicht.",
+      "options": [
+        "Um zuzugeben, dass sie sich im ersten Beitrag geirrt hat.",
+        "Um klarzustellen, dass sie nicht die Regel ablehnt, sondern die Art, wie sie zustande kam.",
+        "Um A. Reinhardt vorzuwerfen, dass er sein Team nicht fragt.",
+        "Um vorzuschlagen, die Regel wieder abzuschaffen."
+      ],
+      "sourceId": "src_homeoffice",
+      "capability": "compare"
+    }
+  ],
+  "status": "live",
+  "published_topic_id": "b2_homeoffice_read",
+  "created_at": "2026-09-08T07:06:37.990Z",
+  "updated_at": "2026-09-09T08:13:18.459Z",
+  "source_book": null,
+  "source_chapter": null,
+  "source_module": null,
+  "source_page": null,
+  "source_type": null,
+  "adaptation_status": null,
+  "review_status": "DRAFT",
+  "difficulty": null
+}

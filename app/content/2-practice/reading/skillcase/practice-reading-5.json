@@ -1,0 +1,106 @@
+{
+  "id": "practice-reading-5",
+  "board": "custom",
+  "title": "Leseverstehen — Hausmitteilung: Neue Kantinenregelung",
+  "minutes": 15,
+  "source": "Skillcase, authored. General B2 reading practice — not tied to any specific exam board's format.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 4,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Hausmitteilung: Neue Kantinenregelung",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "An alle Mitarbeiterinnen und Mitarbeiter\n\nAb dem 1. des kommenden Monats gilt in der Kantine eine neue Zeitregelung. Grund dafür ist die wiederkehrende Überlastung zur Hauptessenszeit zwischen 12:15 und 12:45 Uhr, die in den letzten Monaten zu Wartezeiten von bis zu 25 Minuten geführt hat.\n\nKünftig sind die Mittagspausen nach Abteilungen gestaffelt: Verwaltung und IT nehmen ihre Pause zwischen 11:45 und 12:30 Uhr, Produktion und Logistik zwischen 12:30 und 13:15 Uhr. Wer aus dienstlichen Gründen von dieser Regelung abweichen muss, meldet sich bitte vorab bei der jeweiligen Abteilungsleitung.\n\nDie Kantine selbst bleibt weiterhin von 11:30 bis 14:00 Uhr geöffnet. Das Angebot an vegetarischen und veganen Gerichten wird ab sofort täglich um mindestens eine Option erweitert, nachdem die interne Umfrage vom Frühjahr einen entsprechenden Wunsch von über 40 Prozent der Belegschaft ergeben hatte.\n\nWir bitten um Verständnis für die Umstellung und freuen uns über Rückmeldungen an die Personalabteilung.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Warum wird die neue Zeitregelung eingeführt?",
+          "options": [
+            "Wegen zu langer Wartezeiten zur Hauptessenszeit.",
+            "Weil die Kantine geschlossen werden soll.",
+            "Weil zu wenig Personal in der Kantine arbeitet."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wegen zu langer Wartezeiten zur Hauptessenszeit."
+          },
+          "explanation": "\"wiederkehrende Überlastung … die … zu Wartezeiten von bis zu 25 Minuten geführt hat\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Verwaltung und IT haben laut Mitteilung dieselbe Pausenzeit wie Produktion und Logistik.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "Die Zeiten sind gestaffelt: 11:45–12:30 vs. 12:30–13:15."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was muss jemand tun, der aus dienstlichen Gründen von der Regelung abweichen muss?",
+          "options": [
+            "Einfach zur gewünschten Zeit essen gehen.",
+            "Einen Antrag bei der Kantine stellen.",
+            "Sich vorab bei der Abteilungsleitung melden."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Sich vorab bei der Abteilungsleitung melden."
+          },
+          "explanation": "\"meldet sich bitte vorab bei der jeweiligen Abteilungsleitung\"."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Woher kommt die Entscheidung, das vegetarische/vegane Angebot zu erweitern?",
+          "options": [
+            "Aus einer gesetzlichen Vorschrift.",
+            "Aus einem Vorschlag der Kantinenleitung.",
+            "Aus einer internen Umfrage vom Frühjahr."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Aus einer internen Umfrage vom Frühjahr."
+          },
+          "explanation": "\"nachdem die interne Umfrage vom Frühjahr einen entsprechenden Wunsch … ergeben hatte\"."
+        }
+      ]
+    }
+  ]
+}

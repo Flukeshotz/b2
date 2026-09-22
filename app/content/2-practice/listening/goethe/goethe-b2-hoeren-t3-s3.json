@@ -1,0 +1,93 @@
+{
+  "id": "goethe-b2-hoeren-t3-s3",
+  "board": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 3",
+  "minutes": 10,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 3,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "instruction": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "minutes": 10,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/goethe/goethe-b2-listening-teil3-set3.mp3",
+        "duration_seconds": null,
+        "voices": null
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lernen braucht nicht immer lange freie Abende.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Moderatorin"
+          },
+          "explanation": "Die richtige Antwort ist a) \"Moderatorin\"."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Er/Sie begann beruflich und fand später persönliche Gründe.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Dr. Roth"
+          },
+          "explanation": "Die richtige Antwort ist b) \"Dr. Roth\"."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Fehlerangst steht freiem Sprechen oft im Weg.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 2,
+            "text": "Frau Mertens"
+          },
+          "explanation": "Die richtige Antwort ist c) \"Frau Mertens\"."
+        }
+      ]
+    }
+  ]
+}

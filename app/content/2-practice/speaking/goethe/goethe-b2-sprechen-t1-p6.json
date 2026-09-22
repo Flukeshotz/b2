@@ -1,0 +1,56 @@
+{
+  "id": "goethe-b2-sprechen-t1-p6",
+  "board": "goethe",
+  "title": "Goethe B2 — Sprechen Teil 1 — Vortrag / Monolog #6",
+  "minutes": 5,
+  "source": "Skillcase Goethe-Zertifikat B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 1 — Vortrag / Monolog",
+      "instruction": "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Thema: Sprachen lernen im Erwachsenenalter\n\nSie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten. Wählen Sie ein Thema (Thema 1 oder 2) aus. Ihre Gesprächspartnerinnen/Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Klare Einleitung mit Nennung des gewählten Themas und kurzer persönlicher Relevanz",
+              "Strukturierte Darstellung von 2-3 Hauptaspekten (z.B. Vorteile, Herausforderungen, Methoden) mit Beispielen",
+              "Verwendung typischer B2-Redemittel wie 'Einerseits... andererseits', 'Hinzu kommt, dass...', 'Meiner Erfahrung nach...'",
+              "Angemessener Schluss mit Zusammenfassung und Ausblick oder offener Frage ans Publikum"
+            ],
+            "expected_answer": "Guten Tag zusammen. Ich habe mich für das erste Thema entschieden, also 'Sprachen lernen im Erwachsenenalter', und das liegt mir persönlich sehr am Herzen, weil ich selbst vor zwei Jahren mit 35 angefangen habe, Deutsch zu lernen. Ich möchte heute kurz auf die Vorteile, die typischen Herausforderungen und ein paar praktische Methoden eingehen.\n\nFangen wir mit den Vorteilen an. Einerseits bringt man als Erwachsener eine ganz andere Motivation mit als ein Kind. Man lernt eine Sprache meistens aus einem konkreten Grund, zum Beispiel für den Beruf, für eine Partnerschaft oder weil man auswandern möchte. Diese intrinsische Motivation ist ein riesiger Antrieb. Andererseits verfügt man über Lebenserfahrung und Lernstrategien, die man auf das Sprachenlernen übertragen kann. Man weiß, wie man sich selbst organisiert, wie man Vokabeln systematisch lernt und welche Lerntypen einem liegen.\n\nNatürlich gibt es auch Herausforderungen, das will ich gar nicht verschweigen. Ein großer Punkt ist die Angst vor Fehlern. Während Kinder einfach drauflosplappern, haben Erwachsene oft Hemmungen, weil sie sich nicht blamieren wollen. Hinzu kommt, dass das Gehirn nicht mehr so plastisch ist wie in der Kindheit, was vor allem die Aussprache betrifft. Man muss also deutlich mehr Zeit und Geduld investieren. Ein weiterer Aspekt ist der Zeitfaktor: Beruf, Familie und andere Verpflichtungen lassen oft wenig Raum für regelmäßiges Lernen.\n\nAber was kann man nun konkret tun? Meiner Erfahrung nach ist der Schlüssel eine Mischung aus strukturiertem Lernen und authentischem Input. Ein Sprachkurs ist super für die Grammatik, aber mindestens genauso wichtig ist es, die Sprache in den Alltag zu integrieren. Ich persönlich höre jeden Tag Podcasts, schaue Serien auf Deutsch und habe eine Tandempartnerin, mit der ich mich einmal pro Woche treffe. Entscheidend ist, dass man dranbleibt und sich nicht entmutigen lässt. Es geht nicht um Perfektion, sondern um Kommunikation.\n\nZusammenfassend würde ich sagen: Ja, Sprachen lernen im Erwachsenenalter ist eine Herausforderung, aber mit der richtigen Motivation und den passenden Methoden absolut machbar und unglaublich bereichernd. Es öffnet Türen zu neuen Kulturen und Denkweisen. Vielen Dank für Ihre Aufmerksamkeit, und ich freue mich auf Ihre Fragen.",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche Prüfung — frei und flüssig sprechen, Argumente begründen und auf den Partner eingehen."
+        }
+      ]
+    }
+  ]
+}

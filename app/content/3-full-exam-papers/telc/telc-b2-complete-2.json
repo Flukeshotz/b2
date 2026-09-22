@@ -1,0 +1,461 @@
+{
+  "id": "telc-b2-complete-2",
+  "board": "telc",
+  "title": "telc Deutsch B2 — Komplettes Übungspaket 2",
+  "minutes": 71,
+  "source": "Skillcase, authored. Composed exam-format practice paper for telc B2 (Lesen, Sprachbausteine, Hören, Schreiben, Sprechen) — not an official telc paper. Uses set-2 content throughout; Hören reuses Übungsset 2's transcript and audio.",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 17,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "lesen",
+      "skill": "reading",
+      "title": "Meinungsartikel: Brauchen wir noch Arbeitszeugnisse?",
+      "instruction": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "In kaum einem anderen Land wird dem Arbeitszeugnis so viel Bedeutung beigemessen wie in Deutschland. Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis — und viele prüfen jedes Wort darin mit derselben Sorgfalt, mit der ein Jurist einen Vertrag liest.\n\nBefürworter sagen, das Zeugnis schütze den Arbeitnehmer: Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige. Außerdem gebe es Bewerbern eine Möglichkeit, ihre Erfahrung gegenüber einem neuen Arbeitgeber zu belegen, ohne sich allein auf ein Vorstellungsgespräch verlassen zu müssen.\n\nKritiker halten dagegen, das System sei längst eine Formalität ohne echte Aussagekraft. Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten, und die Pflicht zur \"wohlwollenden\" Formulierung mache eine ehrliche Bewertung fast unmöglich. Einige große Technologieunternehmen sind deshalb dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\n\nEine endgültige Lösung zeichnet sich nicht ab. Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben — ob es gelesen wird, ist eine andere Frage.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "summarise",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "In Deutschland hat jeder Arbeitnehmer nach dem Ausscheiden aus einem Unternehmen Anspruch auf ein qualifiziertes Arbeitszeugnis.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": true,
+            "text": "Richtig"
+          },
+          "explanation": "\"Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "compare",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sagen Befürworter über den Nutzen des Arbeitszeugnisses?",
+          "options": [
+            "Es dokumentiere Leistung und schütze den Arbeitnehmer.",
+            "Es ersetze das Vorstellungsgespräch vollständig.",
+            "Es sei wichtiger als ein Arbeitsvertrag."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Es dokumentiere Leistung und schütze den Arbeitnehmer."
+          },
+          "explanation": "\"Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "reading",
+          "capability": "concede",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kritiker meinen, die Formulierungen in Arbeitszeugnissen seien leicht verständlich.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten\" — das Gegenteil von leicht verständlich."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "exemplify",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was haben einige große Technologieunternehmen verändert?",
+          "options": [
+            "Sie bieten statt Zeugnissen nur Referenzkontakte an.",
+            "Sie vergeben ausschließlich digitale Zeugnisse.",
+            "Sie haben das Vorstellungsgespräch abgeschafft."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Sie bieten statt Zeugnissen nur Referenzkontakte an."
+          },
+          "explanation": "\"…dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\""
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "reading",
+          "capability": "structure",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was sagt der Text über die Zukunft des Arbeitszeugnisses?",
+          "options": [
+            "Es wird abgeschafft, sobald das Arbeitsrecht geändert wird.",
+            "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben.",
+            "Alle Unternehmen werden auf Referenzkontakte umstellen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 1,
+            "text": "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben."
+          },
+          "explanation": "\"Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben.\""
+        }
+      ]
+    },
+    {
+      "part_no": 2,
+      "module": "sprachbausteine",
+      "skill": "grammar",
+      "title": "Flexible Arbeitsmodelle",
+      "instruction": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).",
+      "minutes": 15,
+      "scoring_mode": "OBJECTIVE",
+      "passage": "Immer mehr Betriebe bieten Modelle an, (1) ___ Beschäftigte ihre Arbeitszeit selbst einteilen können. Diese Modelle werden von vielen (2) ___ akzeptiert als noch vor einigen Jahren. Ein Vorteil solcher Modelle ist, dass sie sich (3) ___ jeder Lebensphase bewähren — ob mit kleinen Kindern oder pflegebedürftigen Angehörigen. Kritiker weisen (4) ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können. Manche Teams treffen sich deshalb einmal (5) ___ Woche persönlich, um Absprachen zu treffen. So bleibt der Kontakt bestehen, (6) ___ die Arbeitszeiten sich unterscheiden.",
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 1: \"…Modelle an, ___ Beschäftigte ihre Arbeitszeit selbst einteilen können.\"",
+          "options": [
+            "bei denen",
+            "die",
+            "wobei"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "bei denen"
+          },
+          "explanation": "Relativsatz mit Präposition: \"Modelle, BEI DENEN man…\" — das Bezugswort verlangt die Präposition \"bei\" + Relativpronomen im Dativ."
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 2: \"Diese Modelle werden von vielen ___ akzeptiert als noch vor einigen Jahren.\"",
+          "options": [
+            "breiter",
+            "breit",
+            "am breitesten"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "breiter"
+          },
+          "explanation": "Vergleichsstruktur mit \"als\" verlangt den Komparativ (\"breiter… als\"), nicht den Positiv oder Superlativ."
+        },
+        {
+          "item_no": 3,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 3: \"…dass sie sich ___ jeder Lebensphase bewähren.\"",
+          "options": [
+            "in",
+            "an",
+            "auf"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "in"
+          },
+          "explanation": "Feste reflexive Verb-Präposition-Verbindung: \"sich in etwas (Dativ) bewähren\" — die Modelle bewähren sich IN jeder Lebensphase. \"An\"/\"auf\" bilden mit \"sich bewähren\" keine feste Verbindung."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 4: \"Kritiker weisen ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können.\"",
+          "options": [
+            "darauf",
+            "davon",
+            "dabei"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "darauf"
+          },
+          "explanation": "Feste Verbindung \"auf etwas hinweisen\" — Pronominaladverb \"darauf\" leitet den folgenden dass-Satz ein."
+        },
+        {
+          "item_no": 5,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "language_awareness",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 5: \"…treffen sich deshalb einmal ___ Woche persönlich.\"",
+          "options": [
+            "die",
+            "der",
+            "einer"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "die"
+          },
+          "explanation": "Feste Zeitangabe \"einmal DIE Woche\" (= pro Woche) — Akkusativ in dieser festen Wendung."
+        },
+        {
+          "item_no": 6,
+          "item_type": "MCQ",
+          "skill": "grammar",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Lücke 6: \"So bleibt der Kontakt bestehen, ___ die Arbeitszeiten sich unterscheiden.\"",
+          "options": [
+            "auch wenn",
+            "sodass",
+            "weil"
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "auch wenn"
+          },
+          "explanation": "Konzessiv: der Kontakt bleibt TROTZ unterschiedlicher Arbeitszeiten bestehen — \"auch wenn\" leitet den Gegensatz ein."
+        }
+      ]
+    },
+    {
+      "part_no": 3,
+      "module": "hoeren",
+      "skill": "listening",
+      "title": "Gespräch: Ein neues Ablagesystem einführen",
+      "instruction": "Hören Sie das Gespräch einmal und beantworten Sie die Aufgaben.",
+      "minutes": 7,
+      "scoring_mode": "OBJECTIVE",
+      "passage": null,
+      "audio": {
+        "file": "/b2/audio/telc_hoeren_2_ablagesystem.mp3",
+        "duration_seconds": 40.2,
+        "voices": "jan+klaus"
+      },
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "A",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worüber sprechen die beiden Kollegen?",
+          "options": [
+            "Wie Kundenunterlagen künftig abgelegt werden sollen.",
+            "Wie neue Kunden gewonnen werden können.",
+            "Wie ein Kundentermin verschoben werden kann."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Wie Kundenunterlagen künftig abgelegt werden sollen."
+          },
+          "explanation": "\"Wir müssten uns mal einigen, wie wir die Kundenunterlagen künftig ablegen.\""
+        },
+        {
+          "item_no": 2,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "compare",
+          "difficulty": "C",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Worauf einigen sich die beiden Kollegen am Ende?",
+          "options": [
+            "Hauptordner nach Kundennamen, Unterordner nach Projektart.",
+            "Ausschließlich alphabetisch nach Kundennamen.",
+            "Ausschließlich nach Projektart, ohne Kundenbezug."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Hauptordner nach Kundennamen, Unterordner nach Projektart."
+          },
+          "explanation": "\"Hauptordner nach Kundennamen, und innerhalb davon Unterordner nach Projektart.\""
+        },
+        {
+          "item_no": 3,
+          "item_type": "TRUE_FALSE",
+          "skill": "listening",
+          "capability": "understand_speech",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Kollege 1 ist mit dem ersten Vorschlag (nur nach Kundennamen sortieren) sofort einverstanden.",
+          "options": null,
+          "payload": {},
+          "suggested_answer": {
+            "key": false,
+            "text": "Falsch"
+          },
+          "explanation": "\"Das hilft uns aber nicht, wenn wir nach einem bestimmten Projekttyp suchen.\" — er widerspricht zunächst."
+        },
+        {
+          "item_no": 4,
+          "item_type": "MCQ",
+          "skill": "listening",
+          "capability": "ask_followup",
+          "difficulty": "B",
+          "scoring_mode": "OBJECTIVE",
+          "points": 1,
+          "stem": "Was schlägt Kollege 1 am Ende zusätzlich vor?",
+          "options": [
+            "Die Regelung schriftlich festzuhalten.",
+            "Ein neues Computerprogramm anzuschaffen.",
+            "Die Entscheidung noch einmal zu vertagen."
+          ],
+          "payload": {},
+          "suggested_answer": {
+            "key": 0,
+            "text": "Die Regelung schriftlich festzuhalten."
+          },
+          "explanation": "\"Dann sollten wir das auch schriftlich festhalten, damit es künftig alle gleich machen.\""
+        }
+      ]
+    },
+    {
+      "part_no": 4,
+      "module": "schreiben",
+      "skill": "writing",
+      "title": "Halbformelle E-Mail: Fortbildungswunsch",
+      "instruction": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "minutes": 30,
+      "scoring_mode": "RUBRIC",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "LONG_TEXT",
+          "skill": "writing",
+          "capability": "structure",
+          "difficulty": "B",
+          "scoring_mode": "RUBRIC",
+          "points": 4,
+          "stem": "Sie möchten an einer beruflichen Fortbildung zum Thema Projektmanagement teilnehmen, die während Ihrer Arbeitszeit stattfindet. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.",
+          "options": null,
+          "payload": {
+            "guidance": [
+              "Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.",
+              "Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.",
+              "Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden."
+            ],
+            "min_words": 120,
+            "rubric_id": 2,
+            "rubric_key": "halbformelle_email",
+            "target_words": 150
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": [
+              "Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.",
+              "Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.",
+              "Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden."
+            ],
+            "author_criteria": null,
+            "guidance": [
+              "Höfliche Betreffzeile und korrekte Anrede (Frau/Herr + Nachname).",
+              "Alle drei Leitpunkte in sinnvoller Reihenfolge und ausführlich behandeln (Fortbildung + Termin, Nutzen für die Arbeit, Bitte um Genehmigung und Kostenübernahme).",
+              "Klare, höfliche Bitten mit Konjunktiv II formulieren (z. B. ‚Ich würde mich freuen, wenn...‘, ‚Wäre es möglich...‘).",
+              "Typische B2-Redemittel für Begründungen verwenden (z. B. ‚Dies würde es mir ermöglichen...‘, ‚Davon könnte das Team profitieren, weil...‘).",
+              "Passenden Schlusssatz und Grußformel nicht vergessen."
+            ],
+            "expected_answer": "Betreff: Anfrage für Fortbildung „Effizientes Projektmanagement“\n\nSehr geehrte Frau Müller,\n\nich hoffe, es geht Ihnen gut. Ich wende mich heute mit einer Bitte an Sie.\n\nVor Kurzem bin ich auf eine berufliche Fortbildung zum Thema „Effizientes Projektmanagement“ aufmerksam geworden, die von der Industrie- und Handelskammer angeboten wird. Der zweitägige Kurs findet am 15. und 16. Mai statt, leider jeweils ganztägig und somit während meiner regulären Arbeitszeit.\n\nDiese Fortbildung wäre für meine tägliche Arbeit äußerst nützlich. Da ich momentan mehrere Projekte gleichzeitig koordiniere, würde mir ein professioneller Methodenkoffer helfen, Abläufe besser zu strukturieren und Deadlines sicherer einzuhalten. Davon könnte letztlich das gesamte Team profitieren, weil wir effizienter zusammenarbeiten und Missverständnisse vermeiden könnten.\n\nDaher möchte ich Sie herzlich bitten, meine Teilnahme zu genehmigen. Wäre es außerdem möglich, dass die Firma die Kursgebühr in Höhe von 480 Euro übernimmt? Ich würde mich sehr freuen, wenn Sie mein Anliegen positiv prüfen könnten.\n\nVielen Dank für Ihre Zeit und Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Höfliche halbformelle E-Mail mit passender Anrede und Schlussformel. Klare Darlegung von Zweck und Terminen der Weiterbildung, fundierte Nutzenargumentation für das Unternehmen und formvollendete Bitte um Freistellung und Kostenübernahme im Konjunktiv II."
+        }
+      ]
+    },
+    {
+      "part_no": 5,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Gemeinsam planen: Begrüßungsveranstaltung für neue Mitarbeitende",
+      "instruction": "Sprechen Sie etwa 2 Minuten.",
+      "minutes": 4,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "maintain_discussion",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Ihre Abteilung bekommt nächste Woche drei neue Kolleginnen und Kollegen. Sie planen zusammen mit einer Kollegin/einem Kollegen eine kurze Begrüßungsveranstaltung. Machen Sie Vorschläge zu Ort, Programm und Zeitpunkt, und begründen Sie Ihre Ideen. Sprechen Sie etwa 2 Minuten.",
+          "options": null,
+          "payload": {
+            "prep_seconds": 30,
+            "speak_seconds": 120
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Konkrete Vorschläge zu Ort, Programm und Zeitpunkt nennen und jeweils klar begründen (z. B. Atmosphäre, Integration, Effizienz).",
+              "Klare Struktur mit Einleitung, Hauptteil (Ort, Programm, Zeitpunkt) und kurzem Schlusssatz.",
+              "Typische Redemittel für Vorschläge und Begründungen verwenden (z. B. 'Ich würde vorschlagen, ...', 'Dafür spricht, dass ...', 'Der Vorteil wäre ...').",
+              "Hypothetische Formulierungen und höfliche Modalverben im Konjunktiv II einsetzen (z. B. 'könnte', 'sollte', 'wäre')."
+            ],
+            "expected_answer": "Also, für die Begrüßung unserer drei neuen Kolleginnen und Kollegen nächste Woche habe ich mir schon ein paar Gedanken gemacht, die ich gerne mit dir teilen würde. Was den Ort betrifft, würde ich vorschlagen, nicht den großen Konferenzraum zu nehmen, sondern unsere kleine Kaffeeküche auf der Etage. Dafür spricht, dass die Atmosphäre dort viel lockerer und persönlicher ist als in einem sterilen Besprechungsraum. In einer entspannten Umgebung fällt das erste Kennenlernen einfach leichter, und die neuen Teammitglieder fühlen sich sofort willkommener. Zum Programm stelle ich mir einen ganz ungezwungenen Ablauf vor. Wir könnten mit einer kurzen Vorstellungsrunde starten, bei der nicht nur die Neuen etwas sagen, sondern auch wir uns alle noch einmal kurz mit Namen und Funktion vorstellen. Das ist wichtig, denn in den ersten Tagen prasseln so viele Informationen auf einen ein. Im Anschluss sollten wir ein kleines, informelles Beisammensein bei Kaffee und vielleicht ein paar Snacks wie belegten Brötchen oder Kuchen einplanen. Der Vorteil wäre, dass man so in kleinen Gruppen leichter ins Gespräch kommt und erste persönliche Kontakte knüpfen kann, ohne dass es zu formell wirkt. Was den Zeitpunkt angeht, wäre mein Vorschlag, die Veranstaltung direkt am ersten Arbeitstag um 10 Uhr morgens zu machen. Da ist man noch frisch, und die neuen Kollegen haben danach noch genug Zeit, um ihren Arbeitsplatz einzurichten und erste Aufgaben anzugehen. Ein Termin am Nachmittag wäre eher ungünstig, weil dann alle schon müde sind und die Gefahr besteht, dass es sich unnötig in die Länge zieht. Das sind meine Ideen. Was hältst du davon?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Bewertungskriterien: Aktive partnerorientierte Planung (ca. 2 Minuten). Machen Sie strukturierte Vorschläge für Ablauf, Ort und Termin, reagieren Sie auf Vorschläge und Bedenken Ihres Gegenübers und einigen Sie sich auf konkrete Vereinbarungen."
+        }
+      ]
+    }
+  ]
+}

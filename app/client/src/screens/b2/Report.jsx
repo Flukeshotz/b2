@@ -46,41 +46,54 @@ export default function Report({ onExit, onPractise, onRetest }) {
   const latest = assessment.latest;
   const hasHistory = !!latest;
 
-  const radius = 36;
+  const radius = 52;
   const circumference = 2 * Math.PI * radius;
   const pct = latest?.measured ? Math.round((latest.correct / latest.measured) * 100) : 0;
   const strokeDashoffset = circumference - (pct / 100) * circumference;
+  // Same band thresholds the profile itself uses (b2/profile.js) — the ring's
+  // colour is never a separate judgement from the row colours below it.
+  const bandColor = (band) => band === "good" ? "var(--b2-ok)" : band === "developing" ? "var(--b2-warn)" : "var(--b2-bad)";
+  const overallBand = pct >= 62 ? "good" : pct >= 42 ? "developing" : "needs_practice";
+  // Best- and worst-measured dimensions with real evidence, for the two
+  // feedback cards. `indicative`/null-score rows (speaking today) are
+  // excluded — nothing is said about a dimension that was not measured.
+  const scored = profile.filter(p => p.score !== null && !p.indicative);
+  const best = scored.length ? scored.reduce((a, b) => (b.score > a.score ? b : a)) : null;
+  const worst = scored.length ? scored.reduce((a, b) => (b.score < a.score ? b : a)) : null;
 
   return (
     <div className="b2">
       <Bar onBack={onExit} section="Report" />
       <Well style={{ gap: 18, paddingBottom: 24 }}>
-        {/* Header / Top gauge */}
-        <div style={{ display: "flex", alignItems: "center", gap: 16, background: "var(--b2-well)", padding: "14px 16px", borderRadius: 12 }}>
+        {/* Header / big ring — this is the ONLY place the full score lives;
+            the home screen carries just the compact card that links here. */}
+        <div className="b2-report-hero">
           {hasHistory ? (
-            <div style={{ position: "relative", width: 72, height: 72, flexShrink: 0 }}>
-              <svg width="72" height="72" viewBox="0 0 72 72" style={{ transform: "rotate(-90deg)" }}>
-                <circle cx="36" cy="36" r={radius} fill="none" stroke="var(--b2-line)" strokeWidth="6" />
-                <circle cx="36" cy="36" r={radius} fill="none" stroke="var(--b2-ok, #019035)" strokeWidth="6"
-                  strokeDasharray={circumference} strokeDashoffset={strokeDashoffset} strokeLinecap="round" />
-              </svg>
-              <div style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
-                <span style={{ font: "700 16px/1 var(--b2-font)", color: "var(--b2-ink)" }}>{pct}%</span>
+            <>
+              <div className="b2-report-ring" style={{ width: 140, height: 140 }}>
+                <svg width="140" height="140" viewBox="0 0 140 140" style={{ transform: "rotate(-90deg)" }}>
+                  <circle cx="70" cy="70" r={radius} fill="none" stroke="var(--b2-line)" strokeWidth="10" />
+                  <circle cx="70" cy="70" r={radius} fill="none" stroke={bandColor(overallBand)} strokeWidth="10"
+                    strokeDasharray={circumference} strokeDashoffset={strokeDashoffset} strokeLinecap="round" />
+                </svg>
+                <div className="b2-report-ring-label">
+                  <span className="b2-report-ring-pct">{pct}%</span>
+                  <span className="b2-report-ring-sub">of measured questions</span>
+                </div>
               </div>
-            </div>
+              <p className="b2-quiet" style={{ margin: "10px 0 0", textAlign: "center" }}>
+                Last sitting: {latest.correct} of {latest.measured} measured
+                {latest.skipped ? ` · ${latest.skipped} skipped` : ""}. This is Skillcase practice, not an official score.
+              </p>
+            </>
           ) : (
-            <div style={{ width: 56, height: 56, borderRadius: "50%", background: "var(--b2-line)", display: "flex", alignItems: "center", justifyContent: "center", font: "600 20px/1 var(--b2-font)", color: "var(--b2-muted)" }}>
-              —
-            </div>
+            <>
+              <div className="b2-report-ring" style={{ width: 140, height: 140, background: "var(--b2-well)", borderRadius: "999px", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                <span style={{ font: "600 20px/1 var(--b2-font)", color: "var(--b2-muted)" }}>—</span>
+              </div>
+              <p className="b2-quiet" style={{ margin: "10px 0 0", textAlign: "center" }}>Take your first assessment to establish a baseline.</p>
+            </>
           )}
-          <div>
-            <h1 className="b2-title" style={{ fontSize: 18 }}>Where you stand</h1>
-            <p className="b2-quiet" style={{ margin: "2px 0 0" }}>
-              {hasHistory
-                ? `Last sitting: ${latest.correct} of ${latest.measured} measured${latest.skipped ? ` · ${latest.skipped} skipped` : ""}`
-                : "Take your first assessment to establish a baseline."}
-            </p>
-          </div>
         </div>
 
         {/* 1 — LATEST vs PREVIOUS. Deterministic comparison */}
@@ -106,23 +119,67 @@ export default function Report({ onExit, onPractise, onRetest }) {
           </div>
         )}
 
-        {/* 2 — THE SIX-DIMENSION PROFILE */}
+        {/* 2 — THE SIX-DIMENSION PROFILE, as coloured bars: the same band the
+            row's own label already says (good/developing/needs_practice),
+            just also shown as a fill. A dimension with no evidence yet
+            (speaking today) gets an empty track and its own line, never a
+            fabricated bar. */}
         <div>
           <div className="b2-sec">Skills measured so far</div>
-          <div className="b2-list">
+          <div className="b2-skillbars">
             {profile.map(p => (
-              <div key={p.dimension} className="b2-row" aria-disabled="true" style={{ cursor: "default" }}>
-                <span className="tx">
-                  <span className="t">{SKILL_EN[p.dimension] || p.dimension}</span>
-                  <span className="s">{p.label}</span>
+              <div key={p.dimension} className="b2-skillbar">
+                <div className="b2-skillbar-head">
+                  <span className="b2-skillbar-name">{SKILL_EN[p.dimension] || p.dimension}</span>
+                  <span className="b2-skillbar-val" style={p.score !== null ? { color: bandColor(p.band) } : null}>
+                    {p.score !== null ? `${Math.round(p.score * 100)}%` : p.label}
+                  </span>
+                </div>
+                <div className="b2-skillbar-track">
+                  {p.score !== null && (
+                    <div className="b2-skillbar-fill" style={{ width: `${Math.round(p.score * 100)}%`, background: bandColor(p.band) }} />
+                  )}
+                </div>
+                <span className="b2-skillbar-sub">
+                  {p.score !== null ? `${p.label} · ${p.evidence_n} measured` : p.label}
                 </span>
-                {p.trend && p.band && (
-                  <span className="tag">{p.trend === "up" ? "↑" : p.trend === "down" ? "↓" : "→"}</span>
-                )}
               </div>
             ))}
           </div>
         </div>
+
+        {/* 2b — "WHAT WENT WELL" / "TRY TO IMPROVE" — the two ends of the same
+            `profile` array above, not a separate judgement and never a
+            fabricated sub-skill (no invented Pronunciation/Fluency split —
+            B2 speaking is transcript-only and stays out of this pair). */}
+        {(best || worst) && (
+          <div className="b2-feedback-pair">
+            {best && (
+              <div className="b2-feedback-card good">
+                <span className="b2-feedback-icon">👍</span>
+                <div>
+                  <p className="b2-feedback-title">What went well</p>
+                  <p className="b2-feedback-body">
+                    {SKILL_EN[best.dimension] || best.dimension} is your strongest measured skill —
+                    {" "}{Math.round(best.score * 100)}% over {best.evidence_n} items ({best.label.toLowerCase()}).
+                  </p>
+                </div>
+              </div>
+            )}
+            {worst && worst !== best && (
+              <div className="b2-feedback-card bad">
+                <span className="b2-feedback-icon">💡</span>
+                <div>
+                  <p className="b2-feedback-title">Try to improve</p>
+                  <p className="b2-feedback-body">
+                    {SKILL_EN[worst.dimension] || worst.dimension} needs the most work —
+                    {" "}{Math.round(worst.score * 100)}% over {worst.evidence_n} items ({worst.label.toLowerCase()}).
+                  </p>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* 3 — 14 CANONICAL CAPABILITIES BREAKDOWN */}
         <div>

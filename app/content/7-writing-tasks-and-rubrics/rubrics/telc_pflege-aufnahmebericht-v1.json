@@ -1,0 +1,51 @@
+{
+  "id": 4,
+  "board": "telc_pflege",
+  "module": "schreiben",
+  "task_type": "aufnahmebericht",
+  "version": 1,
+  "provisional": false,
+  "dimensions": [
+    {
+      "n": "I",
+      "id": "aufgabenbewaeltigung",
+      "bands": {
+        "0": "more than half incomplete or wrong",
+        "1": "six or more incomplete (A2)",
+        "2": "all but four or five (B1 erfüllt)",
+        "3": "all but two or three (B1 gut erfüllt)",
+        "4": "all but one (B2 erfüllt)",
+        "5": "all information clear (B2 gut erfüllt)"
+      },
+      "label": "Aufgabenbewältigung",
+      "covers": "Whether each required piece of information is conveyed unambiguously, in accepted clinical phrasing",
+      "voids_all_on_0": true
+    },
+    {
+      "n": "II",
+      "id": "gestaltung",
+      "label": "Kommunikative Gestaltung",
+      "covers": "Formal register appropriate to the clinical context; connectives building a coherent whole",
+      "voids_all_on_0": false
+    },
+    {
+      "n": "III",
+      "id": "korrektheit",
+      "label": "Korrektheit",
+      "covers": "Grammar, spelling, punctuation — at B2, slips are tolerated if they cause no misunderstanding",
+      "voids_all_on_0": false
+    },
+    {
+      "n": "IV",
+      "id": "wortschatz",
+      "label": "Wortschatz",
+      "covers": "Differentiated vocabulary; accuracy across general, occupational and specialist clinical terms",
+      "voids_all_on_0": false
+    }
+  ],
+  "scale_max": 20,
+  "subtest_weight": null,
+  "pass_mark": 0,
+  "borderline_low": 0,
+  "borderline_high": 0
+}

@@ -1,0 +1,57 @@
+{
+  "id": "telc-b2-sprechen-t3-p11",
+  "board": "telc",
+  "title": "telc B2 — Sprechen Teil 3 — Gemeinsam etwas planen #11",
+  "minutes": 5,
+  "source": "Skillcase telc Deutsch B2 Authentic Practice Area",
+  "review_status": "AUTO_QA_PASS",
+  "difficulty": "B",
+  "item_count": 1,
+  "sections": [
+    {
+      "part_no": 1,
+      "module": "sprechen",
+      "skill": "speaking",
+      "title": "Sprechen Teil 3 — Gemeinsam etwas planen",
+      "instruction": "Die Volkshochschule möchte neue Teilnehmende gewinnen und plant einen offenen Nachmittag. Interessierte sollen Kurse kennenlernen, aber es stehen nur zwei Räume und drei Kursleitende zur Verfügung. Das Programm soll für Berufstätige, Eltern und ältere Lernende attraktiv sein.\n\nÜberlegen Sie, wie Sie dieses Vorhaben organisieren können, und machen Sie Ihrer Partnerin / Ihrem Partner Vorschläge. Entwickeln Sie dann gemeinsam einen realistischen Plan.",
+      "minutes": 5,
+      "scoring_mode": "TRANSCRIPT_ONLY",
+      "passage": null,
+      "audio": null,
+      "listening_script": null,
+      "items": [
+        {
+          "item_no": 1,
+          "item_type": "SPOKEN_RESPONSE",
+          "skill": "speaking",
+          "capability": "argue",
+          "difficulty": "B",
+          "scoring_mode": "TRANSCRIPT_ONLY",
+          "points": 0,
+          "stem": "Gemeinsam etwas planen\n\nOffener Nachmittag in der Volkshochschule",
+          "options": null,
+          "payload": {
+            "prep_seconds": 60,
+            "speak_seconds": 180
+          },
+          "suggested_answer": {
+            "key": null,
+            "task_guidance": null,
+            "author_criteria": null,
+            "guidance": [
+              "Begrüßung und positive Reaktion auf die Idee, dann Überleitung zur gemeinsamen Planung.",
+              "Konkrete Vorschläge für die zeitliche Struktur (z. B. zwei Blöcke) und die Raumbelegung, um alle Zielgruppen (Berufstätige, Eltern, Ältere) anzusprechen.",
+              "Ideen für ein attraktives Programm mit Schnupperkursen, das die begrenzten Ressourcen (2 Räume, 3 Kursleitende) optimal nutzt, z. B. durch parallele Angebote und einen Infostand.",
+              "Verwendung von Modalverben im Konjunktiv II (Wir könnten..., Ich würde vorschlagen..., Wäre es nicht möglich...?) und zustimmenden/weiterführenden Reaktionen auf die Partnerin/den Partner.",
+              "Realistische Einschätzung der Umsetzbarkeit und abschließende Zusammenfassung des Plans mit offener Frage an die Partnerin/den Partner."
+            ],
+            "expected_answer": "Also, ich finde die Idee eines offenen Nachmittags wirklich großartig, um neue Leute für unsere VHS zu begeistern. Aber mit nur zwei Räumen und drei Kursleitenden müssen wir uns wirklich gut überlegen, wie wir das am geschicktesten anstellen, damit sich alle angesprochen fühlen. Ich würde vorschlagen, wir teilen den Nachmittag in zwei große Zeitblöcke auf, sagen wir von 15 bis 17 Uhr und dann nochmal von 17:30 bis 19:30 Uhr. So könnten Berufstätige nach der Arbeit den späteren Block besuchen, und Eltern mit Kindern oder ältere Lernende hätten am frühen Nachmittag Zeit. Was hältst du davon? Für die Raumaufteilung schlage ich vor, dass wir in Raum 1 einen ruhigeren Bereich für Beratung und kleine Workshops einrichten, zum Beispiel für Sprachkurse oder EDV für Senioren, wo man in Ruhe ins Gespräch kommen kann. Raum 2 könnte dann der 'Aktiv-Raum' sein, wo die Leute wirklich etwas ausprobieren können. Da unsere drei Kursleitenden ja flexibel sind, könnten sie rotieren. Einer könnte im ersten Block einen kurzen, lebendigen Sprach-Schnupperkurs auf Spanisch geben, der zweite parallel dazu einen kreativen Workshop, vielleicht 'Malen zur Entspannung', was ja für alle Altersgruppen attraktiv ist. Die dritte Lehrkraft könnte in der Zeit am Eingang einen Infostand betreuen und für Fragen zur Verfügung stehen. Im zweiten Block tauschen sie dann die Rollen, sodass alle Kursleitenden einmal einen Workshop geben und auch für Gespräche Zeit haben. Für Eltern mit kleineren Kindern wäre es doch perfekt, wenn wir im Foyer eine kleine Spielecke mit einer ehrenamtlichen Betreuung anbieten könnten, dann können die Eltern in Ruhe an den Schnupperangeboten teilnehmen. Wir müssen natürlich realistisch bleiben: Mehr als zwei parallele Kurse pro Block sind mit unseren Räumen einfach nicht drin. Aber ich glaube, mit dieser Mischung aus kurzen, mitmachorientierten Angeboten und persönlicher Beratung schaffen wir einen einladenden Rahmen. Der Plan wäre also: zwei Zeitblöcke, zwei parallele Schnupperkurse plus Infostand, und die Kursleitenden wechseln sich ab. Findest du, das ist so umsetzbar, oder hast du noch eine andere Idee, wie wir die Zielgruppen besser erreichen könnten?",
+            "expected_answer_status": "AI_DRAFT_UNREVIEWED",
+            "note": "Open answer — no single correct text. Scored against the rubric; expected_answer is one good example, not the only right one."
+          },
+          "explanation": "Mündliche telc B2 Prüfung — partnerbezogene Kommunikation und differenzierte Argumentation."
+        }
+      ]
+    }
+  ]
+}

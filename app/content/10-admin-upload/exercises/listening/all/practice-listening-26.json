@@ -1,0 +1,58 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Pflegekräfte besprechen einen Medikamentenplan",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 26,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Pflegekräfte besprechen einen Medikamentenplan",
+      "audio": "practice_listening_26_medikamentenplan.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was wurde bei Herrn Fischer geändert?",
+          "options": [
+            "Das Medikament wurde komplett abgesetzt.",
+            "Die Dosis wurde verdoppelt.",
+            "Die Dosis wurde auf zwei kleinere Gaben pro Tag aufgeteilt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum wurde die Änderung vorgenommen?",
+          "options": [
+            "Um Blutdruckschwankungen über den Tag zu reduzieren.",
+            "Weil das alte Medikament nicht mehr verfügbar war.",
+            "Auf Wunsch des Patienten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was macht Pflegekraft 2 im Anschluss an das Gespräch?",
+          "options": [
+            "Den Arzt noch einmal anrufen.",
+            "Die Änderung sofort dokumentieren, damit die Nachtschicht informiert ist.",
+            "Nichts, da die Änderung erst morgen gilt."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie fragt Pflegekraft 2 zur Bestätigung nach?",
+          "options": [
+            "Ob die Dosis jetzt auf zwei Gaben aufgeteilt ist.",
+            "Ob der Patient das Medikament verweigert hat.",
+            "Ob das Medikament überhaupt notwendig ist."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

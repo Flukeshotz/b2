@@ -1,0 +1,78 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 1",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "audio": "goethe-b2-listening-teil3-set1.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Öffentliche Plätze sollten auch abends genutzt werden.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Anfangs war fehlende Information das größte Problem.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kurze Anreisewege entlasten das Wohnviertel.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er/Sie macht aus Lärm eine Frage verlässlicher Zusagen.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nachbarn sollen die Veranstaltung vorher einschätzen können.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er/Sie fordert echte Beteiligung statt feststehender Entscheidungen.",
+          "options": [
+            "Moderatorin",
+            "Herr Behrens",
+            "Frau Kaya"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

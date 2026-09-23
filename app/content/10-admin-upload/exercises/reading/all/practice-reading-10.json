@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Ratgeber: Wenn ein Kollege ständig widerspricht",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 19,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Ratgeber: Wenn ein Kollege ständig widerspricht",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nLESERFRAGE: Ich arbeite seit einem Jahr mit einem Kollegen zusammen, der in Besprechungen fast jeden meiner Vorschläge kritisiert — meistens, ohne selbst eine Alternative zu nennen. Ich bin es leid, mich ständig rechtfertigen zu müssen. Was kann ich tun?\n\nANTWORT DER RATGEBERIN: Zunächst: Sie sind mit diesem Muster nicht allein, und es lohnt sich, zwischen zwei möglichen Ursachen zu unterscheiden. Manche Menschen widersprechen aus echter fachlicher Sorge — dann hilft es, gezielt nachzufragen, WAS genau sie stört, statt sich zu verteidigen. Andere widersprechen aus Gewohnheit oder um sich zu positionieren, unabhängig vom Inhalt. Das erkennen Sie oft daran, dass die Kritik unspezifisch bleibt, selbst wenn Sie nachhaken.\n\nFür den zweiten Fall empfehle ich eine einfache Technik: Bitten Sie den Kollegen aktiv um einen konkreten Gegenvorschlag, bevor die Besprechung weitergeht — zum Beispiel mit \"Was würdest du stattdessen vorschlagen?\" Das verschiebt die Verantwortung vom reinen Kritisieren zum konstruktiven Beitrag, und in vielen Fällen wird der Widerspruch dadurch deutlich seltener, weil er plötzlich Substanz liefern muss.\n\nWichtig ist dabei: Bleiben Sie sachlich und vermeiden Sie es, das Verhalten öffentlich vor dem Team zu kommentieren — das verhärtet die Fronten meist nur weiter.",
+      "items": [
+        {
+          "question": "Was ist laut Ratgeberin der erste Schritt, um die zwei möglichen Ursachen zu unterscheiden?",
+          "options": [
+            "Sich sofort beim Vorgesetzten beschweren.",
+            "Gezielt nachfragen, was genau den Kollegen stört.",
+            "Den Kollegen ignorieren."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Ratgeberin bleibt die Kritik bei Widerspruch aus Gewohnheit meist unspezifisch, auch wenn man nachfragt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Welche konkrete Technik empfiehlt die Ratgeberin?",
+          "options": [
+            "Alle Vorschläge des Kollegen automatisch ablehnen.",
+            "Den Kollegen vor dem Team kritisieren.",
+            "Aktiv um einen konkreten Gegenvorschlag bitten."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum rät die Ratgeberin davon ab, das Verhalten öffentlich vor dem Team zu kommentieren?",
+          "options": [
+            "Weil das gegen die Firmenregeln verstößt.",
+            "Weil das die Situation meist nur verhärtet.",
+            "Weil der Kollege das nicht bemerken würde."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

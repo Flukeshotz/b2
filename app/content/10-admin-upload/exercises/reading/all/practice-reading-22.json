@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Ratgeber: Wie sage ich Nein zu ständigen Überstunden?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 31,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Ratgeber: Wie sage ich Nein zu ständigen Überstunden?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nLESERFRAGE: Ich werde fast jede Woche gebeten, länger zu bleiben, weil \"gerade so viel los ist\". Ich möchte nicht als unkollegial gelten, aber ich bin erschöpft. Wie kann ich das ansprechen, ohne dass es wie eine Verweigerung klingt?\n\nANTWORT DES RATGEBERS: Ein häufiger Fehler ist, die eigene Grenze erst dann zu benennen, wenn man schon erschöpft ist — dann klingt sie fast automatisch wie ein Vorwurf. Besser ist es, das Gespräch proaktiv zu suchen, bevor die nächste Belastungsspitze kommt, und konkrete Zahlen statt Gefühle zu nennen: \"Ich habe in den letzten sechs Wochen an vier Wochen Überstunden gemacht\" wirkt sachlicher als \"Ich bin immer erschöpft.\"\n\nZweitens hilft es, das Problem nicht als persönliche Grenze, sondern als strukturelle Frage zu formulieren: Ist die Arbeitslast dauerhaft zu hoch, oder handelt es sich wirklich um Ausnahmesituationen? Diese Unterscheidung öffnet das Gespräch für gemeinsame Lösungen — etwa eine zusätzliche Aushilfe in Spitzenzeiten — statt es auf die Frage \"Bist du bereit oder nicht?\" zu verengen.\n\nUnd schließlich: Ein einzelnes klärendes Gespräch reicht selten. Planen Sie ein, das Thema nach einigen Wochen erneut anzusprechen, falls sich strukturell nichts geändert hat.",
+      "items": [
+        {
+          "question": "Was empfiehlt der Ratgeber bezüglich des Zeitpunkts für das Gespräch?",
+          "options": [
+            "Das Gespräch proaktiv suchen, bevor die nächste Belastungsspitze kommt.",
+            "Das Thema am besten schriftlich per E-Mail ansprechen.",
+            "Das Gespräch erst führen, wenn man völlig erschöpft ist."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Ratgeber empfiehlt, im Gespräch eher mit konkreten Zahlen als mit allgemeinen Gefühlsaussagen zu argumentieren.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Welchen Vorteil hat es laut Ratgeber, das Problem als strukturelle Frage statt als persönliche Grenze zu formulieren?",
+          "options": [
+            "Es macht die eigene Position schwächer.",
+            "Es öffnet das Gespräch für gemeinsame Lösungen.",
+            "Es verhindert jedes weitere Gespräch zum Thema."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was rät der Ratgeber für den Fall, dass ein einzelnes Gespräch nichts ändert?",
+          "options": [
+            "Sofort kündigen.",
+            "Das Thema nach einigen Wochen erneut ansprechen.",
+            "Das Thema danach nicht mehr erwähnen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 3",
+  "description": "Finden Sie für jede Situation die passende Anzeige.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "passage": "Finden Sie für jede Situation die passende Anzeige.\n\nEin Student sucht für zwei Wochen ein günstiges Zimmer und könnte dafür einer älteren Person beim Einkaufen helfen.",
+      "items": [
+        {
+          "question": "Ein Student sucht für zwei Wochen ein günstiges Zimmer und könnte dafür einer älteren Person beim Einkaufen helfen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "K",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ruben hat eine neue Abrechnung bekommen und möchte klären, ob die geforderte Nachzahlung stimmt.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "L",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Eine Praktikantin braucht für sechs Wochen eine eingerichtete Unterkunft, reist allein und braucht keine dauerhafte Adresse.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "M",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Mehmet wechselt in eine nahe Wohnung und braucht am Wochenende zwei Personen für Kartons und kleine Möbel.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Eine Hausgemeinschaft sucht einen Raum für einen ruhigen privaten Sonntagskaffee mit etwa zwanzig Personen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

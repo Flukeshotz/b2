@@ -1,0 +1,70 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Lesen, Übungsset 1",
+  "description": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+      "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.\n\nSeit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen, solange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr mehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur Arbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter unterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu sein. Niemand sagt es offen, aber wer abends um acht keine E-Mail beantwortet, gilt schnell als wenig engagiert. Die Grenze zwischen Arbeit und Freizeit verschwimmt genau dort, wo sie eigentlich klarer werden sollte.\n\nEin Kollege hat kürzlich vorgeschlagen, feste \"Nicht-erreichbar\"-Zeiten im Kalender einzutragen. Das halte ich für einen guten Ansatz — nicht, weil die Freiheit falsch wäre, sondern weil sie ohne klare Regeln zulasten der eigenen Erholung geht.\n\nZurück zur Stechuhr möchte ich trotzdem nicht.",
+      "items": [
+        {
+          "question": "Wie hat sich die Einstellung des Autors zur Vertrauensarbeitszeit entwickelt?",
+          "options": [
+            "Er lehnt sie inzwischen komplett ab.",
+            "Er sieht sie inzwischen differenzierter als am Anfang.",
+            "Er hat seine Meinung nicht geändert."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Autor sagt, dass niemand offen verlangt, ständig erreichbar zu sein.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was schlägt der Kollege des Autors konkret vor?",
+          "options": [
+            "Wieder eine Stechuhr einzuführen.",
+            "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten.",
+            "Die Vertrauensarbeitszeit ganz abzuschaffen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was bedeutet im Text die Wendung \"zu schaffen machen\"?",
+          "options": [
+            "etwas neu erschaffen",
+            "jemandem Mühe oder Sorgen bereiten",
+            "etwas reparieren"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche zwei Aussagen zur Vertrauensarbeitszeit treffen laut Text zu?",
+          "options": [
+            "Vertrauensarbeitszeit erleichtert private Termine.",
+            "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+            "Der Autor möchte zur Stechuhr zurückkehren.",
+            "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "type": "mcq_multi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Freunde reden über Urlaubspläne",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 13,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Freunde reden über Urlaubspläne",
+      "audio": "practice_listening_13_urlaubsplanung.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was war der ursprüngliche Reiseplan der beiden?",
+          "options": [
+            "Eine Zugreise nach Südfrankreich.",
+            "Ein Urlaub zu Hause.",
+            "Ein Flug nach Portugal."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum wird der ursprüngliche Plan infrage gestellt?",
+          "options": [
+            "Weil die Flugpreise sehr hoch sind.",
+            "Weil einer der beiden Flugangst hat.",
+            "Weil es keine Flüge mehr gibt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Zugreise nach Südfrankreich dauert laut Freundin nur wenige Stunden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wie entscheiden sich die beiden am Ende?",
+          "options": [
+            "Für die Zugreise nach Südfrankreich.",
+            "Für einen Urlaub ganz ohne Reise.",
+            "Für den ursprünglichen Flug nach Portugal."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

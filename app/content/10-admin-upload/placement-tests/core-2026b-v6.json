@@ -1,0 +1,421 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V6",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 6
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Schichttausch — wo hört Kollegialität auf?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nBei uns im Team können Schichten getauscht werden, solange beide Seiten\neinverstanden sind und die Leitung informiert wird. Ich fand das immer eine\ngute Lösung — bis vor drei Monaten.\n\nDamals hat eine Kollegin mich gebeten, kurzfristig einzuspringen, weil sie einen\nArzttermin hatte. Kein Problem, dachte ich. Seitdem häufen sich die Anfragen: mal\nein Termin, mal ein privates Ereignis, immer kurzfristig, immer an mich gerichtet.\n\nZunächst wollte ich einfach nicht als unkollegial gelten. Nach einem Gespräch mit\nunserem Schichtleiter sehe ich das differenzierter. Er hat mir klar gemacht, dass\nKollegialität keine Einbahnstraße sein darf — und dass ich das genauso offen sagen\ndarf wie jede andere Bitte.\n\nWas ich inzwischen mache: Ich frage zurück, ob auch andere im Team angefragt wurden,\nbevor ich zusage. Das hat schon zweimal dazu geführt, dass die Anfrage sich erledigt\nhat, weil jemand anderes übernehmen konnte.\n\nGanz ablehnen würde ich Tauschanfragen deshalb trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie beurteilt der Autor die Situation am Ende?",
+              "options": [
+                "Er lehnt Schichttausch inzwischen grundsätzlich ab.",
+                "Er akzeptiert Tauschanfragen weiterhin, aber mit einer eigenen Bedingung.",
+                "Er findet, das System habe sich von selbst erledigt."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Rückfrage des Autors hat schon zweimal dazu geführt, dass jemand anderes übernommen hat.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt der Autor ein?",
+              "options": [
+                "Dass er zunächst aus Angst vor dem Ruf „unkollegial“ zu häufig zugesagt hat.",
+                "Dass die Kollegin ihn absichtlich ausgenutzt hat.",
+                "Dass er selbst nie wieder tauschen möchte."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wodurch hat sich die Sicht des Autors verändert?",
+              "options": [
+                "Durch ein Gespräch mit dem Schichtleiter.",
+                "Durch eine offizielle Änderung der Tauschregel.",
+                "Durch eine Beschwerde der Kollegin."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Ein Tausch setzt die Zustimmung beider Seiten voraus.",
+                "Der Autor lehnt inzwischen jede Tauschanfrage ab.",
+                "Die Anfragen häuften sich nach dem ersten Einspringen.",
+                "Der Schichtleiter hat die Tauschregel abgeschafft."
+              ],
+              "answer": [
+                "A",
+                "C"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Er beschreibt die erste Tauschanfrage.",
+                "Er bemerkt, dass sich die Anfragen häufen.",
+                "Ein Gespräch verändert seine Sicht.",
+                "Er beschreibt seine neue Rückfrage-Strategie."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Er beschreibt die erste Tauschanfrage.",
+                "Er bemerkt, dass sich die Anfragen häufen.",
+                "Ein Gespräch verändert seine Sicht.",
+                "Er beschreibt seine neue Rückfrage-Strategie."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Er beschreibt die erste Tauschanfrage.",
+                "Er bemerkt, dass sich die Anfragen häufen.",
+                "Ein Gespräch verändert seine Sicht.",
+                "Er beschreibt seine neue Rückfrage-Strategie."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Er beschreibt die erste Tauschanfrage.",
+                "Er bemerkt, dass sich die Anfragen häufen.",
+                "Ein Gespräch verändert seine Sicht.",
+                "Er beschreibt seine neue Rückfrage-Strategie."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Ich übernehme die Schicht. Nur dieses eine Mal.",
+                "Ich übernehme die Schicht zwar, aber nur dieses eine Mal."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir verteilen Tauschanfragen künftig reihum.",
+                "Man könnte Tauschanfragen künftig reihum verteilen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wegen des Personalmangels bitten wir um eine neue Regelung.",
+                "Wegen dem Personalmangel bitten wir um eine neue Regelung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Übergabezeit wurde vorgezogen, weil die alte Regelung immer wieder zu knapp bemessen war.",
+                "Die Übergabezeit wurde vorgezogen. Die alte Regelung war knapp. Das war ein Problem."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Der Schichtplan wurde nach der Beschwerde schließlich ___, nachdem alle Beteiligten ihre Bedenken (2) hatten.",
+              "answer": [
+                "angepasst",
+                "Angepasst",
+                "geändert",
+                "Geändert"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Der Schichtplan wurde nach der Beschwerde schließlich (1), nachdem alle Beteiligten ihre Bedenken ___ hatten.",
+              "answer": [
+                "geäußert",
+                "Geäußert",
+                "vorgebracht",
+                "Vorgebracht"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Schichten erfolgt jetzt digital; nur die (2) der Sonderfälle dauert noch etwas länger.",
+              "answer": [
+                "Verteilung",
+                "verteilung",
+                "Planung",
+                "planung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Schichten erfolgt jetzt digital; nur die ___ der Sonderfälle dauert noch etwas länger.",
+              "answer": [
+                "Bearbeitung",
+                "bearbeitung"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Schicht",
+              "options": [
+                "nehmen",
+                "übernehmen",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nRücksicht",
+              "options": [
+                "nehmen",
+                "übernehmen",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Verfügung",
+              "options": [
+                "nehmen",
+                "übernehmen",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Sprache",
+              "options": [
+                "nehmen",
+                "übernehmen",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Kannst du das kurz checken? Bei mir klappt der Tausch grad nicht.",
+                "Ich bitte Sie, den Tauschwunsch zu prüfen; die Zuweisung ist derzeit noch offen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — gleich sind Sie dran.",
+                "Ich war noch nicht fertig! Immer unterbrechen Sie mich.",
+                "Schon gut, sagen Sie einfach, was Sie meinen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Auf der Station. Zwei Kolleginnen sprechen über einen Schichttausch. (1)",
+          "audio": "core2026b_v6_schichttausch.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wer übernimmt am Ende die Frühschicht am Samstag?",
+              "options": [
+                "Sandra.",
+                "Tobias.",
+                "Kollegin A selbst."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B die vorgezogene Übergabezeit?",
+              "options": [
+                "Sie hält sie für unnötig.",
+                "Sie hält sie für sinnvoll.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Das freie Wochenende von Kollegin A am Sonntag entfällt durch die Änderung.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde der ursprüngliche Tauschplan geändert?",
+              "options": [
+                "Weil am Samstag ohnehin zwei Leute fehlen.",
+                "Weil Sandra krank geworden ist.",
+                "Weil Kollegin A den Tausch abgelehnt hat."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Auf der Station. Zwei Kolleginnen sprechen über einen Schichttausch. (2)",
+          "audio": "core2026b_v6_schichttausch.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das sinnvoll.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Er hat nur eine Sache geändert.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich der Umgang des Autors mit Tauschanfragen entwickelt hat. Nennen Sie auch, was ihn dazu bewegt hat.",
+              "word_limit": 40,
+              "expected_answer": "Zunächst sagte der Autor Tauschanfragen stets zu, weil er fürchtete, als unkollegial zu gelten. Nach einem klärenden Gespräch mit einem Kollegen änderte er jedoch sein Verhalten und begann, kritisch nachzufragen, bevor er einer Bitte zustimmte."
+            },
+            {
+              "question": "Ihr Kollege schreibt: „Kannst du am Freitag für mich einspringen?“ Sie sind nicht sicher, um welche Schicht es geht und ob schon jemand anderes gefragt wurde. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Hallo [Name],\nvielen Dank für deine Anfrage. Könntest du mir bitte sagen, um welche Schicht es sich genau handelt? Wurde vielleicht schon jemand anderes gefragt?\nViele Grüße"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob Schichttausch künftig nur noch über eine zentrale Liste statt direkt zwischen Kolleginnen und Kollegen organisiert werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nzum Vorschlag einer zentralen Schichttauschliste möchte ich klar Stellung beziehen: Ich halte diese Idee für sehr sinnvoll. Erstens schafft sie mehr Transparenz, da offene Schichten für alle sichtbar sind und nicht nur im engen Freundeskreis getauscht werden. Zweitens reduziert sie das Konfliktpotenzial, weil die Verantwortung nicht mehr bei Einzelnen liegt und Absprachen nicht vergessen werden können. Ein Nachteil könnte allerdings sein, dass spontane, kurzfristige Tauschaktionen etwas an Flexibilität verlieren. Daher schlage ich ein hybrides Modell vor: Grundsätzlich läuft alles über die Liste, aber in dringenden Ausnahmefällen sollte ein direkter Tausch mit kurzer Bestätigung per Mail an die Leitung weiterhin möglich sein.\n\nViele Grüße,\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Teams verteilen Schichttausch über eine zentrale Liste, andere organisieren ihn direkt zwischen Kolleginnen und Kollegen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Ich bin der festen Überzeugung, dass eine zentrale Liste für den Schichttausch die deutlich sinnvollere Methode ist, auch wenn die direkte Absprache unter Kollegen auf den ersten Blick unkomplizierter wirkt. Ein wesentlicher Vorteil der zentralen Liste ist für mich die Transparenz. Jeder im Team hat sofort den gleichen Überblick, welche Schichten offen sind, und es entsteht nicht der Eindruck, dass Absprachen nur in kleinen, eingespielten Gruppen stattfinden. Das fördert die Fairness ungemein. Hinzu kommt die Effizienz: Anstatt mühsam mehrere Kollegen einzeln anzurufen oder anzuschreiben, sehe ich auf einen Blick alle Möglichkeiten und kann meinen Tauschwunsch direkt eintragen. Das spart enorm viel Zeit und Nerven. Natürlich muss ich einräumen, dass die direkte Kommunikation zwischen Kollegen persönlicher ist und schnelle, informelle Lösungen ermöglicht. Ein entscheidender Nachteil dieser Methode ist jedoch, dass sie oft zu Unübersichtlichkeit und sogar zu Konflikten führt, wenn Absprachen vergessen werden oder nicht alle einbezogen sind. Aus all diesen Gründen halte ich eine gut gepflegte, zentrale Liste für den besseren Weg, um Schichttausch gerecht und strukturiert zu organisieren.",
+              "model_answer": "Ich bin der festen Überzeugung, dass eine zentrale Liste für den Schichttausch die deutlich sinnvollere Methode ist, auch wenn die direkte Absprache unter Kollegen auf den ersten Blick unkomplizierter wirkt. Ein wesentlicher Vorteil der zentralen Liste ist für mich die Transparenz. Jeder im Team hat sofort den gleichen Überblick, welche Schichten offen sind, und es entsteht nicht der Eindruck, dass Absprachen nur in kleinen, eingespielten Gruppen stattfinden. Das fördert die Fairness ungemein. Hinzu kommt die Effizienz: Anstatt mühsam mehrere Kollegen einzeln anzurufen oder anzuschreiben, sehe ich auf einen Blick alle Möglichkeiten und kann meinen Tauschwunsch direkt eintragen. Das spart enorm viel Zeit und Nerven. Natürlich muss ich einräumen, dass die direkte Kommunikation zwischen Kollegen persönlicher ist und schnelle, informelle Lösungen ermöglicht. Ein entscheidender Nachteil dieser Methode ist jedoch, dass sie oft zu Unübersichtlichkeit und sogar zu Konflikten führt, wenn Absprachen vergessen werden oder nicht alle einbezogen sind. Aus all diesen Gründen halte ich eine gut gepflegte, zentrale Liste für den besseren Weg, um Schichttausch gerecht und strukturiert zu organisieren.",
+              "expected_answer": "Ich bin der festen Überzeugung, dass eine zentrale Liste für den Schichttausch die deutlich sinnvollere Methode ist, auch wenn die direkte Absprache unter Kollegen auf den ersten Blick unkomplizierter wirkt. Ein wesentlicher Vorteil der zentralen Liste ist für mich die Transparenz. Jeder im Team hat sofort den gleichen Überblick, welche Schichten offen sind, und es entsteht nicht der Eindruck, dass Absprachen nur in kleinen, eingespielten Gruppen stattfinden. Das fördert die Fairness ungemein. Hinzu kommt die Effizienz: Anstatt mühsam mehrere Kollegen einzeln anzurufen oder anzuschreiben, sehe ich auf einen Blick alle Möglichkeiten und kann meinen Tauschwunsch direkt eintragen. Das spart enorm viel Zeit und Nerven. Natürlich muss ich einräumen, dass die direkte Kommunikation zwischen Kollegen persönlicher ist und schnelle, informelle Lösungen ermöglicht. Ein entscheidender Nachteil dieser Methode ist jedoch, dass sie oft zu Unübersichtlichkeit und sogar zu Konflikten führt, wenn Absprachen vergessen werden oder nicht alle einbezogen sind. Aus all diesen Gründen halte ich eine gut gepflegte, zentrale Liste für den besseren Weg, um Schichttausch gerecht und strukturiert zu organisieren."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

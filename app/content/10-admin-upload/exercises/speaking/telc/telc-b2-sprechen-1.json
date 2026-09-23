@@ -1,0 +1,26 @@
+{
+  "module": "speaking",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Sprechen, Übungsset 1",
+  "description": "Sprechen Sie etwa 2 Minuten.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Gemeinsam planen: Betriebsausflug",
+      "passage": "Sprechen Sie etwa 2 Minuten.",
+      "prompt_type": "text",
+      "items": [
+        {
+          "question": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+          "speech_time_limit": 120,
+          "prompt_type": "text",
+          "reference_text": "Hallo Lisa, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug an den Bodensee machen. Ich stelle mir vor, dass wir mit einem gemieteten Bus nach Konstanz fahren und von dort aus eine gemeinsame Schifffahrt zur Insel Mainau unternehmen. Ich finde, das wäre eine wunderbare Gelegenheit, um mal richtig aus dem Büroalltag herauszukommen und die Natur zu genießen. Ein wichtiger Grund für mein Vorschlag ist, dass der Bodensee für jeden etwas bietet. Die Blumenpracht auf der Mainau ist einfach beeindruckend und sorgt für eine entspannte Atmosphäre. Gleichzeitig können die aktiveren Kolleginnen und Kollegen die Insel auf eigene Faust erkunden oder sogar eine kleine Radtour am Ufer machen. Zwar ist die Anreise etwas länger, aber ich bin überzeugt, dass sich der Ausflug lohnt, weil so ein Tapetenwechsel das Teambuilding enorm stärkt. Außerdem könnten wir den Tag mit einem gemeinsamen Abendessen in einem See-Restaurant ausklingen lassen, was den Zusammenhalt noch weiter fördert. Was die Kosten betrifft, habe ich mich bereits informiert: Es gibt günstige Gruppenrabatte für die Schifffahrt und den Eintritt zur Insel. Ich finde, das Preis-Leistungs-Verhältnis ist absolut fair. Was meinst du dazu? Ich würde mich freuen, wenn wir den Vorschlag gemeinsam in der nächsten Teamsitzung vorstellen könnten.",
+          "model_answer": "Hallo Lisa, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug an den Bodensee machen. Ich stelle mir vor, dass wir mit einem gemieteten Bus nach Konstanz fahren und von dort aus eine gemeinsame Schifffahrt zur Insel Mainau unternehmen. Ich finde, das wäre eine wunderbare Gelegenheit, um mal richtig aus dem Büroalltag herauszukommen und die Natur zu genießen. Ein wichtiger Grund für mein Vorschlag ist, dass der Bodensee für jeden etwas bietet. Die Blumenpracht auf der Mainau ist einfach beeindruckend und sorgt für eine entspannte Atmosphäre. Gleichzeitig können die aktiveren Kolleginnen und Kollegen die Insel auf eigene Faust erkunden oder sogar eine kleine Radtour am Ufer machen. Zwar ist die Anreise etwas länger, aber ich bin überzeugt, dass sich der Ausflug lohnt, weil so ein Tapetenwechsel das Teambuilding enorm stärkt. Außerdem könnten wir den Tag mit einem gemeinsamen Abendessen in einem See-Restaurant ausklingen lassen, was den Zusammenhalt noch weiter fördert. Was die Kosten betrifft, habe ich mich bereits informiert: Es gibt günstige Gruppenrabatte für die Schifffahrt und den Eintritt zur Insel. Ich finde, das Preis-Leistungs-Verhältnis ist absolut fair. Was meinst du dazu? Ich würde mich freuen, wenn wir den Vorschlag gemeinsam in der nächsten Teamsitzung vorstellen könnten.",
+          "expected_answer": "Hallo Lisa, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug an den Bodensee machen. Ich stelle mir vor, dass wir mit einem gemieteten Bus nach Konstanz fahren und von dort aus eine gemeinsame Schifffahrt zur Insel Mainau unternehmen. Ich finde, das wäre eine wunderbare Gelegenheit, um mal richtig aus dem Büroalltag herauszukommen und die Natur zu genießen. Ein wichtiger Grund für mein Vorschlag ist, dass der Bodensee für jeden etwas bietet. Die Blumenpracht auf der Mainau ist einfach beeindruckend und sorgt für eine entspannte Atmosphäre. Gleichzeitig können die aktiveren Kolleginnen und Kollegen die Insel auf eigene Faust erkunden oder sogar eine kleine Radtour am Ufer machen. Zwar ist die Anreise etwas länger, aber ich bin überzeugt, dass sich der Ausflug lohnt, weil so ein Tapetenwechsel das Teambuilding enorm stärkt. Außerdem könnten wir den Tag mit einem gemeinsamen Abendessen in einem See-Restaurant ausklingen lassen, was den Zusammenhalt noch weiter fördert. Was die Kosten betrifft, habe ich mich bereits informiert: Es gibt günstige Gruppenrabatte für die Schifffahrt und den Eintritt zur Insel. Ich finde, das Preis-Leistungs-Verhältnis ist absolut fair. Was meinst du dazu? Ich würde mich freuen, wenn wir den Vorschlag gemeinsam in der nächsten Teamsitzung vorstellen könnten."
+        }
+      ]
+    }
+  ]
+}

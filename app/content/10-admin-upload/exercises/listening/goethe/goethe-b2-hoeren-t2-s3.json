@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 3",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "audio": "goethe-b2-listening-teil2-set3.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was kritisiert Herr Berger an vielen kurzen Onlinekursen?",
+          "options": [
+            "Sie bleiben oft ohne Anwendung im Arbeitsalltag.",
+            "Sie dauern meistens länger als angekündigt.",
+            "Sie passen zeitlich kaum in einen Arbeitstag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kurze Lernimpulse helfen am Arbeitsplatz besonders, wenn sie ...",
+          "options": [
+            "außerhalb der Arbeitszeit erledigt werden.",
+            "ohne Rückmeldung abgeschlossen werden können.",
+            "an konkrete Aufgaben im Betrieb anschließen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Rolle haben Führungskräfte laut Herrn Berger?",
+          "options": [
+            "Sie sollten die Lernzeiten möglichst genau kontrollieren.",
+            "Sie müssen Raum für Anwendung und kurze Gespräche schaffen.",
+            "Sie sollten jede Woche vor allem Tabellen prüfen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

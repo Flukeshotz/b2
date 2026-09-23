@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Schreiben, Übungsset 2",
+  "description": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forumsbeitrag: Digitale Kommunikation im Alltag",
+      "passage": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "items": [
+        {
+          "question": "In einem Online-Forum wird diskutiert, ob digitale Kommunikation (E-Mails, Messenger, Videokonferenzen) den persönlichen Kontakt im Berufsleben verdrängt. Schreiben Sie einen Beitrag für das Forum.\n• Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.\n• Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.\n• Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können.",
+          "word_limit": 200,
+          "expected_answer": "Liebe Forenmitglieder,\n\nich möchte gerne an der Diskussion teilnehmen, ob digitale Kommunikation den persönlichen Kontakt im Berufsleben verdrängt. Meiner Meinung nach ergänzt sie ihn eher, als dass sie ihn ersetzt. Ich bin überzeugt, dass beide Formen ihre Berechtigung haben und sich ideal kombinieren lassen.\n\nEinerseits bietet die digitale Kommunikation einen großen Vorteil: die Flexibilität. Man kann ortsunabhängig und oft zeitsparend Informationen austauschen, ohne lange Anfahrtswege in Kauf nehmen zu müssen. Andererseits gibt es auch einen entscheidenden Nachteil, nämlich die fehlende nonverbale Kommunikation. Missverständnisse entstehen viel schneller, weil Mimik und Gestik nicht sichtbar sind und der Tonfall in Textnachrichten oft falsch interpretiert wird.\n\nDamit persönlicher und digitaler Austausch gut zusammenpassen, schlage ich ein hybrides Modell vor. Regelmäßige Teambesprechungen sollten nach Möglichkeit in Präsenz stattfinden, um den sozialen Zusammenhalt zu stärken und Vertrauen aufzubauen. Für den alltäglichen, schnellen Informationsaustausch eignen sich hingegen Messenger und E-Mails hervorragend. So kann man die Vorteile beider Welten nutzen, ohne auf das Zwischenmenschliche verzichten zu müssen.\n\nViele Grüße\nAnna"
+        }
+      ]
+    }
+  ]
+}

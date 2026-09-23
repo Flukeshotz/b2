@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #12",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bewerbung:\nSie suchen neben Ihrer Weiterbildung eine kleine Stelle und haben früher bei Veranstaltungen Getränke verkauft. Montags und donnerstags könnten Sie regelmäßig arbeiten.\n\nAufgabe B: Beschwerde:\nSie hatten den Raum für eine Prüfungsvorbereitung mit sechs Personen gebucht. Nebenan fand eine laute Feier statt, das WLAN fiel aus und es gab kein Whiteboard.",
+      "items": [
+        {
+          "question": "Sie suchen neben Ihrer Weiterbildung eine kleine Stelle und haben früher bei Veranstaltungen Getränke verkauft. Montags und donnerstags könnten Sie regelmäßig arbeiten.\n• Erklären Sie, warum Sie sich bewerben.\n• Beschreiben Sie Ihre Erfahrung im Service oder bei Veranstaltungen.\n• Nennen Sie Ihre möglichen Arbeitstage.\n• Fragen Sie nach Einarbeitung, Stundenlohn und Bewerbungsunterlagen.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Bewerbung als Servicekraft auf Minijob-Basis – Ihre Stellenausschreibung\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Stellenausschreibung gelesen und bewerbe mich hiermit bei Ihnen. Da ich mich derzeit in einer beruflichen Weiterbildung befinde, suche ich eine kleine, regelmäßige Tätigkeit, um mir etwas dazuzuverdienen und gleichzeitig praktische Erfahrung zu sammeln.\n\nIn den letzten zwei Jahren habe ich regelmäßig bei verschiedenen Veranstaltungen gearbeitet und dort eigenständig den Getränkeverkauf übernommen. Zu meinen Aufgaben gehörten der Aufbau des Standes, die Kühlung der Getränke, die Abrechnung der Kasse sowie die freundliche Beratung der Gäste. Besonders der direkte Kontakt mit den Besuchern hat mir viel Freude bereitet, und ich bin es gewohnt, auch in stressigen Situationen den Überblick zu behalten.\n\nZeitlich bin ich flexibel und könnte fest montags und donnerstags arbeiten. Diese beiden Tage passen optimal zu meinem Weiterbildungsplan, sodass ich Ihnen zuverlässig zur Verfügung stehe.\n\nFür meine Planung wäre ich Ihnen dankbar, wenn Sie mir noch einige Informationen zukommen lassen könnten: Wie läuft die Einarbeitung ab? Mit welchem Stundenlohn kann ich rechnen? Und welche Bewerbungsunterlagen benötigen Sie von mir?\n\nIch würde mich sehr über eine Rückmeldung freuen und stehe für ein persönliches Gespräch gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Vorname Nachname]"
+        }
+      ]
+    }
+  ]
+}

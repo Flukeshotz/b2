@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 23 — Kurznachricht: Krankmeldung an den Vorgesetzten",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Easy",
+  "order_index": 23,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie sind kurzfristig erkrankt und können heute nicht zur Arbeit kommen. Schreiben Sie eine kurze, angemessene Nachricht an Ihre Führungskraft.\n• Melden Sie sich möglichst früh am Tag.\n• Nennen Sie kurz, dass Sie krank sind, ohne Details zur Diagnose.\n• Erwähnen Sie, ob dringende Aufgaben offen sind.",
+          "word_limit": 70,
+          "expected_answer": "Sehr geehrte Frau Müller,\n\nleider muss ich mich für heute krankmelden. Mir geht es gesundheitlich nicht gut, und ich kann nicht zur Arbeit kommen. Ich werde umgehend einen Arzt aufsuchen und Sie über die voraussichtliche Dauer informieren. Bezüglich des Projektberichts, der heute fertig werden sollte: Die wichtigsten Daten habe ich gestern bereits an Herrn Schmidt weitergeleitet, sodass es hier keine Verzögerung geben sollte. Bei dringenden Fragen bin ich per E-Mail erreichbar.\n\nVielen Dank für Ihr Verständnis und viele Grüße\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

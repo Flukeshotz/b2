@@ -1,0 +1,65 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 1 — Alltagssituationen & Dialoge, Satz 1",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Alltagssituationen & Dialoge",
+      "audio": "goethe-b2-listening-teil1-q1.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Für die Frau ist beim Nachbarschaftsauto vor allem wichtig, dass sie sich nicht dauerhaft um ein eigenes Auto kümmern muss.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was muss die Frau noch erledigen, bevor sie das Auto nutzen kann?",
+          "options": [
+            "in der App nachweisen, dass sie fahren darf.",
+            "einen festen Parkplatz in der App auswählen.",
+            "eine Wochenendbuchung im Voraus bezahlen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Im Reparaturcafé geben Besucher ihre Geräte ab und holen sie später repariert wieder ab.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was ist laut Hinweis wichtig, damit ein Gerät überhaupt geprüft werden kann?",
+          "options": [
+            "Die Besucher müssen mögliche Ersatzteile vorher besorgen.",
+            "Das Gerät muss sich mit mitgebrachtem Zubehör einschalten lassen.",
+            "Die Ehrenamtlichen müssen die Reparatur allein übernehmen können."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Mann arbeitet am Freitag insgesamt mehr Stunden als geplant.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

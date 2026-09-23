@@ -1,0 +1,67 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 2 — Textverständnis & Multiple-Choice, Satz 3",
+  "description": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 2 — Textverständnis & Multiple-Choice",
+      "passage": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung.\n\nWarum kleine Abos teuer werden\n\nEinzelne digitale Abos wirken harmlos. Ein paar Euro für Musik, etwas mehr für Serien, eine kleine Gebühr für zusätzlichen Speicher oder eine App ohne Werbung: Jede Entscheidung lässt sich leicht begründen. Erst auf dem Kontoauszug zeigt sich, dass aus vielen kleinen Beträgen eine feste monatliche Belastung geworden ist. Verbraucherschützer beobachten deshalb einen Wandel: Nicht mehr der große Kauf ist das Problem, sondern die Summe unauffälliger Dauerversprechen.\n\nDie Anbieter nutzen dabei nicht nur niedrige Einstiegspreise. Viele Dienste sind so gestaltet, dass Kündigen schwieriger ist als Anmelden. Erinnerungen erscheinen kurz vor Ablauf einer Probezeit, doch oft in einer Sprache, die eher beruhigt als warnt. Wer bleiben möchte, muss nichts tun; wer gehen möchte, sucht Menüs, Passwörter oder Bestätigungslinks. Rechtlich ist vieles erlaubt, psychologisch aber wirksam. Je kleiner der Betrag, desto eher verschiebt man die Entscheidung auf später.\n\nBesonders deutlich wird das bei Haushalten, in denen mehrere Personen dieselben Geräte nutzen. Eltern schließen ein Lernprogramm für ein Kind ab, Jugendliche testen einen Spieledienst, ein Erwachsener braucht beruflich eine Cloud-Funktion. Solange alle Dienste nützlich erscheinen, wird selten geprüft, ob sie noch gebraucht werden. Nach einem Jahr laufen manche Angebote weiter, obwohl das Kind die Schule gewechselt hat oder die berufliche Aufgabe längst vorbei ist.\n\nGleichzeitig sind Abos nicht grundsätzlich verbraucherfeindlich. Für Menschen mit wenig Geld kann ein monatlicher Zugang günstiger sein als ein hoher Kaufpreis. Software bleibt aktuell, Medien sind sofort verfügbar, und geteilte Familienmodelle können Kosten senken. Problematisch wird das Modell erst, wenn es Nutzung vortäuscht, wo nur Bequemlichkeit bleibt. Wer eine App bezahlt, fühlt sich manchmal schon organisiert, auch wenn er sie kaum öffnet.\n\nDen Überblick zurückgewinnen\n\nStädte und Volkshochschulen bieten inzwischen Workshops zum digitalen Haushaltsbuch an. Dort geht es nicht darum, jede Ausgabe zu verbieten. Teilnehmende erstellen zunächst eine Liste aller laufenden Zahlungen und markieren, wann sie einen Dienst zuletzt bewusst genutzt haben. Erst danach entscheiden sie, welche Abos bleiben, pausieren oder gekündigt werden. Diese Reihenfolge ist wichtig, weil reine Sparappelle schnell Widerstand auslösen.\n\nBanken und Beratungsstellen reagieren auf diese Entwicklung mit neuen Funktionen. Manche Apps ordnen Zahlungen automatisch Kategorien zu und markieren wiederkehrende Abbuchungen. Das kann hilfreich sein, wenn die Nutzerinnen und Nutzer die Hinweise tatsächlich prüfen. Es kann aber auch zu einer weiteren Dienstleistung werden, die bezahlt wird, ohne Verhalten zu ändern. Deshalb empfehlen Fachleute, technische Hilfen mit festen Routinen zu verbinden: einmal im Quartal die Liste öffnen, gemeinsam im Haushalt entscheiden und Kündigungsfristen sofort notieren.\n\nBei jüngeren Erwachsenen kommt ein weiterer Punkt hinzu. Viele schließen Dienste nicht aus Besitzwunsch, sondern aus Angst ab, im Freundeskreis etwas zu verpassen. Serien, Spiele oder Musik werden Teil sozialer Gespräche. Wer kündigt, spart also nicht nur Geld, sondern entscheidet auch, auf welche gemeinsamen Themen er verzichtet.\n\nBesonders tückisch sind kostenlose Probemonate, weil sie am Anfang keinen Verlust spürbar machen. Erst später wird aus einer unverbindlichen Idee ein weiterer fester Posten.\n\nFachleute empfehlen außerdem, neue Abos wie Termine zu behandeln. Wer eine Probephase beginnt, notiert sofort einen Prüftag im Kalender. Bei Familien sollte eine Person nicht allein entscheiden, welche Dienste für alle nötig sind. Am Ende geht es weniger um Verzicht als um Sichtbarkeit. Digitale Abos verändern Konsum, weil sie Ausgaben aus dem Moment des Kaufens lösen. Genau deshalb brauchen sie regelmäßige Aufmerksamkeit.",
+      "items": [
+        {
+          "question": "Worin sieht der Text das neue Verbraucherproblem?",
+          "options": [
+            "In vielen laufenden Kleinbeträgen, die leicht übersehen werden.",
+            "In hohen Einzelpreisen für digitale Geräte.",
+            "In fehlenden rechtlichen Möglichkeiten für digitale Dienste."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum bleiben manche Probeangebote bestehen?",
+          "options": [
+            "Weil Probeangebote nach dem Start nicht mehr rechtlich kündbar sind.",
+            "Weil Kundinnen und Kunden nach der Probephase noch einmal bestätigen müssen.",
+            "Weil Anbieter das Beenden oft weniger bequem gestalten als den Einstieg."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was zeigt das Beispiel eines gemeinsamen Haushalts?",
+          "options": [
+            "Dass Familien häufig mehrere Zugänge für denselben Dienst bestellen.",
+            "Dass mehrere nützliche Einzelentscheidungen später unkontrolliert weiterlaufen können.",
+            "Dass Abonnements nach einem beruflichen Anlass häufig privat weitergenutzt werden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche differenzierte Haltung nimmt der Text zu Abomodellen ein?",
+          "options": [
+            "Sie können praktisch sein, werden aber problematisch, wenn Nutzung nur angenommen wird.",
+            "Sie senken die Gesamtkosten besonders bei Diensten, die nur selten genutzt werden.",
+            "Sie sollten dort vermieden werden, wo Software aktuell bleiben muss."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Methode empfiehlt der Text für einen bewussteren Umgang mit laufenden Zahlungen?",
+          "options": [
+            "Regelmäßig Nutzung und Fristen prüfen, bevor über Bleiben oder Kündigen entschieden wird.",
+            "Vor einer Kündigung sollte zunächst die rechtliche Bindung jedes Dienstes geklärt werden.",
+            "Neue Dienste sollten im Haushalt erst nach einer gemeinsamen Empfehlung abgeschlossen werden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

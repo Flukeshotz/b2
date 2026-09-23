@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Die Vier-Tage-Woche: mutig oder naiv?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Die Vier-Tage-Woche: mutig oder naiv?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nSeit ein mittelständisches Softwareunternehmen aus Leipzig letztes Jahr auf eine Vier-Tage-Woche bei vollem Lohnausgleich umgestellt hat, wird in den Medien wieder heftig diskutiert, ob dieses Modell tatsächlich zukunftsfähig ist oder ob es sich nur ein paar Branchen leisten können.\n\nBefürworter verweisen auf die Zahlen des Leipziger Unternehmens: Die Fehlzeiten sanken um ein Drittel, die Fluktuation nahm spürbar ab, und überraschenderweise blieb die Produktivität nahezu unverändert — die Mitarbeitenden arbeiteten an vier Tagen konzentrierter, statt an fünf Tagen mit Leerlauf. Für Befürworter ist das der Beweis, dass Arbeitszeit und Ergebnis längst nicht mehr proportional zusammenhängen.\n\nKritiker halten dagegen, dass sich dieses Ergebnis kaum auf andere Branchen übertragen lässt. In der Pflege, im Einzelhandel oder in der Produktion, wo physische Anwesenheit zu bestimmten Zeiten zwingend nötig ist, lässt sich verlorene Zeit nicht einfach durch höhere Konzentration wettmachen. Ein Krankenhaus kann nicht vier Tage lang doppelt so schnell pflegen, um am fünften Tag zu schließen.\n\nAm Ende, so resümiert eine Wirtschaftsforscherin, werde die Vier-Tage-Woche wohl kein Modell für alle, sondern ein Werkzeug für Branchen, in denen Ergebnis und Anwesenheit tatsächlich entkoppelt werden können.",
+      "items": [
+        {
+          "question": "Was war laut Text das überraschende Ergebnis beim Leipziger Unternehmen?",
+          "options": [
+            "Die Fluktuation stieg stark an.",
+            "Die Produktivität blieb trotz weniger Arbeitstage fast gleich.",
+            "Die Löhne mussten gesenkt werden."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Text lässt sich das Leipziger Ergebnis problemlos auf die Pflege übertragen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welches Argument nutzen die Kritiker konkret gegen die Übertragbarkeit?",
+          "options": [
+            "Die Mitarbeitenden wollen keine kürzere Woche.",
+            "Die Löhne sind in anderen Branchen zu niedrig.",
+            "Physische Anwesenheit ist in manchen Berufen zeitlich zwingend."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie fasst die Wirtschaftsforscherin die Debatte am Ende zusammen?",
+          "options": [
+            "Die Vier-Tage-Woche wird sich überall durchsetzen.",
+            "Das Modell wird komplett scheitern.",
+            "Es wird kein Modell für alle, sondern für Branchen mit entkoppeltem Ergebnis und Anwesenheit."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was bedeutet im Text die Formulierung \"Ergebnis und Anwesenheit entkoppeln\"?",
+          "options": [
+            "Mitarbeitende müssen öfter anwesend sein.",
+            "Das Ergebnis wird nicht mehr gemessen.",
+            "Das Ergebnis hängt nicht mehr direkt von der Anwesenheitszeit ab."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

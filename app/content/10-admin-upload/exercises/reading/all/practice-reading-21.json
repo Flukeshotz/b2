@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Ankündigung: Neues internes Weiterbildungsangebot",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 30,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Ankündigung: Neues internes Weiterbildungsangebot",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nLiebe Kolleginnen und Kollegen,\n\nab dem kommenden Quartal starten wir ein neues internes Weiterbildungsprogramm mit dem Titel \"Skills für morgen\". Anlass ist die interne Umfrage vom Frühjahr, in der sich eine deutliche Mehrheit mehr fachspezifische Angebote gewünscht hatte.\n\nDas Programm umfasst zunächst drei Module: digitale Grundkompetenzen, Projektmanagement und interkulturelle Kommunikation. Jedes Modul besteht aus zwei ganztägigen Präsenzterminen sowie begleitenden Online-Einheiten, die flexibel bearbeitet werden können.\n\nDie Teilnahme erfolgt auf freiwilliger Basis, wird jedoch als reguläre Arbeitszeit angerechnet — es entsteht also kein Nachteil durch die Teilnahme. Die Plätze sind pro Modul auf 15 Personen begrenzt; bei Überbuchung entscheidet die Reihenfolge der Anmeldung.\n\nAnmeldungen sind ab sofort über das interne Fortbildungsportal möglich. Rückfragen richten Sie bitte an die Personalentwicklung.",
+      "items": [
+        {
+          "question": "Was war der Auslöser für das neue Weiterbildungsprogramm?",
+          "options": [
+            "Eine neue gesetzliche Vorschrift.",
+            "Die interne Umfrage vom Frühjahr.",
+            "Der Wunsch der Geschäftsführung nach Kostensenkung."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Teilnahme am Programm erfolgt außerhalb der regulären Arbeitszeit.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wie wird bei Überbuchung eines Moduls entschieden, wer teilnehmen darf?",
+          "options": [
+            "Per Losverfahren.",
+            "Nach der Reihenfolge der Anmeldung.",
+            "Nach Entscheidung der jeweiligen Abteilungsleitung."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie ist jedes der drei Module aufgebaut?",
+          "options": [
+            "Ausschließlich Online-Einheiten ohne Präsenztermine.",
+            "Ein einzelner ganztägiger Termin.",
+            "Zwei Präsenztermine plus begleitende Online-Einheiten."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

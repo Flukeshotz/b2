@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 11 — Problem erklären: IT-Support",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihr Arbeitslaptop stürzt seit einigen Tagen mehrmals täglich ab. Schreiben Sie eine Nachricht an den IT-Support, in der Sie das Problem so beschreiben, dass es nachvollziehbar und bearbeitbar ist.\n• Beschreiben Sie, wann und wie oft das Problem auftritt.\n• Nennen Sie, was Sie bereits versucht haben.\n• Fragen Sie konkret nach dem weiteren Vorgehen.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Dringend: Wiederholte Abstürze meines Arbeitslaptops\n\nSehr geehrte Damen und Herren,\n\nseit einigen Tagen stürzt mein Arbeitslaptop mehrmals täglich unerwartet ab. Das Problem tritt besonders häufig auf, wenn ich mit grafikintensiven Programmen arbeite oder mehrere Anwendungen gleichzeitig geöffnet habe. Der Bildschirm friert dann kurz ein und das System startet neu.\n\nIch habe bereits versucht, den Laptop mehrmals neu zu starten und alle verfügbaren Updates zu installieren. Leider hat das keine Verbesserung gebracht.\n\nKönnten Sie mir bitte mitteilen, wie wir weiter vorgehen? Wäre eine Fernwartung möglich oder soll ich das Gerät bei Ihnen vorbeibringen? Für eine schnelle Rückmeldung wäre ich sehr dankbar.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

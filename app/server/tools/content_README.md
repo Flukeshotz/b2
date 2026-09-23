@@ -23,6 +23,7 @@ content/
 │   └── tasks/               standalone writing prompts
 ├── 8-interview-practice/    job-interview question bank + model answers
 ├── 9-reference/             capability spine, audio registry, one legacy exam section
+├── 10-admin-upload/         folders 1–3 converted to the /b2admin upload JSON format (see its README)
 ├── _database/               SQL data dump of every content table (load instead of re-seeding)
 └── manifest.json            counts + list of every file
 ```

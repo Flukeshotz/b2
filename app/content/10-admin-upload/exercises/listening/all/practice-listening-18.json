@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Podcast: Nachhaltigkeit im Büroalltag",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 18,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Podcast: Nachhaltigkeit im Büroalltag",
+      "audio": "practice_listening_18_nachhaltigkeit.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was ist laut der Studie der größte Faktor beim Energieverbrauch eines Bürogebäudes?",
+          "options": [
+            "Heizen und Kühlen der Büroflächen.",
+            "Papierverbrauch.",
+            "Mülltrennung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Papier und Müll machen laut Studie den größten Anteil am Energieverbrauch aus.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was empfiehlt die Podcasterin Unternehmen, die wirklich etwas bewirken wollen?",
+          "options": [
+            "Nur noch auf Mülltrennung setzen.",
+            "Zuerst in bessere Isolierung und Heizsysteme investieren.",
+            "Komplett auf Heizung verzichten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

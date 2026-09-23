@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Übergabegespräch auf der Station",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 15,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Übergabegespräch auf der Station",
+      "audio": "practice_listening_15_uebergabe.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was hat sich bei Herrn Wagner seit gestern verändert?",
+          "options": [
+            "Sein Zustand hat sich verschlechtert.",
+            "Er wurde in ein anderes Zimmer verlegt.",
+            "Sein Blutdruck hat sich stabilisiert."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist bei Frau Öztürk neu aufgetreten?",
+          "options": [
+            "Fieber am Morgen.",
+            "Schmerzen im Rücken.",
+            "Übelkeit gegen Mittag."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Das angeordnete Medikament für Frau Öztürk soll sofort gegeben werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was fragt die Spätschicht zur Klärung nach?",
+          "options": [
+            "Ob das Medikament wirklich erst ab 16 Uhr gegeben werden soll.",
+            "Ob Herr Wagner entlassen werden kann.",
+            "Ob Frau Öztürk Besuch bekommen darf."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

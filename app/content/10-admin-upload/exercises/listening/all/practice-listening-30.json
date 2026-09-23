@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Schichtwechsel: eine unerwartete Information",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 30,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schichtwechsel: eine unerwartete Information",
+      "audio": "practice_listening_30_schichtwechsel.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was war ursprünglich für Frau Neumann geplant?",
+          "options": [
+            "Eine Entlassung um 16 Uhr am selben Tag.",
+            "Eine Verlegung auf eine andere Station.",
+            "Eine Operation am nächsten Tag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum wurde der Plan geändert?",
+          "options": [
+            "Ein auffälliger Laborwert muss zuerst abgeklärt werden.",
+            "Es gab einen Fehler in der Terminplanung.",
+            "Die Patientin hat selbst um längeren Aufenthalt gebeten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Entlassung ist jetzt für noch später am selben Abend vorgesehen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was hätte die Frühschicht ohne diese Information möglicherweise falsch gemacht?",
+          "options": [
+            "Die Aufnahme gar nicht informiert.",
+            "Das Zimmer schon für einen neuen Patienten vorbereitet.",
+            "Der Patientin das falsche Medikament gegeben."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

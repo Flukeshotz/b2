@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Forum: Lohnt sich ein berufsbegleitender Master?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 37,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forum: Lohnt sich ein berufsbegleitender Master?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nPRIYA_L: Ich überlege seit Monaten, neben meiner Vollzeitstelle einen berufsbegleitenden Master zu machen. Hat das schon jemand von euch durchgezogen?\n\nMARCUS_T: Ich habe es gemacht — zweieinhalb Jahre, Wochenendseminare plus Abendvorlesungen online. Ehrlich gesagt war es die anstrengendste Zeit meines Lebens, aber beruflich hat es sich gelohnt: Ich bin ein Jahr nach Abschluss in eine Position aufgestiegen, für die vorher der Mastertitel Voraussetzung war.\n\nPRIYA_L: Und wie war es privat? Ich habe Angst, dass meine Beziehung darunter leidet.\n\nMARCUS_T: Ganz ehrlich, das ist nicht zu unterschätzen. Meine Partnerin hat mich sehr unterstützt, aber es gab Monate, in denen wir uns kaum gesehen haben. Ich würde jedem raten, das VORHER offen zu besprechen, nicht erst, wenn man schon mittendrin steckt.\n\nLENA_F: Bei mir war der entscheidende Punkt ein anderer: Mein Arbeitgeber hat einen Teil der Studiengebühren übernommen, im Gegenzug musste ich mich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben. Das hat die Entscheidung finanziell deutlich leichter gemacht.\n\nPRIYA_L: Das ist ein guter Hinweis — ich werde auf jeden Fall vorher fragen, ob mein Arbeitgeber sich beteiligen würde.",
+      "items": [
+        {
+          "question": "Was war laut Marcus das berufliche Ergebnis seines Masterabschlusses?",
+          "options": [
+            "Er hat die Firma sofort nach dem Abschluss gewechselt.",
+            "Ein Jahr später der Aufstieg in eine Position, die den Mastertitel voraussetzte.",
+            "Er wurde trotz Abschluss nicht befördert."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Marcus rät, das Thema mit dem Partner erst anzusprechen, wenn man bereits mit dem Studium begonnen hat.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was war für Lena der entscheidende Punkt bei ihrer Entscheidung?",
+          "options": [
+            "Die finanzielle Beteiligung des Arbeitgebers an den Studiengebühren.",
+            "Die kurze Studiendauer von nur einem Jahr.",
+            "Die Möglichkeit, komplett remote zu studieren."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Gegenleistung musste Lena für die Kostenbeteiligung erbringen?",
+          "options": [
+            "Zusätzliche unbezahlte Überstunden leisten.",
+            "Auf ihr Gehalt während des Studiums verzichten.",
+            "Sich verpflichten, danach noch zwei Jahre im Unternehmen zu bleiben."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

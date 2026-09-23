@@ -1,0 +1,419 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V3",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 3
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Teamtage — bringen die etwas?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nUnsere Abteilung fährt einmal im Jahr für zwei Tage weg. Klettern, gemeinsam kochen,\nabends zusammensitzen.\n\nIch habe das lange für verlorene Arbeitszeit gehalten. Wer sich im Büro nicht versteht,\nversteht sich auch am Kletterseil nicht, dachte ich, und hinterher sind alle wieder genau\nso wie vorher.\n\nNach dem letzten Mal sehe ich das differenzierter. Es hat tatsächlich etwas verändert —\nallerdings nicht das, was im Programm stand. Geholfen haben nicht die Übungen, sondern die\nlangen Fahrten im Bus, auf denen Leute miteinander geredet haben, die sonst nie ein Wort\nwechseln. Das ließe sich vermutlich auch billiger haben.\n\nWas mich weiterhin stört, ist die Freiwilligkeit. Offiziell muss niemand mitfahren. Wer\nabsagt, bekommt aber jedes Mal dieselbe Frage gestellt, warum er denn nicht dabei sei.\nFreiwillig ist etwas anderes.\n\nAngemeldet habe ich mich für dieses Jahr trotzdem wieder.",
+          "items": [
+            {
+              "question": "Wie beurteilt die Autorin die Teamtage heute?",
+              "options": [
+                "Sie hält sie inzwischen für gut investierte Arbeitszeit.",
+                "Sie sieht eine Wirkung, aber nicht durch das geplante Programm.",
+                "Sie hält sie weiterhin für verlorene Arbeitszeit."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Nach Ansicht der Autorin haben vor allem die gemeinsamen Übungen gewirkt.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt die Autorin ein?",
+              "options": [
+                "Dass die Teamtage doch eine Wirkung hatten.",
+                "Dass die Freiwilligkeit inzwischen funktioniert.",
+                "Dass die Übungen gut ausgewählt waren."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Womit begründet die Autorin die Wirkung?",
+              "options": [
+                "Mit dem gemeinsamen Klettern.",
+                "Mit den Gesprächen während der Fahrten.",
+                "Mit der Länge der Veranstaltung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Die Autorin hält die Wirkung für billiger erreichbar.",
+                "Wer nicht mitfährt, wird nach seinen Gründen gefragt.",
+                "Die Teilnahme ist offiziell verpflichtend.",
+                "Die Autorin wird dieses Jahr nicht mitfahren."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Sie nennt, was sie weiterhin stört.",
+                "Sie erklärt, was tatsächlich gewirkt hat.",
+                "Sie beschreibt die Teamtage.",
+                "Sie begründet ihre frühere Ablehnung."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Sie nennt, was sie weiterhin stört.",
+                "Sie erklärt, was tatsächlich gewirkt hat.",
+                "Sie beschreibt die Teamtage.",
+                "Sie begründet ihre frühere Ablehnung."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Sie nennt, was sie weiterhin stört.",
+                "Sie erklärt, was tatsächlich gewirkt hat.",
+                "Sie beschreibt die Teamtage.",
+                "Sie begründet ihre frühere Ablehnung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Sie nennt, was sie weiterhin stört.",
+                "Sie erklärt, was tatsächlich gewirkt hat.",
+                "Sie beschreibt die Teamtage.",
+                "Sie begründet ihre frühere Ablehnung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Der Termin passt uns nicht. Das Angebot ist gut.",
+                "Das Angebot ist zwar gut, der Termin passt uns aber nicht."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir machen es dieses Jahr in der Nähe.",
+                "Man könnte es dieses Jahr auch in der Nähe machen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Trotz des guten Angebots müssen wir leider absagen.",
+                "Trotz dem guten Angebot müssen wir leider absagen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Das Angebot wurde abgelehnt, weil der Termin nicht passte und eine Verschiebung den Ablauf der Projektwoche gestört hätte.",
+                "Das Angebot wurde abgelehnt. Der Termin passte nicht. Eine Verschiebung hätte gestört."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Wir haben mit dem Anbieter Kontakt ___ und ihm unsere Wünsche zur Kenntnis (2).",
+              "answer": [
+                "aufgenommen",
+                "Aufgenommen"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Wir haben mit dem Anbieter Kontakt (1) und ihm unsere Wünsche zur Kenntnis ___.",
+              "answer": [
+                "gebracht",
+                "Gebracht"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Veranstaltung übernimmt die Abteilung; über die (2) der Kosten entscheidet die Zentrale.",
+              "answer": [
+                "Organisation",
+                "organisation",
+                "Planung",
+                "planung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Veranstaltung übernimmt die Abteilung; über die ___ der Kosten entscheidet die Zentrale.",
+              "answer": [
+                "Verteilung",
+                "verteilung",
+                "Aufteilung",
+                "aufteilung"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Rolle",
+              "options": [
+                "wecken",
+                "spielen",
+                "nehmen",
+                "schließen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nInteresse",
+              "options": [
+                "wecken",
+                "spielen",
+                "nehmen",
+                "schließen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neinen Kompromiss",
+              "options": [
+                "wecken",
+                "spielen",
+                "nehmen",
+                "schließen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nRücksicht",
+              "options": [
+                "wecken",
+                "spielen",
+                "nehmen",
+                "schließen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Hallo, können Sie uns mal sagen, was das ungefähr kostet?",
+                "Sehr geehrte Damen und Herren, könnten Sie uns bitte ein Angebot zusenden?"
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Einen Moment noch, ich möchte den Gedanken kurz zu Ende führen.",
+                "Sie kommen gleich dran, jetzt rede ich.",
+                "Schon gut, sagen Sie ruhig."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Am Telefon. Eine Mitarbeiterin spricht mit einem Anbieter für Teamveranstaltungen. (1)",
+          "audio": "core2026b_v3_teamtag.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Was ist am zwölften Juni möglich?",
+              "options": [
+                "Die Kochwerkstatt.",
+                "Der Kletterpark.",
+                "Beides."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wozu rät der Anbieter der Anruferin?",
+              "options": [
+                "Zur Kochwerkstatt am neunzehnten.",
+                "Für eine gemischte Gruppe eher zum Kletterpark.",
+                "Er hält beide Angebote für gleich geeignet."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Für den neunzehnten verlangt der Anbieter einen höheren Preis.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum ist die Kochwerkstatt am zwölften nicht möglich?",
+              "options": [
+                "Weil die Gruppe zu groß ist.",
+                "Weil die Küche an dem Tag belegt ist.",
+                "Weil die Anfrage zu spät gekommen ist."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Am Telefon. Eine Mitarbeiterin spricht mit einem Anbieter für Teamveranstaltungen. (2)",
+          "audio": "core2026b_v3_teamtag.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Was verstehen Sie denn genau unter Kletterpark?“",
+              "options": [
+                "eine Empfehlung geben",
+                "eine Alternative anbieten",
+                "nach einer genaueren Erklärung fragen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ich könnte Ihnen den neunzehnten anbieten.“",
+              "options": [
+                "eine Empfehlung geben",
+                "eine Alternative anbieten",
+                "nach einer genaueren Erklärung fragen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Für eine gemischte Gruppe würde ich eher dazu raten.“",
+              "options": [
+                "eine Empfehlung geben",
+                "eine Alternative anbieten",
+                "nach einer genaueren Erklärung fragen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie die Autorin des Forumsbeitrags die Teamtage einschätzt und welchen Einwand sie behält.",
+              "word_limit": 40,
+              "expected_answer": "Die Autorin bewertet Teamtage inzwischen kritischer als zu Beginn. Sie sieht zwar ihren Nutzen für den Zusammenhalt, bemängelt jedoch, dass die Teilnahme oft nicht wirklich freiwillig ist und sozialer Druck ausgeübt wird."
+            },
+            {
+              "question": "Der Anbieter schreibt: „Der neunzehnte wäre bei uns frei, sonst alles wie besprochen.“ Sie wissen nicht, ob damit die Kochwerkstatt gemeint ist und ob der Preis unverändert gilt. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Sehr geehrte Damen und Herren,\nich hätte zwei kurze Rückfragen: Dürfte ich erfahren, ob sich der genannte Termin auf die Kochwerkstatt bezieht und ob der ursprünglich vereinbarte Preis weiterhin gültig ist?\nMit freundlichen Grüßen"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob die jährlichen Teamtage abgeschafft und das Geld stattdessen auf die Abteilungen verteilt werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich bin klar gegen die Abschaffung der Teamtage. Erstens stärken diese gemeinsamen Erlebnisse außerhalb des Büros den Zusammenhalt und das Vertrauen, was im stressigen Alltag oft zu kurz kommt. Darüber hinaus fördert der informelle Austausch die abteilungsübergreifende Zusammenarbeit und Kreativität. Zugegebenermaßen ist die Planung zeitaufwendig, aber dieser Aufwand ist eine lohnende Investition in unser Betriebsklima. Ich schlage daher einen Kompromiss vor: Wir behalten einen verkürzten, kostengünstigeren Teamtag bei und verteilen das restliche Budget für kleinere, selbstorganisierte Teamessen in den Abteilungen.\n\nViele Grüße\nAnna Meier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Betriebe organisieren feste Teamveranstaltungen für alle, andere überlassen es den Abteilungen, ob und wie sie etwas gemeinsam machen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Meiner Meinung nach ist es sinnvoller, wenn ein Betrieb feste, zentrale Teamveranstaltungen für alle Mitarbeiter organisiert. Ein wesentlicher Vorteil ist, dass dadurch ein starkes Gemeinschaftsgefühl im gesamten Unternehmen entsteht. Wenn Kollegen aus verschiedenen Abteilungen, die im Arbeitsalltag kaum Berührungspunkte haben, gemeinsam etwas unternehmen, werden Barrieren abgebaut und das 'Wir-Gefühl' wird gestärkt. Hinzu kommt, dass solche festen Events eine klare Wertschätzung der Geschäftsleitung signalisieren. Die Mitarbeiter fühlen sich gesehen und das steigert nachweislich die Motivation und die Identifikation mit dem Arbeitgeber. Wenn man diese Organisation hingegen den einzelnen Abteilungen überlässt, besteht die große Gefahr, dass sich isolierte Gruppen bilden. Man kennt dann zwar sein eigenes Team sehr gut, aber ein übergreifender Austausch und ein Verständnis für die Arbeit der anderen fehlen völlig. Das kann langfristig zu einer Art Konkurrenzdenken zwischen den Abteilungen führen, was für die Zusammenarbeit im Unternehmen nicht förderlich ist. Aus diesen Gründen halte ich zentral geplante Veranstaltungen für die deutlich bessere Lösung.",
+              "model_answer": "Meiner Meinung nach ist es sinnvoller, wenn ein Betrieb feste, zentrale Teamveranstaltungen für alle Mitarbeiter organisiert. Ein wesentlicher Vorteil ist, dass dadurch ein starkes Gemeinschaftsgefühl im gesamten Unternehmen entsteht. Wenn Kollegen aus verschiedenen Abteilungen, die im Arbeitsalltag kaum Berührungspunkte haben, gemeinsam etwas unternehmen, werden Barrieren abgebaut und das 'Wir-Gefühl' wird gestärkt. Hinzu kommt, dass solche festen Events eine klare Wertschätzung der Geschäftsleitung signalisieren. Die Mitarbeiter fühlen sich gesehen und das steigert nachweislich die Motivation und die Identifikation mit dem Arbeitgeber. Wenn man diese Organisation hingegen den einzelnen Abteilungen überlässt, besteht die große Gefahr, dass sich isolierte Gruppen bilden. Man kennt dann zwar sein eigenes Team sehr gut, aber ein übergreifender Austausch und ein Verständnis für die Arbeit der anderen fehlen völlig. Das kann langfristig zu einer Art Konkurrenzdenken zwischen den Abteilungen führen, was für die Zusammenarbeit im Unternehmen nicht förderlich ist. Aus diesen Gründen halte ich zentral geplante Veranstaltungen für die deutlich bessere Lösung.",
+              "expected_answer": "Meiner Meinung nach ist es sinnvoller, wenn ein Betrieb feste, zentrale Teamveranstaltungen für alle Mitarbeiter organisiert. Ein wesentlicher Vorteil ist, dass dadurch ein starkes Gemeinschaftsgefühl im gesamten Unternehmen entsteht. Wenn Kollegen aus verschiedenen Abteilungen, die im Arbeitsalltag kaum Berührungspunkte haben, gemeinsam etwas unternehmen, werden Barrieren abgebaut und das 'Wir-Gefühl' wird gestärkt. Hinzu kommt, dass solche festen Events eine klare Wertschätzung der Geschäftsleitung signalisieren. Die Mitarbeiter fühlen sich gesehen und das steigert nachweislich die Motivation und die Identifikation mit dem Arbeitgeber. Wenn man diese Organisation hingegen den einzelnen Abteilungen überlässt, besteht die große Gefahr, dass sich isolierte Gruppen bilden. Man kennt dann zwar sein eigenes Team sehr gut, aber ein übergreifender Austausch und ein Verständnis für die Arbeit der anderen fehlen völlig. Das kann langfristig zu einer Art Konkurrenzdenken zwischen den Abteilungen führen, was für die Zusammenarbeit im Unternehmen nicht förderlich ist. Aus diesen Gründen halte ich zentral geplante Veranstaltungen für die deutlich bessere Lösung."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

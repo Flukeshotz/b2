@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Meinungsaustausch: Remote-Arbeit",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Meinungsaustausch: Remote-Arbeit",
+      "audio": "practice_listening_12_remotearbeit.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was schätzt Kollegin 1 am meisten am Homeoffice?",
+          "options": [
+            "Mehr Kontakt zu Kunden.",
+            "Die bessere technische Ausstattung.",
+            "Die eingesparte Pendelzeit."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was vermisst Kollegin 2 im Homeoffice?",
+          "options": [
+            "Einen eigenen Schreibtisch.",
+            "Die Kantine.",
+            "Den spontanen Austausch mit dem Team."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Kompromiss schlägt Kollegin 2 am Ende vor?",
+          "options": [
+            "Zwei Tage im Büro, drei Tage zu Hause.",
+            "Komplett ins Büro zurückkehren.",
+            "Nur noch im Homeoffice arbeiten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Telefonat: Reservierung ändern",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Telefonat: Reservierung ändern",
+      "audio": "practice_listening_3_reservierung.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worum bittet die Anruferin?",
+          "options": [
+            "Einen neuen Tisch für morgen zu buchen.",
+            "Die Reservierung um zwei Personen zu erweitern.",
+            "Die Reservierung komplett zu stornieren."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was schlägt das Restaurant als Lösung vor?",
+          "options": [
+            "Einen Tisch für nur vier Personen.",
+            "Einen Tisch um 19:30 statt 19:00 Uhr.",
+            "Eine Reservierung für einen anderen Tag."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Anruferin lehnt den neuen Vorschlag ab.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

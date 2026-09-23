@@ -1,0 +1,77 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 3 — Detailverstehen (Journalistischer Text), Satz 2",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Detailverstehen (Journalistischer Text)",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nStadt ohne Dauerrauschen\n\nWer in einer Stadt wohnt, gewöhnt sich an vieles: Busse, Lieferwagen, Musik aus Wohnungen und Gespräche vor Restaurants. Doch in Falkenried wurde der Lärm in manchen Straßen so stark, dass die Stadt ein ungewöhnliches Projekt startete. Unter dem Titel „Ruhige Wege“ untersucht sie seit zwei Jahren, wie sich Verkehr und Alltagsgeräusche senken lassen, ohne das öffentliche Leben einzuschränken.\n\nAuslöser waren Beschwerden aus einem Wohngebiet nahe dem Bahnhof. Eltern berichteten, ihre Kinder könnten abends schlecht einschlafen, obwohl die Straße tagsüber kaum auffällig wirke. Messungen bestätigten diesen Eindruck nur teilweise. Die Durchschnittswerte lagen nicht überall über den Grenzwerten. Auffällig waren jedoch kurze Spitzen: das Entladen von Waren sehr früh am Morgen, beschleunigende Autos nach der Ampel und Motorräder an Wochenenden. Gerade diese kurzen Momente empfanden viele Anwohner als besonders störend.\n\nDie Stadt reagierte zunächst mit kleinen Änderungen. Lieferfahrzeuge dürfen in zwei Teststraßen nur noch zwischen sieben und elf Uhr halten, weil vorher besonders viele Menschen schlafen. Auf einer anderen Strecke wurde die Höchstgeschwindigkeit von 50 auf 30 Kilometer pro Stunde gesenkt. Außerdem erhielten mehrere Kreuzungen neue Fahrbahnbeläge, die Reifengeräusche vermindern sollen. Fachleute betonen jedoch, dass Tempo 30 allein wenig bringt, wenn Autofahrer danach an der nächsten Kreuzung wieder stark beschleunigen.\n\nNicht alle begrüßen das Projekt. Einige Geschäftsleute befürchten, dass spätere Lieferzeiten ihren Ablauf durcheinanderbringen. Ein Bäcker erklärte, er brauche manche Waren vor sechs Uhr, sonst könne er morgens nicht rechtzeitig öffnen. Deshalb gelten die neuen Regeln nicht für alle Betriebe gleich. Wer nachweisen kann, dass eine frühe Lieferung notwendig ist, erhält eine Ausnahme. Genau diese Ausnahmen kritisieren wiederum manche Anwohner, weil sie kaum überprüfen können, ob sie wirklich nötig sind.\n\nNeben dem Verkehr nimmt die Stadt auch Freizeitlärm in den Blick. Vor zwei beliebten Plätzen stehen seit dem Sommer Schilder, die nicht drohen, sondern erklären: „Bitte bleiben Sie gern, aber denken Sie an die Schlafzimmer über Ihnen.“ Zusätzlich sind am Wochenende zwei sogenannte Nachtlotsen unterwegs. Sie sprechen Gruppen an, bevor Streit entsteht, und bitten sie, Flaschen mitzunehmen oder leiser weiterzugehen. Die Polizei musste dadurch seltener gerufen werden, sagt die Stadt.\n\nParallel dazu veröffentlicht die Stadt eine einfache Lärmkarte im Internet. Sie zeigt keine einzelnen Wohnungen, sondern größere Straßenabschnitte, damit niemand öffentlich an den Pranger gestellt wird. Bürgerinnen und Bürger können dort auch eintragen, wann sie sich besonders gestört fühlen. Diese Hinweise ersetzen keine Messgeräte, helfen aber, bestimmte Muster zu erkennen. So stellte sich heraus, dass eine vermeintlich ruhige Seitenstraße am Freitagabend lauter war als die Hauptstraße, weil viele Taxis dort warteten. Solche Details wären bei einer reinen Durchschnittsmessung kaum aufgefallen.\n\nInteressant ist, dass nicht jede Maßnahme teuer sein muss. Manche Bewohner berichten, dass schon eine veränderte Ampelschaltung geholfen habe, weil Autos nun gleichmäßiger fahren. Andere finden die neuen Regeln zu kleinteilig und wünschen sich lieber eine klare Sperrung für Durchgangsverkehr. Die Verkehrsplanerin Mara Seidel warnt jedoch vor einfachen Antworten. Lärm entstehe aus vielen einzelnen Situationen. Wenn man nur eine Quelle beseitige, tauche das Problem oft an einer anderen Stelle wieder auf.\n\nAuch Busfahrer wurden einbezogen, weil ihre Fahrpläne von neuen Regeln betroffen sein könnten. Sie lieferten praktische Hinweise, wo langsameres Fahren realistisch ist und wo es zu Rückstaus führen würde.\n\nIm nächsten Jahr sollen die Ergebnisse öffentlich diskutiert werden. Dann entscheidet der Stadtrat, welche Testregeln dauerhaft bleiben. Für Falkenried ist schon jetzt klar: Eine leisere Stadt entsteht nicht durch ein einziges Verbot, sondern durch viele kleine Entscheidungen. Ob die Bürger diese Geduld aufbringen, wird sich erst zeigen.",
+      "items": [
+        {
+          "question": "Das Projekt wurde gestartet, weil ...",
+          "options": [
+            "ein Wohngebiet über störende Geräuschspitzen klagte.",
+            "alle Straßen die gesetzlichen Grenzwerte überschritten.",
+            "der Bahnhof nachts geschlossen werden sollte."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Messungen zeigten, dass ...",
+          "options": [
+            "Motorräder werktags das größte Problem waren.",
+            "die Straßen tagsüber völlig ruhig waren.",
+            "kurze Lärmmomente besonders auffielen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie hilft Tempo 30 nach Ansicht der Fachleute?",
+          "options": [
+            "Wenn alle Lieferungen am Morgen verboten werden.",
+            "Wenn Motorräder die Innenstadt meiden.",
+            "Wenn auch das Fahrverhalten an Kreuzungen passt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Einige Geschäftsleute kritisieren, dass ...",
+          "options": [
+            "sie keine Ausnahmen beantragen dürfen.",
+            "spätere Lieferungen ihre Arbeit erschweren könnten.",
+            "Nachtlotsen ihre Kunden kontrollieren."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Nachtlotsen sollen ...",
+          "options": [
+            "Lärmkonflikte früh entschärfen.",
+            "Bußgelder an Gruppen verteilen.",
+            "Restaurants früher schließen lassen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Mara Seidel warnt davor, ...",
+          "options": [
+            "zu viele kleine Maßnahmen gleichzeitig zu testen.",
+            "Bürger in die Entscheidung einzubeziehen.",
+            "Lärmprobleme mit einer einzigen Lösung erklären zu wollen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 9 — Partizipialkonstruktionen & N-Deklination",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "___ die Lage kennend, entschied sie sich für die vorsichtigere Option.",
+          "options": [
+            "Die Lage kennend",
+            "Kennend die Lage",
+            "Die Lage gekannt"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie hat vergessen, ___ Bescheid zu sagen.",
+          "options": [
+            "mit mir",
+            "mich",
+            "mir"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Kollege, ___ genannt, war eigentlich abwesend.",
+          "options": [
+            "als Verantwortlicher",
+            "als Verantwortliche",
+            "als Verantwortlich"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ich habe keine Zeit, das Protokoll ___.",
+          "options": [
+            "gelesen",
+            "zu lesen",
+            "lesen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Experte, den wir konsultiert haben, ist ein ___.",
+          "options": [
+            "Kollege",
+            "Kollegin",
+            "Kollegen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ich habe mit dem ___ über den Fall gesprochen.",
+          "options": [
+            "Kollegen",
+            "Kollege",
+            "Kolleg"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Man bat den ___, seine Einschätzung zu wiederholen.",
+          "options": [
+            "Experte",
+            "Expert",
+            "Experten"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Statt lange zu diskutieren, ___ sie sofort zu handeln.",
+          "options": [
+            "begann",
+            "beginnt zu",
+            "anfangen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ genügend Informationen zu haben, traf er die Entscheidung allein.",
+          "options": [
+            "Statt",
+            "Anstatt dass",
+            "Ohne"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie bat den ___, ihr das Vorgehen zu erklären.",
+          "options": [
+            "Kunde",
+            "Kund",
+            "Kunden"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er vermied es, ___ auf die Frage zu antworten.",
+          "options": [
+            "direkt",
+            "direkten",
+            "direkte"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #9",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 26,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie haben einen Fitnesskurs gebucht. Wegen einer Knieverletzung können Sie vorerst nicht teilnehmen. Schreiben Sie eine Nachricht an die Mitarbeiterin des Studios, Frau Seidel.",
+      "items": [
+        {
+          "question": "Sie haben einen Fitnesskurs gebucht. Wegen einer Knieverletzung können Sie vorerst nicht teilnehmen. Schreiben Sie eine Nachricht an die Mitarbeiterin des Studios, Frau Seidel.\n• Fragen Sie nach den Bedingungen.\n• Informieren Sie über Ihre Verletzung.\n• Bedanken Sie sich für eine Rückmeldung.\n• Bitten Sie um Pausierung oder Umbuchung des Kurses.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Fitnesskurs – Bitte um Pausierung wegen Knieverletzung\n\nSehr geehrte Frau Seidel,\n\nvor Kurzem habe ich den Kurs „Rückenfit“ montags um 18 Uhr gebucht. Leider kann ich vorerst nicht daran teilnehmen, da ich mir beim Joggen eine schmerzhafte Knieverletzung zugezogen habe. Mein Arzt hat mir dringend von sportlichen Aktivitäten abgeraten, bis die Entzündung vollständig abgeklungen ist.\n\nAus diesem Grund möchte ich Sie höflich bitten, meinen Kurs für die nächsten vier Wochen zu pausieren. Sollte dies nicht möglich sein, wäre ich auch mit einer Umbuchung auf einen späteren Kurs einverstanden. Könnten Sie mir bitte mitteilen, welche Bedingungen dafür gelten und ob Sie ein ärztliches Attest von mir benötigen?\n\nFür Ihre Bemühungen und eine kurze Rückmeldung wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

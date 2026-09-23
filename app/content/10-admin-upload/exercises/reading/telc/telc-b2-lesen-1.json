@@ -1,0 +1,64 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Lesen, Übungsset 1",
+  "description": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Anzeige: Sprachkurse für den Beruf",
+      "passage": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?\n\nDie Volkshochschule Nordstadt bietet ab September berufsbegleitende Deutschkurse auf B2-Niveau an. Die Kurse finden zweimal wöchentlich abends statt, sodass eine Teilnahme neben einer Vollzeitstelle möglich ist. Neu in diesem Semester: ein separater Kurs mit Schwerpunkt auf schriftlicher Kommunikation im Beruf, etwa E-Mails und Berichte.\n\nDie Teilnahmegebühr beträgt 340 Euro pro Semester. Für Beschäftigte, deren Arbeitgeber eine Kostenbeteiligung schriftlich bestätigt, reduziert sich der Betrag um 50 Prozent. Eine Anmeldung ist bis zwei Wochen vor Kursbeginn online oder persönlich im Sekretariat möglich; danach werden freie Plätze nur noch nach Rücksprache vergeben.\n\nEin Einstufungstest ist vor der ersten Kursstunde verpflichtend, kann aber auch online von zu Hause aus absolviert werden. Wer bereits ein B2-Zertifikat besitzt, kann auf Antrag direkt in den Aufbaukurs für C1 wechseln, sofern das Zertifikat nicht älter als zwei Jahre ist.",
+      "items": [
+        {
+          "question": "Die Kurse finden nur tagsüber statt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was ist neu in diesem Semester?",
+          "options": [
+            "Ein Kurs mit Schwerpunkt schriftliche Kommunikation im Beruf.",
+            "Kostenlose Teilnahme für alle.",
+            "Ein reiner Wochenendkurs."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer eine schriftliche Bestätigung des Arbeitgebers vorlegt, zahlt den vollen Betrag.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was passiert, wenn man sich später als zwei Wochen vor Kursbeginn anmeldet?",
+          "options": [
+            "Die Anmeldung wird automatisch abgelehnt.",
+            "Freie Plätze werden nur noch nach Rücksprache vergeben.",
+            "Man zahlt eine Strafgebühr."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ein bereits vor drei Jahren erworbenes B2-Zertifikat berechtigt in jedem Fall zum direkten Wechsel in den C1-Aufbaukurs.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

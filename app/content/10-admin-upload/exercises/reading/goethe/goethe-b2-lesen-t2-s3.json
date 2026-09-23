@@ -1,0 +1,62 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 2 — Textrekonstruktion (Lücken im Text), Satz 3",
+  "description": "Sie lesen in einer Zeitschrift einen Artikel über die neue Rolle von Bibliotheken. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 2 — Textrekonstruktion (Lücken im Text)",
+      "passage": "Sie lesen in einer Zeitschrift einen Artikel über die neue Rolle von Bibliotheken. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.\n\nMehr als Bücherregale\nDie neue Rolle der Bibliotheken\n\nViele verbinden Bibliotheken noch immer mit Flüstern, Karteikarten und langen Reihen von Romanen. Wer heute eine moderne Stadtbibliothek betritt, erlebt jedoch oft etwas anderes. Dort sitzen Schülerinnen mit Laptops, Rentner lesen Zeitung, Eltern besuchen eine Vorlesestunde und Selbstständige nutzen ruhige Arbeitsplätze. Für Menschen, die zu Hause wenig Platz haben, kann ein solcher Ort fast wie ein zweites Wohnzimmer wirken. [...10...] Gerade in Stadtteilen mit kleinen Wohnungen oder wenigen öffentlichen Treffpunkten werden Bibliotheken zu Orten, an denen man ohne Konsumzwang bleiben darf. Für Jugendliche ist das wichtig, wenn sie nach der Schule noch nicht nach Hause möchten, aber auch kein Geld für ein Café ausgeben können.\n\nDiese Veränderung bedeutet nicht, dass Bücher unwichtig geworden sind. Im Gegenteil: Ausleihe, Beratung und Leseförderung bleiben der Kern der Arbeit. Viele Häuser achten sogar stärker darauf, Kinder und Erwachsene wieder zum Lesen zu bringen. [...11...] Neben dem Romanregal findet man heute häufig Sprachcafés, Reparaturboxen, Spieleabende oder kurze Kurse zur Nutzung digitaler Geräte. Für manche Besucher ist das Buch der Anlass, für andere ist es der Raum selbst. Diese Mischung verlangt vom Personal neue Kompetenzen, denn Beratung bedeutet heute nicht nur, ein passendes Buch zu finden.\n\nMit der neuen Offenheit entstehen allerdings auch Konflikte. Wenn Gruppen diskutieren, fühlen sich andere beim Lesen gestört. Wenn Jugendliche einen Treffpunkt suchen, wünschen sich manche Erwachsene mehr Ruhe. Personal muss dabei vermitteln, ohne eine Gruppe grundsätzlich zu bevorzugen. [...12...] Deshalb teilen viele Häuser ihre Räume inzwischen klarer ein: Es gibt stille Zonen, Gesprächsbereiche und Arbeitsplätze, die man reservieren kann. So wird nicht jede Nutzung gegen die andere ausgespielt. Einige Häuser testen zusätzlich farbige Hinweise oder kurze Zeitfenster, damit Besucher schon am Eingang erkennen, welcher Bereich zu ihrem Vorhaben passt.\n\nBesonders wichtig sind Bibliotheken für Menschen, die neu in einer Stadt sind. Sie finden dort Informationen, kostenloses Internet und oft jemanden, der eine Formularfrage erklären kann. In vielen Häusern arbeiten Ehrenamtliche, die bei Bewerbungen oder Behördenschreiben unterstützen. [...13...] Eine Frau, die einen Deutschkurs besucht, trifft beim Vorlesen vielleicht Eltern aus der Nachbarschaft; ein Schüler hilft einem älteren Besucher beim Drucken eines Dokuments. Solche Begegnungen sind klein, aber sie schaffen Vertrauen.\n\nTrotzdem darf man die Entwicklung nicht romantisieren. Längere Öffnungszeiten, gute Technik und qualifiziertes Personal kosten Geld. Auch die Wartung von Geräten und die Betreuung von Veranstaltungen passieren nicht nebenbei. [...14...] Manche Kommunen erwarten immer mehr Angebote, ohne die Mittel entsprechend zu erhöhen. Dann droht ausgerechnet der Ort, der für alle offen sein soll, überlastet zu werden. Besonders kleinere Zweigstellen müssen genau entscheiden, welche Angebote sie wirklich tragen können.\n\nDie Bibliothek der Zukunft wird also nicht einfach lauter, digitaler oder bunter. Sie muss erklären, was sie leisten kann und wo ihre Grenzen liegen. Wenn das gelingt, kann sie sehr unterschiedliche Erwartungen verbinden. [...15...] Vielleicht ist gerade das ihre Stärke: Sie sammelt nicht nur Medien, sondern bietet einen verlässlichen öffentlichen Raum, in dem unterschiedliche Bedürfnisse nebeneinander bestehen können. In einer Stadt, in der viele Treffpunkte Geld kosten, ist diese Verlässlichkeit vielleicht ihr modernstes Angebot. Die entscheidende Frage lautet daher nicht, ob Bibliotheken altmodisch sind, sondern welche öffentlichen Aufgaben sie künftig übernehmen sollen.",
+      "items": [
+        {
+          "question": "[Satz 3] Welcher Satz passt in Lücke 10?",
+          "options": [
+            "A: Diese Angebote sollen die klassische Ausleihe nicht ersetzen, sondern ergänzen.",
+            "B: Manche Besucher suchen vor allem Ruhe.",
+            "C: Damit reagieren die Einrichtungen auf ein Bedürfnis, das im Alltag vieler Menschen größer geworden ist.",
+            "D: Vielleicht liegt ihre Zukunft also weniger in Regalen als in verlässlichen Räumen.",
+            "E: Gerade deshalb müssen Bibliotheken erklären, warum manche Regeln weiterhin nötig sind.",
+            "F: Allerdings bleibt die Finanzierung vieler solcher Projekte unsicher.",
+            "G: Digitale Angebote spielen dabei künftig eine etwas größere Rolle.",
+            "H: Auf diese Weise entstehen Begegnungen, die ohne einen gemeinsamen Ort kaum möglich wären."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Welcher Satz passt in Lücke 11?",
+          "options": [
+            "A: Diese Angebote sollen die klassische Ausleihe nicht ersetzen, sondern ergänzen.",
+            "B: Manche Besucher suchen vor allem Ruhe.",
+            "C: Damit reagieren die Einrichtungen auf ein Bedürfnis, das im Alltag vieler Menschen größer geworden ist.",
+            "D: Vielleicht liegt ihre Zukunft also weniger in Regalen als in verlässlichen Räumen.",
+            "E: Gerade deshalb müssen Bibliotheken erklären, warum manche Regeln weiterhin nötig sind.",
+            "F: Allerdings bleibt die Finanzierung vieler solcher Projekte unsicher.",
+            "G: Digitale Angebote spielen dabei künftig eine etwas größere Rolle.",
+            "H: Auf diese Weise entstehen Begegnungen, die ohne einen gemeinsamen Ort kaum möglich wären."
+          ],
+          "answer": "H",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Welcher Satz passt in Lücke 12?",
+          "options": [
+            "A: Diese Angebote sollen die klassische Ausleihe nicht ersetzen, sondern ergänzen.",
+            "B: Manche Besucher suchen vor allem Ruhe.",
+            "C: Damit reagieren die Einrichtungen auf ein Bedürfnis, das im Alltag vieler Menschen größer geworden ist.",
+            "D: Vielleicht liegt ihre Zukunft also weniger in Regalen als in verlässlichen Räumen.",
+            "E: Gerade deshalb müssen Bibliotheken erklären, warum manche Regeln weiterhin nötig sind.",
+            "F: Allerdings bleibt die Finanzierung vieler solcher Projekte unsicher.",
+            "G: Digitale Angebote spielen dabei künftig eine etwas größere Rolle.",
+            "H: Auf diese Weise entstehen Begegnungen, die ohne einen gemeinsamen Ort kaum möglich wären."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

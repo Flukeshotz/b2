@@ -1,0 +1,419 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V4",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 4
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Wie viel Kulanz ist zu viel?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nLetzte Woche hat ein Kunde bei uns eine Lieferung reklamiert: drei von zwölf Paketen\nwaren beschädigt angekommen. Mein erster Gedanke war, das sei ein Einzelfall und der Kunde\nsolle sich an die Spedition wenden — schließlich hatten wir sauber verpackt.\n\nDann habe ich mir die Reklamationen der letzten drei Monate angesehen. Es waren nicht drei\nbeschädigte Pakete, es waren einundzwanzig, und fast alle kamen von derselben Route. Das hat\nmeine Sicht verändert. Es ging nicht mehr um einen einzelnen unglücklichen Kunden, sondern\num ein Problem, das wir selbst verursacht hatten.\n\nWir haben dem Kunden eine volle Rückerstattung angeboten, dazu einen Gutschein für die\nnächste Bestellung. Das war teurer, als ich wollte, aber richtig: Wer für unseren Fehler\nzahlt, sollte nicht auch noch dafür kämpfen müssen.\n\nWas mich trotzdem stört, ist die Spedition selbst. Wir haben sie zweimal auf die Route\nangesprochen, ohne eine klare Antwort zu bekommen. Solange sich daran nichts ändert, wird\nuns das Problem wieder einholen — Kulanz hin oder her.\n\nDen Vertrag kündigen würde ich deshalb trotzdem noch nicht.",
+          "items": [
+            {
+              "question": "Wie beurteilt der Autor die Lage am Ende?",
+              "options": [
+                "Er hält die Spedition für zuverlässig, sieht das Problem als gelöst.",
+                "Er hat kulant reagiert, sieht aber bei der Spedition weiterhin ein ungelöstes Problem.",
+                "Er findet, der Kunde habe übertrieben reagiert."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Laut Text kamen fast alle beschädigten Sendungen von derselben Route.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt der Autor ein?",
+              "options": [
+                "Dass es sich nicht um einen Einzelfall handelte, sondern um ein hausgemachtes Problem.",
+                "Dass die Spedition inzwischen zuverlässig liefert.",
+                "Dass der Kunde die beschädigten Pakete selbst verursacht hat."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Worauf führt der Autor seinen Sinneswandel zurück?",
+              "options": [
+                "Auf ein Gespräch mit dem Kunden.",
+                "Auf den Blick in die Reklamationen der letzten drei Monate.",
+                "Auf eine Beschwerde der Spedition."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Der Kunde erhielt eine volle Rückerstattung und einen Gutschein.",
+                "Die Spedition hat auf zwei Nachfragen klar geantwortet.",
+                "In drei Monaten gab es einundzwanzig beschädigte Sendungen.",
+                "Der Autor hat den Vertrag mit der Spedition bereits gekündigt."
+              ],
+              "answer": [
+                "A",
+                "C"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Er beschreibt die einzelne Reklamation.",
+                "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+                "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+                "Er benennt, was ihn an der Spedition weiterhin stört."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Er beschreibt die einzelne Reklamation.",
+                "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+                "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+                "Er benennt, was ihn an der Spedition weiterhin stört."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Er beschreibt die einzelne Reklamation.",
+                "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+                "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+                "Er benennt, was ihn an der Spedition weiterhin stört."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Er beschreibt die einzelne Reklamation.",
+                "Er erkennt am Muster der letzten Monate ein größeres Problem.",
+                "Er entscheidet sich für volle Rückerstattung und Gutschein.",
+                "Er benennt, was ihn an der Spedition weiterhin stört."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Lieferung kam beschädigt an. Das war unser Fehler.",
+                "Die Lieferung kam zwar beschädigt an, das war aber nicht allein unser Fehler."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir erstatten den vollen Betrag.",
+                "Man könnte den vollen Betrag erstatten."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wegen des beschädigten Pakets bitten wir um Stellungnahme.",
+                "Wegen dem beschädigten Paket bitten wir um Stellungnahme."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Rückerstattung wurde genehmigt, weil die Reklamation berechtigt war und eine Ablehnung die Kundin verloren hätte.",
+                "Die Rückerstattung wurde genehmigt. Die Reklamation war berechtigt. Eine Ablehnung hätte die Kundin gekostet."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Der Kunde hat die Lieferung zunächst in Frage ___, nachdem er drei beschädigte Pakete (2) hatte.",
+              "answer": [
+                "gestellt",
+                "Gestellt"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Der Kunde hat die Lieferung zunächst in Frage (1), nachdem er drei beschädigte Pakete ___ hatte.",
+              "answer": [
+                "erhalten",
+                "Erhalten",
+                "bekommen",
+                "Bekommen"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Reklamation hat gezeigt, dass die (2) des Problems bei der Spedition liegt.",
+              "answer": [
+                "Prüfung",
+                "prüfung",
+                "Auswertung",
+                "auswertung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Reklamation hat gezeigt, dass die ___ des Problems bei der Spedition liegt.",
+              "answer": [
+                "Ursache",
+                "ursache"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Reklamation",
+              "options": [
+                "nehmen",
+                "bearbeiten",
+                "zeigen",
+                "stehen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nKulanz",
+              "options": [
+                "nehmen",
+                "bearbeiten",
+                "zeigen",
+                "stehen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Verfügung",
+              "options": [
+                "nehmen",
+                "bearbeiten",
+                "zeigen",
+                "stehen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nin Anspruch",
+              "options": [
+                "nehmen",
+                "bearbeiten",
+                "zeigen",
+                "stehen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Ich wollte nur kurz sagen, dass der Kunde ziemlich sauer war.",
+                "Ich möchte Sie darüber informieren, dass der Kunde sich deutlich beschwert hat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Lassen Sie mich bitte kurz ausreden — dann ist die Lösung klarer.",
+                "Ich war noch nicht fertig! Hören Sie mir doch mal zu.",
+                "Wenn Sie nicht zuhören wollen, kann ich auch nichts machen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Im Kundenservice. Zwei Kollegen sprechen über eine Reklamation. (1)",
+          "audio": "core2026b_v4_reklamation.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wie hoch ist der Gutschein am Ende?",
+              "options": [
+                "Zwanzig Euro.",
+                "Vierzig Euro.",
+                "Er entfällt ganz."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B die neue Lösung?",
+              "options": [
+                "Sie hält sie für übertrieben.",
+                "Sie hält sie für angemessen.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Frau Bauer muss das beschädigte Paket nicht zurückschicken.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde der Vorschlag von Herrn Weiss noch einmal geändert?",
+              "options": [
+                "Weil es schon Frau Bauers dritte Reklamation dieses Jahr ist.",
+                "Weil das Paket versichert war.",
+                "Weil Frau Bauer sich beim Vorgesetzten beschwert hat."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Im Kundenservice. Zwei Kollegen sprechen über eine Reklamation. (2)",
+          "audio": "core2026b_v4_reklamation.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das … angemessen.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Er hat nur eine Bedingung gestrichen.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung des Autors zur Reklamation entwickelt hat. Nennen Sie auch, was ihn weiterhin stört.",
+              "word_limit": 40,
+              "expected_answer": "Während der Autor anfangs von einem bedauerlichen Einzelfall ausging, sieht er inzwischen ein strukturelles Problem beim Händler. Was ihn jedoch weiterhin stört, ist die unzuverlässige Spedition, die Termine nicht einhält und schlecht kommuniziert."
+            },
+            {
+              "question": "Ihr Kollege sagt: „Den Fall lösen wir wie die letzten Male.“ Sie sind nicht sicher, welchen Fall er meint und ob damit die volle Rückerstattung gemeint ist. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Entschuldigung, könntest du bitte kurz präzisieren, auf welchen konkreten Fall du dich beziehst? Meinst du damit auch die volle Rückerstattung wie beim letzten Mal?"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob Kulanzentscheidungen wie volle Rückerstattungen künftig nur noch von der Führungsebene genehmigt werden dürfen. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die geplante Regelung, Kulanzentscheidungen nur noch auf Führungsebene zu genehmigen, für problematisch. Erstens leidet darunter die Kundenzufriedenheit, weil einfache Anfragen unnötig verzögert werden. Zweitens demotiviert es unsere Servicemitarbeiter, wenn man ihnen jeglichen Entscheidungsspielraum entzieht und sie nicht mehr eigenverantwortlich handeln dürfen. Ein Nachteil meiner Position ist sicherlich das Risiko, dass Kulanz zu großzügig gewährt wird und uneinheitliche Entscheidungen entstehen. Daher schlage ich vor, einen klaren finanziellen Rahmen festzulegen: Bis zu einem Betrag von 50 Euro dürfen die Mitarbeiter selbstständig entscheiden, alles darüber hinaus muss von einer Führungskraft genehmigt werden.\n\nViele Grüße\nLisa Meier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Firmen geben Mitarbeitenden im Kundenservice das Recht, kleinere Reklamationen selbst und sofort zu lösen, statt jeden Fall an eine Führungskraft weiterzugeben. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Meiner Ansicht nach ist es deutlich sinnvoller, wenn Mitarbeitende im Kundenservice kleinere Reklamationen selbst und sofort lösen dürfen. Ich möchte diese Position mit zwei Hauptargumenten begründen. Erstens führt diese Handlungskompetenz zu einer enormen Zeitersparnis und steigert die Effizienz. Wenn ein Kunde mit einem kleinen Problem anruft, möchte er nicht tagelang auf eine Antwort warten, weil der Fall erst durch verschiedene Hierarchieebenen gehen muss. Eine sofortige Lösung, zum Beispiel ein kleiner Preisnachlass oder ein kostenloser Versand, hinterlässt einen viel professionelleren Eindruck. Zweitens wirkt sich diese Verantwortung positiv auf die Motivation der Angestellten aus. Sie fühlen sich ernst genommen und als vertrauenswürdige Experten, was ihre Arbeitszufriedenheit und damit auch die Servicequalität erhöht. Natürlich muss man zugeben, dass die zentrale Kontrolle durch eine Führungskraft ein gewisses Risiko von inkonsistenten Entscheidungen vermeidet. Allerdings überwiegen für mich die Vorteile der direkten Kundenorientierung und Flexibilität, da man für solche Fälle klare interne Richtlinien festlegen kann, um die Einheitlichkeit zu wahren.",
+              "model_answer": "Meiner Ansicht nach ist es deutlich sinnvoller, wenn Mitarbeitende im Kundenservice kleinere Reklamationen selbst und sofort lösen dürfen. Ich möchte diese Position mit zwei Hauptargumenten begründen. Erstens führt diese Handlungskompetenz zu einer enormen Zeitersparnis und steigert die Effizienz. Wenn ein Kunde mit einem kleinen Problem anruft, möchte er nicht tagelang auf eine Antwort warten, weil der Fall erst durch verschiedene Hierarchieebenen gehen muss. Eine sofortige Lösung, zum Beispiel ein kleiner Preisnachlass oder ein kostenloser Versand, hinterlässt einen viel professionelleren Eindruck. Zweitens wirkt sich diese Verantwortung positiv auf die Motivation der Angestellten aus. Sie fühlen sich ernst genommen und als vertrauenswürdige Experten, was ihre Arbeitszufriedenheit und damit auch die Servicequalität erhöht. Natürlich muss man zugeben, dass die zentrale Kontrolle durch eine Führungskraft ein gewisses Risiko von inkonsistenten Entscheidungen vermeidet. Allerdings überwiegen für mich die Vorteile der direkten Kundenorientierung und Flexibilität, da man für solche Fälle klare interne Richtlinien festlegen kann, um die Einheitlichkeit zu wahren.",
+              "expected_answer": "Meiner Ansicht nach ist es deutlich sinnvoller, wenn Mitarbeitende im Kundenservice kleinere Reklamationen selbst und sofort lösen dürfen. Ich möchte diese Position mit zwei Hauptargumenten begründen. Erstens führt diese Handlungskompetenz zu einer enormen Zeitersparnis und steigert die Effizienz. Wenn ein Kunde mit einem kleinen Problem anruft, möchte er nicht tagelang auf eine Antwort warten, weil der Fall erst durch verschiedene Hierarchieebenen gehen muss. Eine sofortige Lösung, zum Beispiel ein kleiner Preisnachlass oder ein kostenloser Versand, hinterlässt einen viel professionelleren Eindruck. Zweitens wirkt sich diese Verantwortung positiv auf die Motivation der Angestellten aus. Sie fühlen sich ernst genommen und als vertrauenswürdige Experten, was ihre Arbeitszufriedenheit und damit auch die Servicequalität erhöht. Natürlich muss man zugeben, dass die zentrale Kontrolle durch eine Führungskraft ein gewisses Risiko von inkonsistenten Entscheidungen vermeidet. Allerdings überwiegen für mich die Vorteile der direkten Kundenorientierung und Flexibilität, da man für solche Fälle klare interne Richtlinien festlegen kann, um die Einheitlichkeit zu wahren."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

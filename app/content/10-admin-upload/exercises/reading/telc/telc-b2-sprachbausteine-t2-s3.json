@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 2 — Wortschatz & Lückentext, Satz 3",
+  "description": "Wählen Sie das passende Wort für jede Lücke.",
+  "difficulty_tag": "Medium",
+  "order_index": 19,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Sprachbausteine Teil 2 — Wortschatz & Lückentext",
+      "passage": "Wählen Sie das passende Wort für jede Lücke.\n\nTermine nur noch online\nBürgerämter suchen den Ausgleich zwischen Digitalisierung und Beratung\n\nViele Bürgerämter vergeben Termine inzwischen nur noch über ein Online-Portal. [1] Wartezeiten kürzer werden, müssen die Anliegen bereits bei der Buchung möglichst genau ausgewählt werden. Wer keine eigene E-Mail-Adresse hat, [2] telefonisch Unterstützung erhalten, allerdings nicht in jeder Gemeinde. Vor allem ältere Menschen oder Zugewanderte sind darauf angewiesen, dass die Hinweise im Portal verständlich formuliert sind.\n\nBei der Buchung sollte man [3] achten, alle notwendigen Unterlagen bereitzuhalten. Ein Termin gilt [4] dann als bestätigt, wenn die Nachricht mit der Terminnummer angekommen ist. Manche Anliegen lassen sich [5] eines Besuchs auch per Post erledigen, etwa einfache Bescheinigungen. [6] sind komplizierte Fälle weiterhin persönlich zu klären. Das betrifft zum Beispiel Fälle, in denen Originaldokumente geprüft oder mehrere Unterschriften abgegeben werden müssen.\n\nWer einen Termin nicht wahrnehmen kann, sollte ihn rechtzeitig absagen. [7] bleibt der Platz blockiert, obwohl andere Personen dringend warten. Die Verwaltung rechnet [8] vielen Nachfragen, weil die neuen Regeln noch ungewohnt sind. Langfristig soll das System den Service [9], [10] Bürgerinnen und Bürger klare Hinweise erhalten und die Portale zuverlässig funktionieren.\n\nDie Umstellung zeigt, dass digitale Verwaltung nicht nur eine technische Frage ist. Sie verändert auch, wie verständlich Abläufe erklärt werden müssen. Ein gutes Portal spart Zeit, aber nur dann, wenn die Sprache klar ist und bei Fehlern schnelle Hilfe angeboten wird. Deshalb testen einige Kommunen ihre Seiten inzwischen mit Bürgergruppen, bevor neue Funktionen freigeschaltet werden. So lassen sich missverständliche Begriffe und unnötige Schritte früh erkennen. Für die Beschäftigten bedeutet das allerdings auch, dass telefonische Rückfragen weiterhin eingeplant werden müssen. Denn ein digitaler Zugang ersetzt nicht automatisch Beratung, wenn Unterlagen fehlen oder Formulare missverstanden werden.",
+      "items": [
+        {
+          "question": "[Satz 3] Lücke 1: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "answer": "K",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 2: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "answer": "L",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 3: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "answer": "M",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 4: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "answer": "N",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 5: Wählen Sie das passende Wort",
+          "options": [
+            "A: wenn",
+            "B: darauf",
+            "C: mit",
+            "D: sofern",
+            "E: Allerdings",
+            "F: würde",
+            "G: erst",
+            "H: kann",
+            "I: damit",
+            "J: statt",
+            "K: Sonst",
+            "L: bei",
+            "M: verbessern",
+            "N: dafür",
+            "O: obwohl"
+          ],
+          "answer": "O",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

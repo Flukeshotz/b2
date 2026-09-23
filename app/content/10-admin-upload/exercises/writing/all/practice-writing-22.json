@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 22 — Widerspruch: Großraumbüros",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Hard",
+  "order_index": 22,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ein Kommentar behauptet: \"Großraumbüros sind für die Produktivität grundsätzlich schädlich.\" Schreiben Sie eine Antwort, in der Sie widersprechen oder die Aussage differenzieren.\n• Räumen Sie ein, was an der Aussage teilweise stimmen könnte.\n• Widersprechen Sie dann mit einem eigenen Argument.\n• Nutzen Sie Konnektoren wie zwar … aber, allerdings.",
+          "word_limit": 110,
+          "expected_answer": "Zwar stimmt es, dass Großraumbüros durch ständige Telefonate oder Gespräche die Konzentration stören können, allerdings greift die pauschale Behauptung, sie seien grundsätzlich schädlich, zu kurz. Gerade in kreativen Berufen oder bei komplexen Projekten ermöglicht die offene Atmosphäre nämlich einen spontanen Austausch, der die Produktivität sogar deutlich steigern kann. Einerseits lassen sich Missverständnisse durch eine kurze direkte Nachfrage sofort klären, andererseits entstehen innovative Ideen oft erst im informellen Gespräch zwischen Kollegen. Meiner Erfahrung nach fördert diese Transparenz zudem den Teamgeist, was sich langfristig positiv auf die Arbeitsergebnisse auswirkt. Entscheidend ist letztlich eine gute Raumgestaltung mit ausreichend Rückzugsorten für ungestörtes Arbeiten."
+        }
+      ]
+    }
+  ]
+}

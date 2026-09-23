@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 3 — Selektives Verstehen (Kurzberichte), Satz 2",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Selektives Verstehen (Kurzberichte)",
+      "audio": "teil3-q6.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Der Vortrag findet später statt, und ein anschließender Programmpunkt wird gekürzt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der Stau auf dem Südring betrifft beide Fahrtrichtungen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Für Kinder unter 14 Jahren ist sowohl der Eintritt als auch der Pendelbus kostenlos.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der Kurs findet im Computerraum statt, wie es im Programmheft steht.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Frühfahrten zur Insel Hohenwerder sollen trotz Wind wie gewohnt starten.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Kurzbericht: Ein Jahr betriebliches Ideenmanagement",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 38,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzbericht: Ein Jahr betriebliches Ideenmanagement",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nVor einem Jahr wurde das betriebliche Ideenmanagement überarbeitet: Statt Vorschläge auf Papier einzureichen, können Mitarbeitende sie seither über eine App einreichen, kommentieren und mit anderen Vorschlägen vergleichen. Der vorliegende Jahresbericht zieht eine erste Bilanz.\n\nDie Zahl der eingereichten Vorschläge stieg von 64 im letzten Jahr des Papierverfahrens auf 211 im ersten App-Jahr — mehr als eine Verdreifachung. Die Umsetzungsquote blieb dabei nahezu konstant bei etwa 18 Prozent, was darauf hindeutet, dass die höhere Zahl nicht auf Kosten der Qualität ging.\n\nEin unerwarteter Nebeneffekt: Durch die Kommentarfunktion entstanden mehrfach Vorschläge, die von mehreren Mitarbeitenden gemeinsam weiterentwickelt wurden, statt wie früher isoliert von Einzelpersonen eingereicht zu werden. Das Ideenmanagement-Team wertet dies als wichtigsten qualitativen Fortschritt, wichtiger sogar als die reine Steigerung der Zahlen.\n\nEin Kritikpunkt aus den Nutzerrückmeldungen betrifft die Rückmeldezeit: Bei abgelehnten Vorschlägen dauerte es im Schnitt sechs Wochen, bis eine Begründung mitgeteilt wurde — deutlich länger, als sich viele Mitarbeitende gewünscht hätten.",
+      "items": [
+        {
+          "question": "Wie veränderte sich die Zahl der eingereichten Vorschläge nach der Umstellung auf die App?",
+          "options": [
+            "Sie blieb konstant bei etwa 64.",
+            "Sie sank leicht auf 48.",
+            "Sie stieg von 64 auf 211 — mehr als eine Verdreifachung."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Umsetzungsquote der Vorschläge sank deutlich, seit mehr Vorschläge eingereicht werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was bewertet das Ideenmanagement-Team als wichtigsten qualitativen Fortschritt?",
+          "options": [
+            "Dass Vorschläge nun oft gemeinsam von mehreren Mitarbeitenden weiterentwickelt werden.",
+            "Dass die App weniger Kosten verursacht als das Papierverfahren.",
+            "Dass die reine Anzahl der Vorschläge gestiegen ist."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Kritikpunkt nennen die Nutzerrückmeldungen?",
+          "options": [
+            "Die lange Rückmeldezeit von durchschnittlich sechs Wochen bei Ablehnung.",
+            "Die App ist technisch zu kompliziert.",
+            "Es gibt zu wenige Kategorien für Vorschläge."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 12 — Alternativvorschlag: Dienstreise",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihre Führungskraft schlägt eine dreitägige Dienstreise vor. Sie halten eine eintägige Videokonferenz für sinnvoller. Schreiben Sie eine kurze Nachricht mit Ihrem Alternativvorschlag und Ihrer Begründung.\n• Erkennen Sie den ursprünglichen Vorschlag kurz an.\n• Machen Sie Ihren Alternativvorschlag konkret.\n• Begründen Sie, warum die Alternative sinnvoller wäre.",
+          "word_limit": 100,
+          "expected_answer": "Liebe Frau Müller,\n\nvielen Dank für Ihren Vorschlag, nächste Woche eine dreitägige Dienstreise nach Hamburg zu unternehmen. Ich verstehe den Wunsch nach einem persönlichen Austausch, würde jedoch gerne eine Alternative vorschlagen.\n\nStatt der Reise halte ich eine eintägige Videokonferenz für sinnvoller. Diese könnten wir am Mittwoch durchführen und so die Agenda kompakt abarbeiten. Dies würde nicht nur erhebliche Reisekosten sparen, sondern auch wertvolle Arbeitszeit, die sonst für die An- und Abreise verloren ginge. Zudem wäre es aus ökologischer Sicht die nachhaltigere Lösung. Ich bin überzeugt, dass wir alle wichtigen Punkte auch digital effizient besprechen können.\n\nÜber eine kurze Rückmeldung würde ich mich freuen.\n\nMit freundlichen Grüßen,\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

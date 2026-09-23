@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Kurzbericht: Auswertung der Fortbildungsumfrage",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 20,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzbericht: Auswertung der Fortbildungsumfrage",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nIm März wurde unter allen Mitarbeitenden eine anonyme Umfrage zum internen Fortbildungsangebot durchgeführt. Die Rücklaufquote lag bei 68 Prozent, was als aussagekräftig gilt.\n\nZentrale Ergebnisse: 72 Prozent der Befragten gaben an, dass sie sich mehr fachspezifische Fortbildungen wünschen, insbesondere im Bereich digitaler Werkzeuge. Nur 31 Prozent nutzten im vergangenen Jahr tatsächlich ein Fortbildungsangebot — als Hauptgrund für die Nichtteilnahme wurde mit 54 Prozent \"zeitliche Überlastung im Arbeitsalltag\" genannt, deutlich vor \"fehlendem Interesse\" mit 9 Prozent.\n\nBemerkenswert ist der Unterschied zwischen Abteilungen: In der Verwaltung nahmen 46 Prozent der Mitarbeitenden mindestens eine Fortbildung wahr, in der Produktion waren es nur 18 Prozent. Ein möglicher Grund liegt in der Schichtplanung, die in der Produktion kaum Spielraum für Fortbildungstage lässt.\n\nDie Personalabteilung empfiehlt auf Basis dieser Ergebnisse, Fortbildungen künftig stärker in die reguläre Arbeitszeit zu integrieren, statt sie als zusätzliches, freiwilliges Angebot außerhalb der Schicht zu behandeln.",
+      "items": [
+        {
+          "question": "Wie hoch war die Rücklaufquote der Umfrage?",
+          "options": [
+            "68 Prozent",
+            "31 Prozent",
+            "72 Prozent"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der häufigste genannte Grund für Nichtteilnahme an Fortbildungen war fehlendes Interesse.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welchen Unterschied zeigt der Bericht zwischen Verwaltung und Produktion?",
+          "options": [
+            "Es gab keinen nennenswerten Unterschied.",
+            "In der Produktion gab es mehr Fortbildungsangebote.",
+            "In der Verwaltung nahmen deutlich mehr Mitarbeitende Fortbildungen wahr."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Erklärung nennt der Bericht für diesen Abteilungsunterschied?",
+          "options": [
+            "Die Schichtplanung lässt in der Produktion kaum Spielraum für Fortbildungstage.",
+            "Es gibt in der Produktion keine passenden Angebote.",
+            "Die Produktion hat generell weniger Interesse an Weiterbildung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was empfiehlt die Personalabteilung als Konsequenz?",
+          "options": [
+            "Das Fortbildungsangebot komplett streichen.",
+            "Fortbildungen stärker in die reguläre Arbeitszeit integrieren.",
+            "Nur noch freiwillige Fortbildungen außerhalb der Schicht anbieten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

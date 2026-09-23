@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 7 — Antonyme & Präzisierung",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 46,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "Gegenteil von \"zuverlässig\":",
+          "options": [
+            "unsicher",
+            "ungenau",
+            "unzuverlässig"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gegenteil von \"ausführlich\" (bei einer Erklärung):",
+          "options": [
+            "unklar",
+            "falsch",
+            "knapp"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Präziser als \"gut\": \"Die Behandlung verlief ___.\"",
+          "options": [
+            "reibungslos",
+            "gut",
+            "okay"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gegenteil von \"vertraulich\" (bei Informationen):",
+          "options": [
+            "wichtig",
+            "öffentlich",
+            "geheim"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Präziser als \"schlecht\": \"Die Kommunikation im Team war ___.\"",
+          "options": [
+            "nicht so gut",
+            "mangelhaft",
+            "schlecht"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gegenteil von \"eindeutig\" (bei einer Anweisung):",
+          "options": [
+            "kurz",
+            "höflich",
+            "missverständlich"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Präziser als \"viel Arbeit\": \"Die Station hatte ___ zu bewältigen.\"",
+          "options": [
+            "viel Arbeit",
+            "ein hohes Arbeitsaufkommen",
+            "'ne Menge Kram"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gegenteil von \"nachvollziehbar\" (bei einer Entscheidung):",
+          "options": [
+            "unwichtig",
+            "unhöflich",
+            "unverständlich"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Präziser als \"schnell\": \"Die Reaktion des Teams war ___.\"",
+          "options": [
+            "schnell",
+            "ziemlich fix",
+            "prompt"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gegenteil von \"freiwillig\":",
+          "options": [
+            "spontan",
+            "unfreiwillig gemeint als selten genutzt",
+            "verpflichtend"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Präziser als \"viele Leute\": \"An der Schulung nahmen ___ teil.\"",
+          "options": [
+            "viele Leute",
+            "'ne ganze Menge Leute",
+            "zahlreiche Mitarbeitende"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

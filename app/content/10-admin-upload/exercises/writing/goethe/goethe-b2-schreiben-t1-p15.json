@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #15",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu Lärm im Wohnviertel.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu Lärm im Wohnviertel.\n• Äußern Sie Ihre Meinung zum Umgang mit Lärm im Wohnviertel.\n• Nennen Sie Gründe, warum es in Wohnvierteln häufig zu Lärmkonflikten kommt.\n• Nennen Sie Möglichkeiten, solche Konflikte fair zu lösen.\n• Nennen Sie Vorteile eines rücksichtsvollen Umgangs miteinander.",
+          "word_limit": 180,
+          "expected_answer": "Liebe Forumsmitglieder,\n\nzum Thema Lärm im Wohnviertel möchte ich gerne meine Gedanken teilen, denn ich bin der festen Überzeugung, dass ein respektvoller Umgang die Lebensqualität aller enorm steigert. Meiner Ansicht nach ist Lärm zwar bis zu einem gewissen Grad normal, jedoch sollte jeder versuchen, unnötigen Krach zu vermeiden.\n\nDass es in Wohnvierteln so häufig zu Konflikten kommt, liegt meiner Erfahrung nach vor allem an unterschiedlichen Lebensrhythmen. Während die einen früh aufstehen müssen, feiern die anderen gerne am Wochenende länger. Ein weiterer Grund ist hellhörige Bausubstanz, die selbst Alltagsgeräusche wie Schritte oder Gespräche unangenehm verstärkt. Zudem mangelt es manchmal schlicht an Kommunikation; viele wissen gar nicht, wie sehr sie ihre Nachbarn stören.\n\nUm solche Konflikte fair zu lösen, ist ein offenes, freundliches Gespräch der erste und wichtigste Schritt. Eine weitere Möglichkeit wäre, gemeinsam feste Ruhezeiten zu vereinbaren, die über die gesetzlichen Regelungen hinausgehen. Auch ein schwarzes Brett im Hausflur, an dem man zum Beispiel eine anstehende Feier ankündigt, kann Wunder wirken und zeigt Rücksichtnahme.\n\nDie Vorteile eines rücksichtsvollen Miteinanders sind offensichtlich: Ein harmonisches Wohnumfeld reduziert Stress und fördert das Wohlbefinden. Wenn man sich gegenseitig zuhört und Kompromisse findet, entsteht eine starke Nachbarschaft, in der man sich aufeinander verlassen kann. Daher appelliere ich an alle: Lasst uns mit mehr Verständnis und Rücksicht miteinander umgehen, denn davon profitieren wir alle.\n\nViele Grüße\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

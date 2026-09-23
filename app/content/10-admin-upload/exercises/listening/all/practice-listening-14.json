@@ -1,0 +1,68 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Kurzvortrag: Einführung eines neuen Projekttools",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Hard",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzvortrag: Einführung eines neuen Projekttools",
+      "audio": "practice_listening_14_neues_tool.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was ist der Hauptgrund für den Wechsel zum neuen Tool?",
+          "options": [
+            "Das alte Tool wird nicht mehr unterstützt.",
+            "Das alte Tool war zu teuer.",
+            "Das alte Tool erlaubte keine automatischen Erinnerungen bei überfälligen Aufgaben."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wann schickt das neue Tool eine Benachrichtigung?",
+          "options": [
+            "Zwei Tage vor Fälligkeit, wenn die Aufgabe noch offen ist.",
+            "Jeden Morgen automatisch für alle Aufgaben.",
+            "Erst nach Ablauf der Frist."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte der Einführung in die richtige Reihenfolge.\nWas steht an Stelle 1?",
+          "options": [
+            "Nur die Teamleitungen testen das System.",
+            "Schulung für das gesamte Team.",
+            "Vollständige Arbeit im neuen Tool."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte der Einführung in die richtige Reihenfolge.\nWas steht an Stelle 2?",
+          "options": [
+            "Nur die Teamleitungen testen das System.",
+            "Schulung für das gesamte Team.",
+            "Vollständige Arbeit im neuen Tool."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte der Einführung in die richtige Reihenfolge.\nWas steht an Stelle 3?",
+          "options": [
+            "Nur die Teamleitungen testen das System.",
+            "Schulung für das gesamte Team.",
+            "Vollständige Arbeit im neuen Tool."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

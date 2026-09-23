@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen), Satz 1",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen)",
+      "audio": "teil1-q1.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Die Stadt öffnet ab sofort alle Bibliotheken auch sonntags.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Zwischen Falkenried und Nordheim ersetzen abends Busse die Regionalzüge.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Verbraucherzentrale erhält derzeit deutlich mehr Anfragen zu Heizkostenabrechnungen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Das Gesundheitsmobil soll künftig mehr Gemeinden anfahren als bisher.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Bei dem Zwischenfall in einem Reinigungsbetrieb wurden mehrere Beschäftigte schwer verletzt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

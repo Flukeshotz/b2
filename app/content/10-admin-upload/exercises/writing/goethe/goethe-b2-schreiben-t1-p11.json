@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #11",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 13,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu kostenlosem öffentlichem Nahverkehr.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu kostenlosem öffentlichem Nahverkehr.\n• Äußern Sie Ihre Meinung zu kostenlosem öffentlichem Nahverkehr.\n• Nennen Sie Gründe, warum diese Idee in vielen Städten diskutiert wird.\n• Nennen Sie Schwierigkeiten bei der Umsetzung.\n• Nennen Sie Vorteile, wenn der Nahverkehr attraktiver gemacht wird.",
+          "word_limit": 180,
+          "expected_answer": "Liebe Forumsmitglieder,\n\nzum Thema kostenloser öffentlicher Nahverkehr möchte ich heute meine Gedanken teilen. Ich persönlich stehe dieser Idee zwiegespalten gegenüber, denn so verlockend sie auf den ersten Blick klingt, so komplex ist die Umsetzung.\n\nDass diese Idee in vielen Städten diskutiert wird, hat meiner Meinung nach zwei Hauptgründe. Einerseits ist der Kampf gegen den Klimawandel dringender denn je, und ein attraktiver Nahverkehr könnte viele Menschen zum Umstieg vom Auto bewegen. Andererseits leiden zahlreiche Innenstädte unter Verkehrsinfarkt und Luftverschmutzung, sodass man nach radikalen Lösungen sucht, um die Lebensqualität zu verbessern.\n\nAllerdings sehe ich erhebliche Schwierigkeiten bei der Umsetzung. Die zentrale Frage ist die Finanzierung: Woher soll das Geld kommen, wenn Ticketeinnahmen wegfallen? Die Steuerzahler müssten vermutlich dafür aufkommen, was sozial ungerecht sein kann. Zudem wären die Verkehrsbetriebe in Stoßzeiten völlig überlastet, wenn die Nachfrage sprunghaft anstiege, ohne dass die Kapazitäten entsprechend ausgebaut würden.\n\nUnabhängig von der Kostenfrage ist es entscheidend, den Nahverkehr generell attraktiver zu machen. Ein engmaschigeres Netz, häufigere Fahrten und moderne, saubere Fahrzeuge wären enorme Vorteile. Wenn Busse und Bahnen auch in ländliche Regionen fahren und man sich sicher und komfortabel fühlt, würden viele freiwillig umsteigen. Das wäre meines Erachtens nachhaltiger als ein rein kostenloses, aber möglicherweise überfülltes und vernachlässigtes System.\n\nAbschließend bin ich überzeugt, dass nicht der Preis allein, sondern vor allem die Qualität und Verlässlichkeit des Angebots den Ausschlag geben.\n\nViele Grüße\nMarie"
+        }
+      ]
+    }
+  ]
+}

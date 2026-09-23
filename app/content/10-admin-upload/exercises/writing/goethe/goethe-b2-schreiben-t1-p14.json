@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #14",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu Reparaturcafés.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu Reparaturcafés.\n• Äußern Sie Ihre Meinung zu Reparaturcafés.\n• Nennen Sie Gründe, warum viele Dinge heute schnell weggeworfen werden.\n• Nennen Sie andere Möglichkeiten, defekte Gegenstände länger zu nutzen.\n• Nennen Sie Vorteile dieser Möglichkeiten.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nich finde das Konzept der Reparaturcafés einfach großartig! Meiner Ansicht nach sind sie eine perfekte Möglichkeit, um sowohl der Wegwerfmentalität entgegenzuwirken als auch Menschen zusammenzubringen. Ich bin fest davon überzeugt, dass wir viel zu viele Dinge vorschnell entsorgen.\n\nEin wesentlicher Grund dafür ist sicherlich, dass viele Produkte heute so billig sind, dass eine professionelle Reparatur oft teurer wäre als ein Neukauf. Hinzu kommt, dass Geräte von den Herstellern häufig so konstruiert werden, dass man sie kaum selbst öffnen oder reparieren kann, zum Beispiel durch verklebte Gehäuse. Nicht zuletzt spielt auch der Zeitgeist eine Rolle, der uns durch ständige Werbung suggeriert, wir bräuchten immer das neueste Modell.\n\nNeben Reparaturcafés gibt es jedoch noch andere tolle Wege, die Lebensdauer unserer Sachen zu verlängern. Eine Möglichkeit sind Online-Plattformen, auf denen man Schritt-für-Schritt-Anleitungen für Reparaturen findet. Alternativ dazu kann man defekte Elektrogeräte an spezialisierte Second-Hand-Kaufhäuser spenden, die sie von Fachkräften instand setzen lassen und günstig weiterverkaufen.\n\nDer größte Vorteil dieser Alternativen liegt auf der Hand: Man schont nicht nur den eigenen Geldbeutel, sondern auch wertvolle Ressourcen und vermeidet unnötigen Elektroschrott. Darüber hinaus stärkt das gemeinsame Reparieren im Café oder der Austausch in Online-Communitys den sozialen Zusammenhalt und macht einfach Spaß. Ich kann nur jedem empfehlen, beim nächsten Mal, wenn etwas kaputtgeht, zuerst an eine Reparatur zu denken, anstatt es wegzuwerfen.\n\nViele Grüße\nMarie"
+        }
+      ]
+    }
+  ]
+}

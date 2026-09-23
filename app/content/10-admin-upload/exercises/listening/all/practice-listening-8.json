@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Geschwister uneinig über das geerbte Haus",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Geschwister uneinig über das geerbte Haus",
+      "audio": "practice_listening_8_erbschaft.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was schlägt die Schwester zu Beginn vor?",
+          "options": [
+            "Das Haus verkaufen.",
+            "Das Haus selbst bewohnen.",
+            "Das Haus sofort renovieren."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Gegenvorschlag macht der Bruder zuerst?",
+          "options": [
+            "Das Haus vermieten statt verkaufen.",
+            "Das Haus an einen Nachbarn verschenken.",
+            "Das Haus sofort abreißen lassen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Bruder räumt ein, dass das Argument der Schwester zum Verwaltungsaufwand berechtigt ist.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Worauf einigen sich die Geschwister am Ende des Gesprächs?",
+          "options": [
+            "Das Thema komplett zu vertagen.",
+            "Das Haus sofort zu verkaufen.",
+            "Angebote von Hausverwaltungen einzuholen, bevor sie entscheiden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

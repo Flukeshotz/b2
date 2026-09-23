@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Interview: Vom Büro auf die Baustelle",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Interview: Vom Büro auf die Baustelle",
+      "audio": "practice_listening_17_quereinstieg.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Warum hat Herr Kowalski seinen Bürojob aufgegeben?",
+          "options": [
+            "Er wurde entlassen.",
+            "Der Lohn im Büro war zu niedrig.",
+            "Er wollte etwas sichtbar Geschaffenes hinterlassen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Herr Kowalski verdiente während der Ausbildung mehr als vorher im Büro.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wie konnte Herr Kowalski die finanziell schwierigere Zeit überbrücken?",
+          "options": [
+            "Mit zuvor angesparten Rücklagen.",
+            "Mit einem zusätzlichen Nebenjob.",
+            "Mit einem Kredit der Bank."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Rat gibt Herr Kowalski jüngeren Kollegen?",
+          "options": [
+            "Vorher genau prüfen, ob die Ersparnisse für die Ausbildungszeit reichen.",
+            "Immer ohne finanzielle Planung zu starten.",
+            "Auf keinen Fall den Beruf zu wechseln."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

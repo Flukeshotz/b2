@@ -1,0 +1,58 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Kurzvortrag: Ergebnisse eines Pilotprojekts",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 29,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzvortrag: Ergebnisse eines Pilotprojekts",
+      "audio": "practice_listening_29_pilotprojekt.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was war das Ziel des Pilotprojekts?",
+          "options": [
+            "Ein neues Bürogebäude zu planen.",
+            "Die Anzahl der Mitarbeitenden zu reduzieren.",
+            "Die Bearbeitungszeit von Anträgen durch eine neue App zu verkürzen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie veränderte sich die durchschnittliche Bearbeitungszeit?",
+          "options": [
+            "Sie stieg von vier auf neun Tage.",
+            "Sie blieb unverändert bei neun Tagen.",
+            "Sie sank von neun auf vier Tage."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welcher negative Nebeneffekt trat auf?",
+          "options": [
+            "Die Kosten stiegen stark an.",
+            "Die App stürzte häufig ab.",
+            "Mehr Rückfragen, weil die App weniger Kontextinformationen zeigt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was schlägt die Projektleiterin als nächsten Schritt vor?",
+          "options": [
+            "Zur alten Methode zurückkehren.",
+            "Die App einführen und ein zusätzliches Informationsfeld ergänzen.",
+            "Das Projekt komplett stoppen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

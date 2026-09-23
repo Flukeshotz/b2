@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 17 — Forumsbeitrag: Homeoffice und Teamgeist",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "In einem Forum wird gefragt: \"Schadet Homeoffice dem Teamgeist?\" Schreiben Sie einen Beitrag mit Ihrer eigenen Position und mindestens einem Beispiel aus der Praxis.\n• Nennen Sie Ihre Position klar.\n• Stützen Sie sie mit einem konkreten Beispiel.\n• Nutzen Sie Beispielwörter wie zum Beispiel, etwa.",
+          "word_limit": 110,
+          "expected_answer": "Meiner Meinung nach schadet Homeoffice dem Teamgeist nicht zwangsläufig, sondern verändert ihn lediglich. Entscheidend ist, wie das Team die Kommunikation gestaltet. In meiner eigenen Firma haben wir zum Beispiel einen virtuellen Kaffeeraum eingerichtet. Jeden Morgen treffen sich dort einige Kollegen für etwa 15 Minuten zum informellen Plausch, ganz ohne berufliche Themen. Anfangs war ich skeptisch, doch diese kleine Routine hat das Wir-Gefühl enorm gestärkt. Zwar fehlt der spontane Austausch am Schreibtisch, aber durch solche bewussten Rituale entsteht eine neue, vielleicht sogar intensivere Verbindung. Ich bin überzeugt, dass Teamgeist nicht an einen Ort gebunden ist, sondern von gemeinsamen Werten und regelmäßiger, echter Interaktion lebt – egal ob digital oder vor Ort."
+        }
+      ]
+    }
+  ]
+}

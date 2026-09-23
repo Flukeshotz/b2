@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Rat: Wohnung kündigen wegen Schimmel",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Rat: Wohnung kündigen wegen Schimmel",
+      "audio": "practice_listening_9_wohnungskuendigung.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was ist das Problem der Anruferin?",
+          "options": [
+            "Ein Nachbarschaftsstreit wegen Lärm.",
+            "Zu hohe Miete.",
+            "Schimmel im Badezimmer, auf den der Vermieter nicht reagiert."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was rät die Beraterin als ersten konkreten Schritt?",
+          "options": [
+            "Ein eingeschriebenes Schreiben mit einer Frist von zwei Wochen senden.",
+            "Sofort fristlos kündigen.",
+            "Die Miete komplett einstellen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Beraterin hält eine sofortige fristlose Kündigung für die beste erste Option.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Unter welcher Bedingung hält die Beraterin eine fristlose Kündigung für möglich?",
+          "options": [
+            "Sofort, ohne weitere Schritte.",
+            "Nur nach einem Gerichtsurteil.",
+            "Wenn der Vermieter auch nach Ablauf der gesetzten Frist nicht reagiert."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

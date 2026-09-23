@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 24 — E-Mail: Terminabsprache mit einem Lieferanten",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 24,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Schreiben Sie eine E-Mail an einen Lieferanten, um einen Termin für eine Lieferung zu vereinbaren, die sich mit Ihrem aktuellen Zeitplan überschneidet.\n• Erklären Sie kurz die Terminüberschneidung.\n• Schlagen Sie konkret einen alternativen Termin vor.\n• Bitten Sie um Bestätigung.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Terminänderung für Lieferung am 15.06.\n\nSehr geehrte Damen und Herren,\n\nleider überschneidet sich der vereinbarte Liefertermin am 15.06. um 10:00 Uhr mit einer dringenden internen Veranstaltung, sodass wir die Ware zu diesem Zeitpunkt nicht annehmen können.\n\nWäre es möglich, die Lieferung auf den 16.06. um 14:00 Uhr zu verschieben? Dieser Termin würde deutlich besser in unseren Zeitplan passen und wir könnten die Annahme reibungslos gewährleisten.\n\nIch wäre Ihnen dankbar, wenn Sie mir den Alternativtermin kurz bestätigen könnten. Für Rückfragen stehe ich Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

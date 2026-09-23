@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Interview: Alltag einer Physiotherapeutin",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Interview: Alltag einer Physiotherapeutin",
+      "audio": "practice_listening_4_physiotherapeutin.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was, laut Frau Adler, denken viele Menschen fälschlicherweise über ihren Beruf?",
+          "options": [
+            "Dass der Beruf keine Ausbildung erfordert.",
+            "Dass Physiotherapie sehr gut bezahlt wird.",
+            "Dass es nur um ein bisschen Massage geht."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was nennt Frau Adler als größte Herausforderung?",
+          "options": [
+            "Die körperliche Anstrengung.",
+            "Zu wenige Patienten.",
+            "Die knappe Zeit pro Patient."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Frau Adler bräuchte pro Patient eigentlich mehr Zeit, als der Terminkalender zulässt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Woran macht Frau Adler ihre Zufriedenheit mit dem Beruf fest?",
+          "options": [
+            "An der Zusammenarbeit mit Ärzten.",
+            "An den guten Arbeitszeiten.",
+            "Am sichtbaren Erfolg, wenn ein Patient wieder schmerzfrei ist."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

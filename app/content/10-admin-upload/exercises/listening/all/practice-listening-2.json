@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Anrufbeantworter: Terminabsage",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Anrufbeantworter: Terminabsage",
+      "audio": "practice_listening_2_terminabsage.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Warum ruft Herr Brandt an?",
+          "options": [
+            "Er muss den vereinbarten Termin verschieben.",
+            "Er bestätigt den Termin wie geplant.",
+            "Er storniert den Auftrag komplett."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum kann Herr Brandt den ursprünglichen Termin nicht einhalten?",
+          "options": [
+            "Weil er das Material nicht rechtzeitig bekommen hat.",
+            "Wegen eines eigenen Krankheitsfalls.",
+            "Wegen eines Wasserschadens auf einer anderen Baustelle."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Herr Brandt schlägt vor, stattdessen übermorgen um 14 Uhr vorbeizukommen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was soll die angerufene Person tun, falls der neue Termin nicht passt?",
+          "options": [
+            "Einfach nichts unternehmen.",
+            "Herrn Brandt zurückrufen.",
+            "Eine E-Mail an die Firma schreiben."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

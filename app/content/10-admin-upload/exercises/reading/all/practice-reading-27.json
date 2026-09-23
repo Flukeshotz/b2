@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Künstliche Intelligenz am Arbeitsplatz: Werkzeug oder Bedrohung?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Hard",
+  "order_index": 36,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Künstliche Intelligenz am Arbeitsplatz: Werkzeug oder Bedrohung?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nKaum ein Thema wird in Belegschaften derzeit so kontrovers diskutiert wie der Einsatz von KI-gestützten Werkzeugen im Arbeitsalltag. Die einen sehen darin eine Entlastung von Routineaufgaben, die anderen fürchten um ihre Stellen.\n\nEine Befragung aus dem letzten Jahr liefert ein differenziertes Bild: 58 Prozent der befragten Angestellten gaben an, KI-Werkzeuge würden ihnen bei repetitiven Aufgaben wie Terminplanung oder Standardkorrespondenz spürbar Zeit sparen. Gleichzeitig äußerten 41 Prozent Sorge, dass genau diese eingesparte Zeit langfristig zu Stellenabbau führen könnte, statt den Mitarbeitenden zugutezukommen.\n\nBemerkenswert ist, dass beide Sorgen nicht zwangsläufig im Widerspruch stehen — es handelt sich weniger um eine Frage von \"richtig\" oder \"falsch\", sondern darum, WIE ein Unternehmen die freiwerdende Zeit tatsächlich nutzt. In Unternehmen, die die Zeitersparnis nachweislich in neue, anspruchsvollere Aufgabenfelder investierten, war die Zustimmung zu KI-Werkzeugen signifikant höher als in Unternehmen, die parallel Stellen abbauten.\n\nDie Schlussfolgerung liegt nahe: Nicht die Technologie selbst entscheidet über Akzeptanz, sondern die Art, wie ein Unternehmen mit den dadurch entstehenden Freiräumen umgeht.",
+      "items": [
+        {
+          "question": "Was gaben 58 Prozent der Befragten laut Text an?",
+          "options": [
+            "Dass sie KI-Werkzeuge grundsätzlich ablehnen.",
+            "Dass ihr Gehalt durch KI gesunken ist.",
+            "Dass KI-Werkzeuge ihnen bei repetitiven Aufgaben Zeit sparen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Text stehen die beiden genannten Haltungen (Zeitersparnis und Sorge um Stellenabbau) zwangsläufig im Widerspruch zueinander.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "In welchen Unternehmen war laut Text die Zustimmung zu KI-Werkzeugen höher?",
+          "options": [
+            "In Unternehmen ohne jede KI-Nutzung.",
+            "In Unternehmen, die die Zeitersparnis in neue Aufgabenfelder investierten.",
+            "In Unternehmen, die gleichzeitig Stellen abbauten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche zentrale Schlussfolgerung zieht der Text?",
+          "options": [
+            "Nicht die Technologie selbst, sondern der Umgang mit den entstehenden Freiräumen entscheidet über Akzeptanz.",
+            "Nur die Menge der eingesetzten KI-Werkzeuge ist entscheidend.",
+            "KI-Werkzeuge sollten in allen Unternehmen sofort verboten werden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

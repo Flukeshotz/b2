@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Radiobeitrag: Neues Fahrradverleihsystem",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Radiobeitrag: Neues Fahrradverleihsystem",
+      "audio": "practice_listening_5_fahrradverleih.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was ist das zentrale Thema des Radiobeitrags?",
+          "options": [
+            "Ein neues Fahrradverleihsystem in der Innenstadt.",
+            "Eine Preiserhöhung für den öffentlichen Nahverkehr.",
+            "Ein Verbot von Fahrrädern in der Altstadt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In der ersten Woche wurden weniger Fahrten gezählt, als die Stadtverwaltung erwartet hatte.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was kritisieren Anwohner der Altstadt?",
+          "options": [
+            "Dass die App zu kompliziert ist.",
+            "Dass Stationen den Gehweg für Rollstühle und Kinderwagen blockieren.",
+            "Dass es zu wenige Fahrräder gibt."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie reagiert die Stadt auf die Kritik?",
+          "options": [
+            "Sie ignoriert die Kritik vollständig.",
+            "Sie kündigt an, drei Stationen zu verlegen.",
+            "Sie schafft das ganze System wieder ab."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

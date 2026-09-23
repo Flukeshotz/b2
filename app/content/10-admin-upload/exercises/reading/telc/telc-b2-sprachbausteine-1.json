@@ -1,0 +1,77 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Sprachbausteine, Übungsset 1",
+  "description": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).",
+  "difficulty_tag": "Hard",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Weiterbildung im Berufsalltag",
+      "passage": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).\n\nViele Beschäftigte wünschen sich mehr Weiterbildung, (1) ___ ihnen dafür oft die Zeit fehlt. Der Arbeitgeber müsste solche Angebote nicht nur ermöglichen, (2) ___ auch aktiv fördern. (3) ___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden. Wichtig ist, dass die Weiterbildung tatsächlich (4) ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist. Nur so lässt sich verhindern, dass die (5) ___ Zeit ohne echten Nutzen bleibt. Am Ende profitieren (6) ___ das Unternehmen als auch die Beschäftigten selbst davon.",
+      "items": [
+        {
+          "question": "Lücke 1: \"…mehr Weiterbildung, ___ ihnen dafür oft die Zeit fehlt.\"",
+          "options": [
+            "obwohl",
+            "weil",
+            "damit"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lücke 2: \"…nicht nur ermöglichen, ___ auch aktiv fördern.\"",
+          "options": [
+            "sondern",
+            "aber",
+            "oder"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lücke 3: \"___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden.\"",
+          "options": [
+            "Anstelle",
+            "Trotz",
+            "Während"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lücke 4: \"…dass die Weiterbildung tatsächlich ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist.\"",
+          "options": [
+            "auf",
+            "für",
+            "mit"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lücke 5: \"…dass die ___ Zeit ohne echten Nutzen bleibt.\"",
+          "options": [
+            "investierte",
+            "investierende",
+            "investiert"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lücke 6: \"Am Ende profitieren ___ das Unternehmen als auch die Beschäftigten selbst davon.\"",
+          "options": [
+            "sowohl",
+            "weder",
+            "entweder"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

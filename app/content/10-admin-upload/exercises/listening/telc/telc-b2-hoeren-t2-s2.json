@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 2 — Detailverstehen (Interview / Gespräch), Satz 2",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 2 — Detailverstehen (Interview / Gespräch)",
+      "audio": "teil2-set2.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Herr Weber musste seine frühere Arbeit aufgeben, weil seine Firma geschlossen wurde.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Idee zu den Orientierungstouren entstand während Spaziergängen in seiner Reha-Zeit.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Herr Weber schließt Touristen nicht aus, richtet seine Touren aber vor allem an neue Einwohnerinnen und Einwohner.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Zur ersten Tour kamen deutlich weniger Menschen, als Herr Weber erwartet hatte.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Herr Weber änderte die erste Route, weil die Teilnehmenden praktische Alltagsfragen stellten.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

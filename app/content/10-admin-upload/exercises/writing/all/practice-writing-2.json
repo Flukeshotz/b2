@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 2 — Vergleichen und abwägen",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Manche Kliniken bieten flexible Arbeitszeiten an, andere feste Schichtpläne. Vergleichen Sie kurz die Vor- und Nachteile beider Modelle und sagen Sie, welches Sie persönlich bevorzugen würden.\n• Nennen Sie je einen Vorteil und einen Nachteil pro Modell.\n• Nutzen Sie Vergleichskonnektoren (einerseits … andererseits, im Gegensatz dazu).\n• Formulieren Sie am Ende Ihre eigene Präferenz.",
+          "word_limit": 110,
+          "expected_answer": "In vielen Kliniken gibt es unterschiedliche Arbeitszeitmodelle, die jeweils Vor- und Nachteile haben. Einerseits bieten flexible Arbeitszeiten den großen Vorteil, dass man Beruf und Privatleben besser vereinbaren kann, besonders wenn man Kinder betreuen muss. Andererseits kann diese Flexibilität dazu führen, dass die Arbeitszeiten unregelmäßig sind und man oft kurzfristig einspringen muss, was die Planbarkeit des Alltags erschwert. Im Gegensatz dazu ermöglichen feste Schichtpläne eine klare Struktur und langfristige Planung, was für viele Menschen weniger Stress bedeutet. Allerdings sind feste Schichten oft starr und lassen kaum Raum für persönliche Termine oder familiäre Verpflichtungen. Ich persönlich würde flexible Arbeitszeiten bevorzugen, weil mir die Freiheit, meine Arbeit selbst zu organisieren, wichtiger ist als ein strikter Rhythmus."
+        }
+      ]
+    }
+  ]
+}

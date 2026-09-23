@@ -1,0 +1,137 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 1 — gemischte B2-Strukturen",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Hard",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "Wenn ich mehr Zeit ___, würde ich einen Deutschkurs am Abend machen.",
+          "options": [
+            "habe",
+            "haben würde",
+            "hätte"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Verordnung ___ gestern von der Ärztin unterschrieben.",
+          "options": [
+            "hat",
+            "ist",
+            "wurde"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Das ist die Kollegin, ___ Schicht heute um sechs beginnt.",
+          "options": [
+            "die",
+            "der",
+            "deren"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ der langen Wartezeit hat sich der Patient nicht beschwert.",
+          "options": [
+            "Trotz",
+            "Obwohl",
+            "Wegen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie arbeitet seit drei Jahren als Pflegefachkraft, ___ sie ihre Ausbildung abgeschlossen hat.",
+          "options": [
+            "nachdem",
+            "während",
+            "bevor"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Bericht muss ___ werden, bevor die Schicht endet.",
+          "options": [
+            "fertig schreibt",
+            "fertigschreiben",
+            "fertiggeschrieben"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er hat sich um die Stelle beworben, ___ mehr Verantwortung zu übernehmen.",
+          "options": [
+            "damit",
+            "um",
+            "für"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die neu ___ Leitlinie gilt ab sofort auf allen Stationen.",
+          "options": [
+            "eingeführte",
+            "einführende",
+            "eingeführt"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Anzahl der Überstunden hängt stark ___ der Personalsituation ab.",
+          "options": [
+            "von",
+            "mit",
+            "an"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Pflegedienstleitung sagte, sie ___ den Dienstplan bis Freitag fertig.",
+          "options": [
+            "hätte gehabt",
+            "hat",
+            "habe"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ man die Medikamentenliste prüft, sollte man die Allergien des Patienten kennen.",
+          "options": [
+            "Nachdem",
+            "Bevor",
+            "Seitdem"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Trotz ___ Personalmangels konnte die Station den Dienstplan einhalten.",
+          "options": [
+            "des",
+            "dem",
+            "der"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

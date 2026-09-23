@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 2 — Passiv, Zustandspassiv, Futur",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Hard",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "Die Tür ___ schon geschlossen, als ich ankam.",
+          "options": [
+            "ist",
+            "war",
+            "wurde"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die neuen Vorschriften ___ ab nächstem Monat angewendet.",
+          "options": [
+            "sind",
+            "werden",
+            "haben"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er ___ gestern zum Dienst kommen, hat aber verschlafen.",
+          "options": [
+            "soll",
+            "hat gesollt",
+            "sollte"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bis zum Abend ___ der Bericht fertig geschrieben sein.",
+          "options": [
+            "wird",
+            "hat",
+            "war"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Akte ___ bereits archiviert, als die Anfrage kam.",
+          "options": [
+            "wurde",
+            "war",
+            "sei"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Früher ___ Patientenakten noch handschriftlich geführt.",
+          "options": [
+            "sind",
+            "waren",
+            "wurden"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ich ___ die Fortbildung besuchen können, aber der Termin kollidierte mit meiner Schicht.",
+          "options": [
+            "habe",
+            "hätte",
+            "würde"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Verband ___ täglich gewechselt, solange die Wunde nicht verheilt ist.",
+          "options": [
+            "muss",
+            "hat gemusst",
+            "soll haben"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Als ich ankam, ___ das Zimmer schon aufgeräumt.",
+          "options": [
+            "wurde",
+            "hatte",
+            "war"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In Zukunft ___ die Übergabe digital dokumentiert.",
+          "options": [
+            "wird",
+            "hat",
+            "war"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er ___ pünktlich kommen wollen, wurde aber im Stau aufgehalten.",
+          "options": [
+            "würde",
+            "hätte",
+            "hat"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

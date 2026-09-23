@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #14",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 31,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nDu bereitest mit deinem Kollegen Jonas eine kurze Schulung für neue Mitarbeitende vor. Jonas hat dir gestern Material geschickt, aber du kannst die Datei nicht öffnen. Schreib eine Nachricht an Jonas.",
+      "items": [
+        {
+          "question": "Du bereitest mit deinem Kollegen Jonas eine kurze Schulung für neue Mitarbeitende vor. Jonas hat dir gestern Material geschickt, aber du kannst die Datei nicht öffnen. Schreib eine Nachricht an Jonas.\n• Erkläre das technische Problem.\n• Bitte um eine andere Datei-Version.\n• Bedanke dich für seine Vorbereitung.\n• Sage, was du bis dahin weiterbearbeiten kannst.",
+          "word_limit": 120,
+          "expected_answer": "Hallo Jonas,\n\nvielen Dank, dass du mir gestern das Material für unsere Schulung geschickt hast. Leider kann ich die Datei nicht öffnen. Mein Computer zeigt eine Fehlermeldung an, dass das Format nicht unterstützt wird. Es handelt sich wohl um eine sehr neue Version, die mit meinem Programm nicht kompatibel ist.\n\nKönntest du mir die Unterlagen bitte als PDF oder in einer älteren Word-Version zusenden? Das wäre wirklich eine große Hilfe.\n\nIch möchte mich an dieser Stelle noch einmal herzlich für deine gründliche Vorbereitung bedanken – die Inhalte sehen auf den ersten Blick wirklich vielversprechend aus. Während ich auf die neue Datei warte, werde ich schon einmal die Agenda finalisieren und die allgemeinen Unternehmensrichtlinien für die Präsentation zusammenstellen. So verlieren wir keine Zeit.\n\nViele Grüße\n[Dein Name]"
+        }
+      ]
+    }
+  ]
+}

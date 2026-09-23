@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #6",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 23,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie studieren an einer Hochschule. Bei der Anmeldung zu einem Seminar wurde Ihr Name versehentlich nicht auf die Teilnehmerliste gesetzt. Schreiben Sie eine Nachricht an den Studienkoordinator, Herrn Lehmann.",
+      "items": [
+        {
+          "question": "Sie studieren an einer Hochschule. Bei der Anmeldung zu einem Seminar wurde Ihr Name versehentlich nicht auf die Teilnehmerliste gesetzt. Schreiben Sie eine Nachricht an den Studienkoordinator, Herrn Lehmann.\n• Bieten Sie an, Nachweise zu schicken.\n• Nennen Sie, warum das Seminar für Sie wichtig ist.\n• Erklären Sie das Problem.\n• Bitten Sie um Korrektur der Anmeldung.",
+          "word_limit": 120,
+          "expected_answer": "Sehr geehrter Herr Lehmann,\n\nich wende mich an Sie, da mein Name bei der Anmeldung zum Seminar „Einführung in die Betriebswirtschaftslehre“ (Kursnummer BWL-202) versehentlich nicht auf die Teilnehmerliste gesetzt wurde. Obwohl ich mich fristgerecht über das Online-Portal registriert habe, scheint ein technischer Fehler vorzuliegen.\n\nDieses Seminar ist für mein Studium von großer Bedeutung, da es ein Pflichtmodul im dritten Semester meines Wirtschaftsingenieurwesens-Studiums darstellt und die Grundlage für weiterführende Kurse bildet. Ohne die Teilnahme würde sich mein Studienverlauf erheblich verzögern.\n\nGerne kann ich Ihnen meine Anmeldebestätigung sowie einen Screenshot des Portals als Nachweis zukommen lassen. Ich wäre Ihnen sehr dankbar, wenn Sie die Anmeldung korrigieren und mich nachträglich in die Teilnehmerliste aufnehmen könnten.\n\nMit freundlichen Grüßen\nMaximilian Weber"
+        }
+      ]
+    }
+  ]
+}

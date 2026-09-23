@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #13",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 30,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie haben einem Seminarleiter zugesagt, bei der Begrüßung neuer Teilnehmender zu helfen. Nun möchten Sie die Aufgaben genauer klären. Schreiben Sie eine Nachricht an den Seminarleiter, Herrn Arndt.",
+      "items": [
+        {
+          "question": "Sie haben einem Seminarleiter zugesagt, bei der Begrüßung neuer Teilnehmender zu helfen. Nun möchten Sie die Aufgaben genauer klären. Schreiben Sie eine Nachricht an den Seminarleiter, Herrn Arndt.\n• Bestätigen Sie Ihre Hilfe.\n• Fragen Sie nach den genauen Aufgaben.\n• Nennen Sie Ihre verfügbare Zeit.\n• Schlagen Sie vor, was Sie vorbereiten können.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Absprache zur Begrüßung neuer Teilnehmender\n\nSehr geehrter Herr Arndt,\n\nwie bereits besprochen, helfe ich Ihnen sehr gerne bei der Begrüßung der neuen Teilnehmenden. Daher möchte ich nun die genauen Aufgaben mit Ihnen klären.\n\nKönnten Sie mir bitte mitteilen, welche konkreten Tätigkeiten Sie mir zugedacht haben? Soll ich beispielsweise die Ankommenden am Eingang in Empfang nehmen, Namensschilder verteilen oder vielleicht eine kleine Führung durch das Gebäude übernehmen? \n\nIch bin am Veranstaltungstag ab 8:30 Uhr vor Ort und stehe Ihnen bis zum Beginn des Seminars um 10:00 Uhr uneingeschränkt zur Verfügung. Außerdem könnte ich im Vorfeld bereits die Teilnehmerliste ausdrucken und die Begrüßungsunterlagen zusammenstellen. Wäre das in Ihrem Sinne?\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

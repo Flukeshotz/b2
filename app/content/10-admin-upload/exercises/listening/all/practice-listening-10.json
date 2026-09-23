@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Beim Friseur: Terminänderung",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Beim Friseur: Terminänderung",
+      "audio": "practice_listening_10_friseurtermin.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was möchte die Kundin heute ändern?",
+          "options": [
+            "Den ganzen Termin absagen.",
+            "Statt Färben nur eine Dauerwelle machen lassen.",
+            "Nur schneiden lassen, das Färben verschieben."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum lehnt die Kundin den ersten Terminvorschlag für das Färben ab?",
+          "options": [
+            "Der Preis ist ihr zu hoch.",
+            "Sie arbeitet bis 17 Uhr an diesem Tag.",
+            "Sie hat an dem Tag keine Zeit für einen Friseurbesuch."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der finale Termin für das Färben ist Dienstag um 17:30 Uhr.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

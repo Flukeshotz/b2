@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #7",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 24,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nIhre Teamleiterin hat gefragt, ob Sie neue Mitarbeitende am ersten Arbeitstag unterstützen können. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Peters.",
+      "items": [
+        {
+          "question": "Ihre Teamleiterin hat gefragt, ob Sie neue Mitarbeitende am ersten Arbeitstag unterstützen können. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Peters.\n• Fragen Sie, welche Informationen besonders wichtig sind.\n• Sagen Sie, wobei Sie helfen können.\n• Bestätigen Sie Ihre Bereitschaft.\n• Schlagen Sie einen konkreten Ablauf vor.",
+          "word_limit": 120,
+          "expected_answer": "Liebe Frau Peters,\n\nvielen Dank für Ihre Anfrage. Ich bestätige hiermit gerne meine Bereitschaft, die neuen Mitarbeitenden an ihrem ersten Arbeitstag zu unterstützen. Bevor ich mit der Planung beginne, würde ich gerne von Ihnen wissen, welche Informationen Ihnen dabei besonders am Herzen liegen. Soll der Fokus eher auf der Unternehmenskultur oder auf den praktischen Abläufen liegen?\n\nIch könnte auf jeden Fall bei der Begrüßung, einem umfassenden Rundgang durch das Gebäude und der Einrichtung der IT-Zugänge helfen. Außerdem würde ich die neuen Kolleginnen und Kollegen den einzelnen Teams vorstellen.\n\nFür den Ablauf schlage ich vor, dass wir morgens mit einer kurzen Begrüßungsrunde und Kaffee starten. Anschließend übernehme ich den Rundgang und helfe bei den ersten administrativen Schritten. Nach der Mittagspause könnte dann die fachliche Einarbeitung mit den jeweiligen Mentoren beginnen.\n\nIch freue mich auf Ihre Rückmeldung.\n\nHerzliche Grüße\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

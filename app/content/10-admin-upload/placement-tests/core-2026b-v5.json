@@ -1,0 +1,419 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V5",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 5
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nSeit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen,\nsolange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr\nmehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur\nArbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter\nunterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu\nsein. Offiziell hat niemand das verlangt. Trotzdem antworte ich abends auf Nachrichten,\naus Sorge, sonst als weniger engagiert zu gelten.\n\nNach einem Gespräch mit meiner Teamleiterin sehe ich das differenzierter. Sie hat mir\nklar gesagt, dass diese Erwartung nicht von ihr kommt — und dass ich das ernster nehmen\nsollte als jede ungeschriebene Regel im Team.\n\nGanz abschaffen würde ich die Regelung deshalb trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie beurteilt die Autorin die Vertrauensarbeitszeit insgesamt?",
+              "options": [
+                "Sie hält sie für gescheitert und will zur Stechuhr zurück.",
+                "Sie sieht echte Vorteile, aber auch ein ungelöstes Problem.",
+                "Sie findet sie überflüssig, weil sich nichts geändert hat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Teamleiterin hat die ständige Erreichbarkeit offiziell verlangt.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt die Autorin ein?",
+              "options": [
+                "Dass die Erwartung, immer erreichbar zu sein, nicht von der Teamleiterin kommt.",
+                "Dass die Vertrauensarbeitszeit ihr gar nichts bringt.",
+                "Dass sie selbst nie abends antwortet."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Warum antwortet die Autorin abends auf Nachrichten?",
+              "options": [
+                "Aus Sorge, sonst als weniger engagiert zu gelten.",
+                "Weil die Teamleiterin es ausdrücklich verlangt.",
+                "Weil ihr Vertrag das vorschreibt."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Arzttermine lassen sich seit der neuen Regelung leichter unterbringen.",
+                "Die Teamleiterin verlangt abendliche Erreichbarkeit.",
+                "Die Regelung gilt seit einem Jahr.",
+                "Die Autorin will vollständig zur Stechuhr zurück."
+              ],
+              "answer": [
+                "A",
+                "C"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Begeisterung.",
+                "Sie benennt die stille Erwartung, die sie belastet.",
+                "Ein Gespräch korrigiert ihre Annahme.",
+                "Sie zieht ihr abschließendes Fazit."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Begeisterung.",
+                "Sie benennt die stille Erwartung, die sie belastet.",
+                "Ein Gespräch korrigiert ihre Annahme.",
+                "Sie zieht ihr abschließendes Fazit."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Begeisterung.",
+                "Sie benennt die stille Erwartung, die sie belastet.",
+                "Ein Gespräch korrigiert ihre Annahme.",
+                "Sie zieht ihr abschließendes Fazit."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Begeisterung.",
+                "Sie benennt die stille Erwartung, die sie belastet.",
+                "Ein Gespräch korrigiert ihre Annahme.",
+                "Sie zieht ihr abschließendes Fazit."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Regelung bringt mehr Freiheit. Der Druck bleibt trotzdem.",
+                "Die Regelung bringt zwar mehr Freiheit, der Druck bleibt aber trotzdem."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir führen einen festen Bürotag pro Woche ein.",
+                "Man könnte einen festen Bürotag pro Woche einführen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Aufgrund dem neuen Plan ändert sich der Bürotag.",
+                "Aufgrund des neuen Plans ändert sich der Bürotag."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Kernzeit wurde abgeschafft, weil sie der tatsächlichen Arbeitsweise vieler Teams nicht mehr entsprach.",
+                "Die Kernzeit wurde abgeschafft. Sie passte nicht mehr. Viele Teams arbeiten anders."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Die neue Regelung wurde nach längerer Diskussion schließlich ___, nachdem das Team seine Bedenken (2) hatte.",
+              "answer": [
+                "eingeführt",
+                "Eingeführt",
+                "beschlossen",
+                "Beschlossen"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die neue Regelung wurde nach längerer Diskussion schließlich (1), nachdem das Team seine Bedenken ___ hatte.",
+              "answer": [
+                "geäußert",
+                "Geäußert",
+                "vorgebracht",
+                "Vorgebracht"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Arbeitszeit hat die (2) vieler Mitarbeitender spürbar erhöht.",
+              "answer": [
+                "Flexibilisierung",
+                "flexibilisierung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Arbeitszeit hat die ___ vieler Mitarbeitender spürbar erhöht.",
+              "answer": [
+                "Zufriedenheit",
+                "zufriedenheit"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Regelung",
+              "options": [
+                "kommen",
+                "treffen",
+                "genießen",
+                "stehen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nVertrauen",
+              "options": [
+                "kommen",
+                "treffen",
+                "genießen",
+                "stehen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Verfügung",
+              "options": [
+                "kommen",
+                "treffen",
+                "genießen",
+                "stehen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nin Frage",
+              "options": [
+                "kommen",
+                "treffen",
+                "genießen",
+                "stehen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Ich wollte nur kurz sagen, dass der Bürotag jetzt anders läuft.",
+                "Ich möchte Sie darüber informieren, dass sich der gemeinsame Bürotag geändert hat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Lassen Sie mich den Gedanken bitte kurz zu Ende führen — dann übergebe ich gern.",
+                "Ich war noch nicht fertig! Man kann mich ja nie ausreden lassen.",
+                "Schon gut, sagen Sie einfach, was Sie meinen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Im Büro. Zwei Kollegen sprechen über die neue Homeoffice-Regelung. (1)",
+          "audio": "core2026b_v5_homeoffice.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wie viele Homeoffice-Tage pro Woche sind es am Ende?",
+              "options": [
+                "Zwei, fest vorgegeben.",
+                "Drei, frei wählbar.",
+                "Vier, mit Kernzeit."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B den gemeinsamen Pflichttag?",
+              "options": [
+                "Sie hält ihn für überflüssig.",
+                "Sie hält ihn für sinnvoll.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die feste Kernzeit bleibt in der neuen Regelung bestehen.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde der erste Entwurf überarbeitet?",
+              "options": [
+                "Weil die Auslastung im Kundenservice schwankt.",
+                "Weil zu wenige Mitarbeitende Homeoffice wollten.",
+                "Weil die Technik nicht ausreichte."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Im Büro. Zwei Kollegen sprechen über die neue Homeoffice-Regelung. (2)",
+          "audio": "core2026b_v5_homeoffice.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das sinnvoll.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Sie hat nur eine Bedingung ergänzt.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung der Autorin zur Vertrauensarbeitszeit entwickelt hat. Nennen Sie auch, was sie weiterhin belastet.",
+              "word_limit": 40,
+              "expected_answer": "Zunächst war die Autorin von der Vertrauensarbeitszeit begeistert und genoss die neue Freiheit. Später erkannte sie jedoch, dass diese Freiheit nur scheinbar existiert. Was sie weiterhin belastet, ist die unausgesprochene Erwartung, auch nach Feierabend ständig erreichbar zu sein."
+            },
+            {
+              "question": "Ihre Teamleiterin schreibt: „Ab nächster Woche gilt die neue Regelung.“ Sie sind nicht sicher, ob das für alle Abteilungen gilt und ob eine Übergangszeit vorgesehen ist. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Liebe Frau Müller, könnten Sie mir bitte mitteilen, ob die neue Regelung für alle Abteilungen gilt? Wäre es außerdem möglich, eine kurze Übergangszeit einzuplanen? Vielen Dank und freundliche Grüße."
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob feste Kernarbeitszeiten wieder eingeführt werden sollen, um die ständige Erreichbarkeit zu begrenzen. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Wiedereinführung fester Kernarbeitszeiten für eine sehr gute Idee. Meiner Meinung nach ist die ständige Erreichbarkeit ein großes Problem, weil die Grenzen zwischen Beruf und Privatleben zunehmend verschwimmen. Ein klar definierter Zeitrahmen würde uns allen helfen, nach Feierabend wirklich abzuschalten. Zudem erleichtern feste Zeiten die Zusammenarbeit im Team erheblich, da man nicht lange auf Rückmeldungen warten muss. Zwar schränkt dies die flexible Zeiteinteilung etwas ein, aber ich glaube, dieser Nachteil ist verkraftbar. Ich schlage daher einen Kern von 10 bis 15 Uhr vor, kombiniert mit Gleitzeit am Morgen und Nachmittag.\n\nViele Grüße,\n[Name]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Firmen erwarten von Mitarbeitenden im Homeoffice, außerhalb der Arbeitszeit erreichbar zu bleiben. Was halten Sie davon? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der entgegengesetzten Position ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Ich bin der festen Überzeugung, dass die Erwartung, im Homeoffice ständig erreichbar zu sein, entschieden abzulehnen ist. Meines Erachtens verschwimmt dadurch die dringend notwendige Grenze zwischen Beruf und Privatleben. Wenn das Büro nur ein paar Schritte vom Wohnzimmer entfernt ist, fällt das Abschalten ohnehin schwer. Ständige Erreichbarkeit erhöht den Druck enorm und kann langfristig zu ernsthafter Erschöpfung führen. Darüber hinaus ist diese Forderung oft ein Zeichen von Misstrauen seitens der Vorgesetzten. Gute Führung sollte auf klaren Absprachen und Zielen basieren, nicht auf permanenter Kontrolle. Mitarbeitende, die man abends noch mit Anrufen stört, fühlen sich nicht wertgeschätzt, und ihre Motivation sinkt. Zugegebenermaßen muss man aber einräumen, dass eine strikte Nichterreichbarkeit in absoluten Ausnahmefällen, etwa bei einer plötzlichen Systempanne, problematisch sein kann. Wenn niemand reagiert, droht vielleicht ein größerer finanzieller Schaden. Allerdings ist das kein Argument für eine dauerhafte Bereitschaft. Die klügere Lösung sind klar definierte Notfallpläne und ein Bereitschaftsdienst, der fair vergütet wird. Nur so lässt sich verhindern, dass die Flexibilität des Homeoffice zur Falle wird.",
+              "model_answer": "Ich bin der festen Überzeugung, dass die Erwartung, im Homeoffice ständig erreichbar zu sein, entschieden abzulehnen ist. Meines Erachtens verschwimmt dadurch die dringend notwendige Grenze zwischen Beruf und Privatleben. Wenn das Büro nur ein paar Schritte vom Wohnzimmer entfernt ist, fällt das Abschalten ohnehin schwer. Ständige Erreichbarkeit erhöht den Druck enorm und kann langfristig zu ernsthafter Erschöpfung führen. Darüber hinaus ist diese Forderung oft ein Zeichen von Misstrauen seitens der Vorgesetzten. Gute Führung sollte auf klaren Absprachen und Zielen basieren, nicht auf permanenter Kontrolle. Mitarbeitende, die man abends noch mit Anrufen stört, fühlen sich nicht wertgeschätzt, und ihre Motivation sinkt. Zugegebenermaßen muss man aber einräumen, dass eine strikte Nichterreichbarkeit in absoluten Ausnahmefällen, etwa bei einer plötzlichen Systempanne, problematisch sein kann. Wenn niemand reagiert, droht vielleicht ein größerer finanzieller Schaden. Allerdings ist das kein Argument für eine dauerhafte Bereitschaft. Die klügere Lösung sind klar definierte Notfallpläne und ein Bereitschaftsdienst, der fair vergütet wird. Nur so lässt sich verhindern, dass die Flexibilität des Homeoffice zur Falle wird.",
+              "expected_answer": "Ich bin der festen Überzeugung, dass die Erwartung, im Homeoffice ständig erreichbar zu sein, entschieden abzulehnen ist. Meines Erachtens verschwimmt dadurch die dringend notwendige Grenze zwischen Beruf und Privatleben. Wenn das Büro nur ein paar Schritte vom Wohnzimmer entfernt ist, fällt das Abschalten ohnehin schwer. Ständige Erreichbarkeit erhöht den Druck enorm und kann langfristig zu ernsthafter Erschöpfung führen. Darüber hinaus ist diese Forderung oft ein Zeichen von Misstrauen seitens der Vorgesetzten. Gute Führung sollte auf klaren Absprachen und Zielen basieren, nicht auf permanenter Kontrolle. Mitarbeitende, die man abends noch mit Anrufen stört, fühlen sich nicht wertgeschätzt, und ihre Motivation sinkt. Zugegebenermaßen muss man aber einräumen, dass eine strikte Nichterreichbarkeit in absoluten Ausnahmefällen, etwa bei einer plötzlichen Systempanne, problematisch sein kann. Wenn niemand reagiert, droht vielleicht ein größerer finanzieller Schaden. Allerdings ist das kein Argument für eine dauerhafte Bereitschaft. Die klügere Lösung sind klar definierte Notfallpläne und ein Bereitschaftsdienst, der fair vergütet wird. Nur so lässt sich verhindern, dass die Flexibilität des Homeoffice zur Falle wird."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

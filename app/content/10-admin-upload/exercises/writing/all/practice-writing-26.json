@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 26 — Alternativvorschlag: Kantinenverpflegung",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 26,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Viele Kolleginnen und Kollegen beschweren sich über das Kantinenangebot. Schreiben Sie einen kurzen Alternativvorschlag an die Kantinenleitung.\n• Beschreiben Sie kurz das aktuelle Problem.\n• Machen Sie einen konkreten Alternativvorschlag.\n• Formulieren Sie ihn als Vorschlag, nicht als Forderung.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Anregung für ein abwechslungsreicheres Kantinenangebot\n\nSehr geehrte Damen und Herren,\n\nviele Kolleginnen und Kollegen haben sich in letzter Zeit über das Kantinenessen geäußert. Häufig wird kritisiert, dass das Angebot recht einseitig ist und vor allem aus schweren, fleischlastigen Gerichten besteht. Frische, leichte Alternativen fehlen oft.\n\nDaher möchte ich einen konkreten Vorschlag machen: Wäre es möglich, zusätzlich eine kleine Salatbar mit täglich wechselnden Zutaten einzurichten? Dies würde nicht nur für mehr Abwechslung sorgen, sondern auch den unterschiedlichen Ernährungsbedürfnissen im Team entgegenkommen. Vielleicht könnte man dies zunächst an zwei Tagen pro Woche testen.\n\nIch bin überzeugt, dass ein solches Angebot auf große Zustimmung stoßen würde, und stehe für ein Gespräch gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Name]"
+        }
+      ]
+    }
+  ]
+}

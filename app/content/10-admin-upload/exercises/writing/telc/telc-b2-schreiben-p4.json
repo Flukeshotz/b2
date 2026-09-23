@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #4",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bitte / Vorschlag:\nSie wohnen im Kastanienhof und nutzen Ihr Fahrrad täglich. Im Keller stehen viele kaputte Räder, aber Sie haben Sorge, dass zu wenige Plätze für Familien und Lastenräder geplant werden.\n\nAufgabe B: Beschwerde:\nSie haben Flyer für eine Vereinsveranstaltung bestellt und die Datei rechtzeitig am Montagmorgen geschickt. Die Flyer waren erst am Freitag fertig, mehrere Farben wirkten falsch und niemand hatte Sie vorher wegen der Datei kontaktiert.",
+      "items": [
+        {
+          "question": "Sie wohnen im Kastanienhof und nutzen Ihr Fahrrad täglich. Im Keller stehen viele kaputte Räder, aber Sie haben Sorge, dass zu wenige Plätze für Familien und Lastenräder geplant werden.\n• Beziehen Sie sich auf die angekündigte Neuordnung.\n• Beschreiben Sie die aktuelle Situation im Fahrradkeller.\n• Machen Sie einen konkreten Vorschlag für Familien oder größere Fahrräder.\n• Bitten Sie darum, Ihren Vorschlag vor der Hausversammlung zu berücksichtigen.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Vorschlag zur Neugestaltung des Fahrradkellers im Kastanienhof\n\nSehr geehrte Damen und Herren der Hausverwaltung,\n\nmit großem Interesse habe ich Ihre Ankündigung zur Neuordnung unseres Fahrradkellers gelesen. Als langjähriger Bewohner des Kastanienhofs nutze ich mein Fahrrad täglich und möchte daher gerne einen konstruktiven Vorschlag einbringen.\n\nDie aktuelle Situation im Keller ist leider sehr unbefriedigend. Zahlreiche offensichtlich kaputte und verlassene Räder blockieren seit Monaten die ohnehin knappen Stellplätze, während intakte Fahrräder oft mühsam übereinander geschoben werden müssen. Meine größte Sorge ist jedoch, dass bei der Neuplanung die Bedürfnisse von Familien nicht ausreichend berücksichtigt werden. Immer mehr Bewohner nutzen sperrige Lastenräder oder Fahrräder mit Kinderanhängern, für die die herkömmlichen schmalen Fahrradständer völlig ungeeignet sind.\n\nKonkret schlage ich daher vor, einen klar abgetrennten Bereich mit breiteren, bodentiefen Stellplätzen speziell für Lastenräder und Fahrradanhänger einzurichten. Diese Zone könnte sich beispielsweise an der hinteren Kellerwand befinden, wo ausreichend Rangierfläche vorhanden ist. Zudem wäre es sinnvoll, vor der Neuverteilung eine Entrümpelungsaktion für die herrenlosen Räder durchzuführen.\n\nIch wäre Ihnen sehr dankbar, wenn Sie meinen Vorschlag bei der Planung bedenken und vor der nächsten Hausversammlung zur Diskussion stellen könnten. Für ein persönliches Gespräch stehe ich selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\nMaximilian Weber"
+        }
+      ]
+    }
+  ]
+}

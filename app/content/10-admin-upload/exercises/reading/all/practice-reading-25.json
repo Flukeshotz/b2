@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Aushang: Aktualisierte Hausordnung",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 34,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Aushang: Aktualisierte Hausordnung",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAktualisierte Hausordnung — gültig ab dem 1. des Folgemonats\n\nNach Rückmeldungen mehrerer Mieterinnen und Mieter wurden folgende Punkte der Hausordnung angepasst:\n\n1. Ruhezeiten: Die bisherige Mittagsruhe (13–15 Uhr) entfällt ersatzlos. Es gelten weiterhin die Nachtruhe (22–6 Uhr) sowie die Sonntagsruhe ganztägig.\n\n2. Fahrräder: Das Abstellen von Fahrrädern im Hausflur ist ab sofort nicht mehr gestattet. Im Hinterhof steht ein neu errichteter, abschließbarer Fahrradunterstand zur Verfügung; einen Schlüssel erhalten Sie bei der Hausverwaltung.\n\n3. Mülltrennung: Die Biotonne wird künftig wöchentlich statt zweiwöchentlich geleert. Die zusätzlichen Kosten werden anteilig über die Nebenkostenabrechnung umgelegt.\n\nDiese Änderungen wurden in der letzten Eigentümerversammlung mehrheitlich beschlossen und sind für alle Mieterinnen und Mieter verbindlich. Bei Fragen wenden Sie sich an die Hausverwaltung.",
+      "items": [
+        {
+          "question": "Was ändert sich bezüglich der Mittagsruhe?",
+          "options": [
+            "Sie entfällt vollständig.",
+            "Sie bleibt unverändert bestehen.",
+            "Sie wird auf 12–16 Uhr ausgeweitet."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Fahrräder dürfen laut neuer Hausordnung weiterhin im Hausflur abgestellt werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wo erhält man den Schlüssel für den neuen Fahrradunterstand?",
+          "options": [
+            "Im Hausflur an einem Schlüsselbrett.",
+            "Beim Nachbarn.",
+            "Bei der Hausverwaltung."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was bedeutet die Änderung bei der Biotonne finanziell für die Mieter?",
+          "options": [
+            "Die Kosten trägt allein die Hausverwaltung.",
+            "Es entstehen keinerlei zusätzliche Kosten.",
+            "Die zusätzlichen Kosten werden über die Nebenkosten umgelegt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

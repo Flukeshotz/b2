@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #10",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zum Teilen überschüssiger Lebensmittel.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zum Teilen überschüssiger Lebensmittel.\n• Äußern Sie Ihre Meinung zum Teilen überschüssiger Lebensmittel.\n• Nennen Sie Gründe, warum in Haushalten und Geschäften so viele Lebensmittel übrig bleiben.\n• Nennen Sie Möglichkeiten, Lebensmittelverschwendung im Alltag zu verringern.\n• Nennen Sie Vorteile dieser Möglichkeiten für Menschen und Umwelt.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nzum Thema „Teilen überschüssiger Lebensmittel“ möchte ich hier gerne meine Gedanken teilen. Meiner Ansicht nach ist das eine hervorragende Idee, die nicht nur ethisch richtig, sondern auch praktisch sehr sinnvoll ist. Es ist doch absurd, dass täglich tonnenweise genießbare Nahrung im Müll landet, während gleichzeitig viele Menschen kaum genug zu essen haben.\n\nAber warum bleibt überhaupt so viel übrig? In privaten Haushalten liegt es oft an falscher Planung: Man kauft zu viel ein, weil man hungrig einkaufen geht oder von Sonderangeboten verführt wird. Zudem wissen viele nicht, wie man Lebensmittel richtig lagert, sodass sie schneller verderben. In Supermärkten und Restaurants wiederum spielen strenge ästhetische Normen eine große Rolle. Krummes Gemüse oder Joghurtbecher mit einer kleinen Delle werden aussortiert, obwohl sie einwandfrei sind. Auch eine schwer kalkulierbare Nachfrage führt zu Überproduktion.\n\nZum Glück gibt es viele Möglichkeiten, im Alltag gegenzusteuern. Ich selbst schreibe vor dem Einkauf immer einen Wochenplan und eine Einkaufsliste, das verhindert Spontankäufe enorm. Außerdem nutze ich eine App wie „Too Good To Go“, über die Restaurants und Bäckereien übrig gebliebene Speisen günstiger anbieten. Auch das bewusste Verwerten von Resten, zum Beispiel durch kreative Rezepte, ist eine einfache Methode.\n\nDie Vorteile solcher Maßnahmen liegen auf der Hand: Für uns Menschen bedeutet es eine spürbare finanzielle Entlastung, und Initiativen wie öffentliche Kühlschränke oder Foodsharing stärken die Nachbarschaft und den sozialen Zusammenhalt. Für die Umwelt ist der Nutzen sogar noch größer, denn es werden wertvolle Ressourcen wie Wasser, Energie und Ackerfläche geschont und unnötige CO2-Emissionen vermieden. Ich finde, jeder kann mit kleinen Schritten einen wichtigen Beitrag leisten.\n\nViele Grüße,\nAnna"
+        }
+      ]
+    }
+  ]
+}

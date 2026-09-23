@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #3",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zur Nutzung von Fitness-Apps.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zur Nutzung von Fitness-Apps.\n• Äußern Sie Ihre Meinung zu Fitness-Apps und digitaler Selbstkontrolle.\n• Nennen Sie Gründe, warum Fitness-Apps für viele Menschen attraktiv sind.\n• Nennen Sie andere Möglichkeiten, sich zu mehr Bewegung zu motivieren.\n• Nennen Sie Vorteile dieser anderen Möglichkeiten.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nzum Thema Fitness-Apps möchte ich heute meine Gedanken teilen. Meiner Ansicht nach sind diese Anwendungen ein zweischneidiges Schwert. Einerseits fördern sie die digitale Selbstkontrolle, indem sie Schritte zählen und Kalorien tracken. Andererseits besteht die Gefahr, dass man sich zu sehr von Zahlen abhängig macht und auf sein eigenes Körpergefühl nicht mehr hört.\n\nTrotzdem verstehe ich, warum Fitness-Apps für viele Menschen so attraktiv sind. Ein wichtiger Grund ist sicherlich die spielerische Motivation durch Abzeichen und Bestenlisten. Außerdem ermöglichen sie eine detaillierte Fortschrittskontrolle, was das Erfolgserlebnis steigert. Nicht zu vergessen ist die Community-Funktion, bei der man sich mit Freunden virtuell messen kann.\n\nNeben diesen digitalen Helfern gibt es jedoch auch andere Wege, sich zu mehr Bewegung zu motivieren. Besonders effektiv finde ich feste Trainingspartner oder die Mitgliedschaft in einem Sportverein. Auch die Teilnahme an einem Volkslauf oder einer Fahrradtour mit einem festen Ziel kann Wunder wirken.\n\nDiese Alternativen bieten meiner Meinung nach entscheidende Vorteile. Im Vergleich zu Apps steht hier das echte soziale Miteinander im Vordergrund, was die Motivation oft länger aufrechterhält. Zudem bekommt man in einem Verein professionelle Anleitung und vermeidet falsche Bewegungsabläufe, die man sich allein antrainieren könnte.\n\nWas sind eure Erfahrungen mit Fitness-Apps? Ich freue mich auf eine angeregte Diskussion!\n\nViele Grüße\nSportfreund"
+        }
+      ]
+    }
+  ]
+}

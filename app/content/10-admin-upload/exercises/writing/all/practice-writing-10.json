@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 10 — E-Mail an die Personalabteilung: Überstunden",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Schreiben Sie eine E-Mail an die Personalabteilung, in der Sie nachfragen, wie Ihre angesammelten Überstunden aus den letzten drei Monaten ausgeglichen werden können.\n• Nennen Sie den ungefähren Umfang der Überstunden.\n• Fragen Sie konkret nach den Ausgleichsmöglichkeiten.\n• Bitten Sie um eine Rückmeldung bis zu einem bestimmten Zeitpunkt.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Anfrage zum Ausgleich meiner Überstunden\n\nSehr geehrte Damen und Herren,\n\nin den letzten drei Monaten haben sich bei mir aufgrund mehrerer Projekte etwa 30 Überstunden angesammelt. Daher möchte ich höflich anfragen, welche Möglichkeiten zum Ausgleich dieser Stunden bestehen. Wäre ein Freizeitausgleich in den kommenden Wochen möglich oder ist alternativ eine Auszahlung vorgesehen? Ich wäre Ihnen sehr dankbar, wenn Sie mir mitteilen könnten, welche Varianten in Frage kommen und wie der weitere Ablauf aussieht. Bitte geben Sie mir bis Freitag, den 15. März, eine kurze Rückmeldung, damit ich meine weitere Planung darauf abstimmen kann.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

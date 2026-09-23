@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 15 — Vergleich: Zwei Fortbildungsangebote",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 15,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie können zwischen zwei Fortbildungen wählen: einer praxisnahen zweitägigen Präsenzschulung und einem sechswöchigen Online-Kurs. Vergleichen Sie beide Optionen kurz und sagen Sie, wofür Sie sich entscheiden würden.\n• Nennen Sie je einen Vorteil und einen Nachteil pro Option.\n• Nutzen Sie Vergleichskonnektoren (einerseits … andererseits).\n• Formulieren Sie am Ende Ihre eigene Entscheidung.",
+          "word_limit": 110,
+          "expected_answer": "Wenn ich die Wahl zwischen einer zweitägigen Präsenzschulung und einem sechswöchigen Online-Kurs habe, muss ich beide Optionen sorgfältig abwägen. Einerseits bietet die Präsenzschulung den großen Vorteil des direkten Austauschs mit anderen Teilnehmenden und dem Trainer, was die Teamarbeit fördert. Andererseits ist sie mit Reisekosten verbunden und erfordert eine feste zeitliche Verfügbarkeit, was ein klarer Nachteil sein kann. Der Online-Kurs hingegen ermöglicht mir maximale Flexibilität, da ich die Lernzeiten selbst einteilen kann. Allerdings fehlt hier die persönliche Interaktion, und man muss sich stark selbst motivieren. Für mich persönlich wäre der Online-Kurs die bessere Wahl, weil ich beruflich stark eingespannt bin und die zeitliche Unabhängigkeit für mich entscheidend ist."
+        }
+      ]
+    }
+  ]
+}

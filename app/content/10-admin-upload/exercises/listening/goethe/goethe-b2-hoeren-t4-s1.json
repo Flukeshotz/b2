@@ -1,0 +1,98 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 4 — Akademischer Vortrag / Vorlesung, Satz 1",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 4 — Akademischer Vortrag / Vorlesung",
+      "audio": "goethe-b2-listening-teil4-set1.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Laut Dr. Lenz ist Stadtlärm problematisch, weil er ...",
+          "options": [
+            "nur bei sehr hohen Dezibelwerten wirkt.",
+            "auch unbemerkt körperliche Reaktionen auslösen kann.",
+            "vor allem das Gehör dauerhaft schädigt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was unterscheidet störenden von gefährlichem Lärm?",
+          "options": [
+            "Ob er von Verkehr oder von Menschen stammt.",
+            "Ob man ihn sofort bewusst wahrnimmt.",
+            "Wann und wie lange er auftritt."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nächtlicher Lärm ...",
+          "options": [
+            "kann Erholung stören, ohne dass man richtig wach wird.",
+            "ist nur problematisch, wenn man davon aufwacht.",
+            "lässt sich durch Gewöhnung meistens ausgleichen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was sagt Dr. Lenz über Messgeräte?",
+          "options": [
+            "Sie zeigen genau, wer sich gestört fühlt.",
+            "Sie müssen durch Beobachtungen vor Ort ergänzt werden.",
+            "Sie sollten vor allem in Parks aufgestellt werden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei neuen Wohngebieten sollte man ...",
+          "options": [
+            "das Lärmproblem vorab in die Planung aufnehmen.",
+            "Schallschutz erst nach Beschwerden prüfen.",
+            "ruhige Innenhöfe durch Cafés beleben."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum nennt Dr. Lenz Lieferverkehr am Morgen?",
+          "options": [
+            "Er beweist, dass Lieferungen nachts verboten werden sollten.",
+            "Er erklärt, warum Anwohner mehr Parkplätze brauchen.",
+            "Er zeigt einen Konflikt zwischen Alltag und Ruhe."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Maßnahme empfiehlt sie für wenig Geld?",
+          "options": [
+            "neue Schallschutzwände an allen Hauptstraßen.",
+            "vorhandene ruhige Routen besser kennzeichnen.",
+            "laute Plätze ausschließlich für Autos sperren."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Zum Schluss fordert Dr. Lenz, ...",
+          "options": [
+            "Ruhe wie eine kommunale Basisaufgabe zu planen.",
+            "alle lauten Veranstaltungen aus Innenstädten zu verlegen.",
+            "neue Technik wichtiger zu nehmen als Planung."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

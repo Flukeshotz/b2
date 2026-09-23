@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen), Satz 3",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen)",
+      "audio": "teil1-q11.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Die neue Regelung für Paketstationen gilt sofort für alle Wohnhäuser der Stadt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Wegen Personalmangels fahren auf der Linie R4 am Wochenende weniger Züge.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die neue Ausbildungsmesse musste wegen zu geringer Nachfrage abgesagt werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Nach dem Wasserrohrbruch in der Klinik mussten alle Patientinnen und Patienten verlegt werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der geplante Badesee in Waldkirchen wird wegen Umwelteinwänden später eröffnet als vorgesehen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

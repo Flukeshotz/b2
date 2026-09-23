@@ -1,0 +1,421 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V8",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 8
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Der neue Bürostandort — Mitsprache oder nur Information?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nVor sechs Monaten wurde angekündigt, dass unser Standort umzieht. Meine erste\nReaktion war Skepsis: Eine solche Entscheidung wird doch längst von oben\ngetroffen, dachte ich, und wir dürfen höchstens noch über die Farbe der Wände\nmitreden.\n\nTatsächlich gab es zu Beginn nur eine Information, keine Beteiligung. Das hat\nsich aber geändert, als drei Kolleginnen aus verschiedenen Abteilungen eine\nArbeitsgruppe gegründet haben. Sie haben konkrete Vorschläge zur Raumaufteilung\neingereicht — und tatsächlich wurden zwei davon übernommen: mehr Ruheräume und\neine zentrale Küche statt kleiner Teeküchen auf jeder Etage.\n\nNach diesem Prozess sehe ich die Sache differenzierter. Es stimmt, dass die\ngrundlegende Entscheidung längst feststand. Aber innerhalb dieses Rahmens\ngab es tatsächlich Raum für echten Einfluss — nur eben nicht automatisch,\nsondern nur, weil sich jemand dafür eingesetzt hat.\n\nWas mich weiterhin stört, ist die kurze Zeit, die für Rückmeldungen blieb: Nur\nzwei Wochen zwischen Vorstellung der Pläne und endgültiger Entscheidung.\n\nAm Umzug selbst würde ich trotzdem nichts mehr ändern wollen.",
+          "items": [
+            {
+              "question": "Wie beurteilt die Autorin den Beteiligungsprozess insgesamt?",
+              "options": [
+                "Sie hält ihn für reine Show ohne echten Einfluss.",
+                "Sie sieht echten Einfluss, kritisiert aber weiterhin die kurze Rückmeldefrist.",
+                "Sie findet, die Entscheidung hätte komplett dem Team überlassen werden sollen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Zwei Vorschläge der Arbeitsgruppe wurden tatsächlich übernommen.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt die Autorin ein?",
+              "options": [
+                "Dass innerhalb der feststehenden Entscheidung tatsächlich Raum für Einfluss bestand.",
+                "Dass die Arbeitsgruppe am Ende gar nichts erreicht hat.",
+                "Dass sie selbst nie an dem Prozess interessiert war."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wodurch kam die Beteiligung überhaupt zustande?",
+              "options": [
+                "Weil drei Kolleginnen eine Arbeitsgruppe gegründet haben.",
+                "Weil die Geschäftsleitung von sich aus dazu einlud.",
+                "Weil eine externe Beratung das vorschrieb."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Zu Beginn gab es nur Information, keine Beteiligung.",
+                "Die Rückmeldefrist betrug zwei Wochen.",
+                "Die Autorin lehnt den Umzug bis heute grundsätzlich ab.",
+                "Auf jeder Etage gibt es jetzt eine eigene Teeküche."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Skepsis.",
+                "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+                "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+                "Sie benennt, was sie an der Frist weiterhin stört."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Skepsis.",
+                "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+                "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+                "Sie benennt, was sie an der Frist weiterhin stört."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Skepsis.",
+                "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+                "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+                "Sie benennt, was sie an der Frist weiterhin stört."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Sie beschreibt ihre anfängliche Skepsis.",
+                "Eine Arbeitsgruppe bringt konkrete Vorschläge ein.",
+                "Sie erkennt echten Einfluss innerhalb des Rahmens an.",
+                "Sie benennt, was sie an der Frist weiterhin stört."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Entscheidung stand fest. Wir konnten trotzdem etwas bewegen.",
+                "Die Entscheidung stand zwar fest, wir konnten aber trotzdem etwas bewegen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir richten mehr Ruheräume ein.",
+                "Man könnte mehr Ruheräume einrichten."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wegen des Umzugs bitten wir um frühzeitiges Packen.",
+                "Wegen dem Umzug bitten wir um frühzeitiges Packen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die beiden Vorschläge wurden übernommen, weil sie sich mit vertretbarem Aufwand umsetzen ließen und breite Zustimmung fanden.",
+                "Die beiden Vorschläge wurden übernommen. Der Aufwand war vertretbar. Es gab breite Zustimmung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Der Vorschlag wurde von der Arbeitsgruppe zunächst in Frage ___, bevor die Leitung ihn schließlich (2) hatte.",
+              "answer": [
+                "gestellt",
+                "Gestellt"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Der Vorschlag wurde von der Arbeitsgruppe zunächst in Frage (1), bevor die Leitung ihn schließlich ___ hatte.",
+              "answer": [
+                "übernommen",
+                "Übernommen",
+                "akzeptiert",
+                "Akzeptiert"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Räume wurde neu geplant; nur die (2) der Möbellieferung verzögert sich noch.",
+              "answer": [
+                "Aufteilung",
+                "aufteilung",
+                "Planung",
+                "planung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Räume wurde neu geplant; nur die ___ der Möbellieferung verzögert sich noch.",
+              "answer": [
+                "Lieferung",
+                "lieferung",
+                "Ankunft",
+                "ankunft"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neinen Vorschlag",
+              "options": [
+                "nehmen",
+                "einreichen",
+                "ausüben",
+                "stehen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nEinfluss",
+              "options": [
+                "nehmen",
+                "einreichen",
+                "ausüben",
+                "stehen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Verfügung",
+              "options": [
+                "nehmen",
+                "einreichen",
+                "ausüben",
+                "stehen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nin Anspruch",
+              "options": [
+                "nehmen",
+                "einreichen",
+                "ausüben",
+                "stehen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Ich wollte nur kurz sagen, dass bei uns noch nicht alles gepackt ist.",
+                "Ich möchte Sie darüber informieren, dass die Vorbereitungen bei uns noch nicht abgeschlossen sind."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Lassen Sie mich den Punkt bitte kurz zu Ende bringen — Ihre Frage kommt gleich dran.",
+                "Ich war noch nicht fertig! Man kann mich ja nie ausreden lassen.",
+                "Schon gut, sagen Sie einfach, was Sie meinen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Im Flur. Zwei Kollegen sprechen über die Umzugsplanung. (1)",
+          "audio": "core2026b_v8_buerowechsel.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wann findet der Umzug jetzt statt?",
+              "options": [
+                "Ende März.",
+                "Am letzten Aprilwochenende.",
+                "Erst im Mai."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B die frühere Kartonpackfrist?",
+              "options": [
+                "Sie hält sie für übertrieben.",
+                "Sie hält sie für sinnvoll.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Das Team wird bei dem Umzug auf verschiedene Etagen verteilt.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde der Umzugstermin verschoben?",
+              "options": [
+                "Weil die neuen Möbel erst Mitte April geliefert werden.",
+                "Weil das neue Gebäude noch nicht fertig ist.",
+                "Weil zu wenige Mitarbeitende Zeit hatten."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Im Flur. Zwei Kollegen sprechen über die Umzugsplanung. (2)",
+          "audio": "core2026b_v8_buerowechsel.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das sinnvoll.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Sie hat nur eine Sache geändert.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie sich die Haltung der Autorin zum Beteiligungsprozess entwickelt hat. Nennen Sie auch, was sie weiterhin kritisiert.",
+              "word_limit": 40,
+              "expected_answer": "Zunächst stand die Autorin dem Beteiligungsprozess skeptisch gegenüber, erkannte jedoch später den spürbaren Einfluss der Arbeitsgruppe an. Trotz dieser positiven Entwicklung kritisiert sie weiterhin die viel zu kurze Frist für eine echte Mitgestaltung."
+            },
+            {
+              "question": "Ihre Kollegin schreibt: „Die Kartons müssen bis Freitag fertig sein.“ Sie sind nicht sicher, ob das für alle Abteilungen gilt und wie die Kartons beschriftet werden sollen. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Vielen Dank für die Info. Gilt diese Frist denn für alle Abteilungen? Und könntest du mir bitte noch sagen, wie wir die Kartons genau beschriften sollen?"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob künftig jede größere Standortentscheidung über eine Mitarbeiterbefragung abgestimmt werden soll. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Idee, große Standortentscheidungen per Mitarbeiterbefragung abzustimmen, grundsätzlich für sehr gut. Erstens stärkt dies die Identifikation mit dem Unternehmen, weil sich die Belegschaft ernst genommen fühlt. Zweitens können Mitarbeitende aus verschiedenen Abteilungen wertvolles Praxiswissen einbringen, das die Geschäftsleitung vielleicht gar nicht auf dem Schirm hat. Allerdings muss man zugeben, dass solche Abstimmungen zeitaufwendig sind und schnelle Entscheidungen blockieren können. Daher schlage ich vor, die Befragung nur bei strategischen Projekten ohne akuten Zeitdruck durchzuführen und die Ergebnisse für die Führungsebene als bindend zu definieren. So kombinieren wir Mitbestimmung mit Effizienz.\n\nViele Grüße,\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Firmen lassen Mitarbeitende bei großen Entscheidungen wie einem Bürowechsel mitplanen, andere informieren nur im Nachhinein. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Ich bin der festen Überzeugung, dass es deutlich sinnvoller ist, die Mitarbeitenden bei großen Entscheidungen wie einem Bürowechsel von Anfang an mitplanen zu lassen. Mein erster Grund ist die Motivation: Wenn Menschen das Gefühl haben, dass ihre Meinung zählt und sie wirklich Einfluss nehmen können, steigt ihre Zufriedenheit enorm. Sie fühlen sich als Teil des Teams und nicht nur als Befehlsempfänger. Zweitens führt die frühzeitige Einbeziehung fast immer zu besseren Ergebnissen. Die Angestellten kennen schließlich die täglichen Arbeitsabläufe am besten und können wertvolle praktische Hinweise geben, zum Beispiel zur Gestaltung der Räume oder zur technischen Ausstattung, an die die Chefetage vielleicht gar nicht denkt. Natürlich hat die andere Variante, also die reine Informationspolitik im Nachhinein, auf den ersten Blick einen Vorteil: Entscheidungen können viel schneller und ohne lange Diskussionen getroffen werden. Allerdings ist dieser Vorteil meiner Meinung nach kurzfristig gedacht. Zwar spart man anfangs Zeit, aber das Risiko, dass die Belegschaft die Veränderung ablehnt und innerlich kündigt, ist enorm hoch. Deshalb bin ich überzeugt, dass Mitbestimmung der klügere Weg ist.",
+              "model_answer": "Ich bin der festen Überzeugung, dass es deutlich sinnvoller ist, die Mitarbeitenden bei großen Entscheidungen wie einem Bürowechsel von Anfang an mitplanen zu lassen. Mein erster Grund ist die Motivation: Wenn Menschen das Gefühl haben, dass ihre Meinung zählt und sie wirklich Einfluss nehmen können, steigt ihre Zufriedenheit enorm. Sie fühlen sich als Teil des Teams und nicht nur als Befehlsempfänger. Zweitens führt die frühzeitige Einbeziehung fast immer zu besseren Ergebnissen. Die Angestellten kennen schließlich die täglichen Arbeitsabläufe am besten und können wertvolle praktische Hinweise geben, zum Beispiel zur Gestaltung der Räume oder zur technischen Ausstattung, an die die Chefetage vielleicht gar nicht denkt. Natürlich hat die andere Variante, also die reine Informationspolitik im Nachhinein, auf den ersten Blick einen Vorteil: Entscheidungen können viel schneller und ohne lange Diskussionen getroffen werden. Allerdings ist dieser Vorteil meiner Meinung nach kurzfristig gedacht. Zwar spart man anfangs Zeit, aber das Risiko, dass die Belegschaft die Veränderung ablehnt und innerlich kündigt, ist enorm hoch. Deshalb bin ich überzeugt, dass Mitbestimmung der klügere Weg ist.",
+              "expected_answer": "Ich bin der festen Überzeugung, dass es deutlich sinnvoller ist, die Mitarbeitenden bei großen Entscheidungen wie einem Bürowechsel von Anfang an mitplanen zu lassen. Mein erster Grund ist die Motivation: Wenn Menschen das Gefühl haben, dass ihre Meinung zählt und sie wirklich Einfluss nehmen können, steigt ihre Zufriedenheit enorm. Sie fühlen sich als Teil des Teams und nicht nur als Befehlsempfänger. Zweitens führt die frühzeitige Einbeziehung fast immer zu besseren Ergebnissen. Die Angestellten kennen schließlich die täglichen Arbeitsabläufe am besten und können wertvolle praktische Hinweise geben, zum Beispiel zur Gestaltung der Räume oder zur technischen Ausstattung, an die die Chefetage vielleicht gar nicht denkt. Natürlich hat die andere Variante, also die reine Informationspolitik im Nachhinein, auf den ersten Blick einen Vorteil: Entscheidungen können viel schneller und ohne lange Diskussionen getroffen werden. Allerdings ist dieser Vorteil meiner Meinung nach kurzfristig gedacht. Zwar spart man anfangs Zeit, aber das Risiko, dass die Belegschaft die Veränderung ablehnt und innerlich kündigt, ist enorm hoch. Deshalb bin ich überzeugt, dass Mitbestimmung der klügere Weg ist."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

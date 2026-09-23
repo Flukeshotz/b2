@@ -1,0 +1,62 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 4",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nTeilnahmeordnung des Stadtmuseums-Ateliers\n\nBeispiel: 0 Lösung f\n\n**Paragraph 0**\nArbeitsplätze sind nach jeder Veranstaltung aufzuräumen. Pinsel, Scheren und Schneidematten werden gereinigt zurückgelegt; Farbreste dürfen nur in den gekennzeichneten Behältern entsorgt werden. Essen ist im Werkraum nicht gestattet. Die Kursleitung kontrolliert den Raum nach Ende der Veranstaltung gemeinsam mit der Gruppe.\n\n**Paragraph 28**\nFür Fortgeschrittenenkurse müssen Teilnehmende mindestens 14 Jahre alt sein und vor Kursbeginn entweder einen Grundkurs des Museums besucht oder eine kurze Arbeitsprobe eingereicht haben. Über Ausnahmen entscheidet die Atelierleitung. Kinder unter 14 Jahren können nur an Familienwerkstätten teilnehmen, wenn eine erwachsene Begleitperson während der gesamten Veranstaltung im Gebäude bleibt. Die Entscheidung wird vor Kursbeginn schriftlich mitgeteilt und gilt nur für den beantragten Kurs.\n\n**Paragraph 29**\nWährend angeleiteter Workshops besteht für angemeldete Teilnehmende Versicherungsschutz im Rahmen der städtischen Sammelversicherung. Dieser umfasst Unfälle im Kursraum und auf dem direkten Weg zu den Veranstaltungsräumen. Private Wertgegenstände, mitgebrachte Geräte und unfertige Arbeiten sind davon nicht erfasst. Schäden oder Verletzungen müssen vor Verlassen des Museums bei der Kursleitung gemeldet werden. Nachträgliche Meldungen können nur berücksichtigt werden, wenn die Kursleitung erreichbar war.\n\n**Paragraph 30**\nEine Abmeldung ist bis zehn Kalendertage vor Kursbeginn kostenfrei möglich und muss schriftlich erfolgen. Bei späterer Abmeldung wird die halbe Kursgebühr berechnet, sofern kein ärztlicher Nachweis vorliegt. Ein Ersatzteilnehmer kann benannt werden, wenn er die Voraussetzungen des Kurses erfüllt. Bleibt eine Person ohne Nachricht fern, wird die volle Gebühr fällig. Maßgeblich ist der Eingang der Nachricht beim Besucherservice des Museums.",
+      "items": [
+        {
+          "question": "[Satz 4] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Anmeldung",
+            "B: Materialabgabe",
+            "C: Aufsichtspflicht",
+            "D: Bildrechte",
+            "E: Abmeldung",
+            "F: Werkraumordnung",
+            "G: Versicherung",
+            "H: Teilnahmevoraussetzungen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 4] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Anmeldung",
+            "B: Materialabgabe",
+            "C: Aufsichtspflicht",
+            "D: Bildrechte",
+            "E: Abmeldung",
+            "F: Werkraumordnung",
+            "G: Versicherung",
+            "H: Teilnahmevoraussetzungen"
+          ],
+          "answer": "G",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 4] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Anmeldung",
+            "B: Materialabgabe",
+            "C: Aufsichtspflicht",
+            "D: Bildrechte",
+            "E: Abmeldung",
+            "F: Werkraumordnung",
+            "G: Versicherung",
+            "H: Teilnahmevoraussetzungen"
+          ],
+          "answer": "E",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 8 — feste Verbindungen mit Präposition",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 47,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "\"Der Lärm wirkt sich negativ ___ die Konzentration aus.\"",
+          "options": [
+            "über",
+            "auf",
+            "für"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Wir nehmen Rücksicht ___ die Bedürfnisse der Patientinnen.\"",
+          "options": [
+            "für",
+            "von",
+            "auf"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Wir legen großen Wert ___ eine offene Kommunikation.\"",
+          "options": [
+            "in",
+            "auf",
+            "für"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Diese Unannehmlichkeit müssen wir leider ___ Kauf nehmen.\"",
+          "options": [
+            "in",
+            "zu",
+            "auf"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Für Rückfragen stehen wir jederzeit ___ Verfügung.\"",
+          "options": [
+            "in der",
+            "auf",
+            "zur"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ihre Erfahrung bringt einen echten Mehrwert ___ Ausdruck.\"",
+          "options": [
+            "zum",
+            "in den",
+            "auf den"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die neue Regelung tritt ___ Kraft, sobald sie unterschrieben ist.\"",
+          "options": [
+            "in",
+            "auf",
+            "zu"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Wir sollten die Situation ___ Auge behalten.\"",
+          "options": [
+            "im",
+            "unter",
+            "am"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Der Vorschlag steht noch ___ Diskussion.\"",
+          "options": [
+            "zur",
+            "auf",
+            "in der"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ihre Anmerkung trifft ___ den Punkt.\"",
+          "options": [
+            "voll auf",
+            "direkt in",
+            "genau"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Diese Entwicklung gibt ___ Anlass zur Sorge.\"",
+          "options": [
+            "keine",
+            "kein",
+            "keinen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

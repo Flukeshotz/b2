@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Sollte das Duzen im Büro zur Pflicht werden?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 24,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Sollte das Duzen im Büro zur Pflicht werden?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nImmer mehr Unternehmen führen eine unternehmensweite Duz-Kultur ein — nicht als Angebot, sondern als verbindliche Regel für alle, vom Praktikanten bis zur Geschäftsführung. Befürworter sehen darin ein Signal für flache Hierarchien und offene Kommunikation. Kritiker warnen, dass eine erzwungene Nähe genau das Gegenteil bewirken kann.\n\nEin Argument der Befürworter lautet: Das Sie schafft künstliche Distanz, die in modernen, projektbasierten Teams eher hinderlich als hilfreich ist. Wer seinen Vorgesetzten duzt, so die Annahme, traut sich eher, Kritik zu äußern oder eigene Ideen einzubringen.\n\nDiese Annahme ist allerdings nicht unumstritten. Eine Befragung unter Angestellten mehrerer Branchen ergab, dass sich fast ein Drittel der Befragten mit einer erzwungenen Duz-Regel unwohl fühlte — insbesondere ältere Mitarbeitende und solche aus Kulturkreisen, in denen die Anrede stärker mit Respekt verknüpft ist. Für sie fühlte sich das verordnete Duzen nicht wie Nähe an, sondern wie ein Verlust an professioneller Distanz, die sie bewusst schätzten.\n\nAm Ende bleibt die Frage, ob eine Unternehmenskultur überhaupt per Anrede verordnet werden kann — oder ob echte Offenheit sich eher an dem zeigt, WIE miteinander gesprochen wird, nicht WOMIT man sich anspricht.",
+      "items": [
+        {
+          "question": "Was ist laut Text das Hauptargument der Befürworter einer verbindlichen Duz-Kultur?",
+          "options": [
+            "Das Sie schafft künstliche Distanz, die die Kommunikation erschwert.",
+            "Das Duzen spart Zeit in E-Mails.",
+            "Das Duzen ist gesetzlich vorgeschrieben."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut der zitierten Befragung fühlten sich alle Befragten mit einer erzwungenen Duz-Regel wohl.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wer fühlte sich laut Befragung besonders unwohl mit der verordneten Duz-Regel?",
+          "options": [
+            "Nur Mitarbeitende in Führungspositionen.",
+            "Ausschließlich jüngere Mitarbeitende.",
+            "Insbesondere ältere Mitarbeitende und Personen aus bestimmten Kulturkreisen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche abschließende Frage wirft der Text auf?",
+          "options": [
+            "Ob ältere Mitarbeitende generell gekündigt werden sollten.",
+            "Ob das Duzen gesetzlich verboten werden sollte.",
+            "Ob eine Unternehmenskultur überhaupt per Anrede verordnet werden kann."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

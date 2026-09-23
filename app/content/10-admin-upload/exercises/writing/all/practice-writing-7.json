@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 7 — Vorschlag: Bessere Teamkommunikation",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihr Team hat wiederholt Missverständnisse durch unklare Absprachen. Schreiben Sie einen kurzen Vorschlag an Ihr Team, wie die Kommunikation verbessert werden könnte.\n• Beschreiben Sie kurz das Problem.\n• Machen Sie einen konkreten, umsetzbaren Vorschlag.\n• Erklären Sie kurz, warum der Vorschlag helfen würde.",
+          "word_limit": 100,
+          "expected_answer": "Liebes Team,\n\nin letzter Zeit ist mir aufgefallen, dass es bei uns häufiger zu Missverständnissen kommt, weil Absprachen mündlich getroffen und nicht einheitlich dokumentiert werden. Ich möchte daher vorschlagen, dass wir für jedes Projekt ein zentrales, digitales Protokoll einführen, in dem wir direkt nach jeder Besprechung die wichtigsten Aufgaben und Zuständigkeiten stichpunktartig festhalten. Dies würde dazu führen, dass alle Beteiligten jederzeit auf den gleichen Informationsstand zugreifen können und nichts in Vergessenheit gerät. Aus meiner Sicht könnte diese einfache Maßnahme die Transparenz deutlich erhöhen und zeitaufwendige Nachfragen reduzieren. Über Ihre Rückmeldung würde ich mich freuen.\n\nViele Grüße"
+        }
+      ]
+    }
+  ]
+}

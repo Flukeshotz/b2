@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Schreiben, Übungsset 1",
+  "description": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Halbformelle E-Mail: Vertretung bei einem Kundentermin",
+      "passage": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "items": [
+        {
+          "question": "Ihre Kollegin kann kommende Woche krankheitsbedingt nicht an einem wichtigen Kundentermin teilnehmen und hat Sie gebeten, sie zu vertreten. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.\n• Erklären Sie kurz, warum Sie schreiben.\n• Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.\n• Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen.",
+          "word_limit": 150,
+          "expected_answer": "Betreff: Vertretung für den Kundentermin nächste Woche\n\nSehr geehrte Frau Müller,\n\nich schreibe Ihnen, weil mich meine Kollegin Anna Schmidt gebeten hat, sie nächste Woche bei dem wichtigen Termin mit der Firma Meier zu vertreten. Leider ist sie krankheitsbedingt ausgefallen.\n\nDamit der Termin trotzdem wie geplant stattfinden kann, würde ich vorschlagen, dass ich die Präsentation übernehme. Ich könnte mich kurzfristig in die Unterlagen einarbeiten und den Termin gemeinsam mit Herrn Weber aus dem Vertrieb durchführen, da er das Projekt ebenfalls gut kennt. So könnten wir sicherstellen, dass der Kunde eine kompetente Ansprechperson hat.\n\nFür eine optimale Vorbereitung bräuchte ich von Ihnen noch die aktuelle Angebotskalkulation sowie die Gesprächsnotizen vom letzten Treffen. Es wäre außerdem hilfreich, wenn Sie mir kurz Ihre Prioritäten für diese Verhandlung mitteilen könnten.\n\nIch bin zuversichtlich, dass wir den Termin erfolgreich durchführen können.\n\nMit freundlichen Grüßen\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

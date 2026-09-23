@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 6 — Nominalisierung & Adjektivdeklination",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Hard",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "\"Die Situation zu verbessern\" lässt sich nominalisieren als:",
+          "options": [
+            "die Verbesserung der Situation",
+            "die Situation-Verbesserung",
+            "das Verbessern die Situation"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nominalisierung von \"entscheiden\":",
+          "options": [
+            "beide sind möglich, je nach Kontext",
+            "die Entscheidung",
+            "das Entscheiden"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nach einem unbestimmten Artikel: \"ein ___ Patient\"",
+          "options": [
+            "kritische",
+            "kritisches",
+            "kritischer"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ohne Artikel: \"___ Patienten benötigen intensive Betreuung.\"",
+          "options": [
+            "Kritischer",
+            "Kritischen",
+            "Kritische"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Man kann das Dokument nicht mehr ändern.\" — Nominalisiert:",
+          "options": [
+            "die Änderung des Dokuments",
+            "das Ändern-Können",
+            "die Unveränderbarkeit des Dokuments"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Genitiv nach einem stark deklinierten Adjektiv ohne Artikel: \"trotz ___ Wetters\"",
+          "options": [
+            "schlechtem",
+            "schlechten",
+            "schlechtes"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nominalisierung von \"zuverlässig sein\":",
+          "options": [
+            "die Zuverlässigkeit",
+            "die Verlässlichkeit ohne Bezug",
+            "das Zuverlässige"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Mit bestimmtem Artikel Dativ Plural: \"mit den ___ Kolleginnen\"",
+          "options": [
+            "neue",
+            "neuen Kolleginen",
+            "neuen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Es ist wichtig, dass man pünktlich ist.\" — Nominalisiert:",
+          "options": [
+            "das Wichtige am Pünktlichsein",
+            "die Pünktlichkeit ist wichtig genannt",
+            "die Wichtigkeit der Pünktlichkeit"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Gemischte Deklination nach \"kein\": \"kein ___ Grund\"",
+          "options": [
+            "triftiger",
+            "triftigen",
+            "triftige"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wortbildung: aus \"das Personal\" + \"der Mangel\" wird:",
+          "options": [
+            "der Personalmangel",
+            "das Mangelpersonal",
+            "die Personalmangelung"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

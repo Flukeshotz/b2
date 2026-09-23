@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 25 — Problem erklären: Projektverzögerung",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Hard",
+  "order_index": 25,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ein Projekt, für das Sie verantwortlich sind, verzögert sich. Schreiben Sie eine E-Mail an Ihre Führungskraft, in der Sie den Grund erklären und einen neuen Zeitplan vorschlagen.\n• Nennen Sie den konkreten Grund der Verzögerung.\n• Vermeiden Sie es, die Schuld einseitig abzuwälzen.\n• Schlagen Sie einen realistischen neuen Zeitplan vor.",
+          "word_limit": 110,
+          "expected_answer": "Betreff: Neuer Zeitplan für Projekt Alpha\n\nSehr geehrte Frau Müller,\n\nleider muss ich Ihnen mitteilen, dass sich unser Projekt Alpha um voraussichtlich zwei Wochen verzögern wird. Der Hauptgrund ist ein unerwarteter Lieferengpass bei einem wichtigen Zulieferer, der uns erst gestern informiert hat. Ich hätte die Bestellung früher auslösen müssen und übernehme dafür die Verantwortung.\n\nIch habe bereits mit dem Lieferanten eine Expresslieferung für den 15. November vereinbart. Daher schlage ich folgenden neuen Zeitplan vor: Die interne Testphase starten wir am 18. November und die Endabgabe erfolgt am 25. November. Durch Überstunden im Team können wir den Rückstand teilweise aufholen.\n\nIch bitte Sie um Ihr Verständnis und stehe für Rückfragen gerne zur Verfügung.\n\nMit freundlichen Grüßen\nMax Weber"
+        }
+      ]
+    }
+  ]
+}

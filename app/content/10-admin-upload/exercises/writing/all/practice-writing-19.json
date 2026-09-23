@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 19 — Formeller Antrag: Fester Parkplatz",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 19,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Schreiben Sie einen formellen Antrag an die Verwaltung Ihres Arbeitgebers auf Zuteilung eines festen Parkplatzes, mit Begründung.\n• Nennen Sie einen konkreten, sachlichen Grund.\n• Verwenden Sie eine formelle Anrede und einen formellen Schluss.\n• Formulieren Sie den Antrag klar und direkt.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Antrag auf Zuteilung eines festen Mitarbeiterparkplatzes\n\nSehr geehrte Damen und Herren,\n\nhiermit beantrage ich die Zuteilung eines festen Parkplatzes auf dem Firmengelände. Zur Begründung führe ich an, dass ich aufgrund meiner Tätigkeit im Außendienst regelmäßig Firmenfahrzeuge übernehme und häufig mit schwerem Präsentationsmaterial beladen muss. Ein wohnortnaher, reservierter Stellplatz würde den täglichen Transport erheblich erleichtern und meine Arbeitsabläufe effizienter gestalten. Zudem bin ich auf pünktliche Abfahrtszeiten angewiesen, die durch die oft langwierige Parkplatzsuche gefährdet werden. Ich bitte um wohlwollende Prüfung meines Anliegens und stehe für Rückfragen gern zur Verfügung.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #5",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zur Bedeutung von Nachbarschaftshilfe.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zur Bedeutung von Nachbarschaftshilfe.\n• Äußern Sie Ihre Meinung zur Nachbarschaftshilfe in Städten.\n• Nennen Sie Gründe, warum Nachbarn sich heute oft wenig kennen.\n• Nennen Sie Möglichkeiten, wie Nachbarschaftshilfe organisiert werden kann.\n• Nennen Sie Vorteile solcher Hilfsangebote für das Zusammenleben.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Nachbarschaftshilfe – ein alter Wert neu entdeckt?\n\nLiebe Forumsmitglieder,\n\nzum Thema Nachbarschaftshilfe möchte ich gerne meine Gedanken teilen. Meiner Meinung nach ist gegenseitige Unterstützung in der Stadt enorm wichtig, aber leider geht dieser Zusammenhalt zunehmend verloren. Ich selbst wohne in einem Mehrfamilienhaus und kenne kaum jemanden persönlich, was ich sehr schade finde.\n\nEin wesentlicher Grund für diese Anonymität ist sicherlich der hektische Alltag. Viele Menschen pendeln zur Arbeit und haben schlichtweg keine Zeit für ein Gespräch im Treppenhaus. Hinzu kommt die hohe Mobilität: Man zieht häufiger um und baut daher seltener tiefere Bindungen auf. Auch die Digitalisierung spielt eine Rolle, da man soziale Kontakte oft eher online pflegt, anstatt sich mit den Menschen nebenan zu unterhalten.\n\nDabei gibt es zahlreiche Möglichkeiten, die Nachbarschaftshilfe wiederzubeleben. Man könnte beispielsweise ein gemeinsames Sommerfest organisieren oder eine Online-Gruppe gründen, in der man sich gegenseitig um Hilfe bitten kann, etwa beim Blumengießen während des Urlaubs. Auch ein klassisches Schwarzes Brett im Hausflur oder eine Tauschbörse für Werkzeuge sind einfache, aber effektive Mittel.\n\nDie Vorteile solcher Hilfsangebote liegen auf der Hand. Es entsteht ein Gefühl der Sicherheit, weil man weiß, dass jemand ein Auge auf die Wohnung hat. Zudem wird der Alltag erleichtert, wenn man sich beispielsweise bei der Kinderbetreuung oder beim Einkaufen unterstützt. Vor allem aber wird die Einsamkeit bekämpft und das Zusammenleben deutlich harmonischer und freundlicher gestaltet.\n\nIch würde mir wünschen, dass wir alle wieder etwas mehr auf unsere Nachbarn zugehen. Ein kleiner Gefallen kann den Alltag für beide Seiten bereichern.\n\nViele Grüße\nAnna"
+        }
+      ]
+    }
+  ]
+}

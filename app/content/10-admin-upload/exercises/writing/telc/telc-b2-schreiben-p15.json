@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #15",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bitte um Informationen:\nSie arbeiten im Verkauf, überlegen aber, beruflich in den sozialen Bereich zu wechseln. Sie möchten zunächst keine Bewerbung schreiben, sondern realistische Informationen zu Voraussetzungen und Praktika bekommen.\n\nAufgabe B: Beschwerde:\nSie haben für eine Teamsitzung Essen bestellt. Die Lieferung kam erst um 13.15 Uhr, die vegetarischen Portionen fehlten und niemand hatte Sie über die Verspätung informiert.",
+      "items": [
+        {
+          "question": "Sie arbeiten im Verkauf, überlegen aber, beruflich in den sozialen Bereich zu wechseln. Sie möchten zunächst keine Bewerbung schreiben, sondern realistische Informationen zu Voraussetzungen und Praktika bekommen.\n• Erklären Sie Ihre berufliche Ausgangssituation.\n• Fragen Sie nach Voraussetzungen für einen Quereinstieg.\n• Bitten Sie um Informationen zu Praktika und Weiterbildungskosten.\n• Klären Sie Terminform, Dauer und mögliche Unterlagen.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Informationen zum Quereinstieg in den sozialen Bereich\n\nSehr geehrte Damen und Herren,\n\nmein Name ist Anna Meier und ich bin seit mehreren Jahren als Verkäuferin im Einzelhandel tätig. Obwohl mir der Kontakt mit Kunden große Freude bereitet, verspüre ich zunehmend den Wunsch, mich beruflich neu zu orientieren und in den sozialen Bereich zu wechseln. Bevor ich eine formelle Bewerbung in Betracht ziehe, möchte ich mich jedoch zunächst gründlich über realistische Einstiegsmöglichkeiten informieren.\n\nDa ich keine klassische pädagogische Ausbildung mitbringe, wäre ich Ihnen sehr dankbar, wenn Sie mir die genauen Voraussetzungen für einen Quereinstieg nennen könnten. Insbesondere interessiert mich, ob meine bisherige Berufserfahrung im Verkauf in irgendeiner Form angerechnet werden kann oder ob zwingend eine mehrjährige Fortbildung notwendig ist.\n\nDarüber hinaus bitte ich um Informationen zu möglichen Praktika, um erste praktische Erfahrungen zu sammeln. Könnten Sie mir mitteilen, ob Ihre Einrichtung derzeit solche Plätze anbietet und mit welchen Kosten für entsprechende Weiterbildungsmaßnahmen ich rechnen müsste?\n\nAbschließend würde ich gerne klären, ob es sinnvoll wäre, einen persönlichen Beratungstermin zu vereinbaren. Für diesen Fall wäre ich Ihnen verbunden, wenn Sie mir mitteilen würden, wie viel Zeit ich dafür einplanen sollte und welche Unterlagen ich zu einem ersten Gespräch mitbringen müsste.\n\nFür Ihre Unterstützung bedanke ich mich herzlich im Voraus und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nAnna Meier"
+        }
+      ]
+    }
+  ]
+}

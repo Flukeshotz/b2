@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #11",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 28,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nDu besuchst einen Sprachkurs. Du warst krank und hast die Partneraufgabe mit deiner Kursfreundin Mira nicht vorbereiten können. Schreib eine Nachricht an Mira.",
+      "items": [
+        {
+          "question": "Du besuchst einen Sprachkurs. Du warst krank und hast die Partneraufgabe mit deiner Kursfreundin Mira nicht vorbereiten können. Schreib eine Nachricht an Mira.\n• Bitte um einen neuen Übungstermin.\n• Entschuldige dich.\n• Erkläre, was du schon vorbereitet hast.\n• Schlage vor, wie ihr die Aufgabe aufteilen könnt.",
+          "word_limit": 120,
+          "expected_answer": "Liebe Mira,\n\nes tut mir wirklich leid, dass ich unseren Termin nicht einhalten konnte. Ich war leider die ganze Woche krank und lag nur im Bett, deshalb habe ich es nicht geschafft, dir früher Bescheid zu sagen. Könnten wir uns vielleicht morgen Nachmittag in der Bibliothek treffen, um die Partneraufgabe gemeinsam zu besprechen?\n\nTrotz meiner Erkältung habe ich schon ein wenig vorbereitet. Ich habe mir das Thema genau durchgelesen und bereits einige Ideen für die Einleitung gesammelt. Außerdem habe ich wichtige Vokabeln herausgeschrieben, die wir gut verwenden können. Was hältst du davon, wenn ich den theoretischen Teil übernehme und du dich auf die praktischen Beispiele konzentrierst? Natürlich können wir die Aufgaben auch anders aufteilen, falls du einen besseren Vorschlag hast.\n\nIch hoffe, du bist mir nicht böse. Vielen Dank für dein Verständnis!\n\nViele Grüße\n[Dein Name]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 4 — Akademischer Vortrag / Vorlesung, Satz 2",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 13,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 4 — Akademischer Vortrag / Vorlesung",
+      "audio": "goethe-b2-listening-teil4-set2.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Ein Leihladen soll vor allem ...",
+          "options": [
+            "neue Produkte günstiger verkaufen.",
+            "private Keller leer räumen.",
+            "seltener benötigte Dinge gemeinsam nutzbar machen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist laut Vortrag bei der Auswahl der Gegenstände wichtig?",
+          "options": [
+            "Sie müssen Nachfrage und Wartung zugleich erfüllen.",
+            "Sie sollen möglichst groß und teuer sein.",
+            "Sie sollen aus privaten Spenden stammen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Seltene Nutzung eines Gegenstands bedeutet ...",
+          "options": [
+            "dass er automatisch verliehen werden sollte.",
+            "nicht automatisch für eine Ausleihe geeignet.",
+            "dass er besser verkauft als repariert wird."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum reicht eine Online-Liste nicht aus?",
+          "options": [
+            "Weil die Gegenstände sonst zu langsam ausgeliehen werden.",
+            "Weil ältere Menschen grundsätzlich keine Listen nutzen.",
+            "Weil viele Nutzer eine Einweisung oder Beratung brauchen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Gebühr im Leihladen ...",
+          "options": [
+            "finanziert vor allem Pflege und Kontrolle.",
+            "soll den Gewinn der Kommune erhöhen.",
+            "wird nur bei verspäteter Rückgabe verlangt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was meint Hoffmann mit einer Kultur des Zurückbringens?",
+          "options": [
+            "Nutzer sollen geliehene Dinge möglichst spät zurückgeben.",
+            "Die Ausleihe endet, sobald ein Gegenstand bezahlt ist.",
+            "Verantwortung gehört auch nach der Nutzung dazu."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Rolle spielen Workshops?",
+          "options": [
+            "Sie ersetzen die Ausleihe komplizierter Geräte.",
+            "Sie erleichtern den Einstieg in unbekannte Geräte.",
+            "Sie kontrollieren, wer etwas ausleihen darf."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

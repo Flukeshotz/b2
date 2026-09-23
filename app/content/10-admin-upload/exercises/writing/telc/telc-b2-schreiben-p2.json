@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #2",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bewerbung:\nSie studieren Kulturmanagement und suchen eine kleine Nebentätigkeit am Wochenende. Da Sie bereits bei Stadtführungen geholfen haben, möchten Sie sich auf diese Stelle bewerben.\n\nAufgabe B: Bitte um Informationen:\nSie kaufen selten im Internet ein, möchten aber für Ihre Mutter ein Gerät online bestellen. Vorher möchten Sie lernen, woran man sichere Zahlungen und problematische Abos erkennt.",
+      "items": [
+        {
+          "question": "Sie studieren Kulturmanagement und suchen eine kleine Nebentätigkeit am Wochenende. Da Sie bereits bei Stadtführungen geholfen haben, möchten Sie sich auf diese Stelle bewerben.\n• Erklären Sie, warum Sie sich für die Stelle interessieren.\n• Beschreiben Sie passende Erfahrungen im Umgang mit Besucherinnen und Besuchern.\n• Nennen Sie Ihre zeitliche Verfügbarkeit für Einführung und Einsätze.\n• Bitten Sie um ein Gespräch oder Informationen zu den Bewerbungsunterlagen.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Bewerbung als Aushilfe für Stadtführungen am Wochenende – Ihre Stellenausschreibung\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Ausschreibung für eine Nebentätigkeit im Bereich Stadtführungen gelesen. Da ich derzeit Kulturmanagement studiere und eine Leidenschaft für die Geschichte unserer Stadt habe, würde ich mich sehr freuen, Ihr Team am Wochenende zu unterstützen. Die Stelle bietet mir die ideale Möglichkeit, theoretisches Wissen aus dem Studium praktisch anzuwenden und gleichzeitig mein eigenes Budget aufzubessern.\n\nBereits in der Vergangenheit konnte ich wertvolle Erfahrungen im Umgang mit Besucherinnen und Besuchern sammeln. Ich habe regelmäßig bei öffentlichen Themenführungen eines örtlichen Museums ausgeholfen. Zu meinen Aufgaben gehörten die Betreuung internationaler Gästegruppen, der Kartenverkauf sowie die Beantwortung von Fragen zur Stadtgeschichte auf Deutsch und Englisch. Dabei habe ich gelernt, auch in turbulenten Situationen freundlich und serviceorientiert zu bleiben.\n\nMeine zeitliche Verfügbarkeit ist ideal: Ich bin grundsätzlich an beiden Wochenendtagen flexibel einsetzbar, sowohl für Vormittags- als auch für Nachmittagsführungen. Zudem könnte ich bei Bedarf auch freitags an einer Einarbeitung teilnehmen.\n\nGerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation. Bitte teilen Sie mir mit, ob Sie noch weitere Bewerbungsunterlagen von mir benötigen. Über eine Einladung zu einem Vorstellungsgespräch würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n[Vorname Nachname]"
+        }
+      ]
+    }
+  ]
+}

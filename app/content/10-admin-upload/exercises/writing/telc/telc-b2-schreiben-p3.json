@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #3",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Anmeldung:\nSie möchten sich beruflich am Telefon sicherer ausdrücken. Da Sie im Schichtdienst arbeiten, können Sie nicht an jedem Mittwoch teilnehmen und möchten vor der Anmeldung klären, ob der Kurs trotzdem sinnvoll ist.\n\nAufgabe B: Bewerbung:\nSie möchten sich sozial engagieren und haben vormittags zweimal pro Woche Zeit. Da Sie früher im Empfang einer Praxis gearbeitet haben, halten Sie diese Aufgabe für passend.",
+      "items": [
+        {
+          "question": "Sie möchten sich beruflich am Telefon sicherer ausdrücken. Da Sie im Schichtdienst arbeiten, können Sie nicht an jedem Mittwoch teilnehmen und möchten vor der Anmeldung klären, ob der Kurs trotzdem sinnvoll ist.\n• Melden Sie Ihr Interesse am Aussprachetraining an.\n• Erklären Sie Ihre berufliche Situation und Ihr Ziel.\n• Fragen Sie nach Einstufung, Fehlterminen und Kursmaterial.\n• Bitten Sie um Bestätigung der Kosten und der Anmeldung.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Anmeldung und Rückfragen zum Aussprachetraining am Telefon\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihr Kursangebot zum Thema „Sicheres Auftreten am Telefon“ gelesen und möchte mich hiermit für das Aussprachetraining anmelden. Beruflich bin ich im Kundenservice tätig und muss häufig komplexe Sachverhalte telefonisch erklären. Mein Ziel ist es, meine Aussprache zu verbessern und dadurch im Gespräch mit Kunden selbstbewusster und klarer zu kommunizieren.\n\nAllerdings arbeite ich im Schichtdienst, weshalb ich leider nicht regelmäßig mittwochs teilnehmen kann. Daher ist meine wichtigste Frage: Ist eine Kursteilnahme trotz gelegentlicher Fehltermine sinnvoll, oder ist die Anwesenheit an allen Terminen zwingend erforderlich? Zudem wäre ich Ihnen dankbar, wenn Sie mir mitteilen könnten, ob vorab eine mündliche Einstufung stattfindet und welche Kursmaterialien im Preis inbegriffen sind.\n\nBitte bestätigen Sie mir abschließend noch einmal die genauen Kosten sowie den Eingang meiner Anmeldung. Für Rückfragen stehe ich Ihnen gerne zur Verfügung und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #8",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bitte um Informationen:\nIhre Mutter lebt noch allein, braucht aber zunehmend Unterstützung bei Terminen und Medikamenten. Sie möchten am Informationsabend teilnehmen und vorher wissen, ob Ihre Fragen dort passen.\n\nAufgabe B: Bitte um Informationen:\nSie erwarten Besuch von einer Freundin mit Nussallergie und möchten sicherer kochen. Gleichzeitig möchten Sie wissen, ob der Kurs für Menschen ohne große Kocherfahrung geeignet ist.",
+      "items": [
+        {
+          "question": "Ihre Mutter lebt noch allein, braucht aber zunehmend Unterstützung bei Terminen und Medikamenten. Sie möchten am Informationsabend teilnehmen und vorher wissen, ob Ihre Fragen dort passen.\n• Erklären Sie kurz Ihre familiäre Situation.\n• Fragen Sie, ob Organisation von Terminen und Medikamenten besprochen wird.\n• Bitten Sie um Anmeldung für eine Person und Informationen zum Ablauf.\n• Klären Sie, ob auch Hinweise zu Entlastungsangeboten gegeben werden.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Fragen zum Informationsabend für pflegende Angehörige\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich von Ihrem Informationsabend für Angehörige erfahren und würde gerne daran teilnehmen. Meine Mutter lebt noch allein in ihrer eigenen Wohnung, jedoch fällt es ihr zunehmend schwer, ihren Alltag komplett selbstständig zu bewältigen. Insbesondere die Koordination von Arztterminen und die regelmäßige Einnahme ihrer Medikamente stellen eine wachsende Herausforderung dar. Da ich sie dabei unterstützen möchte, suche ich nach praktischen Tipps und Informationen.\n\nIn diesem Zusammenhang wäre ich Ihnen sehr dankbar, wenn Sie mir vorab mitteilen könnten, ob die Organisation von Terminen und die korrekte Medikamentengabe Themen des Abends sein werden. Gerade dieser Bereich bereitet mir momentan die größten Sorgen.\n\nDes Weiteren bitte ich um eine verbindliche Anmeldung für eine Person. Könnten Sie mir bitte auch den genauen zeitlichen Ablauf und den Veranstaltungsort nennen? Es wäre hilfreich zu wissen, ob ich dafür etwas Bestimmtes mitbringen muss.\n\nAbschließend interessiert mich, ob im Rahmen der Veranstaltung auch über mögliche Entlastungsangebote für pflegende Angehörige gesprochen wird, beispielsweise über Betreuungsgruppen oder finanzielle Unterstützungsmöglichkeiten.\n\nFür Ihre Mühe bedanke ich mich im Voraus und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

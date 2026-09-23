@@ -1,0 +1,47 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 3 — Detailverstehen (Journalistischer Text), Satz 3",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Detailverstehen (Journalistischer Text)",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nEin Beruf für drei Tage\n\nViele Jugendliche wissen am Ende der Schulzeit nur ungefähr, welchen Beruf sie später ausüben möchten. Ein neues Projekt im Landkreis Bergtal soll ihnen die Entscheidung erleichtern. Unter dem Namen „Drei Tage Praxis“ können Schülerinnen und Schüler der zehnten Klassen kurze Einblicke in mehrere Betriebe bekommen. Anders als bei einem klassischen Praktikum bleiben sie nicht zwei Wochen an einem Ort, sondern wechseln nach drei Tagen in ein anderes Unternehmen.\n\nDie Idee entstand im Bildungsbüro des Landkreises, nachdem mehrere Ausbildungsplätze unbesetzt geblieben waren. Gespräche mit Jugendlichen zeigten: Viele kannten nur Berufe aus ihrer Familie oder aus sozialen Medien. Handwerksbetriebe, Pflegeeinrichtungen und technische Werkstätten kamen in ihren Vorstellungen kaum vor. Gleichzeitig klagten die Betriebe, Bewerberinnen und Bewerber hätten oft ein falsches Bild vom Alltag. Manche erwarteten sofort kreative Aufgaben, andere unterschätzten körperliche Arbeit oder den Umgang mit Kunden.\n\nDas Projekt soll diese Lücke schließen. In einer Bäckerei beobachten die Jugendlichen nicht nur das Verzieren von Torten, sondern auch das frühe Aufstehen und die genaue Planung der Mengen. In einer Autowerkstatt geht es nicht nur um Motoren, sondern auch um digitale Fehlerdiagnose und Gespräche mit Kunden. Eine Pflegeeinrichtung zeigt bewusst sowohl schöne Momente mit Bewohnerinnen als auch anstrengende Situationen. Die Betriebe sollen also nicht werben, sondern einen möglichst ehrlichen Ausschnitt zeigen.\n\nFür die Jugendlichen hat die kurze Dauer Vorteile. Wer merkt, dass ein Beruf nicht passt, verliert nicht gleich zwei Wochen. Außerdem können sie verschiedene Bereiche vergleichen: Arbeit im Team, Kontakt mit Menschen, technische Aufgaben oder feste Abläufe. Eine Schülerin erzählte nach dem ersten Durchgang, sie habe einen Büroberuf immer langweilig gefunden, bis sie in einer Spedition sah, wie viel Organisation und schnelles Entscheiden dort nötig sind. Ein anderer Schüler entschied sich nach drei Tagen im Hotel gegen die Gastronomie, weil ihm die wechselnden Arbeitszeiten zu unsicher erschienen.\n\nGanz einfach ist die Organisation allerdings nicht. Kleine Betriebe haben oft wenig Personal, das Jugendliche betreuen kann. Deshalb dürfen höchstens zwei Schülerinnen oder Schüler gleichzeitig in einen Betrieb. Die Schulen müssen die Termine genau abstimmen, damit niemand ohne Platz bleibt. Einige Lehrkräfte wünschen sich außerdem mehr Zeit für die Vorbereitung. Wer nicht weiß, welche Fragen er stellen kann, nimmt aus drei Tagen vielleicht nur oberflächliche Eindrücke mit.\n\nDarum gehört inzwischen ein Unterrichtsmodul zum Projekt. Vor dem ersten Besuch formulieren die Jugendlichen Erwartungen und Fragen. Danach vergleichen sie diese mit ihren Erfahrungen. Die Betriebe erhalten ebenfalls Rückmeldungen: War die Erklärung verständlich? Durften die Jugendlichen selbst etwas ausprobieren? Gab es nur Zuschauerrollen? Das Bildungsbüro hofft, dass beide Seiten dadurch realistischer miteinander umgehen.\n\nFür manche Eltern ist das neue Modell zunächst ungewohnt. Sie hätten lieber ein längeres Praktikum, weil man einen Beruf nach drei Tagen angeblich noch nicht beurteilen könne. Das Bildungsbüro sieht das anders: Die kurzen Besuche sollen keine endgültige Entscheidung ersetzen, sondern Neugier wecken und falsche Vorstellungen korrigieren. Wer danach ernsthaft interessiert ist, kann immer noch ein längeres Praktikum vereinbaren. Gerade diese zweite Stufe nutzen inzwischen mehrere Jugendliche, die vorher nur zufällig in einem Betrieb gelandet waren.\n\nSolche Rückmeldungen sind besonders wertvoll.\n\nNach dem ersten Jahr fällt die Bilanz vorsichtig positiv aus. Nicht alle Jugendlichen haben sofort einen Ausbildungswunsch entwickelt. Viele konnten aber Berufe ausschließen oder neu bewerten. Auch einige Betriebe meldeten, dass sich später Bewerber gemeldet hätten, die ohne den kurzen Besuch nie auf sie aufmerksam geworden wären. Das ist kein Wundermittel gegen Fachkräftemangel. Aber es zeigt, dass Berufsorientierung mehr braucht als Broschüren und Plakate.",
+      "items": [
+        {
+          "question": "Das Projekt richtet sich an Jugendliche, die ...",
+          "options": [
+            "bereits einen Ausbildungsvertrag unterschrieben haben.",
+            "zwei Wochen in einem Betrieb arbeiten möchten.",
+            "verschiedene Berufsfelder praktisch kennenlernen sollen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Betriebe beklagten, dass Bewerber ...",
+          "options": [
+            "zu wenig über den Arbeitsalltag wussten.",
+            "nur technische Berufe kennenlernen wollten.",
+            "Berufe aus ihrem privaten Umfeld kannten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was sollen die Betriebsbesuche zeigen?",
+          "options": [
+            "Welche Betriebe die besten Ausbildungsbedingungen bieten.",
+            "Warum körperliche Arbeit vermieden werden sollte.",
+            "Wie ein Beruf mit schönen und schwierigen Seiten aussieht."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

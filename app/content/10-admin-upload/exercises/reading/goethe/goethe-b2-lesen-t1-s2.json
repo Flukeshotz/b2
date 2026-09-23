@@ -1,0 +1,83 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 1 — Zuordnung (Meinungen & Personen), Satz 2",
+  "description": "Sie lesen in einem Forum, wie Menschen über lokales und digitales Einkaufen denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 1 — Zuordnung (Meinungen & Personen)",
+      "passage": "Sie lesen in einem Forum, wie Menschen über lokales und digitales Einkaufen denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.\n\n**a Anja**\nIch kaufe vieles im Internet, aber nicht aus Bequemlichkeit allein. Auf dem Land gibt es bei uns kaum Fachgeschäfte, und nach der Arbeit fährt nur noch selten ein Bus in die nächste Stadt. Wenn ich für meine Mutter spezielle Pflegeprodukte brauche, finde ich online schneller heraus, ob etwas lieferbar ist. Trotzdem bestelle ich nicht wahllos. Kleidung probiere ich lieber im Laden an, weil Rücksendungen mich nerven und am Ende auch nicht besonders umweltfreundlich sind. Einmal im Monat fahre ich samstags mit meiner Nachbarin zum Wochenmarkt. Dort kaufe ich Käse, Brot und Gemüse, obwohl es teurer ist. Mir gefällt, dass die Verkäuferinnen wissen, was gerade aus der Region kommt. Bei technischen Geräten lese ich dagegen viele Bewertungen und entscheide erst nach ein paar Tagen. Spontankäufe passieren mir eher in hübschen kleinen Läden als im Internet.\n\n**b Moritz**\nFür mich ist Einkaufen vor allem eine Frage von Zeit. Ich arbeite in wechselnden Schichten und möchte meinen freien Vormittag nicht in einer Schlange verbringen. Deshalb bestelle ich Haushaltswaren, Druckerpatronen oder Sportschuhe meistens online. Das heißt aber nicht, dass mir lokale Geschäfte egal sind. Mein Fahrrad lasse ich immer in der Werkstatt um die Ecke reparieren, weil ich dort sofort eine ehrliche Einschätzung bekomme. Außerdem kaufe ich Geschenke gern persönlich, besonders wenn ich noch keine klare Idee habe. Mich stört nur, wenn Händler über Online-Konkurrenz schimpfen, aber selbst unfreundlich sind oder keine verlässlichen Öffnungszeiten haben. Kunden brauchen heute beides: gute Beratung vor Ort und einfache digitale Informationen. Wenn ein Laden online zeigt, was vorrätig ist, gehe ich sogar eher hin. Reine Nostalgie rettet keinen Einzelhandel.\n\n**c Selin**\nIch habe während der Ausbildung in einem Buchladen gearbeitet, deshalb hängt mein Herz am lokalen Handel. Dort ging es nicht nur ums Verkaufen, sondern auch um Gespräche. Viele Kundinnen kamen mit einer vagen Idee und gingen mit etwas nach Hause, das wirklich passte. Online bekommt man zwar Vorschläge, aber sie ersetzen keine Person, die nachfragt. Trotzdem bin ich nicht romantisch. Wenn ein Fachbuch nur gebraucht im Netz zu finden ist, bestelle ich es dort. Auch bei großen Preisunterschieden verstehe ich, dass Menschen rechnen müssen. Was ich problematisch finde, ist die Erwartung, dass alles sofort und kostenlos geliefert wird. Dadurch sieht man die Arbeit dahinter nicht mehr. Ich versuche, weniger, aber bewusster zu kaufen. Manchmal bestelle ich im Laden und hole es später ab. Das dauert länger, fühlt sich für mich aber fairer an.\n\n**d Georg**\nIch verstehe die moralische Aufregung ums Einkaufen nur teilweise. Ob lokal oder online: Entscheidend ist doch, ob ich bekomme, was ich brauche, und ob der Preis stimmt. Ich bin Rentner und habe Zeit, aber nicht unbegrenzt Geld. Deshalb vergleiche ich Angebote gründlich. Für Lebensmittel gehe ich zu Fuß in den Supermarkt, weil ich dort Sonderangebote sehe und keine Liefergebühr zahle. Für Ersatzteile meines alten Radios nutze ich dagegen kleine Online-Shops, die ich sonst nie gefunden hätte. Meine Tochter meint, ich solle mehr im Viertel kaufen, damit die Geschäfte bleiben. Das klingt gut, aber manche Läden führen Dinge, die ich schlicht nicht brauche. Beratung ist schön, wenn sie kompetent ist. Ich habe jedoch auch schon erlebt, dass Verkäufer mir das teuerste Modell andrehen wollten. Seitdem informiere ich mich vorher selbst.",
+      "items": [
+        {
+          "question": "Wer bestellt aus Mangel an Geschäften?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer besucht Läden wegen Online-Informationen?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei wem zählt vor allem der Preis?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer findet persönliche Beratung besonders wertvoll, wenn Kundinnen noch unentschlossen sind?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer findet Anprobieren vor Ort sinnvoller?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer hält es für problematisch, dass Lieferung oft als unsichtbare Arbeit wahrgenommen wird?",
+          "options": [
+            "A: Anja",
+            "B: Moritz",
+            "C: Selin",
+            "D: Georg"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

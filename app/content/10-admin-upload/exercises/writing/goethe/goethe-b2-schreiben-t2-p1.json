@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #1",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 18,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie arbeiten neben dem Studium in einer Werbeagentur. Wegen einer zusätzlichen Hausarbeit können Sie einen Bericht nicht bis Freitag fertigstellen. Schreiben Sie eine Nachricht an Ihre Projektleiterin, Frau Schneider.",
+      "items": [
+        {
+          "question": "Sie arbeiten neben dem Studium in einer Werbeagentur. Wegen einer zusätzlichen Hausarbeit können Sie einen Bericht nicht bis Freitag fertigstellen. Schreiben Sie eine Nachricht an Ihre Projektleiterin, Frau Schneider.\n• Zeigen Sie Verständnis für die Projektplanung.\n• Erklären Sie Ihre Situation.\n• Machen Sie einen Vorschlag für die weitere Arbeit.\n• Bitten Sie um eine kurze Fristverlängerung.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Bericht zum Projekt Alpha – kurze Fristverlängerung\n\nSehr geehrte Frau Schneider,\n\nich weiß, dass der Bericht für die morgige Projektbesprechung eine wichtige Grundlage ist, und es ist mir sehr bewusst, dass meine Verspätung Ihre Planung beeinträchtigen könnte. Leider hat sich meine Situation kurzfristig geändert, da ich eine unerwartete, umfangreiche Hausarbeit für die Universität annehmen musste, die diese Woche abzugeben ist. Aus diesem Grund kann ich den Bericht nicht wie vereinbart bis Freitag fertigstellen. Um den Arbeitsfluss dennoch so wenig wie möglich zu stören, könnte ich Ihnen am Freitag eine detaillierte Zusammenfassung der wichtigsten Ergebnisse zukommen lassen. Den vollständigen, finalen Bericht würde ich dann bis Montagmittag fertigstellen. Wäre eine kurze Fristverlängerung bis dahin für Sie in Ordnung? Ich bitte um Ihr Verständnis und würde mich über eine kurze Rückmeldung sehr freuen.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

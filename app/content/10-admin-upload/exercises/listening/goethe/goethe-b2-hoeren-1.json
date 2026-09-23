@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Hören, Übungsset 1",
+  "description": "Hören Sie den Kurzvortrag einmal und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzvortrag: Ergebnisse eines Mitarbeitergesprächs",
+      "audio": "goethe_hoeren_1_mitarbeitergespraech.mp3",
+      "passage": "Hören Sie den Kurzvortrag einmal und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Wie viele Mitarbeitergespräche wurden insgesamt geführt?",
+          "options": [
+            "84",
+            "48",
+            "8"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was war der am häufigsten genannte Wunsch?",
+          "options": [
+            "Mehr Klarheit über Aufstiegsmöglichkeiten.",
+            "Flexiblere Arbeitszeiten.",
+            "Ein höheres Gehalt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Flexiblere Arbeitszeiten wurden genauso oft genannt wie Aufstiegsmöglichkeiten.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was hat den Personalleiter positiv überrascht?",
+          "options": [
+            "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit.",
+            "Die niedrige Teilnahmequote.",
+            "Der Wunsch nach mehr Homeoffice."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

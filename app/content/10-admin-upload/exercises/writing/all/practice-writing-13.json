@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 13 — Stellungnahme: Neue Kleiderordnung",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 13,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihr Unternehmen plant eine strengere Kleiderordnung im Kundenkontakt. Nehmen Sie dazu Stellung: Stimmen Sie zu oder lehnen Sie ab, und warum?\n• Nennen Sie Ihre Position klar.\n• Geben Sie mindestens einen Grund für Ihre Position.\n• Gehen Sie kurz auf ein mögliches Gegenargument ein.",
+          "word_limit": 100,
+          "expected_answer": "Ich bin der festen Überzeugung, dass eine strengere Kleiderordnung im Kundenkontakt sinnvoll ist. Ein einheitliches und professionelles Erscheinungsbild stärkt nämlich das Vertrauen der Kunden und vermittelt Kompetenz. Wenn beispielsweise ein Bankberater im Anzug auftritt, wirkt er automatisch seriöser, was die Kundenbindung positiv beeinflussen kann. Einerseits verstehe ich das Gegenargument, dass individuelle Kleidung die Persönlichkeit der Mitarbeiter unterstreicht und für Wohlbefinden sorgt. Andererseits sollte im direkten Kundenkontakt der Wiedererkennungswert des Unternehmens Vorrang haben. Ein gepflegter, einheitlicher Stil ist meiner Meinung nach keine Einschränkung, sondern eine Chance, als Team professionell aufzutreten."
+        }
+      ]
+    }
+  ]
+}

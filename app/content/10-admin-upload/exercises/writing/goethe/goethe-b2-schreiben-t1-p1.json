@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #1",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu Online-Bewertungen im Alltag.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu Online-Bewertungen im Alltag.\n• Äußern Sie Ihre Meinung zu Online-Bewertungen vor dem Kauf oder Besuch.\n• Nennen Sie Gründe, warum viele Menschen solchen Bewertungen vertrauen.\n• Nennen Sie andere Möglichkeiten, sich über Produkte oder Dienstleistungen zu informieren.\n• Nennen Sie Vorteile dieser anderen Informationsmöglichkeiten.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nzum Thema Online-Bewertungen im Alltag möchte ich gerne meine Gedanken teilen. Meiner Ansicht nach sind diese Bewertungen ein zweischneidiges Schwert. Einerseits finde ich sie sehr praktisch, andererseits sollte man ihnen nicht blind vertrauen.\n\nViele Menschen verlassen sich auf solche Rezensionen, und das hat gute Gründe. Erstens bieten sie scheinbar authentische Erfahrungsberichte von echten Nutzern, was eine gewisse soziale Bestätigung darstellt. Zweitens sind sie extrem schnell und einfach zugänglich – ein kurzer Blick auf das Smartphone genügt. Nicht zuletzt gibt die schiere Menge an positiven Bewertungen vielen ein Gefühl der Sicherheit, die berühmte 'Katze im Sack' nicht kaufen zu müssen.\n\nNeben Online-Bewertungen gibt es jedoch auch andere, sehr nützliche Informationsquellen. Man kann sich zum Beispiel in einem Fachgeschäft persönlich beraten lassen oder die ausführlichen Tests von unabhängigen Stiftungen wie Stiftung Warentest lesen. Auch der Rat von Freunden und Familie, die ein Produkt bereits besitzen, ist oft Gold wert.\n\nDiese Alternativen haben entscheidende Vorteile. Im Fachhandel bekommt man eine individuelle Beratung, die genau auf die eigenen Bedürfnisse zugeschnitten ist. Professionelle Testberichte arbeiten mit wissenschaftlichen Methoden und sind daher meist objektiver als subjektive Online-Kommentare. Und die Empfehlung eines Freundes basiert auf Vertrauen und lässt sich im direkten Gespräch viel besser hinterfragen.\n\nZusammenfassend denke ich, dass Online-Bewertungen eine gute erste Orientierung bieten, man aber für wichtige Entscheidungen besser auf eine Mischung verschiedener vertrauenswürdiger Quellen setzen sollte.\n\nViele Grüße,\nForumsnutzerin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 4 — abstrakte Nomen in Berichten",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Hard",
+  "order_index": 43,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "\"Es ist ___, dass alle Unterlagen vollständig sind.\" — passendes Nomen:",
+          "options": [
+            "der Umstand",
+            "die Auswirkung",
+            "die Voraussetzung"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die ___ des neuen Gesetzes zeigten sich erst nach Monaten.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeiten",
+            "Voraussetzungen",
+            "Auswirkungen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Es besteht ein klarer ___ zwischen Stress und Fehlerquote.\" — passendes Nomen:",
+          "options": [
+            "Eindruck",
+            "Zusammenhang",
+            "Anlass"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Der ___ für die Beschwerde war ein Missverständnis.\" — passendes Nomen:",
+          "options": [
+            "Zusammenhang",
+            "Eindruck",
+            "Anlass"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ich hatte den ___, dass die Erklärung nicht ausreichte.\" — passendes Nomen:",
+          "options": [
+            "Umstand",
+            "Eindruck",
+            "Anlass"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Unter diesem ___ war die Verzögerung nicht zu vermeiden.\" — passendes Nomen:",
+          "options": [
+            "Umstand",
+            "Anlass",
+            "Zusammenhang"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die ___ für den Fehler lag beim Team, nicht bei Einzelnen.\" — passendes Nomen:",
+          "options": [
+            "Maßnahme",
+            "Bereitschaft",
+            "Verantwortung"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ihre ___, zusätzliche Schichten zu übernehmen, wurde sehr geschätzt.\" — passendes Nomen:",
+          "options": [
+            "Voraussetzung",
+            "Maßnahme",
+            "Bereitschaft"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die eingeleiteten ___ zeigten schnell Wirkung.\" — passendes Nomen:",
+          "options": [
+            "Eindrücke",
+            "Umstände",
+            "Maßnahmen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Es gibt keinen Grund zur ___ — die Werte sind stabil.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeit",
+            "Bereitschaft",
+            "Besorgnis"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die genaue ___ für diese Aufgabe war unklar.\" — passendes Nomen:",
+          "options": [
+            "Zuständigkeit",
+            "Auswirkung",
+            "Besorgnis"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

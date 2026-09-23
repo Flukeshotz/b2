@@ -1,0 +1,78 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 1",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "audio": "goethe-b2-listening-teil2-set1.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Frau Krüger hält einzelne kühle Parks für nicht ausreichend, weil ...",
+          "options": [
+            "sie nachts selbst zu viel Wärme speichern.",
+            "auch der Weg dorthin für viele Menschen erträglich sein muss.",
+            "sie nachts weniger Wärme speichern als steinerne Plätze."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ergaben die Messungen in manchen Nebenstraßen?",
+          "options": [
+            "Dichte Bebauung kann Wärme bis in den Abend halten.",
+            "Hauptstraßen sind abends grundsätzlich kühler.",
+            "Parks werden von den Sensoren kaum erfasst."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Einschränkung nennt Frau Krüger bei neuen Bäumen?",
+          "options": [
+            "Sie eignen sich nur für Fußgängerzonen.",
+            "Sie machen Haltestellen im Sommer zu dunkel.",
+            "Sie wirken erst mit der Zeit und brauchen passende Bedingungen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sehr helle Flächen können laut Frau Krüger problematisch sein, weil sie ...",
+          "options": [
+            "blenden oder Wärme ungünstig zurückwerfen können.",
+            "immer verhindern, dass Regenwasser versickert.",
+            "nur zusammen mit Entsiegelung und Schatten sinnvoll wirken."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche soziale Frage betont Frau Krüger?",
+          "options": [
+            "Viele Menschen bleiben aus freien Stücken im Homeoffice.",
+            "Touristen brauchen vor allem angenehmere Plätze.",
+            "Manche Gruppen können Hitze nicht einfach ausweichen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was empfiehlt sie Städten als ersten Schritt?",
+          "options": [
+            "sofort alle großen Straßen vollständig umzubauen.",
+            "bei besonders belasteten Alltagsorten zu beginnen.",
+            "erst nach vielen Jahren Messungen zu handeln."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

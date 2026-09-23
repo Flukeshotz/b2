@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Hören, Übungsset 2",
+  "description": "Hören Sie das Gespräch einmal und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Gespräch: Ein neues Ablagesystem einführen",
+      "audio": "telc_hoeren_2_ablagesystem.mp3",
+      "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worüber sprechen die beiden Kollegen?",
+          "options": [
+            "Wie Kundenunterlagen künftig abgelegt werden sollen.",
+            "Wie neue Kunden gewonnen werden können.",
+            "Wie ein Kundentermin verschoben werden kann."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Worauf einigen sich die beiden Kollegen am Ende?",
+          "options": [
+            "Hauptordner nach Kundennamen, Unterordner nach Projektart.",
+            "Ausschließlich alphabetisch nach Kundennamen.",
+            "Ausschließlich nach Projektart, ohne Kundenbezug."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kollege 1 ist mit dem ersten Vorschlag (nur nach Kundennamen sortieren) sofort einverstanden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was schlägt Kollege 1 am Ende zusätzlich vor?",
+          "options": [
+            "Die Regelung schriftlich festzuhalten.",
+            "Ein neues Computerprogramm anzuschaffen.",
+            "Die Entscheidung noch einmal zu vertagen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

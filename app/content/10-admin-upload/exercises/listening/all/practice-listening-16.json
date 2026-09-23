@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Teambesprechung: Neue Software",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Teambesprechung: Neue Software",
+      "audio": "practice_listening_16_neue_software.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worüber muss das Team entscheiden?",
+          "options": [
+            "Ob die neue Software nächsten Monat oder im neuen Jahr eingeführt wird.",
+            "Ob ein neuer Anbieter gesucht wird.",
+            "Ob die alte Software komplett abgeschafft wird."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum ist Mitarbeiter 2 zunächst gegen eine Einführung im nächsten Monat?",
+          "options": [
+            "Er hat noch keine Schulung erhalten.",
+            "Er hält eine Umstellung mitten im Quartal für riskant.",
+            "Er findet die Software insgesamt überflüssig."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Mitarbeiterin 1 räumt ein, dass das Risiko-Argument von Mitarbeiter 2 berechtigt ist.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was ändert am Ende Mitarbeiter 2s Meinung?",
+          "options": [
+            "Ein direkter Befehl des Teamleiters.",
+            "Ein günstigerer Preis des Anbieters.",
+            "Die Aussicht auf eine parallele Testphase mit dem alten System."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

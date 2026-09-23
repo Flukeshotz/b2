@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 29 — Vergleich: Präsenz-Meeting vs. Videokonferenz",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 29,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Vergleichen Sie kurz Präsenz-Meetings und Videokonferenzen für die wöchentliche Teambesprechung und sagen Sie, welches Format Sie bevorzugen würden.\n• Nennen Sie je einen Vorteil und einen Nachteil pro Format.\n• Nutzen Sie Vergleichskonnektoren.\n• Formulieren Sie am Ende Ihre eigene Präferenz.",
+          "word_limit": 110,
+          "expected_answer": "Für wöchentliche Teambesprechungen stehen meist Präsenz-Meetings oder Videokonferenzen zur Auswahl. Ein wesentlicher Vorteil von Präsenz-Meetings ist die direkte persönliche Interaktion, die die Teamdynamik stärkt. Demgegenüber steht jedoch der Nachteil des höheren Zeitaufwands durch Anfahrtswege. Videokonferenzen hingegen ermöglichen eine flexible Teilnahme von überall und sparen dadurch wertvolle Zeit. Im Gegensatz dazu können technische Probleme oder eine instabile Internetverbindung den Gesprächsfluss erheblich stören. Während das persönliche Treffen also die soziale Bindung fördert, bietet das virtuelle Format mehr Effizienz. Ich persönlich bevorzuge Videokonferenzen, weil sie sich besser in meinen Arbeitsalltag integrieren lassen und unnötige Pendelzeiten vermeiden. Dennoch finde ich ein gelegentliches Präsenz-Meeting für den Zusammenhalt im Team sinnvoll."
+        }
+      ]
+    }
+  ]
+}

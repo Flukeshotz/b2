@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 8 — Reaktion auf einen Forumsbeitrag: Vier-Tage-Woche",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ein anderer Nutzer hat im Forum geschrieben: \"Die Vier-Tage-Woche funktioniert nur in Büros, nicht in der Pflege oder im Handwerk.\" Schreiben Sie eine Antwort, in der Sie zustimmen, widersprechen oder differenzieren.\n• Gehen Sie konkret auf die Aussage des anderen Nutzers ein.\n• Räumen Sie ggf. einen berechtigten Punkt ein, bevor Sie widersprechen.\n• Formulieren Sie Ihre eigene Position klar.",
+          "word_limit": 110,
+          "expected_answer": "Ich verstehe Ihren Einwand, dass die Vier-Tage-Woche in der Pflege oder im Handwerk schwerer umsetzbar scheint, da diese Berufe eine ständige physische Anwesenheit erfordern. Allerdings bin ich der Meinung, dass eine pauschale Ablehnung zu kurz greift. Natürlich kann eine Krankenschwester nicht einfach weniger Tage arbeiten, ohne dass die Versorgung leidet. Doch genau hier setzen innovative Arbeitszeitmodelle an: Durch eine bessere Schichtplanung, Jobsharing oder den gezielten Einsatz von Assistenzkräften ließe sich die Arbeitslast anders verteilen. Im Handwerk könnten flexiblere Kundentermine und optimierte Abläufe längere Wochenenden ermöglichen. Entscheidend ist nicht die Branche, sondern die Bereitschaft, Arbeitsprozesse neu zu denken. Daher bin ich überzeugt, dass die Vier-Tage-Woche mit durchdachten Konzepten auch außerhalb von Büros funktionieren kann und zu zufriedeneren, gesünderen Mitarbeitern führt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #13",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 15,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu Haustieren am Arbeitsplatz.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu Haustieren am Arbeitsplatz.\n• Äußern Sie Ihre Meinung zu Haustieren am Arbeitsplatz.\n• Nennen Sie Gründe, warum manche Beschäftigte ihr Tier mitbringen möchten.\n• Nennen Sie mögliche Schwierigkeiten für Kolleginnen, Kollegen und Betriebe.\n• Nennen Sie Vorteile klarer Absprachen zu diesem Thema.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nich finde das Thema „Haustiere am Arbeitsplatz“ sehr spannend und möchte hierzu meine Gedanken teilen. Meiner Ansicht nach kann die Anwesenheit von Tieren im Büro eine große Bereicherung sein, allerdings nur, wenn bestimmte Regeln eingehalten werden.\n\nZunächst einmal ist es verständlich, warum manche Beschäftigte ihr Tier mitbringen möchten. Ein wesentlicher Grund ist sicherlich die emotionale Bindung zum Haustier, denn viele Menschen betrachten es als vollwertiges Familienmitglied. Darüber hinaus kann die Sorge um das allein gelassene Tier zu Hause die Konzentration bei der Arbeit erheblich stören. Ein weiterer Aspekt ist, dass ein Bürohund beispielsweise in der Mittagspause zu einem kurzen Spaziergang motiviert, was der Gesundheit zugutekommt.\n\nAuf der anderen Seite dürfen wir die möglichen Schwierigkeiten nicht außer Acht lassen. Ein zentrales Problem sind Allergien oder Ängste von Kolleginnen und Kollegen, die man unbedingt respektieren muss. Auch die Hygiene am Arbeitsplatz spielt eine große Rolle, wenn Tierhaare herumfliegen. Für den Betrieb könnte es zudem zu Haftungsfragen kommen, falls ein Tier einen Schaden verursacht oder jemanden verletzt. Nicht zuletzt kann ein unruhiges Tier die Produktivität aller Mitarbeiter im Raum beeinträchtigen.\n\nGerade wegen dieser gegensätzlichen Punkte halte ich klare Absprachen für absolut notwendig. Solche Vereinbarungen schaffen Sicherheit und verhindern Konflikte von vornherein. Wenn zum Beispiel festgelegt wird, welche Tiere erlaubt sind, ob es hundefreie Zonen gibt und wer für die Sauberkeit verantwortlich ist, können alle Beteiligten entspannter arbeiten. So lassen sich die positiven Effekte, wie eine bessere Arbeitsatmosphäre und weniger Stress, optimal nutzen, ohne dass sich jemand unwohl fühlt.\n\nWas sind eure Erfahrungen mit diesem Thema? Ich freue mich auf eure Beiträge!\n\nViele Grüße\nMax"
+        }
+      ]
+    }
+  ]
+}

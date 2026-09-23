@@ -1,0 +1,117 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 1",
+  "description": "Finden Sie für jede Situation die passende Anzeige.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "passage": "Finden Sie für jede Situation die passende Anzeige.\n\nNina kann sich über ein halbes Jahr regelmäßig für jüngere Schulkinder engagieren, die sicherer mit Büchern werden sollen.",
+      "items": [
+        {
+          "question": "Nina kann sich über ein halbes Jahr regelmäßig für jüngere Schulkinder engagieren, die sicherer mit Büchern werden sollen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Paul möchte ein kaputtes Fahrrad kostenlos prüfen lassen und würde Ersatzteile selbst bezahlen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ein 17-Jähriger will hinter den Kulissen kleiner Auftritte Ton und Beleuchtung sicher aufbauen lernen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Samira sucht eine offene Runde zum Reden in deutscher Sprache; feste Kursstunden oder Aufsicht für Kinder sind unwichtig.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Eine Kollegin hat Ableger übrig und möchte wenige davon gegen andere grüne Mitbringsel eintauschen.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "E",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

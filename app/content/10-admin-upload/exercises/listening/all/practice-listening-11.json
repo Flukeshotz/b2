@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Kollegen besprechen ein Kundenproblem",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kollegen besprechen ein Kundenproblem",
+      "audio": "practice_listening_11_kundenproblem.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was ist das konkrete Problem des Kunden Meierhoff?",
+          "options": [
+            "Seine Bestellung wurde zum dritten Mal falsch geliefert.",
+            "Er hat zu viel bezahlt.",
+            "Seine Bestellung ist komplett verschwunden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist laut Kollege 1 die tatsächliche Ursache?",
+          "options": [
+            "Ein Fehler des Kunden bei der Bestellung.",
+            "Ein Streik im Lager.",
+            "Eine falsche Artikelnummer im System."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was schlägt Kollege 2 zusätzlich vor?",
+          "options": [
+            "Den Kunden Meierhoff sofort zu entschädigen.",
+            "Das System komplett neu aufzusetzen.",
+            "Zu prüfen, ob dieselbe Artikelnummer auch andere Bestellungen betrifft."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 18 — Halbformelle E-Mail: Teamevent absagen",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 18,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie wurden zu einem Teamevent eingeladen, können aber aus persönlichen Gründen nicht teilnehmen. Schreiben Sie eine halbformelle Absage-E-Mail.\n• Bedanken Sie sich für die Einladung.\n• Sagen Sie höflich ab, ohne zu viele private Details preiszugeben.\n• Bieten Sie ggf. eine Alternative an (z. B. beim nächsten Mal).",
+          "word_limit": 80,
+          "expected_answer": "Betreff: Teamevent am Freitag\n\nLiebes Team,\n\nvielen herzlichen Dank für die Einladung zum gemeinsamen Event. Ich habe mich wirklich sehr darüber gefreut. Leider kann ich aus persönlichen Gründen diesmal nicht dabei sein, was ich sehr bedaure.\n\nIch würde mich aber freuen, beim nächsten Mal unbedingt mitzukommen und die Gelegenheit zum Austausch zu nutzen. Ich wünsche euch allen viel Spaß und einen gelungenen Abend!\n\nViele Grüße\nAnna Meier"
+        }
+      ]
+    }
+  ]
+}

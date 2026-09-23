@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 8 — Temporalsätze & Plusquamperfekt",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "___ sie die Ausbildung abgeschlossen hatte, bewarb sie sich sofort.",
+          "options": [
+            "Bis",
+            "Bevor",
+            "Nachdem"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie arbeitet dort, ___ sie umgezogen ist.",
+          "options": [
+            "bis",
+            "sobald",
+            "seit"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ der Arzt kommt, bleibt die Patientin im Bett.",
+          "options": [
+            "Seit",
+            "Während",
+            "Bis"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ ich das Formular ausgefüllt hatte, merkte ich den Fehler.",
+          "options": [
+            "Kaum dass",
+            "Bevor",
+            "Solange"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ die Schicht beginnt, wird die Übergabe gemacht.",
+          "options": [
+            "Seit",
+            "Sobald",
+            "Bis"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nachdem das Gespräch ___ war, fühlte sie sich erleichtert.",
+          "options": [
+            "beenden",
+            "beendet",
+            "beendet gewesen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ er die Ausbildung gemacht hatte, wechselte er die Station.",
+          "options": [
+            "Nachdem",
+            "Solange",
+            "Während"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ die Besprechung dauert, kann niemand gestört werden.",
+          "options": [
+            "Solange",
+            "Bis",
+            "Seitdem"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Erst ___ alle Fragen geklärt waren, unterschrieb sie das Formular.",
+          "options": [
+            "während",
+            "wenn",
+            "als"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ die Kollegin zurückkommt, übernimmt sie wieder ihre Aufgaben.",
+          "options": [
+            "Nachdem",
+            "Als",
+            "Wenn"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie hatte das Zertifikat schon erworben, ___ sie sich beworben hat.",
+          "options": [
+            "bevor",
+            "nachdem",
+            "seitdem"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Rat zur Berufswahl unter Freunden",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 24,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Rat zur Berufswahl unter Freunden",
+      "audio": "practice_listening_24_berufswahl.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worüber ist die Freundin unsicher?",
+          "options": [
+            "Ob sie umziehen soll.",
+            "Ob sie zu einer großen Firma wechseln oder im Start-up bleiben soll.",
+            "Ob sie überhaupt arbeiten möchte."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was reizt sie am meisten am Angebot der großen Firma?",
+          "options": [
+            "Ein internationales Team.",
+            "Flexiblere Arbeitszeiten.",
+            "Sicherheit und ein höheres Gehalt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Woran erinnert die Ratgeberin sie?",
+          "options": [
+            "An die Eigenverantwortung, die sie im Start-up schätzt.",
+            "An die schlechte Bezahlung im Start-up.",
+            "An einen früheren Streit mit dem Chef."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche konkrete Methode schlägt die Ratgeberin am Ende vor?",
+          "options": [
+            "Beide Angebote gleichzeitig annehmen.",
+            "Eine Münze werfen.",
+            "Aufschreiben, was man in einem Jahr am meisten bereuen würde."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

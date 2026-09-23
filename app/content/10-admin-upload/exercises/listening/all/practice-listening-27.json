@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Meinungsaustausch: Die neue Kantine",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Hard",
+  "order_index": 27,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Meinungsaustausch: Die neue Kantine",
+      "audio": "practice_listening_27_kantine.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worin sind sich die beiden Kolleginnen zu Beginn einig?",
+          "options": [
+            "Dass das Essen in der neuen Kantine vielfältiger ist.",
+            "Dass die Preise gesunken sind.",
+            "Dass die neue Kantine schlechter ist als die alte."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was kritisiert Kollegin 2 zusätzlich?",
+          "options": [
+            "Schlechte Hygiene.",
+            "Gestiegene Preise.",
+            "Zu wenig Auswahl."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was stört Kollegin 2 am Ende mehr als die Preise?",
+          "options": [
+            "Die langen Warteschlangen.",
+            "Die Lautstärke in der Kantine.",
+            "Die Öffnungszeiten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

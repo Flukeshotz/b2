@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Schreiben, Übungsset 1",
+  "description": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forumsbeitrag: Großraumbüros",
+      "passage": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+      "items": [
+        {
+          "question": "In einem Online-Forum wird diskutiert, ob Großraumbüros die Zusammenarbeit fördern oder eher stören. Schreiben Sie einen Beitrag für das Forum.\n• Sagen Sie, was Sie von Großraumbüros halten.\n• Nennen Sie einen Vorteil und einen Nachteil.\n• Machen Sie einen konkreten Verbesserungsvorschlag.",
+          "word_limit": 200,
+          "expected_answer": "Hallo zusammen,\n\nich finde das Thema sehr spannend, da ich selbst seit zwei Jahren in einem Großraumbüro arbeite. Ich bin der Ansicht, dass dieses Konzept sowohl Fluch als auch Segen sein kann, und meine Meinung ist daher zwiegespalten.\n\nEinerseits schätze ich den großen Vorteil der schnellen und unkomplizierten Kommunikation. Wenn ich eine dringende Frage an einen Kollegen aus einer anderen Abteilung habe, kann ich einfach kurz zu ihm an den Schreibtisch gehen, ohne erst eine formelle E-Mail schreiben oder einen Termin vereinbaren zu müssen. Das beschleunigt viele Prozesse enorm und fördert tatsächlich den Teamgeist, weil man sich einfach näher ist.\n\nAndererseits leidet meiner Erfahrung nach die Konzentration massiv unter dem ständigen Geräuschpegel. Das Klingeln von Telefonen, laute Gespräche der Sitznachbarn oder das Klappern von Tastaturen führen bei mir oft dazu, dass ich mich kaum auf komplexe Aufgaben fokussieren kann. Dieser Nachteil ist für die Produktivität wirklich ein großes Problem.\n\nUm diese Situation zu verbessern, würde ich vorschlagen, dass Unternehmen sogenannte „Silent Areas“ oder kleine, schallisolierte Telefonboxen einrichten. Diese Rückzugsorte sollten ohne vorherige Buchung nutzbar sein, damit man sich für konzentrierte Einzelarbeit schnell dorthin zurückziehen kann. So könnte man die Vorteile der offenen Kommunikation bewahren, ohne dass die Konzentration aller darunter leidet.\n\nWas denkt ihr darüber? Ich bin gespannt auf eure Erfahrungen!\n\nViele Grüße\nMarie"
+        }
+      ]
+    }
+  ]
+}

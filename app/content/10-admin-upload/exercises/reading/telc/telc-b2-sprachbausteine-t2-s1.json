@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 2 — Wortschatz & Lückentext, Satz 1",
+  "description": "Wählen Sie das passende Wort für jede Lücke.",
+  "difficulty_tag": "Medium",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Sprachbausteine Teil 2 — Wortschatz & Lückentext",
+      "passage": "Wählen Sie das passende Wort für jede Lücke.\n\nRäder für kurze Wege\nKommunen testen neue Angebote gegen den innerstädtischen Autoverkehr\n\nImmer mehr Städte prüfen, ob Lastenräder einen Teil des innerstädtischen Autoverkehrs ersetzen können. [1] das Modell dauerhaft eingeführt wird, beobachten die Kommunen zunächst, wie oft die Räder tatsächlich genutzt werden. Für viele Familien ist das Angebot attraktiv, [2] sich Einkäufe und kurze Wege auch ohne eigenes Auto organisieren lassen. Fachleute weisen [3] hin, dass ein solches System nur funktioniert, wenn Stationen gut verteilt und digital leicht auffindbar sind.\n\nIn den ersten Wochen werden die Ausleihzahlen daher genau ausgewertet. Die Verwaltung interessiert sich nicht nur für die Zahl der Buchungen, sondern auch dafür, ob die Räder morgens, abends oder eher am Wochenende gebraucht werden. Gerade in dicht bebauten Vierteln zeigt sich schnell, ob eine Station wirklich am richtigen Ort steht.\n\nWer ein Rad reserviert, muss [4] der ersten Fahrt bestätigen, dass Beleuchtung und Bremsen überprüft wurden. Schäden sollen sofort gemeldet werden; [5] könnte das Problem erst bei der Rückgabe auffallen. Manche Städte wollen die Nutzung zunächst kostenlos lassen, andere rechnen [6], dass eine kleine Gebühr die Verbindlichkeit sogar erhöhen kann. [7] die Ausleihe im Prinzip einfach wirkt, hängt ihr Erfolg also von vielen Details ab.\n\nEntscheidend ist zudem, [8] die Räder auch dort bereitstehen, wo viele Menschen sie tatsächlich brauchen. Steht eine Station nur am Rand eines Viertels, greifen Interessierte im Alltag häufig [9] wieder zum Auto. Langfristig könnte das Angebot den Verkehr und den Parkplatzdruck [10]. Voraussetzung dafür ist allerdings, dass Wartung, Haftung und Reservierung transparent geregelt sind. Nur dann wird aus einem sympathischen Pilotprojekt ein verlässlicher Baustein der städtischen Mobilität. Die Ergebnisse sollen später auch anderen Vierteln zeigen, welche Bedingungen vor einer Ausweitung erfüllt sein müssen.",
+      "items": [
+        {
+          "question": "[Satz 1] Lücke 1: Wählen Sie das passende Wort",
+          "options": [
+            "A: Zusätzlich",
+            "B: obwohl",
+            "C: sonst",
+            "D: im",
+            "E: Bevor",
+            "F: dass",
+            "G: verfügbar",
+            "H: weil",
+            "I: würde",
+            "J: damit",
+            "K: denn",
+            "L: vor",
+            "M: doch",
+            "N: verringern",
+            "O: darauf"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 2: Wählen Sie das passende Wort",
+          "options": [
+            "A: Zusätzlich",
+            "B: obwohl",
+            "C: sonst",
+            "D: im",
+            "E: Bevor",
+            "F: dass",
+            "G: verfügbar",
+            "H: weil",
+            "I: würde",
+            "J: damit",
+            "K: denn",
+            "L: vor",
+            "M: doch",
+            "N: verringern",
+            "O: darauf"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 3: Wählen Sie das passende Wort",
+          "options": [
+            "A: Zusätzlich",
+            "B: obwohl",
+            "C: sonst",
+            "D: im",
+            "E: Bevor",
+            "F: dass",
+            "G: verfügbar",
+            "H: weil",
+            "I: würde",
+            "J: damit",
+            "K: denn",
+            "L: vor",
+            "M: doch",
+            "N: verringern",
+            "O: darauf"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 4: Wählen Sie das passende Wort",
+          "options": [
+            "A: Zusätzlich",
+            "B: obwohl",
+            "C: sonst",
+            "D: im",
+            "E: Bevor",
+            "F: dass",
+            "G: verfügbar",
+            "H: weil",
+            "I: würde",
+            "J: damit",
+            "K: denn",
+            "L: vor",
+            "M: doch",
+            "N: verringern",
+            "O: darauf"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 5: Wählen Sie das passende Wort",
+          "options": [
+            "A: Zusätzlich",
+            "B: obwohl",
+            "C: sonst",
+            "D: im",
+            "E: Bevor",
+            "F: dass",
+            "G: verfügbar",
+            "H: weil",
+            "I: würde",
+            "J: damit",
+            "K: denn",
+            "L: vor",
+            "M: doch",
+            "N: verringern",
+            "O: darauf"
+          ],
+          "answer": "E",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

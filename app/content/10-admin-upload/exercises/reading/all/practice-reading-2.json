@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Die vergessene Mittagspause",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Die vergessene Mittagspause",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nEine interne Umfrage in drei Kliniken hat ein Ergebnis geliefert, das viele Führungskräfte überrascht hat: Über sechzig Prozent des Pflegepersonals gaben an, in den letzten vier Wochen mindestens einmal pro Woche keine reguläre Mittagspause gemacht zu haben. Als Gründe wurden vor allem Personalmangel und unvorhersehbare Notfälle genannt.\n\nAuf den ersten Blick scheint das ein reines Personalproblem zu sein — mehr Personal würde mehr Pausen ermöglichen. Bei genauerem Hinsehen zeigt sich jedoch, dass es auch eine Frage der Organisation ist. In zwei der drei befragten Kliniken gab es keine feste Regelung, wer während einer Pause die Vertretung übernimmt. Die Verantwortung, sich selbst eine Vertretung zu organisieren, lag bei jeder einzelnen Pflegekraft — was in der Praxis oft dazu führte, dass die Pause einfach ausfiel, weil niemand fragen wollte.\n\nEine der Kliniken hatte hingegen ein einfaches System eingeführt: feste Pausenzeiten mit einer rotierenden Vertretungsliste, sichtbar für alle am Stationsplan. Der Krankenstand in dieser Klinik lag im Beobachtungszeitraum spürbar niedriger als in den anderen beiden. Ein kausaler Zusammenhang lässt sich aus einer einzelnen Umfrage nicht beweisen — aber die Fachleute, die die Studie begleitet haben, halten ihn für plausibel.\n\nDie Autoren der Studie ziehen daraus einen vorsichtigen Schluss: Nicht jede Verbesserung der Arbeitsbedingungen kostet zusätzliches Personal. Manche kostet nur eine klare Regelung.",
+      "items": [
+        {
+          "question": "Was ergab die Umfrage laut Text?",
+          "options": [
+            "Alle Kliniken hatten genug Personal.",
+            "Über 60% ließen mindestens einmal wöchentlich die Mittagspause aus.",
+            "Die Pausenregelung war überall gleich gut."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In allen drei Kliniken gab es eine feste Regelung für die Vertretung während der Pause.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was war in der Klinik mit dem niedrigeren Krankenstand anders organisiert?",
+          "options": [
+            "feste Pausenzeiten mit rotierender Vertretungsliste",
+            "mehr Personal als in den anderen Kliniken",
+            "kürzere Schichten"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie vorsichtig formuliert der Text den Zusammenhang zwischen Pausenregelung und Krankenstand?",
+          "options": [
+            "als eindeutig bewiesen",
+            "als reinen Zufall",
+            "als plausibel, aber nicht bewiesen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Schluss ziehen die Autoren der Studie am Ende?",
+          "options": [
+            "Manche Verbesserungen kosten nur eine klare Regelung, kein zusätzliches Personal.",
+            "Jede Verbesserung braucht mehr Personal.",
+            "Pausenregelungen sind grundsätzlich unwichtig."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

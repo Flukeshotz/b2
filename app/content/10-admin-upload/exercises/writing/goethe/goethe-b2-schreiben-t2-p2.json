@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #2",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 19,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie nehmen an einer beruflichen Fortbildung teil. Wegen eines Bahnstreiks sind Sie zu spät gekommen und haben den Anfang eines Workshops verpasst. Schreiben Sie eine Nachricht an den Kursleiter, Herrn Braun.",
+      "items": [
+        {
+          "question": "Sie nehmen an einer beruflichen Fortbildung teil. Wegen eines Bahnstreiks sind Sie zu spät gekommen und haben den Anfang eines Workshops verpasst. Schreiben Sie eine Nachricht an den Kursleiter, Herrn Braun.\n• Bitten Sie um die wichtigsten Informationen vom Anfang.\n• Entschuldigen Sie sich für Ihre Verspätung.\n• Fragen Sie nach, ob Sie etwas nachholen sollen.\n• Erklären Sie den Grund.",
+          "word_limit": 120,
+          "expected_answer": "Sehr geehrter Herr Braun,\n\nich möchte mich aufrichtig bei Ihnen dafür entschuldigen, dass ich heute Morgen so verspätet zum Workshop erschienen bin. Der Grund dafür war ein unangekündigter Bahnstreik, aufgrund dessen mein Zug komplett ausfiel und ich auf ein Taxi ausweichen musste, was leider sehr lange gedauert hat.\n\nDa ich den gesamten Anfang verpasst habe, wäre ich Ihnen sehr dankbar, wenn Sie mir die wichtigsten Informationen kurz zusammenfassen könnten. Insbesondere interessiert mich, ob es eine Vorstellungsrunde gab und welche zentralen Themen und Ziele für den Tag festgelegt wurden. Zudem würde ich gerne wissen, ob ich bestimmte Inhalte oder Übungen, die ich versäumt habe, eigenständig nachholen sollte.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 9 — Kurznachricht: Schichtübergabe",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie müssen Ihre Schicht kurzfristig einer Kollegin übergeben. Schreiben Sie ihr eine kurze Nachricht mit den wichtigsten Informationen, die sie für die Übernahme braucht.\n• Nennen Sie den Grund der Übergabe kurz.\n• Listen Sie die wichtigsten offenen Punkte auf.\n• Bleiben Sie kurz und klar strukturiert.",
+          "word_limit": 80,
+          "expected_answer": "Liebe Anna,\n\nich muss heute leider kurzfristig aus familiären Gründen nach Hause und kann meine Schicht nicht beenden. Könntest du bitte für mich übernehmen? Es wäre toll, wenn du Folgendes erledigen könntest: Erstens muss die Lieferung um 16 Uhr angenommen und quittiert werden. Zweitens liegt die Akte Müller noch auf meinem Schreibtisch und muss bis 17 Uhr an die Buchhaltung weitergeleitet werden. Drittens ist der Kopierer im 2. Stock defekt, der Techniker ist bereits informiert. Vielen lieben Dank für deine Hilfe! Ruf mich kurz an, falls etwas unklar ist.\n\nViele Grüße\nLisa"
+        }
+      ]
+    }
+  ]
+}

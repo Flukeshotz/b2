@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 16 — Bitte um Handlung: Defektes Gerät",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ein Gerät in Ihrem Arbeitsbereich ist seit Tagen defekt und behindert Ihre Arbeit. Schreiben Sie eine Nachricht an die zuständige Stelle mit der Bitte um zeitnahe Reparatur.\n• Beschreiben Sie den Defekt konkret.\n• Erklären Sie kurz die Auswirkung auf Ihre Arbeit.\n• Formulieren Sie eine klare Bitte mit Zeitrahmen.",
+          "word_limit": 90,
+          "expected_answer": "Sehr geehrte Damen und Herren,\n\nseit vergangenem Montag ist der Kopierer im Raum 2.14 defekt. Das Gerät zieht ständig mehrere Blätter gleichzeitig ein, was zu Papierstaus führt. Zudem erscheint regelmäßig die Fehlermeldung „E-06“.\n\nDa ich täglich Vertragsunterlagen für unsere Kunden vervielfältigen muss, verzögert sich meine Arbeit erheblich. Gestern konnte ich eine wichtige Sendung nicht rechtzeitig fertigstellen, was zu Beschwerden geführt hat.\n\nIch bitte Sie daher, den Kopierer möglichst innerhalb der nächsten zwei Tage reparieren zu lassen. Für eine kurze Rückmeldung zum Termin wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nAnna Meier"
+        }
+      ]
+    }
+  ]
+}

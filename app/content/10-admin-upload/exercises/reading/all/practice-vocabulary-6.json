@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 6 — falsche Freunde",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 45,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "\"Ich habe das Rezept bekommen.\" — \"das Rezept\" bedeutet hier:",
+          "options": [
+            "die ärztliche Verordnung für ein Medikament",
+            "beides ist im Deutschen dasselbe Wort",
+            "eine Kochanleitung"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"sensibel\" vs. \"sensitiv\" — im Alltag beschreibt man einen einfühlsamen Menschen meist als:",
+          "options": [
+            "sensibel",
+            "sensitiv",
+            "beide sind hier gleich ungebräuchlich"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ich bin positiv überrascht.\" vs. \"Der Test ist positiv.\" — im medizinischen Kontext bedeutet \"positiv\":",
+          "options": [
+            "das Gegenteil von negativ im Sinne von schlecht",
+            "ein Nachweis wurde gefunden (kann eine schlechte Nachricht sein)",
+            "immer etwas Gutes"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"aktuell\" bedeutet im Deutschen:",
+          "options": [
+            "zurzeit, momentan",
+            "tatsächlich (wie engl. \"actually\")",
+            "wichtig"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"eventuell\" bedeutet im Deutschen:",
+          "options": [
+            "am Ende, letztendlich (wie engl. \"eventually\")",
+            "möglicherweise",
+            "sicher"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ich kontrolliere den Blutdruck.\" — \"kontrollieren\" bedeutet hier:",
+          "options": [
+            "verbieten",
+            "messen/überprüfen",
+            "beherrschen/steuern"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"das Gymnasium\" bezeichnet im Deutschen:",
+          "options": [
+            "einen Sportraum",
+            "eine weiterführende Schule",
+            "eine Sporthalle"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"die Konsequenz\" bedeutet im Deutschen meist:",
+          "options": [
+            "die Folge einer Handlung",
+            "der Beweis",
+            "die Beharrlichkeit (wie engl. \"consequence\" ≠ \"consistency\")"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"das Formular ausfüllen\" — \"ausfüllen\" bedeutet hier:",
+          "options": [
+            "das Formular unterschreiben",
+            "das Formular vernichten",
+            "die geforderten Angaben eintragen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Das ist mir sympathisch.\" — \"sympathisch\" bedeutet:",
+          "options": [
+            "ich habe Mitleid (wie engl. \"sympathetic\")",
+            "ich finde die Person/Sache angenehm",
+            "ich stimme zu"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ich bin irritiert.\" bedeutet im Deutschen meist:",
+          "options": [
+            "ich bin verwirrt/leicht gestört",
+            "ich bin krank",
+            "ich bin wütend (wie engl. \"irritated\")"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

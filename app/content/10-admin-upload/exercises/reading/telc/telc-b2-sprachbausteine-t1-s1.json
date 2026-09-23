@@ -1,0 +1,67 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 1 — Grammatik & Bindeglieder, Satz 1",
+  "description": "Wählen Sie das passende Wort für jede Lücke.",
+  "difficulty_tag": "Medium",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Sprachbausteine Teil 1 — Grammatik & Bindeglieder",
+      "passage": "Wählen Sie das passende Wort für jede Lücke.\n\nLiebe Clara,\n\nentschuldige, dass ich mich erst heute melde. In den letzten Wochen war im Stadtteilzentrum viel los. Der Lesetreff, [1] ich dir erzählt hatte, ist jetzt gestartet. Die Idee entstand schon im Winter, als viele ältere Bewohner sagten, sie wollten nicht nur Bücher ausleihen, sondern auch über Geschichten ins Gespräch kommen. Genau deshalb sollte der Treff offen und unkompliziert bleiben. Am ersten Abend kamen so viele Leute, [2] wir zusätzliche Stühle aus dem Keller holen mussten. Besonders gefreut hat mich, dass auch mehrere Jugendliche dabei waren, [3] sonst kaum an solchen Angeboten teilnehmen.\n\nZuerst war ich unsicher, ob ich die Gruppe leiten [4], weil ich so etwas noch nie gemacht hatte. Frau Neumann meinte aber, ich solle es versuchen. Sie hat mir eine Mappe gegeben, in [5] alle Hinweise für die Moderation stehen. Außerdem erklärte sie mir, worauf ich achten müsse, wenn ein Gespräch plötzlich stockt.\n\nNach der ersten Stunde war mir [6], was die Teilnehmenden am meisten brauchen: nicht perfekte Literaturanalysen, sondern Zeit zum Sprechen. Deshalb habe ich die Texte kürzer ausgewählt und jeweils Fragen vorbereitet, [7] auch ruhigere Personen leichter einsteigen können.\n\nFür nächsten Monat planen wir einen kleinen Abend mit Musik. Ich kümmere mich um die Einladung und wäre froh, [8] du vielleicht ein Foto für den Aushang machen könntest. Falls du Zeit hast, komm doch vorbei; deine Meinung wäre mir wichtig. Ohne deine Tipps hätte ich mich wahrscheinlich nicht [9], die Leitung zu übernehmen.\n\nIch schreibe dir am Wochenende noch [10] darüber, wie der zweite Termin gelaufen ist.\n\nLiebe Grüße\nNora",
+      "items": [
+        {
+          "question": "[Satz 1] Lücke 1: Wählen Sie die richtige Lösung",
+          "options": [
+            "wovon",
+            "von dem",
+            "dessen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 2: Wählen Sie die richtige Lösung",
+          "options": [
+            "als",
+            "dass",
+            "wenn"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 3: Wählen Sie die richtige Lösung",
+          "options": [
+            "denen",
+            "deren",
+            "die"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 4: Wählen Sie die richtige Lösung",
+          "options": [
+            "könnte",
+            "könntest",
+            "könnten"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Lücke 5: Wählen Sie die richtige Lösung",
+          "options": [
+            "die",
+            "der",
+            "deren"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

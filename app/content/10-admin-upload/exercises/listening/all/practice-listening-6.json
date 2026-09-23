@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Bahnhofsdurchsage: Verspätung",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Bahnhofsdurchsage: Verspätung",
+      "audio": "practice_listening_6_bahnhofsdurchsage.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Um wie viele Minuten verspätet sich der Zug?",
+          "options": [
+            "Fünfundzwanzig Minuten.",
+            "Fünfzehn Minuten.",
+            "Zwölf Minuten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist der Grund für die Verspätung?",
+          "options": [
+            "Eine technische Störung an einem vorausfahrenden Zug.",
+            "Ein Streik des Personals.",
+            "Schlechtes Wetter."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Reisende mit Anschluss in Hannover sollen sich am Servicepunkt informieren.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

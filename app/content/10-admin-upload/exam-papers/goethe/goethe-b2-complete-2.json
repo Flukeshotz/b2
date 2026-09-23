@@ -1,0 +1,171 @@
+{
+  "exam_type": "goethe",
+  "paper": {
+    "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket 2",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 58,
+    "order_index": 2
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 15,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Digitale Kompetenz — wer bildet sich wie weiter?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.\n\nAls unsere Abteilung vor zwei Jahren auf eine neue Software umgestellt hat, gab es genau eine halbtägige Schulung. Wer danach noch Fragen hatte, war auf sich gestellt. Ich habe mir vieles über Videos im Internet beigebracht — nicht ideal, aber es hat funktioniert.\n\nInzwischen sehe ich das kritischer. Nicht jeder lernt gern allein vor dem Bildschirm, und \"man findet ja alles online\" ist eine bequeme Ausrede der Geschäftsführung, um in echte Weiterbildung nicht investieren zu müssen. Gerade Kolleginnen und Kollegen, die seit Jahrzehnten mit Papierakten gearbeitet haben, brauchen mehr als ein Erklärvideo.\n\nWas mich optimistisch stimmt: Seit diesem Jahr gibt es intern ein Mentoring-Programm. Wer sich in einem Bereich auskennt, gibt sein Wissen an eine Kollegin oder einen Kollegen weiter, die oder der neu einsteigt. Das kostet Zeit, aber die Ergebnisse sind spürbar besser als jedes Video.\n\nIch wünsche mir, dass Digitalkompetenz genauso ernst genommen wird wie fachliche Weiterbildung — mit festen Terminen, nicht nebenbei.",
+          "items": [
+            {
+              "question": "Wie beurteilt die Autorin/der Autor die ursprüngliche Schulung zur neuen Software?",
+              "options": [
+                "Als völlig ausreichend.",
+                "Als zu kurz und ohne echte Unterstützung danach.",
+                "Als überflüssig, weil alles online zu finden war."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Autorin/der Autor hält \"man findet ja alles online\" für eine faire Position der Geschäftsführung.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was ist seit diesem Jahr neu in der Abteilung?",
+              "options": [
+                "Eine zweite Software-Schulung.",
+                "Ein internes Mentoring-Programm.",
+                "Feste wöchentliche Videositzungen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was bedeutet im Text \"auf sich gestellt sein\"?",
+              "options": [
+                "von anderen unterstützt werden",
+                "allein zurechtkommen müssen",
+                "eine feste Aufgabe bekommen"
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen laut Text zu?",
+              "options": [
+                "Nicht jeder lernt gern allein vor dem Bildschirm.",
+                "Die Firma hat feste Weiterbildungstermine eingeführt.",
+                "Das Mentoring-Programm bringt spürbar bessere Ergebnisse als Videos.",
+                "Die Autorin/der Autor lehnt Videos zum Lernen grundsätzlich ab."
+              ],
+              "answer": [
+                "A",
+                "C"
+              ],
+              "type": "mcq_multi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 8,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Interview: Wechsel in die Selbstständigkeit",
+          "audio": "goethe_hoeren_2_selbststaendigkeit.mp3",
+          "passage": "Hören Sie das Interview einmal und beantworten Sie die Aufgaben.",
+          "items": [
+            {
+              "question": "Frau Albrecht hat sich spontan, ohne Vorbereitung, selbstständig gemacht.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum konnte Frau Albrecht den Schritt in die Selbstständigkeit wagen?",
+              "options": [
+                "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit.",
+                "Wegen eines Kredits der Bank.",
+                "Wegen eines Erbes."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was nennt Frau Albrecht als größte Herausforderung am Anfang?",
+              "options": [
+                "Die Buchhaltung.",
+                "Die Kundengewinnung.",
+                "Die technische Ausstattung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was würde Frau Albrecht rückblickend anders machen?",
+              "options": [
+                "Von Anfang an eine Steuerberaterin einbeziehen.",
+                "Später selbstständig werden.",
+                "Ganz auf die Selbstständigkeit verzichten."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forumsbeitrag: Digitale Kommunikation im Alltag",
+          "passage": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+          "items": [
+            {
+              "question": "In einem Online-Forum wird diskutiert, ob digitale Kommunikation (E-Mails, Messenger, Videokonferenzen) den persönlichen Kontakt im Berufsleben verdrängt. Schreiben Sie einen Beitrag für das Forum.\n• Sagen Sie, ob digitale Kommunikation den persönlichen Kontakt ersetzt oder ergänzt.\n• Nennen Sie je einen Vorteil und einen Nachteil digitaler Kommunikation.\n• Schlagen Sie vor, wie persönlicher und digitaler Austausch im Beruf zusammenpassen können.",
+              "word_limit": 200,
+              "expected_answer": "Hallo zusammen,\n\nich finde die Diskussion sehr spannend, denn dieses Thema betrifft uns ja alle im Arbeitsalltag. Meiner Meinung nach ersetzt die digitale Kommunikation den persönlichen Kontakt nicht, sondern ergänzt ihn vielmehr. Ich bin überzeugt, dass beide Formen ihre Berechtigung haben und sich ideal kombinieren lassen.\n\nEin großer Vorteil digitaler Kommunikation ist zweifellos die Flexibilität. Gerade bei internationalen Projekten ermöglichen Videokonferenzen einen schnellen Austausch, ohne dass man lange Reisen auf sich nehmen muss. Einerseits spart das enorm Zeit und Kosten, andererseits fehlt dabei jedoch oft die persönliche Ebene. Das ist für mich auch der entscheidende Nachteil: Missverständnisse entstehen leichter, weil Mimik und Gestik nur eingeschränkt wahrgenommen werden und die Atmosphäre eines echten Gesprächs verloren geht.\n\nDamit persönlicher und digitaler Austausch im Beruf gut zusammenpassen, würde ich ein hybrides Modell vorschlagen. Regelmäßige Team-Meetings könnten beispielsweise abwechselnd stattfinden: eine Woche digital, die nächste Woche in Präsenz. Zusätzlich halte ich es für sinnvoll, mindestens einmal im Quartal einen festen Termin für ein persönliches Treffen einzuplanen, bei dem nicht nur fachliche, sondern auch informelle Gespräche möglich sind. So bleibt der menschliche Kontakt erhalten und man profitiert trotzdem von den Vorteilen der digitalen Werkzeuge.\n\nWas meint ihr dazu?\n\nViele Grüße\nAnna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Kurzvortrag: Lebenslanges Lernen im Beruf",
+          "passage": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden — auch in der Freizeit. Ist das fair? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+              "speech_time_limit": 180,
+              "prompt_type": "text",
+              "reference_text": "Ich möchte heute zu der Frage Stellung nehmen, ob es fair ist, dass viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden – und das auch in ihrer Freizeit. Ich persönlich finde diese Erwartung in dieser allgemeinen Form nicht fair, wobei ich die Notwendigkeit von Weiterbildung grundsätzlich voll und ganz verstehe. Meiner Meinung nach muss man hier ganz klar unterscheiden, um welche Art von Weiterbildung es sich handelt. Wenn ein Arbeitgeber von mir verlangt, dass ich eine neue Software lerne, eine neue Maschine bedienen kann oder mich aufgrund gesetzlicher Änderungen fortbilden muss, dann ist das eindeutig eine beruflich notwendige Qualifikation. In diesem Fall bin ich der festen Überzeugung, dass dies vollständig in der Arbeitszeit stattfinden muss und vom Arbeitgeber bezahlt werden sollte. Es kann nicht sein, dass man seine knappe Freizeit opfert, um Dinge zu lernen, die ausschließlich dem Unternehmen nutzen. Das wäre aus meiner Sicht eine klare Grenzüberschreitung und würde das Recht auf Erholung verletzen. Ein weiterer Aspekt ist die Work-Life-Balance. Gerade in der heutigen Zeit, in der viele Menschen unter Stress und ständiger Erreichbarkeit leiden, ist die Freizeit heilig. Sie dient der Regeneration, der Familie und den Hobbys. Wenn man diesen Raum systematisch für betriebliche Zwecke nutzt, steigt das Risiko für Burnout enorm. Hinzu kommt, dass nicht jeder die gleichen Voraussetzungen hat. Ein alleinerziehender Elternteil oder jemand, der Angehörige pflegt, hat abends oder am Wochenende schlichtweg nicht die Zeit für stundenlange Online-Kurse. Eine solche Erwartungshaltung ist daher auch sozial ungerecht. Andererseits möchte ich betonen, dass ich Weiterbildung im weiteren Sinne, also die persönliche Entwicklung, für sehr wertvoll halte. Wenn ich aus eigenem Antrieb einen Sprachkurs mache oder ein Buch über Kommunikation lese, dann tue ich das ja für mich selbst. Davon profitiert langfristig vielleicht auch mein Arbeitgeber, aber der Hauptnutzen liegt bei mir. Solche freiwilligen Aktivitäten in der Freizeit sind völlig in Ordnung und sogar wünschenswert. Zusammenfassend lässt sich sagen: Eine pauschale Erwartung, dass man sich in der Freizeit weiterbildet, lehne ich ab. Entscheidend ist die Freiwilligkeit und der Zweck. Unternehmen müssen eine klare Verantwortung für die fachliche Qualifizierung ihrer Mitarbeiter während der Arbeitszeit übernehmen. Nur so bleibt die Motivation erhalten und die Grenze zwischen Beruf und Privatleben gewahrt.",
+              "model_answer": "Ich möchte heute zu der Frage Stellung nehmen, ob es fair ist, dass viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden – und das auch in ihrer Freizeit. Ich persönlich finde diese Erwartung in dieser allgemeinen Form nicht fair, wobei ich die Notwendigkeit von Weiterbildung grundsätzlich voll und ganz verstehe. Meiner Meinung nach muss man hier ganz klar unterscheiden, um welche Art von Weiterbildung es sich handelt. Wenn ein Arbeitgeber von mir verlangt, dass ich eine neue Software lerne, eine neue Maschine bedienen kann oder mich aufgrund gesetzlicher Änderungen fortbilden muss, dann ist das eindeutig eine beruflich notwendige Qualifikation. In diesem Fall bin ich der festen Überzeugung, dass dies vollständig in der Arbeitszeit stattfinden muss und vom Arbeitgeber bezahlt werden sollte. Es kann nicht sein, dass man seine knappe Freizeit opfert, um Dinge zu lernen, die ausschließlich dem Unternehmen nutzen. Das wäre aus meiner Sicht eine klare Grenzüberschreitung und würde das Recht auf Erholung verletzen. Ein weiterer Aspekt ist die Work-Life-Balance. Gerade in der heutigen Zeit, in der viele Menschen unter Stress und ständiger Erreichbarkeit leiden, ist die Freizeit heilig. Sie dient der Regeneration, der Familie und den Hobbys. Wenn man diesen Raum systematisch für betriebliche Zwecke nutzt, steigt das Risiko für Burnout enorm. Hinzu kommt, dass nicht jeder die gleichen Voraussetzungen hat. Ein alleinerziehender Elternteil oder jemand, der Angehörige pflegt, hat abends oder am Wochenende schlichtweg nicht die Zeit für stundenlange Online-Kurse. Eine solche Erwartungshaltung ist daher auch sozial ungerecht. Andererseits möchte ich betonen, dass ich Weiterbildung im weiteren Sinne, also die persönliche Entwicklung, für sehr wertvoll halte. Wenn ich aus eigenem Antrieb einen Sprachkurs mache oder ein Buch über Kommunikation lese, dann tue ich das ja für mich selbst. Davon profitiert langfristig vielleicht auch mein Arbeitgeber, aber der Hauptnutzen liegt bei mir. Solche freiwilligen Aktivitäten in der Freizeit sind völlig in Ordnung und sogar wünschenswert. Zusammenfassend lässt sich sagen: Eine pauschale Erwartung, dass man sich in der Freizeit weiterbildet, lehne ich ab. Entscheidend ist die Freiwilligkeit und der Zweck. Unternehmen müssen eine klare Verantwortung für die fachliche Qualifizierung ihrer Mitarbeiter während der Arbeitszeit übernehmen. Nur so bleibt die Motivation erhalten und die Grenze zwischen Beruf und Privatleben gewahrt.",
+              "expected_answer": "Ich möchte heute zu der Frage Stellung nehmen, ob es fair ist, dass viele Arbeitgeber erwarten, dass sich Beschäftigte regelmäßig weiterbilden – und das auch in ihrer Freizeit. Ich persönlich finde diese Erwartung in dieser allgemeinen Form nicht fair, wobei ich die Notwendigkeit von Weiterbildung grundsätzlich voll und ganz verstehe. Meiner Meinung nach muss man hier ganz klar unterscheiden, um welche Art von Weiterbildung es sich handelt. Wenn ein Arbeitgeber von mir verlangt, dass ich eine neue Software lerne, eine neue Maschine bedienen kann oder mich aufgrund gesetzlicher Änderungen fortbilden muss, dann ist das eindeutig eine beruflich notwendige Qualifikation. In diesem Fall bin ich der festen Überzeugung, dass dies vollständig in der Arbeitszeit stattfinden muss und vom Arbeitgeber bezahlt werden sollte. Es kann nicht sein, dass man seine knappe Freizeit opfert, um Dinge zu lernen, die ausschließlich dem Unternehmen nutzen. Das wäre aus meiner Sicht eine klare Grenzüberschreitung und würde das Recht auf Erholung verletzen. Ein weiterer Aspekt ist die Work-Life-Balance. Gerade in der heutigen Zeit, in der viele Menschen unter Stress und ständiger Erreichbarkeit leiden, ist die Freizeit heilig. Sie dient der Regeneration, der Familie und den Hobbys. Wenn man diesen Raum systematisch für betriebliche Zwecke nutzt, steigt das Risiko für Burnout enorm. Hinzu kommt, dass nicht jeder die gleichen Voraussetzungen hat. Ein alleinerziehender Elternteil oder jemand, der Angehörige pflegt, hat abends oder am Wochenende schlichtweg nicht die Zeit für stundenlange Online-Kurse. Eine solche Erwartungshaltung ist daher auch sozial ungerecht. Andererseits möchte ich betonen, dass ich Weiterbildung im weiteren Sinne, also die persönliche Entwicklung, für sehr wertvoll halte. Wenn ich aus eigenem Antrieb einen Sprachkurs mache oder ein Buch über Kommunikation lese, dann tue ich das ja für mich selbst. Davon profitiert langfristig vielleicht auch mein Arbeitgeber, aber der Hauptnutzen liegt bei mir. Solche freiwilligen Aktivitäten in der Freizeit sind völlig in Ordnung und sogar wünschenswert. Zusammenfassend lässt sich sagen: Eine pauschale Erwartung, dass man sich in der Freizeit weiterbildet, lehne ich ab. Entscheidend ist die Freiwilligkeit und der Zweck. Unternehmen müssen eine klare Verantwortung für die fachliche Qualifizierung ihrer Mitarbeiter während der Arbeitszeit übernehmen. Nur so bleibt die Motivation erhalten und die Grenze zwischen Beruf und Privatleben gewahrt."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

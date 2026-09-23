@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 14 — Begründung: Urlaubsantrag außerhalb der Saison",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie möchten Ihren Jahresurlaub außerhalb der üblichen Ferienzeiten nehmen, was in Ihrer Abteilung unüblich ist. Schreiben Sie eine kurze Begründung an Ihre Führungskraft.\n• Nennen Sie einen konkreten, nachvollziehbaren Grund.\n• Zeigen Sie, dass Sie die Auswirkung auf das Team bedacht haben.\n• Formulieren Sie höflich, aber direkt.",
+          "word_limit": 90,
+          "expected_answer": "Betreff: Urlaubsantrag außerhalb der Ferienzeiten\n\nSehr geehrte Frau Müller,\n\nhiermit möchte ich meinen Jahresurlaub vom 12. bis 23. Mai beantragen. Der Grund ist die Hochzeit meines Bruders in Kanada, die ich mit der ganzen Familie feiern werde. Mir ist bewusst, dass dieser Zeitraum außerhalb der üblichen Ferien liegt. Um Engpässe zu vermeiden, habe ich bereits mit dem Team gesprochen und eine detaillierte Übergabe an Herrn Schulze vorbereitet, der meine Aufgaben übernehmen kann. Zudem fallen in diesen zwei Wochen keine wichtigen Projekttermine an. Ich bitte Sie daher um Ihr Verständnis und hoffe auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\nAnna Berger"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #1",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bitte um Informationen:\nSie sollen ab Oktober in Ihrer Firma ein kleines Team mit fünf Kolleginnen und Kollegen koordinieren. Da Sie bisher keine Leitungsaufgaben hatten, möchten Sie vor der Anmeldung genau wissen, ob der Kurs zu Ihrer Situation passt.\n\nAufgabe B: Beschwerde:\nSie haben wegen eines Seminars zwei Nächte in diesem Hotel gebucht. Ihr Zimmer lag jedoch zur Straße, das WLAN funktionierte kaum und die Rechnung wurde trotz mehrerer Bitten nicht geschickt.",
+      "items": [
+        {
+          "question": "Sie sollen ab Oktober in Ihrer Firma ein kleines Team mit fünf Kolleginnen und Kollegen koordinieren. Da Sie bisher keine Leitungsaufgaben hatten, möchten Sie vor der Anmeldung genau wissen, ob der Kurs zu Ihrer Situation passt.\n• Erklären Sie kurz, warum Sie den Kurs besuchen möchten.\n• Fragen Sie, ob die Übungen auch für berufliche Teams ohne Chefposition geeignet sind.\n• Bitten Sie um Informationen zur Einzelberatung und zu möglichen Zahlungsarten.\n• Klären Sie, ob Sie teilnehmen können, wenn Sie an einem Dienstag verhindert sind.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Anfrage zum Kurs für Teamkoordination – ohne Führungsposition\n\nSehr geehrte Damen und Herren,\n\nab Oktober werde ich in meiner Firma ein kleines Team von fünf Kolleginnen und Kollegen koordinieren. Da ich bisher noch keine Leitungsaufgaben übernommen habe, möchte ich mich gezielt auf diese neue Herausforderung vorbereiten. Ihr Kurs scheint dafür sehr gut geeignet zu sein, allerdings hätte ich vor der Anmeldung noch einige Fragen, um sicherzugehen, dass er zu meiner Situation passt.\n\nZunächst würde mich interessieren, ob sich die Übungen und Inhalte auch an Personen richten, die ein Team ohne echte Chefposition führen. Bei mir geht es eher um fachliche Koordination als um disziplinarische Verantwortung. Wäre der Kurs dafür trotzdem passend?\n\nDarüber hinaus würde ich gerne wissen, ob Sie im Rahmen des Kurses auch Einzelberatungen anbieten, um individuelle Fragen zu besprechen. Könnten Sie mir außerdem mitteilen, welche Zahlungsarten möglich sind – beispielsweise eine Ratenzahlung?\n\nEine letzte Frage hätte ich noch: Leider bin ich an einem der vorgesehenen Dienstagstermine verhindert. Wäre eine Teilnahme trotzdem möglich, vielleicht durch eine Ersatzaufgabe oder einen anderen Termin?\n\nIch wäre Ihnen sehr dankbar für eine kurze Rückmeldung und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n[Vorname Nachname]"
+        }
+      ]
+    }
+  ]
+}

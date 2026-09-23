@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Durchsage im Supermarkt: Produktrückruf",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 20,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Durchsage im Supermarkt: Produktrückruf",
+      "audio": "practice_listening_20_produktrueckruf.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Welches Produkt ist von dem Rückruf betroffen?",
+          "options": [
+            "Alle Fleischprodukte des Marktes.",
+            "Tiefkühlgemüse.",
+            "Hackfleischpackungen der Marke Frischland."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kunden benötigen den Kassenbon, um das Geld zurückzuerhalten.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was sollen Kunden mit dem betroffenen Produkt tun?",
+          "options": [
+            "Es umtauschen gegen ein anderes Produkt derselben Marke.",
+            "Es einfach zu Hause entsorgen.",
+            "Es zur Kundeninformation zurückbringen, nicht essen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

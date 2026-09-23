@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 5 — Redewendungen im Berufsalltag",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 44,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "Bei der Übergabe sagt man üblicherweise zuerst:",
+          "options": [
+            "\"Hier ist alles wie immer.\"",
+            "\"Ich übergebe Ihnen Zimmer 12 bis 18.\"",
+            "\"Ich hab nicht viel zu sagen.\""
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Höfliche Rückfrage bei einer unklaren Anweisung:",
+          "options": [
+            "Was meinen Sie jetzt genau?",
+            "Habe ich richtig verstanden, dass …?",
+            "Wie bitte?"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei einem Missverständnis sagt man am besten:",
+          "options": [
+            "Das haben Sie falsch gemacht.",
+            "Ich glaube, da ist etwas missverstanden worden — können wir das klären?",
+            "Das war doch klar so gemeint."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um eine Terminverschiebung höflich anzukündigen:",
+          "options": [
+            "Der Termin fällt aus, Punkt.",
+            "Ich muss den Termin leider verschieben — wäre nächste Woche möglich?",
+            "Ich kann nicht, wie immer."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um einem Patienten eine Prozedur zu erklären, beginnt man am besten mit:",
+          "options": [
+            "Machen Sie sich keine Gedanken.",
+            "Das tut gleich nicht weh, versprochen.",
+            "Ich erkläre Ihnen jetzt kurz, was wir gleich machen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei einer Meinungsverschiedenheit im Team sagt man sachlich:",
+          "options": [
+            "Ich sehe das anders — können wir die Gründe vergleichen?",
+            "Machen Sie, was Sie wollen.",
+            "Das ist doch Unsinn."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um eine unerwartete Information ruhig aufzunehmen:",
+          "options": [
+            "Das habe ich nicht erwartet — lassen Sie uns das genauer besprechen.",
+            "Was?! Das kann nicht sein.",
+            "Das interessiert mich jetzt nicht."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um eine Aufgabe zusammenzufassen, bevor man sie weitergibt:",
+          "options": [
+            "Kurz zusammengefasst: die Werte sind stabil, Medikation bleibt gleich.",
+            "Naja, ist eigentlich alles wie immer.",
+            "Ich erzähl mal alles von Anfang an."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um unter Zeitdruck eine klare Anweisung zu geben:",
+          "options": [
+            "Könnte irgendwer mal schauen, wenn Zeit ist?",
+            "Vielleicht sollte jemand nachsehen.",
+            "Bitte jetzt sofort das Zimmer 4 kontrollieren, es ist dringend."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um Unsicherheit ehrlich zu kommunizieren, ohne unprofessionell zu wirken:",
+          "options": [
+            "Ich bin mir nicht ganz sicher — ich frage lieber noch einmal nach.",
+            "Ist doch egal, machen wir halt irgendwas.",
+            "Ich hab keine Ahnung, keine Ahnung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Um höflich um Geduld zu bitten:",
+          "options": [
+            "Einen Moment bitte, ich kümmere mich gleich darum.",
+            "Ich hab jetzt keine Zeit dafür.",
+            "Warten Sie halt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

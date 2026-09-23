@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 3 — Selektives Verstehen (Kurzberichte), Satz 3",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Selektives Verstehen (Kurzberichte)",
+      "audio": "teil3-q11.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Patientinnen und Patienten mit Nachmittagstermin sollen am Donnerstag nicht zur Praxis kommen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Das Sommerkonzert findet wegen des Wetters nicht im Hof, sondern in der Halle statt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Für digitale Ausleihen ändert sich am Montag nichts.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Fahrräder dürfen in den Ersatzbussen der Linie R7 mitgenommen werden, wenn man sich vorher anmeldet.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Bei der Sammelaktion können auch gewerbliche Farbreste abgegeben werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

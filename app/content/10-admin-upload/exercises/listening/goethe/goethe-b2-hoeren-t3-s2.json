@@ -1,0 +1,78 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 2",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "audio": "goethe-b2-listening-teil3-set2.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Digitale Anträge sollen Wege sparen, aber Beratung nicht ersetzen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Digitale Angebote funktionieren nicht automatisch für alle.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er/Sie nennt zuerst das Alter als mögliche Ursache.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Unklare Hinweise sind eine größere Hürde als neue Funktionen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Routinefälle brauchen andere Hilfe als unklare Beratungssituationen.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er/Sie wünscht sich weniger Angst durch gespeicherte Zwischenschritte.",
+          "options": [
+            "Moderator",
+            "Frau Seidel",
+            "Herr Brandt"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

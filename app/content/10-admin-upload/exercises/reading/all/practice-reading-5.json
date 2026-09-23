@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Hausmitteilung: Neue Kantinenregelung",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hausmitteilung: Neue Kantinenregelung",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAn alle Mitarbeiterinnen und Mitarbeiter\n\nAb dem 1. des kommenden Monats gilt in der Kantine eine neue Zeitregelung. Grund dafür ist die wiederkehrende Überlastung zur Hauptessenszeit zwischen 12:15 und 12:45 Uhr, die in den letzten Monaten zu Wartezeiten von bis zu 25 Minuten geführt hat.\n\nKünftig sind die Mittagspausen nach Abteilungen gestaffelt: Verwaltung und IT nehmen ihre Pause zwischen 11:45 und 12:30 Uhr, Produktion und Logistik zwischen 12:30 und 13:15 Uhr. Wer aus dienstlichen Gründen von dieser Regelung abweichen muss, meldet sich bitte vorab bei der jeweiligen Abteilungsleitung.\n\nDie Kantine selbst bleibt weiterhin von 11:30 bis 14:00 Uhr geöffnet. Das Angebot an vegetarischen und veganen Gerichten wird ab sofort täglich um mindestens eine Option erweitert, nachdem die interne Umfrage vom Frühjahr einen entsprechenden Wunsch von über 40 Prozent der Belegschaft ergeben hatte.\n\nWir bitten um Verständnis für die Umstellung und freuen uns über Rückmeldungen an die Personalabteilung.",
+      "items": [
+        {
+          "question": "Warum wird die neue Zeitregelung eingeführt?",
+          "options": [
+            "Wegen zu langer Wartezeiten zur Hauptessenszeit.",
+            "Weil die Kantine geschlossen werden soll.",
+            "Weil zu wenig Personal in der Kantine arbeitet."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Verwaltung und IT haben laut Mitteilung dieselbe Pausenzeit wie Produktion und Logistik.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was muss jemand tun, der aus dienstlichen Gründen von der Regelung abweichen muss?",
+          "options": [
+            "Einfach zur gewünschten Zeit essen gehen.",
+            "Einen Antrag bei der Kantine stellen.",
+            "Sich vorab bei der Abteilungsleitung melden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Woher kommt die Entscheidung, das vegetarische/vegane Angebot zu erweitern?",
+          "options": [
+            "Aus einer gesetzlichen Vorschrift.",
+            "Aus einem Vorschlag der Kantinenleitung.",
+            "Aus einer internen Umfrage vom Frühjahr."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

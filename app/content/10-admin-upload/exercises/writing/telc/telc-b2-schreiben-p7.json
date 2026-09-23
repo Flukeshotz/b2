@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #7",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Bewerbung:\nSie lesen gern vor und haben früher jüngere Geschwister bei den Hausaufgaben unterstützt. Sie möchten sich engagieren, können aber nur mittwochs oder donnerstags am Nachmittag.\n\nAufgabe B: Beschwerde:\nSie haben die Jacke für einen Wanderurlaub bestellt. Sie kam erst nach neun Tagen an, und beim ersten längeren Spaziergang wurde der Ärmel innen nass.",
+      "items": [
+        {
+          "question": "Sie lesen gern vor und haben früher jüngere Geschwister bei den Hausaufgaben unterstützt. Sie möchten sich engagieren, können aber nur mittwochs oder donnerstags am Nachmittag.\n• Erklären Sie Ihre Motivation für das Vorlesen.\n• Beschreiben Sie passende Erfahrungen mit Kindern oder Sprache.\n• Nennen Sie Ihre zeitliche Verfügbarkeit.\n• Fragen Sie nach Einführungsabend und Führungszeugnis.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Bewerbung als ehrenamtliche Vorleserin – Aufgabe A\n\nSehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Ausschreibung für das ehrenamtliche Vorlesen gelesen und möchte mich hiermit bei Ihnen bewerben. Da ich selbst eine große Leidenschaft für Literatur habe, würde ich diese Begeisterung sehr gern an Kinder weitergeben. Vorlesen öffnet Türen zu neuen Welten und fördert die sprachliche Entwicklung – ein Anliegen, das mir besonders am Herzen liegt.\n\nBereits in der Vergangenheit konnte ich wertvolle Erfahrungen im Umgang mit Kindern sammeln. Ich habe regelmäßig meine jüngeren Geschwister bei den Hausaufgaben unterstützt und ihnen oft abends vorgelesen. Dabei habe ich gelernt, geduldig auf Fragen einzugehen und Texte lebendig zu gestalten, um die Zuhörer zu fesseln. Diese pädagogische Erfahrung möchte ich nun in einem neuen Rahmen einsetzen.\n\nZeitlich bin ich leider etwas eingeschränkt, da ich berufstätig bin. Ich könnte jedoch verlässlich mittwochs oder donnerstags am Nachmittag zur Verfügung stehen und wäre in diesem Rahmen flexibel einsetzbar.\n\nZwei formelle Punkte sind mir noch wichtig: Bieten Sie vor dem Start einen Einführungsabend an, um uns Ehrenamtliche auf die Aufgabe vorzubereiten? Zudem gehe ich davon aus, dass ein erweitertes Führungszeugnis erforderlich ist – könnten Sie mir bitte mitteilen, bis wann ich dieses einreichen müsste?\n\nIch freue mich auf Ihre Rückmeldung und bedanke mich herzlich für Ihre Zeit.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

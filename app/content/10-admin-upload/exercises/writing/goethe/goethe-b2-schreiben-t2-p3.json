@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #3",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 20,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie haben einen Abendkurs besucht und benötigen für Ihren Arbeitgeber eine Teilnahmebestätigung. Schreiben Sie eine Nachricht an die Kurssekretärin, Frau Krüger.",
+      "items": [
+        {
+          "question": "Sie haben einen Abendkurs besucht und benötigen für Ihren Arbeitgeber eine Teilnahmebestätigung. Schreiben Sie eine Nachricht an die Kurssekretärin, Frau Krüger.\n• Bedanken Sie sich für die Unterstützung.\n• Erklären Sie, wofür Sie die Bestätigung brauchen.\n• Bitten Sie um Zusendung der Bestätigung.\n• Nennen Sie den Kurs, den Sie besucht haben.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Teilnahmebestätigung für den Spanisch-Abendkurs\n\nSehr geehrte Frau Krüger,\n\nich hoffe, es geht Ihnen gut. Mein Name ist [Ihr Name] und ich habe im letzten Semester Ihren Spanisch-Abendkurs für Fortgeschrittene besucht, der immer dienstags und donnerstags stattfand. Zunächst möchte ich mich herzlich bei Ihnen und dem gesamten Team für die hervorragende Unterstützung und die angenehme Lernatmosphäre bedanken. Der Kurs hat mir nicht nur fachlich viel gebracht, sondern auch großen Spaß gemacht.\n\nIch schreibe Ihnen heute, weil ich für meinen Arbeitgeber dringend eine offizielle Teilnahmebestätigung benötige. Da ich die neu erworbenen Sprachkenntnisse nun regelmäßig im Kontakt mit internationalen Kunden einsetze, möchte ich diese Qualifikation für meine Personalakte und ein anstehendes Mitarbeitergespräch nachweisen.\n\nWären Sie daher so freundlich, mir die Bestätigung als PDF-Dokument an diese E-Mail-Adresse zu senden? Ein formloses Schreiben, das meine regelmäßige Teilnahme und die Kursinhalte bestätigt, wäre vollkommen ausreichend.\n\nVielen Dank im Voraus für Ihre Mühe und freundliche Grüße\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

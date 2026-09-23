@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #5",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 22,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nDu machst ein Praktikum in einem Medienbüro. Du hast mit deinem Mitpraktikanten Tom eine Präsentation vorbereitet, kannst aber morgen nicht zum Treffen kommen. Schreib eine Nachricht an Tom.",
+      "items": [
+        {
+          "question": "Du machst ein Praktikum in einem Medienbüro. Du hast mit deinem Mitpraktikanten Tom eine Präsentation vorbereitet, kannst aber morgen nicht zum Treffen kommen. Schreib eine Nachricht an Tom.\n• Schlage vor, wie ihr weiterarbeiten könnt.\n• Erkläre, warum du nicht kommen kannst.\n• Entschuldige dich.\n• Bitte Tom um eine kurze Rückmeldung.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Präsentation – Treffen morgen\n\nHallo Tom,\n\nes tut mir wirklich leid, aber ich kann morgen leider nicht zu unserem Treffen kommen. Ich habe kurzfristig einen wichtigen Arzttermin bekommen, den ich leider nicht verschieben kann. Ich hoffe, das bringt unsere Planung nicht zu sehr durcheinander.\n\nDamit wir trotzdem gut vorankommen, würde ich vorschlagen, dass wir die restlichen Aufgaben aufteilen. Du könntest dich auf die Folien zur Marktanalyse konzentrieren, während ich die Einleitung und den Schlussteil übernehme. Meine Ergebnisse schicke ich dir dann bis morgen Abend per E-Mail zu. Wäre es möglich, dass wir uns am Donnerstag kurz online abstimmen, um alles zusammenzufügen?\n\nIch wäre dir sehr dankbar, wenn du mir kurz Bescheid geben könntest, ob das für dich passt. Vielen Dank für dein Verständnis!\n\nViele Grüße\n[Dein Name]"
+        }
+      ]
+    }
+  ]
+}

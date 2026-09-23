@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 2 — Kollokationen Verb+Nomen",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 41,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "Passendes Verb: \"Wir müssen dringend eine Entscheidung ___.\"",
+          "options": [
+            "treffen",
+            "machen",
+            "nehmen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Auf etwas ___ legen\" — welches Wort fehlt für \"Wert\"?",
+          "options": [
+            "Preis",
+            "Wert",
+            "Bedeutung"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Passendes Verb: \"Die Klinik hat strenge Maßnahmen ___.\"",
+          "options": [
+            "genommen",
+            "gemacht",
+            "ergriffen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Verantwortung ___\" — welches Verb passt?",
+          "options": [
+            "haben nur",
+            "machen",
+            "übernehmen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ein Risiko ___\" — welches Verb fehlt?",
+          "options": [
+            "nehmen",
+            "machen",
+            "eingehen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Rücksicht ___ nehmen\" — worauf bezieht sich das meistens?",
+          "options": [
+            "auf jemanden/etwas",
+            "von jemandem",
+            "mit jemandem"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Passendes Verb: \"Der Bericht ___ alle wichtigen Punkte.\"",
+          "options": [
+            "besteht",
+            "beinhaltet auch beide",
+            "enthält"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Eine Rolle ___\" — welches Verb fehlt?",
+          "options": [
+            "haben",
+            "spielen",
+            "machen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Zur Verfügung ___\" — welches Verb passt?",
+          "options": [
+            "sein",
+            "stehen",
+            "haben"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Einen Antrag ___\" — welches Verb fehlt?",
+          "options": [
+            "stellen",
+            "geben",
+            "machen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Im Vordergrund ___\" — welches Verb passt?",
+          "options": [
+            "sein nur",
+            "stehen",
+            "liegen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Sprachbausteine Teil 1 — Grammatik & Bindeglieder, Satz 3",
+  "description": "Wählen Sie das passende Wort für jede Lücke.",
+  "difficulty_tag": "Medium",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Sprachbausteine Teil 1 — Grammatik & Bindeglieder",
+      "passage": "Wählen Sie das passende Wort für jede Lücke.\n\nSehr geehrte Damen und Herren,\n\nseit Januar nehme ich an Ihrem Abendkurs „Deutsch im Beruf“ teil. Bisher war ich mit dem Unterricht sehr zufrieden. Leider wurde uns vergangene Woche mitgeteilt, [1] der Kurs ab Mai in einen anderen Stadtteil verlegt wird. Für einige Teilnehmende, zu [2] auch ich gehöre, bedeutet das eine deutlich längere Anfahrt. Ein Teil der Gruppe hat kleine Kinder oder späte Arbeitszeiten; für sie ist jeder zusätzliche Umstieg ein echtes Problem.\n\nIch verstehe, dass Räume manchmal anders genutzt werden müssen. Trotzdem bitte ich Sie, die Entscheidung noch einmal [3]. Der neue Unterrichtsort ist abends nur mit zwei Bussen erreichbar. Wenn einer davon ausfällt, kommt man kaum pünktlich an. Gerade Teilnehmende, die nach der Arbeit direkt zum Kurs fahren, [4] dadurch regelmäßig Zeit verlieren.\n\nAußerdem wurde in der Kursbeschreibung ausdrücklich angegeben, dass der Unterricht zentral stattfinden [5]. Auf dieser Grundlage habe ich mich angemeldet. Ich hätte sonst vielleicht einen Onlinekurs gewählt. Könnten Sie uns bitte mitteilen, [6] es eine Alternative im bisherigen Gebäude gibt oder ob wenigstens ein späterer Beginn möglich wäre?\n\nFalls die Verlegung endgültig bleibt, wäre ich Ihnen dankbar, wenn Sie erklären könnten, [7] eine teilweise Erstattung der Gebühr möglich ist. Einige Termine werde ich unter diesen Bedingungen vermutlich nicht besuchen können.\n\nIch hoffe auf eine Lösung, [8] für beide Seiten tragbar ist. Bitte senden Sie Ihre Antwort an die Adresse, [9] ich bei der Anmeldung angegeben habe. Für eine Rückmeldung bis Ende der Woche wäre ich Ihnen sehr [10].\n\nMit freundlichen Grüßen\nAndrei Popescu",
+      "items": [
+        {
+          "question": "[Satz 3] Lücke 1: Wählen Sie die richtige Lösung",
+          "options": [
+            "ob",
+            "dass",
+            "weil"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 2: Wählen Sie die richtige Lösung",
+          "options": [
+            "denen",
+            "deren",
+            "die"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 3: Wählen Sie die richtige Lösung",
+          "options": [
+            "prüfen",
+            "geprüft",
+            "zu prüfen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 4: Wählen Sie die richtige Lösung",
+          "options": [
+            "würde",
+            "würden",
+            "wurden"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 3] Lücke 5: Wählen Sie die richtige Lösung",
+          "options": [
+            "sollte",
+            "sollten",
+            "habe"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

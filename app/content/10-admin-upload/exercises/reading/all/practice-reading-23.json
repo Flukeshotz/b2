@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Kurzbericht: Kundenzufriedenheit im Vergleich",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 32,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzbericht: Kundenzufriedenheit im Vergleich",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nDie jährliche Kundenzufriedenheitsbefragung liegt in ausgewerteter Form vor. Die durchschnittliche Bewertung stieg von 3,9 auf 4,2 von 5 möglichen Punkten — der höchste Wert seit Beginn der Erhebung vor sechs Jahren.\n\nAm stärksten verbesserte sich die Bewertung der telefonischen Erreichbarkeit, die seit der Einführung eines Rückrufsystems im letzten Jahr von 3,4 auf 4,3 Punkte kletterte. Kundinnen und Kunden bewerteten insbesondere positiv, dass Rückrufe nun verlässlich innerhalb von zwei Stunden erfolgen, statt wie früher teilweise erst am nächsten Tag.\n\nEin Bereich bleibt jedoch zurück: Die Verständlichkeit schriftlicher Mitteilungen, etwa bei Vertragsänderungen, wurde nur mit 3,1 Punkten bewertet — nahezu unverändert gegenüber dem Vorjahr. In den offenen Kommentaren beklagten mehrere Befragte, dass wichtige Informationen \"in zu viel Fachsprache versteckt\" seien.\n\nDie Geschäftsführung hat daraufhin angekündigt, die Vorlagen für Kundenschreiben im kommenden Quartal gemeinsam mit einer externen Kommunikationsberaterin zu überarbeiten.",
+      "items": [
+        {
+          "question": "Wie hat sich die durchschnittliche Kundenzufriedenheit entwickelt?",
+          "options": [
+            "Sie stieg von 3,9 auf 4,2 Punkte — der höchste Wert seit sechs Jahren.",
+            "Sie blieb exakt unverändert.",
+            "Sie sank leicht im Vergleich zum Vorjahr."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Verständlichkeit schriftlicher Mitteilungen verbesserte sich im Vergleich zum Vorjahr deutlich.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was führte laut Bericht zur verbesserten Bewertung der telefonischen Erreichbarkeit?",
+          "options": [
+            "Die Einführung eines Rückrufsystems mit verlässlichen Rückrufzeiten.",
+            "Eine neue Telefonanlage mit kürzeren Wartemusiken.",
+            "Eine längere Erreichbarkeit der Hotline am Wochenende."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was kritisierten Befragte konkret an den schriftlichen Mitteilungen?",
+          "options": [
+            "Dass sie nur per Post und nicht per E-Mail ankommen.",
+            "Dass wichtige Informationen in zu viel Fachsprache versteckt seien.",
+            "Dass die Mitteilungen zu selten verschickt werden."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie reagiert die Geschäftsführung auf dieses Ergebnis?",
+          "options": [
+            "Sie kündigt eine Überarbeitung der Vorlagen mit externer Unterstützung an.",
+            "Sie ignoriert das Ergebnis, da der Gesamtwert gestiegen ist.",
+            "Sie streicht die schriftliche Kommunikation komplett."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

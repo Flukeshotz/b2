@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Hören, Übungsset 2",
+  "description": "Hören Sie das Interview einmal und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Interview: Wechsel in die Selbstständigkeit",
+      "audio": "goethe_hoeren_2_selbststaendigkeit.mp3",
+      "passage": "Hören Sie das Interview einmal und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Frau Albrecht hat sich spontan, ohne Vorbereitung, selbstständig gemacht.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Warum konnte Frau Albrecht den Schritt in die Selbstständigkeit wagen?",
+          "options": [
+            "Wegen eines finanziellen Polsters aus vorheriger Kundenarbeit.",
+            "Wegen eines Kredits der Bank.",
+            "Wegen eines Erbes."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was nennt Frau Albrecht als größte Herausforderung am Anfang?",
+          "options": [
+            "Die Buchhaltung.",
+            "Die Kundengewinnung.",
+            "Die technische Ausstattung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was würde Frau Albrecht rückblickend anders machen?",
+          "options": [
+            "Von Anfang an eine Steuerberaterin einbeziehen.",
+            "Später selbstständig werden.",
+            "Ganz auf die Selbstständigkeit verzichten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

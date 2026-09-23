@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 3 — Forumsbeitrag: Vier-Tage-Woche",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "In einem Online-Forum wird diskutiert, ob mehr Unternehmen eine Vier-Tage-Woche bei vollem Lohnausgleich einführen sollten. Schreiben Sie einen Forumsbeitrag: Nehmen Sie Stellung und nennen Sie mindestens zwei Argumente.\n• Nennen Sie Ihre Position klar am Anfang.\n• Bringen Sie mindestens zwei Argumente.\n• Nutzen Sie Konnektoren wie außerdem, allerdings, deshalb.",
+          "word_limit": 110,
+          "expected_answer": "Hallo zusammen, ich bin fest davon überzeugt, dass mehr Unternehmen die Vier-Tage-Woche bei vollem Lohnausgleich einführen sollten. Einerseits steigt die Motivation der Mitarbeiter enorm, weil sie sich durch das verlängerte Wochenende besser erholen können. Aus diesem Grund sind sie während der Arbeitszeit konzentrierter und produktiver, wovon letztlich die Firma profitiert. Andererseits verbessert dieses Modell die Work-Life-Balance spürbar. Die Beschäftigten hätten mehr Zeit für Familie, Hobbys und ehrenamtliches Engagement, was die Gesellschaft insgesamt stärkt. Allerdings muss die Umsetzung gut geplant sein, damit keine Überlastung an den vier Arbeitstagen entsteht. Was meint ihr dazu? Ich freue mich auf eure Erfahrungen!"
+        }
+      ]
+    }
+  ]
+}

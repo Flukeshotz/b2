@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 7 — Verben mit fester Präposition",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "Ich ___ meiner Kollegin sehr für die Unterstützung.",
+          "options": [
+            "danke",
+            "bin dankbar",
+            "bedanke mich bei"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie ___ sich sehr ___ die neue Regelung.",
+          "options": [
+            "interessiert … für",
+            "freut … über",
+            "freut … auf"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wir müssen uns dringend ___ das Problem ___.",
+          "options": [
+            "achten … auf",
+            "kümmern … um",
+            "sorgen … für"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er hat ___ dem Fortbildungskurs ___.",
+          "options": [
+            "an … teilgenommen",
+            "in … eingenommen",
+            "bei … mitgemacht"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Das Ergebnis ___ vor allem ___ die gute Vorbereitung ___.",
+          "options": [
+            "beruht … in …",
+            "ist … auf … zurückzuführen",
+            "hängt … an … ab"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ich kann mich nicht mehr ___ das Gespräch ___.",
+          "options": [
+            "denken … über",
+            "wissen … von",
+            "erinnern … an"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Pflegekraft hat sich ___ die Entscheidung des Arztes ___.",
+          "options": [
+            "auf … geärgert",
+            "über … beschwert",
+            "an … gewöhnt"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wir sollten ___ realistische Ziele ___ und nicht zu viel versprechen.",
+          "options": [
+            "uns … verlassen auf",
+            "uns … beziehen auf",
+            "uns … konzentrieren auf"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Das neue System ist ___ mehreren Modulen ___.",
+          "options": [
+            "an … angepasst",
+            "aus … zusammengesetzt",
+            "mit … verbunden"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ich habe mich ___ die Fortbildung ___, weil sie mir wichtig erschien.",
+          "options": [
+            "für … entschieden",
+            "an … erinnert",
+            "auf … gefreut"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Erfolg der Maßnahme ___ sehr ___ einer guten Kommunikation ___.",
+          "options": [
+            "besteht … aus …",
+            "beruht … auf …",
+            "hängt … von … ab"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

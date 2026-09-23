@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #9",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu digitalen Behördengängen.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu digitalen Behördengängen.\n• Äußern Sie Ihre Meinung zu digitalen Behördengängen.\n• Nennen Sie Gründe, warum Behörden immer mehr Dienstleistungen online anbieten.\n• Nennen Sie mögliche Schwierigkeiten für Bürgerinnen und Bürger.\n• Nennen Sie Vorteile, wenn digitale Angebote mit persönlicher Beratung kombiniert werden.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Digitalisierung der Ämter – Fluch oder Segen?\n\nLiebe Forumsmitglieder,\n\nzum Thema digitale Behördengänge möchte ich gerne meine Gedanken teilen. Meiner Meinung nach ist die Digitalisierung der Verwaltung grundsätzlich ein längst überfälliger und positiver Schritt, auch wenn sie nicht ohne Herausforderungen ist.\n\nDass Behörden immer mehr Dienstleistungen online anbieten, hat handfeste Gründe. Einerseits können Anträge so rund um die Uhr bearbeitet werden, was die Effizienz enorm steigert und Wartezeiten verkürzt. Andererseits sparen die Ämter dadurch langfristig Personal- und Betriebskosten, was letztlich allen Steuerzahlern zugutekommt.\n\nAllerdings sehe ich auch mögliche Schwierigkeiten für die Bürgerinnen und Bürger. Nicht jeder ist technisch versiert oder besitzt die nötige Ausstattung; insbesondere ältere Menschen fühlen sich oft abgehängt. Hinzu kommt die Sorge um den Datenschutz, wenn sensible persönliche Daten online übermittelt werden müssen. Ein weiteres Problem ist, dass bei komplizierten Sachverhalten eine einfache Online-Maske oft nicht ausreicht und man sich eine persönliche Beratung wünscht.\n\nGenau hier liegt für mich der Schlüssel: Die ideale Lösung ist eine Kombination aus digitalen Angeboten und persönlicher Beratung. Die Vorteile liegen auf der Hand: Man kann einfache Vorgänge wie die Ummeldung des Wohnsitzes bequem von zu Hause erledigen, hat aber bei komplexeren Fragen, etwa zum Elterngeld oder zur Bauvoranfrage, weiterhin die Möglichkeit, einen Termin vor Ort zu vereinbaren. So wird Flexibilität mit der nötigen Sicherheit und menschlicher Unterstützung verbunden.\n\nZusammenfassend finde ich, dass der digitale Wandel eine große Chance ist, wenn wir darauf achten, niemanden zurückzulassen. Was sind Ihre Erfahrungen?\n\nViele Grüße\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

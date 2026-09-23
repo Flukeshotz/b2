@@ -1,0 +1,70 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe-Zertifikat B2 — Lesen, Übungsset 2",
+  "description": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forum: Digitale Kompetenz — wer bildet sich wie weiter?",
+      "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.\n\nAls unsere Abteilung vor zwei Jahren auf eine neue Software umgestellt hat, gab es genau eine halbtägige Schulung. Wer danach noch Fragen hatte, war auf sich gestellt. Ich habe mir vieles über Videos im Internet beigebracht — nicht ideal, aber es hat funktioniert.\n\nInzwischen sehe ich das kritischer. Nicht jeder lernt gern allein vor dem Bildschirm, und \"man findet ja alles online\" ist eine bequeme Ausrede der Geschäftsführung, um in echte Weiterbildung nicht investieren zu müssen. Gerade Kolleginnen und Kollegen, die seit Jahrzehnten mit Papierakten gearbeitet haben, brauchen mehr als ein Erklärvideo.\n\nWas mich optimistisch stimmt: Seit diesem Jahr gibt es intern ein Mentoring-Programm. Wer sich in einem Bereich auskennt, gibt sein Wissen an eine Kollegin oder einen Kollegen weiter, die oder der neu einsteigt. Das kostet Zeit, aber die Ergebnisse sind spürbar besser als jedes Video.\n\nIch wünsche mir, dass Digitalkompetenz genauso ernst genommen wird wie fachliche Weiterbildung — mit festen Terminen, nicht nebenbei.",
+      "items": [
+        {
+          "question": "Wie beurteilt die Autorin/der Autor die ursprüngliche Schulung zur neuen Software?",
+          "options": [
+            "Als völlig ausreichend.",
+            "Als zu kurz und ohne echte Unterstützung danach.",
+            "Als überflüssig, weil alles online zu finden war."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Autorin/der Autor hält \"man findet ja alles online\" für eine faire Position der Geschäftsführung.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was ist seit diesem Jahr neu in der Abteilung?",
+          "options": [
+            "Eine zweite Software-Schulung.",
+            "Ein internes Mentoring-Programm.",
+            "Feste wöchentliche Videositzungen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was bedeutet im Text \"auf sich gestellt sein\"?",
+          "options": [
+            "von anderen unterstützt werden",
+            "allein zurechtkommen müssen",
+            "eine feste Aufgabe bekommen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche zwei Aussagen treffen laut Text zu?",
+          "options": [
+            "Nicht jeder lernt gern allein vor dem Bildschirm.",
+            "Die Firma hat feste Weiterbildungstermine eingeführt.",
+            "Das Mentoring-Programm bringt spürbar bessere Ergebnisse als Videos.",
+            "Die Autorin/der Autor lehnt Videos zum Lernen grundsätzlich ab."
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "type": "mcq_multi"
+        }
+      ]
+    }
+  ]
+}

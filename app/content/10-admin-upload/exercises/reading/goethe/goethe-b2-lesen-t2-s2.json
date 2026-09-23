@@ -1,0 +1,107 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 2 — Textrekonstruktion (Lücken im Text), Satz 2",
+  "description": "Sie lesen in einer Zeitschrift einen Artikel über Reparieren im Alltag. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+  "difficulty_tag": "Medium",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 2 — Textrekonstruktion (Lücken im Text)",
+      "passage": "Sie lesen in einer Zeitschrift einen Artikel über Reparieren im Alltag. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.\n\nZweite Chance für alte Dinge\nWarum Reparieren wieder attraktiv wird\n\nEin kaputter Reißverschluss, ein wackeliger Stuhl oder ein Mixer, der plötzlich streikt: Noch vor wenigen Jahren landeten solche Dinge häufig im Müll. Heute suchen viele Menschen wieder nach Möglichkeiten, sie zu reparieren. Das hat mit steigenden Preisen zu tun, aber nicht nur. Hinzu kommt der Wunsch, Ressourcen zu schonen und weniger abhängig von schnellen Neukäufen zu sein. [...10...] Wer ein Gerät öffnet oder ein Kleidungsstück flickt, erlebt oft, dass in Alltagsgegenständen mehr Arbeit steckt, als man vorher wahrgenommen hat.\n\nIn vielen Städten gibt es inzwischen offene Reparaturtreffen. Dort sitzen Freiwillige mit Werkzeug, Nähmaschine oder Lötkolben an langen Tischen und helfen Besucherinnen und Besuchern. Niemand verspricht, dass alles wieder funktioniert. Die Atmosphäre ist eher eine Mischung aus Werkstatt, Nachbarschaftstreff und kleinem Kurs. [...11...] Eine ältere Nachbarin bringt vielleicht eine Lampe mit, während ein Student wissen möchte, warum sein Kopfhörer rauscht. Beide lernen etwas, auch wenn am Ende nur eines der Geräte gerettet wird. Gerade dieser halbe Erfolg unterscheidet das Treffen von einem normalen Reparaturauftrag.\n\nFür manche ist die erste Hürde groß. Sie haben Sorge, sich mit einem einfachen Problem zu blamieren oder ein Gerät endgültig kaputtzumachen. Andere glauben, Reparieren sei nur etwas für Menschen, die schon als Kinder mit Werkzeug umgehen konnten. [...12...] Gerade deshalb beginnen viele Treffen mit einer kurzen Erklärung: Man muss nichts können, sondern nur bereit sein, gemeinsam nach der Ursache zu suchen. Dieser offene Ton ist wichtig, damit Reparieren nicht wie eine Prüfung wirkt. Oft entsteht nebenbei ein Gespräch darüber, wie ein Produkt aufgebaut ist und warum manche Teile schneller verschleißen als andere.\n\nKritiker wenden ein, dass Reparaturen oft zu lange dauern und bei billigen Produkten kaum lohnen. Das stimmt in manchen Fällen. Wenn ein Ersatzteil schwer zu bekommen ist, kann die Reparatur teurer werden als ein neues Produkt. [...13...] Wer jedes neue Gerät verdächtig findet, macht aus einer praktischen Idee schnell eine Ideologie. Viele Engagierte sehen das anders: Sie kaufen durchaus Neues, fragen aber häufiger, ob ein Schaden wirklich das Ende bedeuten muss.\n\nAuch Hersteller und Händler reagieren langsam. Einige bieten Ersatzteile länger an, andere veröffentlichen einfache Anleitungen. Wenn Kundinnen merken, dass ein Produkt reparierbar ist, vertrauen sie der Marke manchmal sogar mehr. Außerdem erzählen viele nach einer gelungenen Reparatur genauer, was sie gemacht haben. Solche Erzählungen wirken ansteckend, weil sie zeigen, dass Reparieren nicht nur für Fachleute reserviert ist. [...14...] Ein Stuhl ist dann nicht mehr nur ein billiges Möbelstück, sondern etwas, an dem man selbst mitgearbeitet hat.\n\nOb Reparieren mehr bleibt als ein sympathischer Trend, ist offen. In manchen Vierteln sind die Treffen ausgebucht, in anderen fehlen Räume und Menschen mit Fachkenntnissen. [...15...] Ersatzteile müssen bezahlbar, Werkstätten erreichbar und Informationen verständlich sein. Außerdem braucht es Geduld: Nicht alles lässt sich retten, und nicht jede Reparatur ist wirtschaftlich sinnvoll. Trotzdem verändert schon der Versuch den Umgang mit Dingen, weil Wegwerfen nicht mehr die einzige automatische Reaktion ist. Selbst eine gescheiterte Reparatur kann nützlich sein, wenn man danach genauer weiß, worauf man beim nächsten Kauf achten sollte. Damit wird Reparieren auch zu einer kleinen Schule des Konsums.",
+      "items": [
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 10?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "G",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 11?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 12?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 13?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "E",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 14?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "F",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welcher Satz passt in Lücke 15?",
+          "options": [
+            "A: Manche Werkstätten arbeiten allerdings nicht kostenlos.",
+            "B: Dieser Gedanke steht im Gegensatz zu einer Kultur, in der Ersatz oft bequemer scheint.",
+            "C: Dadurch verändert sich auch der Blick auf den Wert eines Gegenstands.",
+            "D: Ob daraus ein größerer Wandel wird, hängt jedoch von mehreren Bedingungen ab.",
+            "E: Solche Treffen funktionieren, weil Fachwissen und Alltagsfragen direkt zusammenkommen.",
+            "F: Trotzdem geht es den meisten Beteiligten nicht darum, jeden Neukauf moralisch abzulehnen.",
+            "G: Gerade diese Unsicherheit macht den Besuch für viele anfangs etwas unangenehm.",
+            "H: Künftig könnten manche Geräte leichter zerlegt werden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

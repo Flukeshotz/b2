@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #8",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu kurzen Online-Kursen.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu kurzen Online-Kursen.\n• Äußern Sie Ihre Meinung zu kurzen Online-Kursen für Erwachsene.\n• Nennen Sie Gründe, warum solche Kurse für viele Menschen attraktiv sind.\n• Nennen Sie Schwierigkeiten beim Lernen mit kurzen Online-Kursen.\n• Nennen Sie Vorteile, wenn Online-Kurse mit anderen Lernformen kombiniert werden.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nzum Thema kurze Online-Kurse möchte ich gerne meine Gedanken teilen. Meiner Ansicht nach sind diese Formate eine hervorragende Ergänzung zum traditionellen Lernen, auch wenn sie klassische Bildung nicht vollständig ersetzen können.\n\nFür viele Erwachsene sind solche Kurse vor allem aus zwei Gründen attraktiv: Zum einen passen sie sich perfekt einem vollen Terminkalender an, da man ortsunabhängig und in kleinen Einheiten lernen kann. Zum anderen sind sie oft kostengünstig oder sogar kostenlos, was den Zugang zu Bildung demokratisiert.\n\nAllerdings sollte man die Schwierigkeiten nicht außer Acht lassen. Das Lernen mit kurzen Online-Kursen erfordert ein hohes Maß an Selbstdisziplin, und die Abbruchquote ist entsprechend hoch. Zudem bleibt das Wissen manchmal oberflächlich, weil die Zeit für tiefgehende Diskussionen und Rückfragen fehlt. Die fehlende soziale Interaktion kann außerdem demotivierend wirken.\n\nAus diesem Grund plädiere ich für eine Kombination verschiedener Lernformen. Wenn man beispielsweise einen Online-Kurs mit einem Workshop vor Ort oder einem regelmäßigen virtuellen Tutorium verknüpft, vereint man die Vorteile beider Welten: die Flexibilität des digitalen Lernens mit der wertvollen persönlichen Betreuung und dem Austausch in der Gruppe. So wird aus passiver Wissensaufnahme ein aktiver und nachhaltiger Lernprozess.\n\nViele Grüße\nAnna"
+        }
+      ]
+    }
+  ]
+}

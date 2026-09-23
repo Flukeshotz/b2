@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #9",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Anmeldung:\nSie haben einen alten Nachttisch geerbt und möchten ihn für Ihre Wohnung aufarbeiten. Da Sie keine Erfahrung mit Werkzeug haben, möchten Sie sich anmelden und vorher einige Punkte klären.\n\nAufgabe B: Formelle Bitte:\nSie haben sich am Handgelenk verletzt und können längere Texte nur langsam schreiben. Ihre Prüfung findet in drei Wochen statt, deshalb möchten Sie rechtzeitig einen Antrag stellen.",
+      "items": [
+        {
+          "question": "Sie haben einen alten Nachttisch geerbt und möchten ihn für Ihre Wohnung aufarbeiten. Da Sie keine Erfahrung mit Werkzeug haben, möchten Sie sich anmelden und vorher einige Punkte klären.\n• Melden Sie sich für den Workshop an und nennen Sie Ihr Möbelstück.\n• Erklären Sie Ihre geringe Erfahrung mit Werkzeug.\n• Fragen Sie nach Einweisung, Material und Kleidung.\n• Bitten Sie um Bestätigung von Kosten und Anmeldeschluss.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Anmeldung zum Workshop „Möbelaufarbeitung“\n\nSehr geehrte Damen und Herren,\n\nhiermit möchte ich mich verbindlich für Ihren Workshop zur Möbelaufarbeitung anmelden. Bei dem Möbelstück, das ich gerne aufarbeiten würde, handelt es sich um einen alten Nachttisch aus Holz, den ich kürzlich geerbt habe.\n\nDa ich bisher kaum handwerklich tätig war, muss ich ehrlich gestehen, dass meine Erfahrung im Umgang mit Werkzeugen wie Schleifmaschinen oder Akkuschraubern sehr gering ist. Aus diesem Grund bin ich etwas unsicher, ob ich für diesen Kurs überhaupt geeignet bin. Könnten Sie mir daher mitteilen, ob es zu Beginn eine gründliche Einweisung in die Geräte gibt? Zudem wäre ich Ihnen dankbar, wenn Sie mir Informationen zum benötigten Material zukommen lassen könnten. Sollte ich beispielsweise Schleifpapier oder Farbe selbst mitbringen oder wird dies gestellt? Eine weitere Frage betrifft die Kleidung: Kann ich in normaler Alltagskleidung kommen oder ist spezielle Arbeitskleidung erforderlich?\n\nAbschließend bitte ich Sie noch um eine kurze Bestätigung der Teilnahmegebühr sowie des Anmeldeschlusses, damit ich alles rechtzeitig veranlassen kann.\n\nVielen Dank für Ihre Mühe im Voraus.\n\nMit freundlichen Grüßen\n[Vorname Nachname]"
+        }
+      ]
+    }
+  ]
+}

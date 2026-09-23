@@ -1,0 +1,70 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Fachkräftemangel: Zahlen hinter der Debatte",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Hard",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Fachkräftemangel: Zahlen hinter der Debatte",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nDer Begriff \"Fachkräftemangel in der Pflege\" ist in den letzten Jahren so oft benutzt worden, dass er fast wie eine feststehende Redewendung klingt. Doch was steckt tatsächlich dahinter, wenn man die Zahlen genauer betrachtet?\n\nLaut aktuellen Erhebungen fehlen bundesweit rund 35.000 Vollzeitstellen in der Alten- und Krankenpflege. Interessant ist dabei, dass die Zahl der ausgebildeten Pflegekräfte insgesamt nicht sinkt — im Gegenteil, sie steigt sogar leicht. Das eigentliche Problem liegt woanders: Immer mehr ausgebildete Pflegekräfte arbeiten in Teilzeit oder verlassen den Beruf nach wenigen Jahren wieder, weil die Arbeitsbedingungen als belastend empfunden werden.\n\nEine Befragung unter Berufsaussteigerinnen und -aussteigern nennt drei Hauptgründe: chronische Unterbesetzung im Schichtdienst, fehlende Aufstiegsmöglichkeiten und mangelnde Wertschätzung im Vergleich zur Verantwortung, die der Beruf mit sich bringt. Bemerkenswert ist, dass der Verdienst in dieser Befragung nicht an erster Stelle genannt wird — was viele Debattenbeiträge in den Medien anders darstellen.\n\nDas legt nahe, dass Maßnahmen, die sich allein auf höhere Löhne konzentrieren, das eigentliche Problem nur teilweise lösen würden.",
+      "items": [
+        {
+          "question": "Was zeigen die Zahlen laut Text bezüglich der Anzahl ausgebildeter Pflegekräfte?",
+          "options": [
+            "Sie ist seit Jahren unverändert.",
+            "Sie ist stark gesunken.",
+            "Sie sinkt nicht, sondern steigt leicht."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut der zitierten Befragung ist der Verdienst der wichtigste Grund für den Berufsausstieg.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welche zwei Gründe nennt die Befragung unter den drei Hauptgründen für den Berufsausstieg?",
+          "options": [
+            "zu hohe Studiengebühren",
+            "zu lange Anfahrtswege",
+            "fehlende Aufstiegsmöglichkeiten",
+            "chronische Unterbesetzung im Schichtdienst"
+          ],
+          "answer": [
+            "C",
+            "D"
+          ],
+          "type": "mcq_multi"
+        },
+        {
+          "question": "Welche Schlussfolgerung zieht der Text aus diesen Ergebnissen?",
+          "options": [
+            "Höhere Löhne würden das Problem vollständig lösen.",
+            "Löhne spielen für das Problem keine Rolle.",
+            "Höhere Löhne allein würden das Problem nur teilweise lösen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie positioniert sich der Text zur öffentlichen Mediendarstellung des Themas?",
+          "options": [
+            "Er bestätigt sie vollständig.",
+            "Er erwähnt sie gar nicht.",
+            "Er stellt sie implizit infrage, indem er andere Ursachen in den Vordergrund rückt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 28 — Begründung: Abteilungswechsel",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 28,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie möchten intern die Abteilung wechseln. Schreiben Sie eine kurze, gut begründete Nachricht an Ihre aktuelle und Ihre zukünftige Führungskraft.\n• Nennen Sie einen positiven, klaren Grund für den Wechsel.\n• Vermeiden Sie negative Kommentare über die aktuelle Abteilung.\n• Bedanken Sie sich für die bisherige Zeit.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Interne Bewerbung auf die Position in der Marketingabteilung\n\nLiebe Frau Müller, lieber Herr Schmidt,\n\nhiermit möchte ich mein Interesse an einem internen Wechsel in die Marketingabteilung bekunden. Nach drei lehrreichen Jahren im Vertrieb reizt es mich sehr, mein Wissen nun stärker im Bereich strategische Markenentwicklung einzubringen und mich fachlich weiterzuentwickeln. Die Arbeit in Ihrem Team, liebe Frau Müller, hat mir stets große Freude bereitet, und ich bin dankbar für Ihr Vertrauen und die hervorragende Zusammenarbeit. Für die Möglichkeit, mich neuen Herausforderungen zu stellen, wäre ich Ihnen, lieber Herr Schmidt, sehr verbunden. Selbstverständlich stehe ich für eine gründliche Übergabe meiner aktuellen Projekte zur Verfügung.\n\nMit freundlichen Grüßen\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

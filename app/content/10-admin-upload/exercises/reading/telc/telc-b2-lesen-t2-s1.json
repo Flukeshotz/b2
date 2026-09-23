@@ -1,0 +1,67 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 2 — Textverständnis & Multiple-Choice, Satz 1",
+  "description": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung.",
+  "difficulty_tag": "Medium",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 2 — Textverständnis & Multiple-Choice",
+      "passage": "Lesen Sie den Text und wählen Sie bei jeder Aufgabe die richtige Lösung.\n\nGemeinsame Zeit neu organisieren\n\nIn vielen Betrieben ist die Frage, an welchen Tagen alle im Büro sein sollen, komplizierter geworden als die technische Organisation von Videokonferenzen. Nach den ersten Jahren mit Homeoffice haben manche Firmen feste Präsenztage eingeführt, andere probieren sogenannte Kernzeiten aus: Zwischen zehn und fünfzehn Uhr sollen alle erreichbar sein, davor und danach wird freier geplant. Der Grund ist selten nur der Wunsch nach mehr Bequemlichkeit. Teams berichten, dass konzentrierte Einzelarbeit zu Hause oft besser gelingt, während neue Ideen oder schwierige Absprachen im gemeinsamen Raum schneller entstehen.\n\nEin mittelgroßer Maschinenbauer aus Süddeutschland hat deshalb seine bisherige Regel wieder verändert. Zunächst mussten alle Beschäftigten dienstags und donnerstags anwesend sein. Das klang übersichtlich, führte aber dazu, dass Besprechungsräume überfüllt waren und an anderen Tagen kaum jemand für kurze Rückfragen erreichbar war. Nun legt jedes Projektteam monatlich zwei gemeinsame Blöcke fest. Wer an diesen Tagen kommt, bleibt nicht automatisch den ganzen Arbeitstag, sondern plant bewusst die Treffen, die wirklich persönlichen Austausch brauchen.\n\nFür Führungskräfte bedeutet dieses Modell mehr Arbeit. Früher ließ sich Anwesenheit leicht kontrollieren, heute müssen Ergebnisse, Abhängigkeiten und Informationswege genauer besprochen werden. Einige Vorgesetzte empfinden das zunächst als Verlust an Überblick. Personalabteilungen beobachten jedoch, dass Konflikte seltener entstehen, wenn Erwartungen schriftlich festgehalten werden: Bis wann muss eine Antwort kommen? Welche Entscheidungen gehören in die Videorunde, welche in ein kurzes Gespräch vor Ort? Ohne solche Regeln wird Beweglichkeit schnell zur privaten Sonderlösung einzelner Personen.\n\nNicht alle profitieren im gleichen Maß. Auszubildende, neue Mitarbeitende und Menschen in kleinen Wohnungen wünschen sich häufiger feste Tage im Betrieb. Sie lernen informell, wer für welche Frage zuständig ist, und bekommen nebenbei Rückmeldungen, die im Chat oft ausbleiben. Mehrere Unternehmen haben deshalb Mentoringtage eingeführt, an denen erfahrene Kolleginnen und Kollegen ausdrücklich Zeit für praktische Fragen reservieren. Diese Tage sind weniger als Kontrolle gedacht, sondern als Schutz davor, dass Anfängerinnen und Anfänger im flexiblen System unsichtbar werden.\n\nFlexibilität braucht Grenzen\n\nDie Arbeitszeit selbst wird ebenfalls neu betrachtet. Manche Beschäftigte beginnen sehr früh, andere unterbrechen den Nachmittag für Familie oder Pflege und arbeiten abends weiter. Arbeitsmediziner warnen allerdings davor, Flexibilität mit ständiger Verfügbarkeit zu verwechseln. Wer seine Nachrichten immer wieder prüft, erholt sich schlechter, selbst wenn die Gesamtstundenzahl nicht steigt. Deshalb setzen einige Betriebe auf klare Ruhefenster, in denen keine Antwort erwartet wird. Entscheidend ist nicht, ob jemand um acht oder um neun beginnt, sondern ob Pausen und Feierabend tatsächlich respektiert werden.\n\nInteressant ist, dass die Diskussion über flexible Zeiten auch die Räume verändert. Einige Firmen verkleinern ihre klassischen Arbeitsplätze nicht sofort, sondern schaffen mehr Zonen für kurze Abstimmungen, vertrauliche Gespräche und stilles Arbeiten. Dadurch wird sichtbar, dass Bürofläche nicht einfach weniger wichtig wird, sondern anders genutzt werden muss. Beschäftigte akzeptieren solche Umbauten eher, wenn sie verstehen, welchen Zweck ein Raum erfüllt. Ein leerer Schreibtisch wirkt sonst schnell wie Sparmaßnahme; ein gut geplanter Projektraum kann dagegen gemeinsame Zeit wertvoller machen.\n\nAuch die Frage der Gerechtigkeit bleibt heikel. Wer Maschinen bedient, Patientinnen versorgt oder Kunden empfängt, kann selten im gleichen Umfang flexibel arbeiten wie jemand mit Laptop. Manche Betriebe gleichen das durch verlässlichere Dienstpläne, zusätzliche freie Tage oder Beteiligung an Entscheidungen aus. Damit wird Beweglichkeit nicht zum Privileg einzelner Berufsgruppen.\n\nDie Erfahrungen zeigen: Bewegliche Arbeitszeit funktioniert nicht als Geschenk ohne Gegenleistung. Sie braucht Vertrauen, aber auch präzise Absprachen. Unternehmen, die lediglich Bürotage abschaffen, gewinnen selten viel. Erfolgreicher sind Modelle, in denen Teams begründen, wann Nähe notwendig ist und wann Ruhe wichtiger wird. So verschiebt sich die Diskussion weg von der Frage, wo gearbeitet wird, hin zu der Frage, welche Form der Zusammenarbeit eine Aufgabe gerade verlangt.",
+      "items": [
+        {
+          "question": "Warum hat der Maschinenbauer seine erste Präsenzregel geändert?",
+          "options": [
+            "Weil gemeinsame Termine auf mehrere Tage verteilt werden sollten.",
+            "Weil die zwei festen Tage die Zusammenarbeit ungleichmäßig belasteten.",
+            "Weil Videokonferenzen technisch nicht zuverlässig funktionierten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche neue Aufgabe entsteht für Führungskräfte besonders?",
+          "options": [
+            "Sie müssen Anwesenheit wieder stärker kontrollieren.",
+            "Sie müssen zusätzliche Büroflächen für gemeinsame Präsenztage bereitstellen.",
+            "Sie müssen Erwartungen und Arbeitswege genauer klären."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum werden Mentoringtage erwähnt?",
+          "options": [
+            "Sie sollen verhindern, dass neue Leute zu wenig informelle Unterstützung bekommen.",
+            "Sie ersetzen die fachliche Ausbildung durch selbstständige Onlinearbeit.",
+            "Sie entlasten erfahrene Kollegen, indem sie Rückfragen in festen Zeitfenstern bündeln."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Gefahr sieht der Text bei freierer Zeiteinteilung?",
+          "options": [
+            "Beschäftigte bekommen weniger beiläufige Rückmeldungen im Team.",
+            "Flexibilität kann zu einer unausgesprochenen Dauererreichbarkeit werden.",
+            "Projektteams verlagern wichtige Entscheidungen in kurze Videorunden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Veränderung beschreibt der Text in der Diskussion über Arbeitsmodelle?",
+          "options": [
+            "Die Wahl des Arbeitsortes wird weniger wichtig als die passende Form der Zusammenarbeit.",
+            "Die technische Ausstattung wird wichtiger als die soziale Organisation.",
+            "Die Beschäftigten sollen ihre Anwesenheit unabhängig von Aufgaben selbst festlegen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

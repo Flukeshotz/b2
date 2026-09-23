@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Zwischen zwei Kulturen",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Zwischen zwei Kulturen",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAls ich vor vier Jahren aus Manila nach Deutschland kam, dachte ich, die größte Herausforderung würde die Sprache sein. Ich hatte recht — aber nicht so, wie ich es erwartet hatte. Die Grammatik konnte ich lernen, die Vokabeln büffeln. Was mir wirklich zu schaffen machte, war etwas, wofür es in keinem Lehrbuch eine Lektion gab: der Ton.\n\nIn den Philippinen sagt man selten direkt \"Nein\". Man sagt \"Vielleicht\", \"Wir schauen mal\" oder \"Das könnte schwierig werden\" — und jeder versteht, dass die Antwort eigentlich Nein bedeutet. Hier auf der Station lernte ich schnell, dass diese Höflichkeit oft als Unklarheit missverstanden wurde. Eine Kollegin fragte mich einmal frustriert: \"Kannst du das jetzt machen oder nicht?\" Ich hatte \"Ich versuche es\" gesagt und dabei eigentlich gemeint, dass es eng werden würde.\n\nInzwischen sage ich direkter, was ich meine. Nicht, weil ich meine Höflichkeit aufgegeben hätte, sondern weil ich verstanden habe, dass Direktheit hier nicht als unfreundlich gilt, sondern als Klarheit, die dem Team hilft. Umgekehrt musste sich auch mein Team daran gewöhnen, dass eine zurückhaltende Antwort von mir nicht automatisch Zustimmung bedeutet.\n\nWas mir am meisten geholfen hat, war eine einzige Frage, die eine erfahrene Kollegin mir stellte, nachdem sie das Missverständnis bemerkt hatte: \"Was genau meinst du, wenn du 'vielleicht' sagst?\" Diese Frage — ohne Vorwurf, mit echtem Interesse — hat mehr für die Zusammenarbeit getan als jeder Sprachkurs.",
+      "items": [
+        {
+          "question": "Was war für die Autorin die größere Herausforderung als die deutsche Grammatik?",
+          "options": [
+            "Vokabeln lernen",
+            "die Aussprache",
+            "den richtigen Ton/die richtige Direktheit zu treffen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In den Philippinen sagt man laut Text häufig direkt \"Nein\".",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wie reagierte die Kollegin auf die Aussage \"Ich versuche es\"?",
+          "options": [
+            "Sie verstand die Höflichkeit sofort.",
+            "Sie ignorierte die Aussage.",
+            "Sie war frustriert und fragte direkt nach."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was hat die Autorin nach eigener Aussage NICHT aufgegeben, obwohl sie direkter geworden ist?",
+          "options": [
+            "ihre Zurückhaltung im Team",
+            "ihre Höflichkeit",
+            "ihre Sprache"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche Frage der Kollegin half der Autorin am meisten?",
+          "options": [
+            "\"Kannst du das machen oder nicht?\"",
+            "\"Warum bist du so unklar?\"",
+            "\"Was genau meinst du, wenn du 'vielleicht' sagst?\""
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

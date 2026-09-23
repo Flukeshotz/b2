@@ -1,0 +1,78 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 2 — Radiointerview & Fachgespräch, Satz 2",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 2 — Radiointerview & Fachgespräch",
+      "audio": "goethe-b2-listening-teil2-set2.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Frau Neumann meint, Computerspiele gehören ins Museum, weil sie ...",
+          "options": [
+            "heute teurer produziert werden als Filme.",
+            "junge Leute mit Spielwettbewerben ins Haus locken.",
+            "etwas über Kultur und Gesellschaft erzählen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist beim Bewahren alter Spiele besonders schwierig?",
+          "options": [
+            "Man muss neben Geräten auch Software, Rechte und Spielkontexte sichern.",
+            "Man muss vor dem Ausstellen alle Gebrauchsspuren entfernen.",
+            "Ein Foto vom Gerät ersetzt die technische Sammlung."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum lässt Frau Neumann Besucher nicht einfach stundenlang spielen?",
+          "options": [
+            "Die meisten alten Spiele sind für das Publikum zu schwierig.",
+            "Ausstellungen brauchen kurze und gelenkte Spielsituationen.",
+            "Alle alten Geräte sind für Besucher grundsätzlich gesperrt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei älteren Museumsbesuchern hat Frau Neumann beobachtet, dass sie ...",
+          "options": [
+            "sich hauptsächlich technische Details erklären lassen.",
+            "Ausstellungen zu Computerspielen meistens meiden.",
+            "Spiele oft mit eigenen Erinnerungen verbinden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie geht Frau Neumann mit problematischen Spielinhalten um?",
+          "options": [
+            "Sie zeigt solche Spiele grundsätzlich nicht.",
+            "Sie ordnet die Inhalte ein, statt sie zu verstecken oder zu feiern.",
+            "Sie überlässt die Bewertung allein den Besuchern."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was sollten Jugendliche ihrer Ansicht nach lernen?",
+          "options": [
+            "nach Entscheidungen und Regeln in Spielen zu fragen.",
+            "möglichst schnell selbst Spiele zu programmieren.",
+            "alte Spiele nicht mit neuen Spielen zu vergleichen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

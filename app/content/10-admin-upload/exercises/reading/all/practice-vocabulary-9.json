@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 9 — Wortbildung",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Easy",
+  "order_index": 48,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "Nomen zu \"prüfen\":",
+          "options": [
+            "die Prüfung",
+            "der Prüf",
+            "das Prüfen ist seltener"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"möglich\":",
+          "options": [
+            "das Mögliche nur",
+            "die Möglichkeit",
+            "die Möglichung"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"sich beschweren\":",
+          "options": [
+            "das Beschwert",
+            "die Beschwerde",
+            "die Beschwerung"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"verantwortlich\":",
+          "options": [
+            "der Verantwortliche bezeichnet die Person",
+            "die Verantwortlichkeit ist seltener",
+            "die Verantwortung"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"sich entscheiden\":",
+          "options": [
+            "die Entscheidheit",
+            "das Entschiedene",
+            "die Entscheidung"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"häufig\":",
+          "options": [
+            "die Häufigkeit",
+            "das Häufige",
+            "die Häufung meint etwas anderes"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"sich verändern\":",
+          "options": [
+            "die Verändertheit",
+            "das Verändern nur",
+            "die Veränderung"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"genau\":",
+          "options": [
+            "das Genaue nur",
+            "die Genauigkeit",
+            "die Genauheit"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"anwenden\":",
+          "options": [
+            "die Anwendung",
+            "das Angewendete",
+            "die Anwendbarkeit beschreibt etwas anderes"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"sich verbessern\":",
+          "options": [
+            "die Besserheit",
+            "die Verbesserung",
+            "das Verbesserte"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Nomen zu \"flexibel\":",
+          "options": [
+            "die Flexibilität",
+            "die Flexibelheit",
+            "das Flexible nur"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "exam_type": "telc",
+  "paper": {
+    "title": "telc Deutsch B2 — Komplettes Übungspaket",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 70,
+    "order_index": 3
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Anzeige: Sprachkurse für den Beruf",
+          "passage": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?\n\nDie Volkshochschule Nordstadt bietet ab September berufsbegleitende Deutschkurse auf B2-Niveau an. Die Kurse finden zweimal wöchentlich abends statt, sodass eine Teilnahme neben einer Vollzeitstelle möglich ist. Neu in diesem Semester: ein separater Kurs mit Schwerpunkt auf schriftlicher Kommunikation im Beruf, etwa E-Mails und Berichte.\n\nDie Teilnahmegebühr beträgt 340 Euro pro Semester. Für Beschäftigte, deren Arbeitgeber eine Kostenbeteiligung schriftlich bestätigt, reduziert sich der Betrag um 50 Prozent. Eine Anmeldung ist bis zwei Wochen vor Kursbeginn online oder persönlich im Sekretariat möglich; danach werden freie Plätze nur noch nach Rücksprache vergeben.\n\nEin Einstufungstest ist vor der ersten Kursstunde verpflichtend, kann aber auch online von zu Hause aus absolviert werden. Wer bereits ein B2-Zertifikat besitzt, kann auf Antrag direkt in den Aufbaukurs für C1 wechseln, sofern das Zertifikat nicht älter als zwei Jahre ist.",
+          "items": [
+            {
+              "question": "Die Kurse finden nur tagsüber statt.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was ist neu in diesem Semester?",
+              "options": [
+                "Ein Kurs mit Schwerpunkt schriftliche Kommunikation im Beruf.",
+                "Kostenlose Teilnahme für alle.",
+                "Ein reiner Wochenendkurs."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wer eine schriftliche Bestätigung des Arbeitgebers vorlegt, zahlt den vollen Betrag.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was passiert, wenn man sich später als zwei Wochen vor Kursbeginn anmeldet?",
+              "options": [
+                "Die Anmeldung wird automatisch abgelehnt.",
+                "Freie Plätze werden nur noch nach Rücksprache vergeben.",
+                "Man zahlt eine Strafgebühr."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Ein bereits vor drei Jahren erworbenes B2-Zertifikat berechtigt in jedem Fall zum direkten Wechsel in den C1-Aufbaukurs.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Weiterbildung im Berufsalltag",
+          "passage": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).\n\nViele Beschäftigte wünschen sich mehr Weiterbildung, (1) ___ ihnen dafür oft die Zeit fehlt. Der Arbeitgeber müsste solche Angebote nicht nur ermöglichen, (2) ___ auch aktiv fördern. (3) ___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden. Wichtig ist, dass die Weiterbildung tatsächlich (4) ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist. Nur so lässt sich verhindern, dass die (5) ___ Zeit ohne echten Nutzen bleibt. Am Ende profitieren (6) ___ das Unternehmen als auch die Beschäftigten selbst davon.",
+          "items": [
+            {
+              "question": "Lücke 1: \"…mehr Weiterbildung, ___ ihnen dafür oft die Zeit fehlt.\"",
+              "options": [
+                "obwohl",
+                "weil",
+                "damit"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 2: \"…nicht nur ermöglichen, ___ auch aktiv fördern.\"",
+              "options": [
+                "sondern",
+                "aber",
+                "oder"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 3: \"___ eines internen Seminars könnten die Kosten für externe Kurse teilweise übernommen werden.\"",
+              "options": [
+                "Anstelle",
+                "Trotz",
+                "Während"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 4: \"…dass die Weiterbildung tatsächlich ___ die Bedürfnisse der Mitarbeitenden abgestimmt ist.\"",
+              "options": [
+                "auf",
+                "für",
+                "mit"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 5: \"…dass die ___ Zeit ohne echten Nutzen bleibt.\"",
+              "options": [
+                "investierte",
+                "investierende",
+                "investiert"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 6: \"Am Ende profitieren ___ das Unternehmen als auch die Beschäftigten selbst davon.\"",
+              "options": [
+                "sowohl",
+                "weder",
+                "entweder"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Durchsage: Änderung der Kantinenöffnungszeiten",
+          "audio": "telc_hoeren_1_kantine.mp3",
+          "passage": "Hören Sie die Durchsage einmal und beantworten Sie die Aufgaben.",
+          "items": [
+            {
+              "question": "Bis wann ist die Kantine künftig geöffnet?",
+              "options": [
+                "Bis 15:30 Uhr.",
+                "Bis 14:00 Uhr.",
+                "Bis 13:30 Uhr."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Das warme Mittagessen wird auch nach 13:30 Uhr noch ausgegeben.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurden die Öffnungszeiten geändert?",
+              "options": [
+                "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.",
+                "Wegen gestiegener Kosten.",
+                "Wegen einer neuen gesetzlichen Vorschrift."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Halbformelle E-Mail: Vertretung bei einem Kundentermin",
+          "passage": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+          "items": [
+            {
+              "question": "Ihre Kollegin kann kommende Woche krankheitsbedingt nicht an einem wichtigen Kundentermin teilnehmen und hat Sie gebeten, sie zu vertreten. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.\n• Erklären Sie kurz, warum Sie schreiben.\n• Schlagen Sie vor, wie der Termin trotzdem stattfinden kann.\n• Sagen Sie, was Sie von Ihrer Vorgesetzten dafür brauchen.",
+              "word_limit": 150,
+              "expected_answer": "Betreff: Vertretung beim Kundentermin nächste Woche\n\nSehr geehrte Frau Müller,\n\nwie Sie vielleicht bereits wissen, ist unsere Kollegin Frau Schulze leider erkrankt und kann den wichtigen Kundentermin mit der Firma Meier am kommenden Dienstag nicht wahrnehmen. Sie hat mich gebeten, sie zu vertreten, und ich übernehme diese Aufgabe selbstverständlich gerne.\n\nIch schlage vor, dass der Termin wie geplant stattfindet. Da ich bereits in der Vergangenheit mit diesem Kunden zusammengearbeitet habe, bin ich mit dem Projekt vertraut und könnte die Präsentation ohne größere Verzögerung übernehmen. Wäre es möglich, dass Sie mir bis Freitag die aktuellen Vertragsunterlagen zukommen lassen? Zudem bräuchte ich eine kurze Einweisung zu den neuesten Verhandlungspunkten, damit ich optimal vorbereitet bin.\n\nIch bitte Sie um eine kurze Rückmeldung, ob dieser Vorschlag für Sie in Ordnung geht.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 4,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Gemeinsam planen: Betriebsausflug",
+          "passage": "Sprechen Sie etwa 2 Minuten.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Sie planen mit einer Kollegin/einem Kollegen einen Betriebsausflug. Schlagen Sie vor, wohin die Gruppe fahren könnte, und begründen Sie Ihren Vorschlag. Sprechen Sie etwa 2 Minuten.",
+              "speech_time_limit": 120,
+              "prompt_type": "text",
+              "reference_text": "Also, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug nach Bamberg machen. Ich finde, die Stadt ist wirklich ideal für so eine Unternehmung. Dafür spricht zum einen die wunderschöne Altstadt, die ja zum UNESCO-Weltkulturerbe gehört. Man kann dort einfach herrlich durch die verwinkelten Gassen schlendern, das hat fast schon mediterranes Flair, und ich glaube, das wäre eine schöne Abwechslung zum Büroalltag. Ein weiterer Vorteil ist, dass wir dort eine Brauereiführung mit anschließender Bierverkostung machen könnten. Das ist nicht nur informativ, sondern lockert die Stimmung ungemein auf und fördert den Teamgeist auf eine ganz ungezwungene Art und Weise. Was die Organisation betrifft, ist Bamberg von hier aus auch sehr gut mit dem Zug zu erreichen, sodass wir nicht im Stau stehen und alle entspannt ankommen. Wir könnten morgens hinfahren, dann eine kleine Stadtführung machen, mittags typisch fränkisch essen gehen und am Nachmittag eben diese Brauerei besichtigen. Ich denke, das ist eine gute Mischung aus Kultur, Kulinarik und Teambuilding. Die Kosten würden sich dafür auch im Rahmen halten. Was hältst du von der Idee? Ich bin gespannt auf deine Meinung.",
+              "model_answer": "Also, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug nach Bamberg machen. Ich finde, die Stadt ist wirklich ideal für so eine Unternehmung. Dafür spricht zum einen die wunderschöne Altstadt, die ja zum UNESCO-Weltkulturerbe gehört. Man kann dort einfach herrlich durch die verwinkelten Gassen schlendern, das hat fast schon mediterranes Flair, und ich glaube, das wäre eine schöne Abwechslung zum Büroalltag. Ein weiterer Vorteil ist, dass wir dort eine Brauereiführung mit anschließender Bierverkostung machen könnten. Das ist nicht nur informativ, sondern lockert die Stimmung ungemein auf und fördert den Teamgeist auf eine ganz ungezwungene Art und Weise. Was die Organisation betrifft, ist Bamberg von hier aus auch sehr gut mit dem Zug zu erreichen, sodass wir nicht im Stau stehen und alle entspannt ankommen. Wir könnten morgens hinfahren, dann eine kleine Stadtführung machen, mittags typisch fränkisch essen gehen und am Nachmittag eben diese Brauerei besichtigen. Ich denke, das ist eine gute Mischung aus Kultur, Kulinarik und Teambuilding. Die Kosten würden sich dafür auch im Rahmen halten. Was hältst du von der Idee? Ich bin gespannt auf deine Meinung.",
+              "expected_answer": "Also, ich habe mir über unseren Betriebsausflug Gedanken gemacht und würde vorschlagen, dass wir dieses Jahr einen Tagesausflug nach Bamberg machen. Ich finde, die Stadt ist wirklich ideal für so eine Unternehmung. Dafür spricht zum einen die wunderschöne Altstadt, die ja zum UNESCO-Weltkulturerbe gehört. Man kann dort einfach herrlich durch die verwinkelten Gassen schlendern, das hat fast schon mediterranes Flair, und ich glaube, das wäre eine schöne Abwechslung zum Büroalltag. Ein weiterer Vorteil ist, dass wir dort eine Brauereiführung mit anschließender Bierverkostung machen könnten. Das ist nicht nur informativ, sondern lockert die Stimmung ungemein auf und fördert den Teamgeist auf eine ganz ungezwungene Art und Weise. Was die Organisation betrifft, ist Bamberg von hier aus auch sehr gut mit dem Zug zu erreichen, sodass wir nicht im Stau stehen und alle entspannt ankommen. Wir könnten morgens hinfahren, dann eine kleine Stadtführung machen, mittags typisch fränkisch essen gehen und am Nachmittag eben diese Brauerei besichtigen. Ich denke, das ist eine gute Mischung aus Kultur, Kulinarik und Teambuilding. Die Kosten würden sich dafür auch im Rahmen halten. Was hältst du von der Idee? Ich bin gespannt auf deine Meinung."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

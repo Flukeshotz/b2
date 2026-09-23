@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Anrufbeantworter: Wohnungsbesichtigung absagen",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 19,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Anrufbeantworter: Wohnungsbesichtigung absagen",
+      "audio": "practice_listening_19_besichtigung_absage.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Warum ruft Frau Sailer an?",
+          "options": [
+            "Um sich über die Wohnung zu beschweren.",
+            "Um die Wohnung sofort zu mieten.",
+            "Um den Besichtigungstermin für morgen abzusagen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum kann Frau Sailer den Termin nicht wahrnehmen?",
+          "options": [
+            "Wegen eines dringenden Termins auf der Arbeit.",
+            "Weil sie kein Interesse mehr an der Wohnung hat.",
+            "Weil sie krank ist."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was schlägt Frau Sailer als Alternative vor?",
+          "options": [
+            "Freitagvormittag, zu einem beliebigen Zeitpunkt.",
+            "Denselben Tag, nur später am Abend.",
+            "Erst in zwei Wochen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

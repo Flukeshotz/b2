@@ -1,0 +1,108 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 2 — Detailverstehen (Interview / Gespräch), Satz 1",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 2 — Detailverstehen (Interview / Gespräch)",
+      "audio": "teil2-set1.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Der Reparaturtreff entstand, weil Herr Rosen sich über weggeworfene Geräte in seinem Wohnhaus ärgerte.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der Moderator vermutet, der Treff kümmere sich nur um elektrische Geräte; Herr Rosen korrigiert das.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der Moderator fragt nach einer Anmeldung; Herr Rosen sagt, spontane Besuche seien nicht möglich.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Im vergangenen Jahr konnte ungefähr zwei Dritteln der mitgebrachten Dinge geholfen werden.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Herr Rosen wollte mit dem Reparaturtreff zuerst eine eigene kleine Werkstattfirma gründen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Stadt bezahlt den Treffpunkt, aber nicht alle benötigten Werkzeuge und Ersatzteile.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Herr Rosen widerspricht der Einschränkung, der Treff sei eher etwas für Pensionierte.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Nach Herrn Rosen haben nur erfolgreiche Reparaturen einen Nutzen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Ersatzteilkiste wurde von einer großen Firma finanziert.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Gruppe möchte zunächst weitere Freiwillige einarbeiten, bevor sie häufiger öffnet.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

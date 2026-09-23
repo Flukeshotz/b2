@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen), Satz 2",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Globalverstehen (Nachrichten & Durchsagen)",
+      "audio": "teil1-q6.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Die Stadt Grünwalde hat eine neue Abgabe auf unbebaute Grundstücke beschlossen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Der Tunnel bei Berghausen bleibt wegen der Bauarbeiten ein ganzes Jahr geschlossen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Molkerei Elbtal will einen Teil ihrer Produktion in der Region einstellen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Für das neue Stipendium können sich Studierende aller Fachrichtungen bewerben.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Das Theaterfestival in Seestadt bietet trotz geringerer Förderung genauso viele Aufführungen wie geplant.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

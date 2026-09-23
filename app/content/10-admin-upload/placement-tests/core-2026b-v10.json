@@ -1,0 +1,423 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V10",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 10
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Die neue Spesen-App — wirklich einfacher?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nSeit Juli rechnen wir Dienstreisen nicht mehr auf Papier ab, sondern über eine App.\nBelege werden fotografiert, der Rest geht angeblich automatisch. Ich war zunächst\ndagegen, weil ich befürchtet habe, dass ältere Kolleginnen und Kollegen damit\nallein gelassen werden.\n\nNach drei Monaten muss ich zugeben: Die Befürchtung hat sich nur zum Teil\nbestätigt. Die meisten kommen gut zurecht, und die Erstattung dauert jetzt eine\nWoche statt fast eines Monats. Das liegt aber nicht an der App allein, sondern\ndaran, dass die Buchhaltung gleichzeitig eine feste Ansprechperson für Fragen\neingeführt hat.\n\nWas mich weiterhin stört, sind Sonderfälle. Wer eine Reise kurzfristig umbuchen\nmuss oder eine Quittung verliert, findet in der App keinen passenden Weg und\nlandet am Ende doch wieder beim Papierformular.\n\nZurück zum alten Verfahren möchte ich trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie beurteilt der Autor die Spesen-App insgesamt?",
+              "options": [
+                "Er hält sie für gescheitert.",
+                "Er hält sie für einen Fortschritt, sieht aber Probleme bei Sonderfällen.",
+                "Er findet, sie habe gar nichts verändert."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Erstattung dauert jetzt etwa eine Woche.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt der Autor ein?",
+              "options": [
+                "Dass seine Befürchtung sich nur zum Teil bestätigt hat.",
+                "Dass die App alle Sonderfälle löst.",
+                "Dass er die App selbst nie benutzt hat."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Worauf führt der Autor die schnellere Erstattung zurück?",
+              "options": [
+                "Allein auf die neue App.",
+                "Auch auf die feste Ansprechperson in der Buchhaltung.",
+                "Auf weniger Dienstreisen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Belege werden in der App fotografiert.",
+                "Bei verlorenen Quittungen hilft die App nicht weiter.",
+                "Die App wurde vor zwei Jahren eingeführt.",
+                "Der Autor war von Anfang an begeistert."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Er beschreibt die Umstellung auf die App.",
+                "Er nennt seine ursprüngliche Befürchtung.",
+                "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+                "Er benennt die verbleibenden Probleme."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Er beschreibt die Umstellung auf die App.",
+                "Er nennt seine ursprüngliche Befürchtung.",
+                "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+                "Er benennt die verbleibenden Probleme."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Er beschreibt die Umstellung auf die App.",
+                "Er nennt seine ursprüngliche Befürchtung.",
+                "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+                "Er benennt die verbleibenden Probleme."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Er beschreibt die Umstellung auf die App.",
+                "Er nennt seine ursprüngliche Befürchtung.",
+                "Er räumt ein, dass sie sich nur teilweise bestätigt hat.",
+                "Er benennt die verbleibenden Probleme."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die App spart Zeit. Sonderfälle bleiben schwierig.",
+                "Die App spart zwar Zeit, Sonderfälle bleiben aber schwierig."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir brauchen ein Formular für Sonderfälle in der App.",
+                "Ein Formular für Sonderfälle in der App wäre vielleicht sinnvoll."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Trotz des verlorenen Belegs bitte ich um Erstattung.",
+                "Trotz dem verlorenen Beleg bitte ich um Erstattung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Reise wurde umgebucht, weil der Kunde den Termin vorgezogen hat und wir sonst zu spät angekommen wären.",
+                "Die Reise wurde umgebucht. Der Kunde hat den Termin vorgezogen. Wir wären zu spät gekommen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Die Buchhaltung hat die Kosten schließlich ___, nachdem ich den fehlenden Beleg (2) hatte.",
+              "answer": [
+                "erstattet",
+                "Erstattet",
+                "übernommen",
+                "Übernommen"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die Buchhaltung hat die Kosten schließlich (1), nachdem ich den fehlenden Beleg ___ hatte.",
+              "answer": [
+                "nachgereicht",
+                "Nachgereicht",
+                "eingereicht",
+                "Eingereicht"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Belege läuft jetzt digital; nur die (2) von Sonderfällen ist noch unklar.",
+              "answer": [
+                "Erfassung",
+                "erfassung",
+                "Abrechnung",
+                "abrechnung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Belege läuft jetzt digital; nur die ___ von Sonderfällen ist noch unklar.",
+              "answer": [
+                "Behandlung",
+                "behandlung",
+                "Bearbeitung",
+                "bearbeitung"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Reise",
+              "options": [
+                "stellen",
+                "antreten",
+                "nehmen",
+                "tragen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nKosten",
+              "options": [
+                "stellen",
+                "antreten",
+                "nehmen",
+                "tragen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neinen Antrag",
+              "options": [
+                "stellen",
+                "antreten",
+                "nehmen",
+                "tragen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nin Kauf",
+              "options": [
+                "stellen",
+                "antreten",
+                "nehmen",
+                "tragen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Hab die Quittung verschlampt, geht das trotzdem?",
+                "Leider ist mir die Quittung abhandengekommen. Ich bitte Sie um Auskunft, wie ich in diesem Fall vorgehen kann."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Darf ich die Kosten kurz erklären? Danach ist der Punkt sicher klarer.",
+                "Die Kosten stimmen, Punkt.",
+                "Dann zahle ich es eben selbst."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Am Telefon. Zwei Kollegen sprechen über eine Dienstreise. (1)",
+          "audio": "core2026b_v10_dienstreise.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wann fahren die beiden nach Hamburg?",
+              "options": [
+                "Am Montagmorgen.",
+                "Am Sonntagabend.",
+                "Am Freitagnachmittag."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B die neue Regel für die Belege?",
+              "options": [
+                "Sie findet sie umständlich.",
+                "Sie findet sie praktisch.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Kollegen müssen das Hotel selbst buchen.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde die Abfahrt geändert?",
+              "options": [
+                "Weil der Termin beim Kunden vorgezogen wurde.",
+                "Weil der Zug am Montag ausfällt.",
+                "Weil das Hotel ausgebucht war."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Am Telefon. Zwei Kollegen sprechen über eine Dienstreise. (2)",
+          "audio": "core2026b_v10_dienstreise.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das praktisch.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Er hat nur eine Sache geändert.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, wie der Autor die neue Spesen-App beurteilt. Nennen Sie auch, was ihn weiterhin stört.",
+              "word_limit": 40,
+              "expected_answer": "Der Autor stand der neuen Spesen-App anfangs skeptisch gegenüber, hat seine Meinung inzwischen aber revidiert. Positiv hebt er die deutlich schnellere Erstattung seiner Auslagen hervor. Allerdings bemängelt er weiterhin, dass die Abrechnung von Sonderfällen im System nach wie vor umständlich und fehleranfällig ist."
+            },
+            {
+              "question": "Die Buchhaltung schreibt: „Bitte reichen Sie die Belege zeitnah ein.“ Sie sind nicht sicher, was „zeitnah“ genau bedeutet und ob Fotos genügen. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Sehr geehrte Damen und Herren,\n\nkönnten Sie mir bitte mitteilen, innerhalb welcher Frist die Belege spätestens eingereicht werden müssen? Dürfte ich außerdem erfragen, ob eingescannte Belege oder Fotos akzeptiert werden?\n\nMit freundlichen Grüßen"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob Dienstreisen künftig grundsätzlich durch Videokonferenzen ersetzt werden sollen, wenn es möglich ist. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die vorgeschlagene Regelung für sehr sinnvoll, denn Videokonferenzen bieten klare Vorteile. Einerseits sparen wir erheblich Reisekosten und wertvolle Arbeitszeit, die sonst im Zug oder Auto verloren geht. Andererseits leisten wir einen wichtigen Beitrag zum Umweltschutz, indem wir unseren CO2-Ausstoß reduzieren. Allerdings darf man nicht übersehen, dass der persönliche Kontakt für den Beziehungsaufbau zu neuen Kunden oft entscheidend ist und Vertrauen schafft. Ein reines Bildschirmgespräch kann das nicht immer ersetzen. Daher schlage ich vor, dass wir interne Meetings grundsätzlich digital durchführen, für Erstgespräche mit wichtigen Neukunden jedoch weiterhin eine Dienstreise beantragen können.\n\nViele Grüße\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Firmen bestehen auf persönlichen Kundenbesuchen, andere setzen fast nur noch auf Videokonferenzen. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Meiner Ansicht nach sind persönliche Kundenbesuche in den meisten Fällen sinnvoller als reine Videokonferenzen, auch wenn das natürlich aufwendiger ist. Ein wesentlicher Vorteil eines persönlichen Treffens liegt für mich in der Beziehungsebene. Wenn man sich gegenübersitzt und vielleicht noch gemeinsam einen Kaffee trinkt, entsteht einfach eine ganz andere, vertrauensvollere Atmosphäre. Man kann viel besser auf die Stimmung des Gegenübers eingehen und nonverbale Signale wie Körpersprache eindeutiger deuten. Ein zweiter wichtiger Punkt ist die Effektivität bei komplexen Verhandlungen. Gerade wenn es um schwierige Vertragsdetails geht, lassen sich Missverständnisse im direkten Gespräch viel schneller ausräumen, und man kann gemeinsam Skizzen anfertigen oder spontan etwas am Flipchart erklären. Allerdings muss ich zugeben, dass Videokonferenzen natürlich einen großen Nachteil haben, und zwar den enormen Zeitverlust durch die An- und Abreise. Das kostet nicht nur Geld, sondern auch wertvolle Arbeitszeit. Trotzdem bin ich überzeugt, dass diese Investition sich langfristig auszahlt, weil eine stabile Kundenbindung durch nichts zu ersetzen ist. Aus diesen Gründen halte ich den persönlichen Besuch für den besseren Weg.",
+              "model_answer": "Meiner Ansicht nach sind persönliche Kundenbesuche in den meisten Fällen sinnvoller als reine Videokonferenzen, auch wenn das natürlich aufwendiger ist. Ein wesentlicher Vorteil eines persönlichen Treffens liegt für mich in der Beziehungsebene. Wenn man sich gegenübersitzt und vielleicht noch gemeinsam einen Kaffee trinkt, entsteht einfach eine ganz andere, vertrauensvollere Atmosphäre. Man kann viel besser auf die Stimmung des Gegenübers eingehen und nonverbale Signale wie Körpersprache eindeutiger deuten. Ein zweiter wichtiger Punkt ist die Effektivität bei komplexen Verhandlungen. Gerade wenn es um schwierige Vertragsdetails geht, lassen sich Missverständnisse im direkten Gespräch viel schneller ausräumen, und man kann gemeinsam Skizzen anfertigen oder spontan etwas am Flipchart erklären. Allerdings muss ich zugeben, dass Videokonferenzen natürlich einen großen Nachteil haben, und zwar den enormen Zeitverlust durch die An- und Abreise. Das kostet nicht nur Geld, sondern auch wertvolle Arbeitszeit. Trotzdem bin ich überzeugt, dass diese Investition sich langfristig auszahlt, weil eine stabile Kundenbindung durch nichts zu ersetzen ist. Aus diesen Gründen halte ich den persönlichen Besuch für den besseren Weg.",
+              "expected_answer": "Meiner Ansicht nach sind persönliche Kundenbesuche in den meisten Fällen sinnvoller als reine Videokonferenzen, auch wenn das natürlich aufwendiger ist. Ein wesentlicher Vorteil eines persönlichen Treffens liegt für mich in der Beziehungsebene. Wenn man sich gegenübersitzt und vielleicht noch gemeinsam einen Kaffee trinkt, entsteht einfach eine ganz andere, vertrauensvollere Atmosphäre. Man kann viel besser auf die Stimmung des Gegenübers eingehen und nonverbale Signale wie Körpersprache eindeutiger deuten. Ein zweiter wichtiger Punkt ist die Effektivität bei komplexen Verhandlungen. Gerade wenn es um schwierige Vertragsdetails geht, lassen sich Missverständnisse im direkten Gespräch viel schneller ausräumen, und man kann gemeinsam Skizzen anfertigen oder spontan etwas am Flipchart erklären. Allerdings muss ich zugeben, dass Videokonferenzen natürlich einen großen Nachteil haben, und zwar den enormen Zeitverlust durch die An- und Abreise. Das kostet nicht nur Geld, sondern auch wertvolle Arbeitszeit. Trotzdem bin ich überzeugt, dass diese Investition sich langfristig auszahlt, weil eine stabile Kundenbindung durch nichts zu ersetzen ist. Aus diesen Gründen halte ich den persönlichen Besuch für den besseren Weg."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

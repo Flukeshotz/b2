@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 21 — Vorschlag: Mentoring-Programm",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 21,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Sie sind der Meinung, dass neue Mitarbeitende von einem Mentoring-Programm profitieren würden. Schreiben Sie einen kurzen Vorschlag an die Personalentwicklung.\n• Erklären Sie kurz das Problem, das der Vorschlag löst.\n• Skizzieren Sie den Ablauf des Programms.\n• Nennen Sie einen erwarteten Nutzen.",
+          "word_limit": 110,
+          "expected_answer": "Betreff: Vorschlag für ein Mentoring-Programm für neue Mitarbeitende\n\nSehr geehrte Damen und Herren,\n\nhiermit möchte ich ein Mentoring-Programm für neue Kolleginnen und Kollegen vorschlagen. Derzeit fällt es vielen Neuzugängen schwer, sich in den komplexen internen Abläufen zurechtzufinden, was die Einarbeitungszeit unnötig verlängert.\n\nMein Vorschlag sieht vor, dass jedem neuen Mitarbeitenden für die ersten drei Monate eine erfahrene Person als Mentor zur Seite gestellt wird. Diese sollte aus einer anderen Abteilung kommen, um abteilungsübergreifendes Verständnis zu fördern. Wöchentliche, halbstündige Gespräche würden Raum für Fragen und Feedback bieten, die im Tagesgeschäft oft zu kurz kommen.\n\nDer größte Nutzen läge meiner Ansicht nach in einer deutlich schnelleren Integration. Die neuen Mitarbeitenden würden sich von Anfang an besser begleitet fühlen und könnten rascher selbstständig arbeiten. Das steigert nicht nur die Produktivität, sondern stärkt auch die Mitarbeiterbindung von Beginn an.\n\nIch würde mich freuen, wenn Sie diesen Vorschlag prüfen würden.\n\nMit freundlichen Grüßen\n[Name]"
+        }
+      ]
+    }
+  ]
+}

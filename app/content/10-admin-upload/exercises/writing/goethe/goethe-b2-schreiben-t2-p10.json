@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #10",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 27,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie machen eine Ausbildung. Ihre Ausbilderin bittet alle Auszubildenden, Ideen für einen besseren Informationsaustausch im Team zu schicken. Schreiben Sie eine Nachricht an Ihre Ausbilderin, Frau Neumann.",
+      "items": [
+        {
+          "question": "Sie machen eine Ausbildung. Ihre Ausbilderin bittet alle Auszubildenden, Ideen für einen besseren Informationsaustausch im Team zu schicken. Schreiben Sie eine Nachricht an Ihre Ausbilderin, Frau Neumann.\n• Erklären Sie, welches Problem Sie im Moment sehen.\n• Machen Sie einen konkreten Vorschlag.\n• Nennen Sie einen Vorteil Ihres Vorschlags.\n• Bieten Sie an, beim Testen zu helfen.",
+          "word_limit": 120,
+          "expected_answer": "Liebe Frau Neumann,\n\nvielen Dank für Ihre Nachricht. Ich finde es sehr gut, dass wir uns Gedanken über einen besseren Informationsaustausch machen, denn momentan sehe ich ein Problem mit den vielen täglichen E-Mails. Oft gehen wichtige Informationen in der Masse unter oder werden zu spät gelesen, was zu Missverständnissen führen kann.\n\nMein konkreter Vorschlag wäre, eine zentrale digitale Pinnwand, zum Beispiel mit Microsoft Teams oder Trello, einzurichten. Dort könnten wir alle wichtigen Neuigkeiten, Aufgaben und Termine übersichtlich für das gesamte Team ablegen, sodass jeder sofort den aktuellen Stand sieht.\n\nDer größte Vorteil wäre, dass die Informationen gebündelt an einem Ort sind und wir nicht mehr lange in unserem Postfach suchen müssen. Das spart viel Zeit und macht die Kommunikation effizienter. Ich würde mich sehr freuen, wenn wir diese Idee testen könnten, und helfe gerne bei der Einrichtung und der Testphase.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

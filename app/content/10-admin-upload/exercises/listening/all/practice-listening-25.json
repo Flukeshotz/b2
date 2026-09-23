@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Beim Arzt: Terminvereinbarung",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 25,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Beim Arzt: Terminvereinbarung",
+      "audio": "practice_listening_25_arzttermin.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Warum ruft der Patient in der Praxis an?",
+          "options": [
+            "Er möchte einen Termin absagen.",
+            "Er benötigt ein Attest für die Arbeit.",
+            "Er braucht eine Nachkontrolle wegen anhaltender Schmerzen nach einer Operation."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welche zwei Optionen bietet die Praxis an?",
+          "options": [
+            "Nur einen Termin in zwei Wochen.",
+            "Nur eine telefonische Beratung.",
+            "Übermorgen um 9:30 Uhr oder noch heute als Notfall."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Patient entscheidet sich für den Notfalltermin noch heute.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was soll der Patient zum Termin mitbringen?",
+          "options": [
+            "Eine Überweisung vom Hausarzt.",
+            "Seine Entlassungsunterlagen aus dem Krankenhaus.",
+            "Ein aktuelles Blutbild."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

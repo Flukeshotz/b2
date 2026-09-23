@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Zwei Stimmen: Sollte Trinkgeld abgeschafft werden?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 33,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Zwei Stimmen: Sollte Trinkgeld abgeschafft werden?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nSTIMME 1 — RESTAURANTBESITZERIN: Ich habe in meinem Restaurant das Trinkgeld offiziell abgeschafft und stattdessen die Preise um 10 Prozent erhöht, wovon das gesamte Servicepersonal einen festen Anteil bekommt. Der Vorteil: Das Einkommen meiner Angestellten ist jetzt planbar und hängt nicht mehr von Zufall, Tagesform der Gäste oder unbewusster Bevorzugung bestimmter Tische ab.\n\nSTIMME 2 — KELLNER AUS EINEM ANDEREN BETRIEB: Ich verstehe das Motiv, aber für mich persönlich wäre das ein Nachteil. An guten Abenden verdiene ich durch Trinkgeld deutlich mehr als jeden Festbetrag, den ein Arbeitgeber realistisch anbieten würde. Außerdem motiviert mich das Trinkgeld, wirklich guten Service zu bieten — bei einem Festgehalt würde dieser Anreiz teilweise wegfallen.\n\nSTIMME 1: Das ist ein faires Argument, das ich nicht wegwischen will. Bei uns hat sich aber gezeigt, dass die Serviceleistung nicht gesunken ist, seit das Trinkgeld weg ist — vermutlich, weil die meisten Mitarbeitenden ohnehin aus Berufsstolz guten Service bieten wollen, nicht nur wegen des Geldes.",
+      "items": [
+        {
+          "question": "Was hat die Restaurantbesitzerin konkret geändert?",
+          "options": [
+            "Nur die Preise erhöht, das Trinkgeld blieb bestehen.",
+            "Trinkgeld abgeschafft und stattdessen die Preise erhöht, mit festem Anteil fürs Personal.",
+            "Trinkgeld abgeschafft, ohne Ausgleich für das Personal."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Kellner aus dem anderen Betrieb befürwortet die Abschaffung des Trinkgelds vorbehaltlos.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welches Argument bringt der Kellner gegen ein Festgehalt vor?",
+          "options": [
+            "Ein Festgehalt wäre steuerlich nachteilig.",
+            "Trinkgeld motiviert ihn zu besonders gutem Service.",
+            "Trinkgeld ist gesetzlich vorgeschrieben."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie reagiert die Restaurantbesitzerin auf das Argument des Kellners?",
+          "options": [
+            "Sie stimmt ihm zu und will das Trinkgeld wieder einführen.",
+            "Sie weist es vollständig zurück.",
+            "Sie erkennt es als fair an, weist aber auf ihre eigene, andere Erfahrung hin."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

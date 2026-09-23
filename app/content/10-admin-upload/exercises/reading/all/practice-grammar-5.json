@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Grammatikübung 5 — Konjunktiv II erweitert",
+  "description": "Wählen Sie die richtige Form.",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Grammatik — gemischte Strukturen",
+      "passage": "Wählen Sie die richtige Form.",
+      "items": [
+        {
+          "question": "___ ich doch nur früher davon gewusst!",
+          "options": [
+            "Habe",
+            "Hätte",
+            "Werde"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ Sie so freundlich, mir kurz zu helfen?",
+          "options": [
+            "Wären",
+            "Sind",
+            "Werden"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er tut so, ___ er die ganze Sache nicht kennen würde.",
+          "options": [
+            "obwohl",
+            "als ob",
+            "während"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wenn sie das gewusst ___, hätte sie anders reagiert.",
+          "options": [
+            "habe",
+            "hätte",
+            "hat"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "An deiner Stelle ___ ich mit der Stationsleitung sprechen.",
+          "options": [
+            "würde",
+            "habe",
+            "werde"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ ich das gewusst hätte, hätte ich anders geplant.",
+          "options": [
+            "Wenn",
+            "Als",
+            "Ob"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Es sieht so aus, ___ das Material bereits bestellt worden wäre.",
+          "options": [
+            "sodass",
+            "obwohl",
+            "als ob"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Könnten Sie mir bitte kurz ___, wo das Formular liegt?",
+          "options": [
+            "sagen",
+            "gesagt",
+            "sagt"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wäre ich damals informiert ___, hätte ich sofort reagiert.",
+          "options": [
+            "geworden",
+            "gewesen",
+            "worden"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "___ ich das nicht selbst gesehen hätte, würde ich es nicht glauben.",
+          "options": [
+            "Ob",
+            "Wenn",
+            "Als"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Sie benimmt sich, ___ nichts passiert wäre.",
+          "options": [
+            "sodass",
+            "als ob",
+            "weil"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

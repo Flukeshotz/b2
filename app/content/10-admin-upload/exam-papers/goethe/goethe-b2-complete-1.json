@@ -1,0 +1,171 @@
+{
+  "exam_type": "goethe",
+  "paper": {
+    "title": "Goethe-Zertifikat B2 — Komplettes Übungspaket",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 58,
+    "order_index": 1
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 15,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Vertrauensarbeitszeit — nur ein Vorteil?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Aufgaben.\n\nSeit einem Jahr können wir bei uns im Betrieb unsere Arbeitszeit frei einteilen, solange die Aufgaben erledigt werden. Am Anfang war ich begeistert: keine Stechuhr mehr, keine Diskussion darüber, wer wann kommt. Inzwischen sehe ich das nüchterner.\n\nDer Vorteil ist real: Wer abends produktiver ist, muss sich nicht mehr morgens zur Arbeit zwingen. Auch Arzttermine oder die Kinderbetreuung lassen sich leichter unterbringen.\n\nWas mir dagegen zu schaffen macht, ist die stille Erwartung, immer erreichbar zu sein. Niemand sagt es offen, aber wer abends um acht keine E-Mail beantwortet, gilt schnell als wenig engagiert. Die Grenze zwischen Arbeit und Freizeit verschwimmt genau dort, wo sie eigentlich klarer werden sollte.\n\nEin Kollege hat kürzlich vorgeschlagen, feste \"Nicht-erreichbar\"-Zeiten im Kalender einzutragen. Das halte ich für einen guten Ansatz — nicht, weil die Freiheit falsch wäre, sondern weil sie ohne klare Regeln zulasten der eigenen Erholung geht.\n\nZurück zur Stechuhr möchte ich trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie hat sich die Einstellung des Autors zur Vertrauensarbeitszeit entwickelt?",
+              "options": [
+                "Er lehnt sie inzwischen komplett ab.",
+                "Er sieht sie inzwischen differenzierter als am Anfang.",
+                "Er hat seine Meinung nicht geändert."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Der Autor sagt, dass niemand offen verlangt, ständig erreichbar zu sein.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was schlägt der Kollege des Autors konkret vor?",
+              "options": [
+                "Wieder eine Stechuhr einzuführen.",
+                "Feste Zeiten der Nicht-Erreichbarkeit im Kalender festzuhalten.",
+                "Die Vertrauensarbeitszeit ganz abzuschaffen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was bedeutet im Text die Wendung \"zu schaffen machen\"?",
+              "options": [
+                "etwas neu erschaffen",
+                "jemandem Mühe oder Sorgen bereiten",
+                "etwas reparieren"
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen zur Vertrauensarbeitszeit treffen laut Text zu?",
+              "options": [
+                "Vertrauensarbeitszeit erleichtert private Termine.",
+                "Der Autor arbeitet seit einem Jahr in Vertrauensarbeitszeit.",
+                "Der Autor möchte zur Stechuhr zurückkehren.",
+                "Die Firma hat feste Nicht-erreichbar-Zeiten eingeführt."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 8,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Kurzvortrag: Ergebnisse eines Mitarbeitergesprächs",
+          "audio": "goethe_hoeren_1_mitarbeitergespraech.mp3",
+          "passage": "Hören Sie den Kurzvortrag einmal und beantworten Sie die Aufgaben.",
+          "items": [
+            {
+              "question": "Wie viele Mitarbeitergespräche wurden insgesamt geführt?",
+              "options": [
+                "84",
+                "48",
+                "8"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was war der am häufigsten genannte Wunsch?",
+              "options": [
+                "Mehr Klarheit über Aufstiegsmöglichkeiten.",
+                "Flexiblere Arbeitszeiten.",
+                "Ein höheres Gehalt."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Flexiblere Arbeitszeiten wurden genauso oft genannt wie Aufstiegsmöglichkeiten.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was hat den Personalleiter positiv überrascht?",
+              "options": [
+                "Die gestiegene Zufriedenheit mit der Teamzusammenarbeit.",
+                "Die niedrige Teilnahmequote.",
+                "Der Wunsch nach mehr Homeoffice."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forumsbeitrag: Großraumbüros",
+          "passage": "Schreiben Sie einen Beitrag für das Forum. Gehen Sie auf alle Punkte ein.",
+          "items": [
+            {
+              "question": "In einem Online-Forum wird diskutiert, ob Großraumbüros die Zusammenarbeit fördern oder eher stören. Schreiben Sie einen Beitrag für das Forum.\n• Sagen Sie, was Sie von Großraumbüros halten.\n• Nennen Sie einen Vorteil und einen Nachteil.\n• Machen Sie einen konkreten Verbesserungsvorschlag.",
+              "word_limit": 200,
+              "expected_answer": "Hallo zusammen,\n\nich habe die Diskussion über Großraumbüros mit Interesse verfolgt und möchte gerne meine Erfahrungen dazu teilen. Ich bin der Ansicht, dass Großraumbüros grundsätzlich eine gute Idee sind, aber in der Praxis oft schlecht umgesetzt werden.\n\nEinerseits fördern sie definitiv die Zusammenarbeit. Wenn man schnell eine Frage an einen Kollegen hat, kann man sich einfach umdrehen und muss nicht erst eine E-Mail schreiben oder durch das ganze Gebäude laufen. Dieser informelle Austausch macht das Team enger und beschleunigt viele Prozesse. Andererseits ist der Lärmpegel ein riesiger Nachteil. Bei uns im Büro telefonieren ständig mehrere Leute gleichzeitig, und es ist fast unmöglich, sich länger auf eine komplexe Aufgabe zu konzentrieren. Das führt bei mir persönlich oft zu Stress und Kopfschmerzen.\n\nMein konkreter Verbesserungsvorschlag wäre, das Büro in verschiedene Zonen aufzuteilen. Man könnte einen offenen Bereich für Teamarbeit und Kommunikation einrichten und daneben einen abgetrennten Ruheraum, in dem absolutes Handy- und Gesprächsverbot herrscht. So könnte jeder Mitarbeiter je nach Aufgabe selbst entscheiden, wo er gerade arbeiten möchte. Ich bin überzeugt, dass dies die Produktivität und die Zufriedenheit aller deutlich steigern würde.\n\nViele Grüße\nAnna S."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Kurzvortrag: Homeoffice-Vorgaben",
+          "passage": "Sprechen Sie etwa 3 Minuten zu dem Thema.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Sollten Unternehmen ihren Mitarbeitenden vorschreiben dürfen, wie oft sie im Homeoffice arbeiten? Nehmen Sie Stellung und begründen Sie Ihre Meinung. Sprechen Sie etwa 3 Minuten.",
+              "speech_time_limit": 180,
+              "prompt_type": "text",
+              "reference_text": "Meiner Ansicht nach sollten Unternehmen nicht pauschal vorschreiben dürfen, wie oft ihre Mitarbeitenden im Homeoffice arbeiten, sondern dies gemeinsam mit ihnen im Dialog regeln. Ich vertrete den Standpunkt, dass eine starre Quote weder den modernen Arbeitsanforderungen noch den individuellen Bedürfnissen der Beschäftigten gerecht wird. Zunächst einmal hat die Pandemie eindrucksvoll bewiesen, dass produktives Arbeiten von zu Hause aus in sehr vielen Branchen problemlos möglich ist. Wenn ein Unternehmen nun ohne Rücksprache eine feste Anzahl an Präsenztagen verordnet, ignoriert es diese gewonnene Flexibilität. Besonders für Eltern oder pflegende Angehörige wäre eine solche Vorschrift eine enorme Belastung, da sie private Verpflichtungen und Beruf kaum noch vereinbaren könnten. Ein konkretes Beispiel: Eine alleinerziehende Mutter könnte an zwei Tagen pro Woche konzentriert von zu Hause aus arbeiten und müsste nicht jedes Mal eine stundenlange Betreuung organisieren. Eine starre Regelung würde hier wertvolle Lebensqualität zerstören. Darüber hinaus kann eine erzwungene Anwesenheit im Büro sogar kontraproduktiv sein. Viele Tätigkeiten, die hohe Konzentration erfordern, lassen sich im Großraumbüro deutlich schlechter erledigen als im ruhigen Arbeitszimmer. Wenn der Arbeitgeber hier vorschreibt, dass man dreimal pro Woche kommen muss, nur um gesehen zu werden, leidet am Ende die Qualität der Arbeit. Natürlich verstehe ich das Gegenargument, dass der persönliche Austausch und die Teamkreativität unter zu viel Homeoffice leiden können. Spontane Gespräche an der Kaffeemaschine oder kreative Brainstormings lassen sich digital nur schwer ersetzen. Allerdings lässt sich dieses Problem durch kluge hybride Modelle lösen, ohne dass die Geschäftsführung autoritär Anwesenheit erzwingt. Man könnte beispielsweise feste Teamtage vereinbaren, an denen alle freiwillig ins Büro kommen, um genau diesen sozialen Zusammenhalt zu pflegen. Der entscheidende Unterschied ist hier die Partizipation: Die Mitarbeitenden werden nicht gezwungen, sondern gestalten den Prozess mit. Zusammenfassend bin ich der festen Überzeugung, dass Vertrauen und Flexibilität die Grundlage moderner Arbeit sein sollten. Ein Unternehmen, das seinen Beschäftigten vorschreibt, wie oft sie vor Ort sein müssen, riskiert Demotivation und die Abwanderung von Talenten. Stattdessen sollte man auf maßgeschneiderte Teamlösungen setzen, die sowohl die Unternehmensziele als auch die menschlichen Bedürfnisse berücksichtigen. Nur so bleibt man als Arbeitgeber langfristig attraktiv.",
+              "model_answer": "Meiner Ansicht nach sollten Unternehmen nicht pauschal vorschreiben dürfen, wie oft ihre Mitarbeitenden im Homeoffice arbeiten, sondern dies gemeinsam mit ihnen im Dialog regeln. Ich vertrete den Standpunkt, dass eine starre Quote weder den modernen Arbeitsanforderungen noch den individuellen Bedürfnissen der Beschäftigten gerecht wird. Zunächst einmal hat die Pandemie eindrucksvoll bewiesen, dass produktives Arbeiten von zu Hause aus in sehr vielen Branchen problemlos möglich ist. Wenn ein Unternehmen nun ohne Rücksprache eine feste Anzahl an Präsenztagen verordnet, ignoriert es diese gewonnene Flexibilität. Besonders für Eltern oder pflegende Angehörige wäre eine solche Vorschrift eine enorme Belastung, da sie private Verpflichtungen und Beruf kaum noch vereinbaren könnten. Ein konkretes Beispiel: Eine alleinerziehende Mutter könnte an zwei Tagen pro Woche konzentriert von zu Hause aus arbeiten und müsste nicht jedes Mal eine stundenlange Betreuung organisieren. Eine starre Regelung würde hier wertvolle Lebensqualität zerstören. Darüber hinaus kann eine erzwungene Anwesenheit im Büro sogar kontraproduktiv sein. Viele Tätigkeiten, die hohe Konzentration erfordern, lassen sich im Großraumbüro deutlich schlechter erledigen als im ruhigen Arbeitszimmer. Wenn der Arbeitgeber hier vorschreibt, dass man dreimal pro Woche kommen muss, nur um gesehen zu werden, leidet am Ende die Qualität der Arbeit. Natürlich verstehe ich das Gegenargument, dass der persönliche Austausch und die Teamkreativität unter zu viel Homeoffice leiden können. Spontane Gespräche an der Kaffeemaschine oder kreative Brainstormings lassen sich digital nur schwer ersetzen. Allerdings lässt sich dieses Problem durch kluge hybride Modelle lösen, ohne dass die Geschäftsführung autoritär Anwesenheit erzwingt. Man könnte beispielsweise feste Teamtage vereinbaren, an denen alle freiwillig ins Büro kommen, um genau diesen sozialen Zusammenhalt zu pflegen. Der entscheidende Unterschied ist hier die Partizipation: Die Mitarbeitenden werden nicht gezwungen, sondern gestalten den Prozess mit. Zusammenfassend bin ich der festen Überzeugung, dass Vertrauen und Flexibilität die Grundlage moderner Arbeit sein sollten. Ein Unternehmen, das seinen Beschäftigten vorschreibt, wie oft sie vor Ort sein müssen, riskiert Demotivation und die Abwanderung von Talenten. Stattdessen sollte man auf maßgeschneiderte Teamlösungen setzen, die sowohl die Unternehmensziele als auch die menschlichen Bedürfnisse berücksichtigen. Nur so bleibt man als Arbeitgeber langfristig attraktiv.",
+              "expected_answer": "Meiner Ansicht nach sollten Unternehmen nicht pauschal vorschreiben dürfen, wie oft ihre Mitarbeitenden im Homeoffice arbeiten, sondern dies gemeinsam mit ihnen im Dialog regeln. Ich vertrete den Standpunkt, dass eine starre Quote weder den modernen Arbeitsanforderungen noch den individuellen Bedürfnissen der Beschäftigten gerecht wird. Zunächst einmal hat die Pandemie eindrucksvoll bewiesen, dass produktives Arbeiten von zu Hause aus in sehr vielen Branchen problemlos möglich ist. Wenn ein Unternehmen nun ohne Rücksprache eine feste Anzahl an Präsenztagen verordnet, ignoriert es diese gewonnene Flexibilität. Besonders für Eltern oder pflegende Angehörige wäre eine solche Vorschrift eine enorme Belastung, da sie private Verpflichtungen und Beruf kaum noch vereinbaren könnten. Ein konkretes Beispiel: Eine alleinerziehende Mutter könnte an zwei Tagen pro Woche konzentriert von zu Hause aus arbeiten und müsste nicht jedes Mal eine stundenlange Betreuung organisieren. Eine starre Regelung würde hier wertvolle Lebensqualität zerstören. Darüber hinaus kann eine erzwungene Anwesenheit im Büro sogar kontraproduktiv sein. Viele Tätigkeiten, die hohe Konzentration erfordern, lassen sich im Großraumbüro deutlich schlechter erledigen als im ruhigen Arbeitszimmer. Wenn der Arbeitgeber hier vorschreibt, dass man dreimal pro Woche kommen muss, nur um gesehen zu werden, leidet am Ende die Qualität der Arbeit. Natürlich verstehe ich das Gegenargument, dass der persönliche Austausch und die Teamkreativität unter zu viel Homeoffice leiden können. Spontane Gespräche an der Kaffeemaschine oder kreative Brainstormings lassen sich digital nur schwer ersetzen. Allerdings lässt sich dieses Problem durch kluge hybride Modelle lösen, ohne dass die Geschäftsführung autoritär Anwesenheit erzwingt. Man könnte beispielsweise feste Teamtage vereinbaren, an denen alle freiwillig ins Büro kommen, um genau diesen sozialen Zusammenhalt zu pflegen. Der entscheidende Unterschied ist hier die Partizipation: Die Mitarbeitenden werden nicht gezwungen, sondern gestalten den Prozess mit. Zusammenfassend bin ich der festen Überzeugung, dass Vertrauen und Flexibilität die Grundlage moderner Arbeit sein sollten. Ein Unternehmen, das seinen Beschäftigten vorschreibt, wie oft sie vor Ort sein müssen, riskiert Demotivation und die Abwanderung von Talenten. Stattdessen sollte man auf maßgeschneiderte Teamlösungen setzen, die sowohl die Unternehmensziele als auch die menschlichen Bedürfnisse berücksichtigen. Nur so bleibt man als Arbeitgeber langfristig attraktiv."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

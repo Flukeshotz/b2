@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Nachbarn reden über Lärmbelästigung",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 28,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Nachbarn reden über Lärmbelästigung",
+      "audio": "practice_listening_28_laermbelaestigung.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worüber beschwert sich Nachbar 1?",
+          "options": [
+            "Laute Musik nach 22 Uhr an mehreren Abenden.",
+            "Ein falsch geparktes Auto.",
+            "Zigarettenrauch im Treppenhaus."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie erklärt Nachbar 2 die Situation?",
+          "options": [
+            "Er hat absichtlich laut Musik gehört.",
+            "Er hatte Besuch und die Zeit unterschätzt.",
+            "Er wusste nichts von der Lärmbeschwerde."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Worauf einigen sich die beiden Nachbarn?",
+          "options": [
+            "Sie schalten die Hausverwaltung ein.",
+            "Nachbar 2 zieht aus.",
+            "Nachbar 2 gibt künftig Bescheid, wenn länger Besuch da ist."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

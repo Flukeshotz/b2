@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #12",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 29,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie haben an einem Online-Seminar teilgenommen, aber die angekündigten Übungsunterlagen nicht erhalten. Schreiben Sie eine Nachricht an die Seminarleiterin, Frau Arndt.",
+      "items": [
+        {
+          "question": "Sie haben an einem Online-Seminar teilgenommen, aber die angekündigten Übungsunterlagen nicht erhalten. Schreiben Sie eine Nachricht an die Seminarleiterin, Frau Arndt.\n• Sagen Sie, warum Sie die Unterlagen bald brauchen.\n• Nennen Sie das Seminar.\n• Bitten Sie um Zusendung.\n• Erklären Sie, welche Unterlagen fehlen.",
+          "word_limit": 120,
+          "expected_answer": "Sehr geehrte Frau Arndt,\n\nich habe kürzlich an Ihrem Online-Seminar „Professionelle Geschäftskorrespondenz“ teilgenommen und möchte mich zunächst für die informative Veranstaltung bedanken. Leider habe ich die im Nachgang angekündigten Übungsunterlagen bisher nicht erhalten. Konkret fehlen mir die PDF-Dateien mit den Musterbriefen sowie die dazugehörigen Formulierungshilfen, die Sie im Seminar gezeigt haben.\n\nIch benötige diese Materialien nun recht dringend, da ich nächste Woche eine wichtige Präsentation für unsere Geschäftsleitung vorbereiten muss. Die praktischen Beispiele aus Ihrem Kurs wären dafür eine enorme Hilfe. Aus diesem Grund wäre ich Ihnen sehr dankbar, wenn Sie mir die fehlenden Unterlagen schnellstmöglich per E-Mail zusenden könnten.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Hausmitteilung: Vertretungsregelung während der Urlaubszeit",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 39,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hausmitteilung: Vertretungsregelung während der Urlaubszeit",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAn alle Abteilungsleitungen\n\nMit Blick auf die bevorstehende Hauptreisezeit bitten wir, die Vertretungsregelungen bis spätestens zwei Wochen vor Urlaubsbeginn der jeweiligen Person schriftlich im Vertretungsplan zu hinterlegen.\n\nWichtig: Eine Vertretung darf nur benannt werden, wenn die vertretende Person die dafür nötigen Systemzugänge und Kenntnisse tatsächlich besitzt — eine rein formale Benennung ohne echte Handlungsfähigkeit hat sich in der Vergangenheit mehrfach als Problem erwiesen, etwa wenn dringende Freigaben tagelang liegen blieben.\n\nSollte in einer Abteilung keine geeignete interne Vertretung verfügbar sein, ist dies der Geschäftsleitung rechtzeitig zu melden, damit gegebenenfalls eine abteilungsübergreifende Lösung organisiert werden kann. \"Rechtzeitig\" bedeutet in diesem Zusammenhang mindestens vier Wochen vor dem betreffenden Urlaubszeitraum.\n\nFür Rückfragen zur Vertretungsplanung steht die Personalabteilung zur Verfügung.",
+      "items": [
+        {
+          "question": "Bis wann muss die Vertretungsregelung im Vertretungsplan hinterlegt werden?",
+          "options": [
+            "Spätestens zwei Wochen vor Urlaubsbeginn.",
+            "Spätestens vier Wochen nach Urlaubsende.",
+            "Erst am ersten Urlaubstag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Text reicht eine rein formale Benennung einer Vertretung aus, auch ohne passende Systemzugänge.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was muss eine Abteilung tun, wenn keine geeignete interne Vertretung verfügbar ist?",
+          "options": [
+            "Nichts unternehmen, das Problem löst sich meist von selbst.",
+            "Dies der Geschäftsleitung mindestens vier Wochen vorher melden.",
+            "Den Urlaub der betroffenen Person automatisch streichen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

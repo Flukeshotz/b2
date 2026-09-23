@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Zwei Freunde planen einen Umzug",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 7,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Zwei Freunde planen einen Umzug",
+      "audio": "practice_listening_7_umzugsplanung.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was war der ursprüngliche Plan von Freund 1 für den Transport?",
+          "options": [
+            "Eine Umzugsfirma beauftragen.",
+            "Alles mit dem eigenen Auto transportieren.",
+            "Einen Umzugswagen mieten."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum empfiehlt Freund 2 eine Umzugsfirma?",
+          "options": [
+            "Weil ein Wagen zu teuer wäre.",
+            "Weil er selbst nicht mithelfen kann.",
+            "Wegen des schweren Klaviers."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die beiden treffen sich am Samstag, um die Kartons zu packen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Auf welchen Termin einigen sich die beiden am Ende für das Packen?",
+          "options": [
+            "Sonntag ab zehn Uhr.",
+            "Freitagabend.",
+            "Samstagnachmittag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

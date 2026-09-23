@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #14",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 16,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Anmeldung:\nSie möchten mehr über Ihre Großeltern herausfinden, haben aber nur wenige Dokumente. Vor der Anmeldung möchten Sie wissen, ob der Kurs auch mit wenig Vorwissen sinnvoll ist.\n\nAufgabe B: Beschwerde:\nSie haben das Paket für eine Abschiedsfeier gemietet. Das Funkmikrofon fehlte, die Einweisung dauerte nur wenige Minuten und die Servicenummer war abends nicht erreichbar.",
+      "items": [
+        {
+          "question": "Sie möchten mehr über Ihre Großeltern herausfinden, haben aber nur wenige Dokumente. Vor der Anmeldung möchten Sie wissen, ob der Kurs auch mit wenig Vorwissen sinnvoll ist.\n• Melden Sie Ihr Interesse am Kurs an.\n• Beschreiben Sie kurz Ihr Rechercheziel und Ihr geringes Vorwissen.\n• Fragen Sie nach mitzubringenden Unterlagen und Datenschutz.\n• Bitten Sie um Bestätigung von Terminen, Kosten und Anmeldung.",
+          "word_limit": 180,
+          "expected_answer": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich von Ihrem Kurs zur Familienforschung erfahren und möchte mich hiermit erkundigen, ob eine Teilnahme für mich sinnvoll ist. Mein Ziel ist es, mehr über meine Großeltern herauszufinden, zu denen ich leider kaum Kontakt hatte. Mein Vorwissen ist sehr gering, und ich besitze nur wenige Dokumente, hauptsächlich einige alte Fotos und eine Geburtsurkunde.\n\nDaher ist meine wichtigste Frage: Ist der Kurs auch für Anfänger mit so wenig Material geeignet? Können Sie mir bitte mitteilen, welche Unterlagen ich zum ersten Termin mitbringen sollte? Ein weiterer wichtiger Punkt ist der Datenschutz. Ich möchte sicherstellen, dass persönliche Familiendaten vertraulich behandelt und nicht ohne meine Zustimmung weitergegeben werden.\n\nAbschließend bitte ich Sie um eine Bestätigung der genauen Termine und der Kursgebühren. Auch wäre ich Ihnen dankbar, wenn Sie mir das Anmeldeverfahren kurz erklären könnten. Ich würde mich sehr freuen, bald von Ihnen zu hören, und bedanke mich herzlich für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

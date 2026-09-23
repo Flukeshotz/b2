@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #10",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 12,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Formelle Bitte:\nSie organisieren mit Ihrer Nachbarschaftsgruppe einen internationalen Abend mit kurzen Vorträgen und Tee. Die Gruppe hat wenig Geld und möchte den Raum an einem Donnerstag nutzen.\n\nAufgabe B: Beschwerde:\nSie haben Ihr E-Bike am Montagmorgen abgegeben. Es war erst Donnerstag fertig, das Licht funktionierte weiterhin nicht und auf der Rechnung standen Ersatzteile, denen Sie nicht zugestimmt hatten.",
+      "items": [
+        {
+          "question": "Sie organisieren mit Ihrer Nachbarschaftsgruppe einen internationalen Abend mit kurzen Vorträgen und Tee. Die Gruppe hat wenig Geld und möchte den Raum an einem Donnerstag nutzen.\n• Beschreiben Sie Art und Ziel Ihrer Veranstaltung.\n• Fragen Sie nach Verfügbarkeit des kleinen Saals an einem Donnerstag.\n• Bitten Sie um Informationen zu Ermäßigung, Beamer und Teeküche.\n• Bestätigen Sie, dass Sie die Endzeit einhalten können.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Anfrage für einen internationalen Nachbarschaftsabend\n\nSehr geehrte Damen und Herren,\n\nim Namen unserer Nachbarschaftsinitiative „Gemeinsam Vielfalt leben“ wende ich mich heute an Sie. Wir planen einen internationalen Abend, bei dem sich Nachbarn verschiedener Herkunft bei kurzen, persönlichen Vorträgen und einer Tasse Tee kennenlernen können. Ziel ist es, den kulturellen Austausch im Viertel zu fördern und neue Kontakte zu knüpfen.\n\nDa unsere Gruppe über sehr begrenzte finanzielle Mittel verfügt, wären wir Ihnen sehr dankbar, wenn Sie uns mitteilen könnten, ob Ihr kleiner Saal an einem Donnerstag im nächsten Monat verfügbar ist. Idealerweise würden wir die Veranstaltung am 15. oder 22. von 18:00 bis 21:00 Uhr durchführen.\n\nZudem hätte ich zwei konkrete Fragen: Wäre es möglich, uns aufgrund des gemeinnützigen Charakters der Veranstaltung eine Ermäßigung auf die Raummiete zu gewähren? Außerdem würden wir gerne erfahren, ob im Saal ein Beamer vorhanden ist und ob wir die angeschlossene Teeküche für die Zubereitung von Tee nutzen dürfen.\n\nAbschließend möchte ich Ihnen versichern, dass wir die vereinbarte Endzeit selbstverständlich exakt einhalten und den Raum besenrein hinterlassen werden.\n\nFür Rückfragen stehe ich Ihnen gerne zur Verfügung und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

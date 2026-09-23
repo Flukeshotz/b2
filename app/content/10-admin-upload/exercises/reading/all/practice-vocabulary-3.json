@@ -1,0 +1,127 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 3 — formell vs. umgangssprachlich",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 42,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "Formelles Synonym für \"anfangen\":",
+          "options": [
+            "los machen",
+            "starten (umgangssprachlich)",
+            "beginnen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Formelles Synonym für \"kriegen\":",
+          "options": [
+            "schnappen",
+            "erhalten",
+            "packen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Formelles Synonym für \"kaputt\" (bei einem Gerät):",
+          "options": [
+            "im Eimer",
+            "hin",
+            "defekt"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Umgangssprachlich \"checken\" heißt formell:",
+          "options": [
+            "kontrollieren, aber informell",
+            "überprüfen",
+            "gucken"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Formelles Synonym für \"viele\" in einem Bericht:",
+          "options": [
+            "zahlreiche",
+            "haufenweise",
+            "'ne Menge"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Das Problem lösen\" formell umschrieben:",
+          "options": [
+            "das Problem knacken",
+            "eine Lösung für das Problem finden/erarbeiten",
+            "das Problem fixen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Formelles Synonym für \"sagen, dass etwas nicht stimmt\":",
+          "options": [
+            "widersprechen / darauf hinweisen, dass …",
+            "meckern",
+            "quatschen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Ich hab keine Ahnung\" formell:",
+          "options": [
+            "Das ist mir nicht bekannt.",
+            "Keine Idee.",
+            "Weiß nicht."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Wir müssen das nochmal genauer angucken\" formell:",
+          "options": [
+            "Wir müssen mal reinschauen.",
+            "Wir müssen das genauer prüfen.",
+            "Wir gucken da noch mal rein."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Das nervt mich total\" formell umschrieben:",
+          "options": [
+            "Das kotzt mich an.",
+            "Das empfinde ich als sehr belastend.",
+            "Das geht mir auf die Nerven."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Kannste mal kurz vorbeikommen?\" formell:",
+          "options": [
+            "Häng dich mal kurz rein.",
+            "Könnten Sie kurz vorbeikommen?",
+            "Kommste kurz mal?"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 4 — Halbformelle E-Mail: Flexible Arbeitszeiten",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Schreiben Sie eine halbformelle E-Mail an Ihre Führungskraft, in der Sie um flexiblere Arbeitszeiten bitten (z. B. späterer Arbeitsbeginn). Nennen Sie einen persönlichen Grund und schlagen Sie eine konkrete Regelung vor.\n• Nennen Sie einen konkreten, nachvollziehbaren Grund.\n• Machen Sie einen konkreten Vorschlag (z. B. Uhrzeit).\n• Schließen Sie mit einer höflichen Bitte um Rückmeldung.",
+          "word_limit": 100,
+          "expected_answer": "Sehr geehrte Frau Müller,\n\nich wende mich heute mit einer persönlichen Bitte an Sie. Da meine Tochter seit Kurzem in eine weiter entfernte Kita geht, fällt es mir zunehmend schwer, pünktlich um 8:00 Uhr im Büro zu sein. Wäre es möglich, meine Arbeitszeit flexibel auf 9:30 Uhr bis 18:00 Uhr zu verschieben? Selbstverständlich bleibe ich in dieser Zeit voll einsatzfähig und sichere zu, dass meine Kernaufgaben sowie die Erreichbarkeit für das Team nicht darunter leiden. Ich würde mich sehr freuen, wenn wir dies in einem kurzen Gespräch besprechen könnten.\n\nMit freundlichen Grüßen\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

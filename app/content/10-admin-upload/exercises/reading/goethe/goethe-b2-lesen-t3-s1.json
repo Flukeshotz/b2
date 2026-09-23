@@ -1,0 +1,77 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 3 — Detailverstehen (Journalistischer Text), Satz 1",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Detailverstehen (Journalistischer Text)",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nMehr als Bücher\n\nViele Stadtbibliotheken waren lange Orte, an denen man leise ein Buch auslieh und möglichst schnell wieder ging. In Hohenbrück entsteht daraus gerade etwas anderes: Die alte Bibliothek am Markt wird Schritt für Schritt zu einem offenen Lern- und Begegnungsort. Wer dort heute eintritt, sieht weiterhin Regale und Lesesessel. Daneben gibt es aber Arbeitstische, kleine Gesprächsräume, eine Werkstatt für einfache Reparaturen und einen Bereich, in dem Jugendliche nachmittags Hausaufgaben machen können.\n\nBegonnen hat der Umbau nicht, weil weniger Bücher ausgeliehen wurden. Im Gegenteil: Die Ausleihzahlen sind stabil. Die Mitarbeiterinnen bemerkten jedoch, dass immer mehr Besucherinnen und Besucher mit Laptops kamen und lange blieben. Manche suchten einen ruhigen Platz, weil zu Hause kleine Geschwister oder Mitbewohner störten. Andere wollten sich mit Bekannten treffen, ohne in einem Café Geld ausgeben zu müssen. Die Stadtverwaltung sah darin ein Zeichen, dass öffentliche Räume anders gebraucht werden als früher.\n\nBesonders beliebt sind inzwischen die sogenannten Arbeitsecken. Dort darf gesprochen werden, solange andere nicht gestört werden. Ein pensionierter Techniker hilft einmal pro Woche beim Reparieren von Lampen, Kopfhörern oder Spielzeug. Die Bibliothek verleiht außerdem Messgeräte, Nähmaschinen und Lernboxen. Kritiker fragen, ob eine Bibliothek dadurch nicht ihren eigentlichen Charakter verliert. Sie fürchten, dass Menschen, die in Ruhe lesen möchten, zwischen Beratungsgesprächen und Werkzeugkisten keinen Platz mehr finden.\n\nDie Leiterin der Bibliothek widerspricht diesem Eindruck. Es gebe weiterhin einen stillen Lesesaal, erklärt sie, und die neuen Angebote seien räumlich getrennt. Entscheidend sei, dass Bildung heute nicht nur aus Büchern komme. Wer lerne, ein Gerät zu reparieren, ein Formular auszufüllen oder einen Vortrag vorzubereiten, nutze ebenfalls Wissen. Außerdem erreiche man durch die offenen Angebote Menschen, die früher nie eine Bibliothek betreten hätten.\n\nFür die Stadt ist das Projekt auch eine soziale Frage. Nicht jeder hat zu Hause einen Schreibtisch, schnelles Internet oder Erwachsene, die bei Bewerbungen helfen können. Deshalb finanziert Hohenbrück zusätzliche Öffnungszeiten am Abend. Zwei Räume sollen testweise auch dann nutzbar sein, wenn kein Bibliothekspersonal anwesend ist. Dafür müssen sich Nutzer vorher registrieren und eine Einführung besuchen. Die Stadt will damit prüfen, ob Vertrauen und klare Regeln ausreichen.\n\nEinmal im Monat lädt die Bibliothek außerdem zu kurzen Themenabenden ein. Dort erklären Fachleute aus der Stadt, wie man eine Steuererklärung vorbereitet, digitale Fotos ordnet oder eine Präsentation gestaltet. Diese Veranstaltungen sind kostenlos, müssen aber reserviert werden, weil der Raum nur dreißig Plätze hat. Schulen nutzen das Angebot inzwischen für Projektwochen, und ein Verein bietet Beratung für Menschen an, die Schwierigkeiten mit Onlineformularen haben. Damit wächst auch die Verantwortung der Bibliothek: Sie soll offen sein, ohne zur allgemeinen Servicestelle für jedes Problem zu werden.\n\nGanz ohne Probleme läuft der Wandel nicht. Einige ältere Besucher beschweren sich über die lebendigere Atmosphäre, und die Mitarbeitenden mussten lernen, Konflikte zwischen stillen Lesern und Gruppenarbeitern freundlich zu lösen. Trotzdem zeigt die erste Bilanz: Die Zahl der Aufenthalte ist gestiegen, nicht nur die Zahl der ausgeliehenen Medien. Viele kommen inzwischen mehrmals pro Woche, manchmal ohne ein einziges Buch mitzunehmen.\n\nAuch die Finanzierung bleibt ein Thema. Die Stadt übernimmt den größten Teil der Kosten, doch für neue Möbel und Technik werden zusätzliche Fördermittel beantragt. Private Sponsoren sollen keine Rolle spielen, damit die Bibliothek unabhängig bleibt.\n\nOb andere Städte das Modell übernehmen, ist offen. Hohenbrück will zunächst auswerten, welche Angebote wirklich genutzt werden und wo Grenzen liegen. Sicher scheint nur: Die Bibliothek der Zukunft wird nicht unbedingt leiser. Aber sie könnte für viele Menschen wichtiger werden.",
+      "items": [
+        {
+          "question": "Die Bibliothek in Hohenbrück ...",
+          "options": [
+            "verzichtet künftig auf klassische Bücher.",
+            "wurde wegen sinkender Besucherzahlen geschlossen.",
+            "verbindet Ausleihe mit neuen Angeboten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum begann der Umbau?",
+          "options": [
+            "Weil immer mehr Menschen dort länger arbeiten wollten.",
+            "Weil die Stadt Cafés im Zentrum ersetzen wollte.",
+            "Weil kaum noch Medien ausgeliehen wurden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Einige Kritiker befürchten, dass ...",
+          "options": [
+            "zu viele Geräte kostenlos verliehen werden.",
+            "Reparaturkurse die Jugendlichen überfordern.",
+            "ruhiges Lesen schwieriger werden könnte."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bildung ...",
+          "options": [
+            "entsteht nur durch längeres Lesen.",
+            "kann auch praktisch vermittelt werden.",
+            "muss ohne digitale Hilfen stattfinden."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Abendöffnung soll vor allem Menschen helfen, ...",
+          "options": [
+            "die beruflich mit Büchern arbeiten.",
+            "die keine Registrierung vornehmen möchten.",
+            "die zu Hause schlechte Lernbedingungen haben."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die erste Bilanz zeigt, dass ...",
+          "options": [
+            "weniger Medien ausgeliehen werden.",
+            "vor allem ältere Besucher häufiger kommen.",
+            "die Bibliothek öfter als Aufenthaltsort genutzt wird."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

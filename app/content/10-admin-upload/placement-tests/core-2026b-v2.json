@@ -1,0 +1,417 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V2",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 2
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Wenn die Technik mitdenkt",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nSeit dem Frühjahr läuft bei uns ein System, das eingehende Rechnungen automatisch\nvorsortiert und den richtigen Abteilungen zuordnet.\n\nIch habe das anfangs offen abgelehnt. Nicht, weil ich etwas gegen Technik hätte, sondern\nweil ich schon zweimal erlebt habe, wie solche Programme eingeführt und nach einem Jahr\nwieder abgeschafft wurden. Die Arbeit blieb dann an denselben Leuten hängen wie vorher.\n\nDiesmal ist es anders gelaufen, und das hat mich ehrlich überrascht. Das System nimmt uns\ndie stumpfeste Arbeit tatsächlich ab. Entscheidend war allerdings nicht die Software,\nsondern dass wir vorher zwei Wochen lang aufgeschrieben haben, welche Fälle überhaupt\nvorkommen. Ohne diese Vorarbeit hätte das Programm dieselben Fehler gemacht wie wir, nur\nschneller.\n\nWas ich nach wie vor kritisch sehe, ist der Umgang mit Ausnahmen. Alles, was nicht ins\nRaster passt, landet in einem Sammelordner, den sich am Ende doch wieder jemand von Hand\nansieht. Offiziell gibt es diesen Ordner gar nicht.\n\nZurück zum alten Verfahren möchte ich trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie bewertet der Autor das neue System insgesamt?",
+              "options": [
+                "Er hält es für gescheitert, wie die früheren Programme.",
+                "Er hält es für nützlich, sieht aber einen ungelösten Punkt.",
+                "Er findet, es habe die Arbeit nur auf andere verlagert."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Der Autor lehnte das System zunächst ab, weil er Technik grundsätzlich ablehnt.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt der Autor ein?",
+              "options": [
+                "Dass seine anfängliche Ablehnung sich diesmal nicht bestätigt hat.",
+                "Dass der Sammelordner inzwischen überflüssig geworden ist.",
+                "Dass die Software mehr geleistet hat als die Vorarbeit."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Worauf führt der Autor den Erfolg zurück?",
+              "options": [
+                "Auf die Qualität der eingesetzten Software.",
+                "Auf die zwei Wochen Vorarbeit im Team.",
+                "Auf die Erfahrung aus den früheren Projekten."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Der Autor hat frühere Projekte dieser Art scheitern sehen.",
+                "Ausnahmefälle werden weiterhin von Hand bearbeitet.",
+                "Das jetzige System wurde nach einem Jahr wieder abgeschafft.",
+                "Der Autor war von Anfang an für die Einführung."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Er beschreibt das neue System.",
+                "Er nennt den Punkt, der ihn weiterhin stört.",
+                "Er begründet seine anfängliche Ablehnung.",
+                "Er erklärt, warum es diesmal funktioniert hat."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Er beschreibt das neue System.",
+                "Er nennt den Punkt, der ihn weiterhin stört.",
+                "Er begründet seine anfängliche Ablehnung.",
+                "Er erklärt, warum es diesmal funktioniert hat."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Er beschreibt das neue System.",
+                "Er nennt den Punkt, der ihn weiterhin stört.",
+                "Er begründet seine anfängliche Ablehnung.",
+                "Er erklärt, warum es diesmal funktioniert hat."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Er beschreibt das neue System.",
+                "Er nennt den Punkt, der ihn weiterhin stört.",
+                "Er begründet seine anfängliche Ablehnung.",
+                "Er erklärt, warum es diesmal funktioniert hat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Lösung ist schnell. Sie passt nicht zu unseren Fällen.",
+                "Die Lösung ist zwar schnell, sie passt aber nicht zu unseren Fällen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir brauchen eine zweite Prüfstufe im System.",
+                "Eine zweite Prüfstufe im System wäre vielleicht sinnvoll."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Während dem Update ist das System nicht erreichbar.",
+                "Während des Updates ist das System nicht erreichbar."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Die Einführung wird verschoben, weil die Fallliste noch unvollständig ist und das System sonst dieselben Fehler übernehmen würde.",
+                "Die Einführung wird verschoben. Die Fallliste ist unvollständig. Das System würde Fehler übernehmen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: Die Abteilung hat den Vorschlag zunächst in Frage ___, inzwischen aber Vertrauen zu dem System (2).",
+              "answer": [
+                "gestellt",
+                "Gestellt"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die Abteilung hat den Vorschlag zunächst in Frage (1), inzwischen aber Vertrauen zu dem System ___.",
+              "answer": [
+                "gefasst",
+                "Gefasst"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der Rechnungen erfolgt jetzt automatisch; nur die (2) der Ausnahmen dauert noch.",
+              "answer": [
+                "Sortierung",
+                "sortierung",
+                "Zuordnung",
+                "zuordnung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der Rechnungen erfolgt jetzt automatisch; nur die ___ der Ausnahmen dauert noch.",
+              "answer": [
+                "Bearbeitung",
+                "bearbeitung"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nKritik",
+              "options": [
+                "machen",
+                "üben",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neinen Vorschlag",
+              "options": [
+                "machen",
+                "üben",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Sprache",
+              "options": [
+                "machen",
+                "üben",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nunter Druck",
+              "options": [
+                "machen",
+                "üben",
+                "stehen",
+                "bringen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Können Sie da mal draufgucken? Bei uns geht gerade nichts.",
+                "Ich bitte Sie, die Störung zu prüfen; bei uns ist das System derzeit nicht erreichbar."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Darf ich die Zahlen kurz zu Ende erklären? Danach wird der Punkt klarer.",
+                "Die Zahlen stimmen. Punkt.",
+                "Wenn Sie mir nicht glauben, lassen wir es."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Am Telefon. Ein Mitarbeiter der Buchhaltung ruft die IT-Abteilung an. (1)",
+          "audio": "core2026b_v2_itstoerung.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Was soll der Mitarbeiter tun?",
+              "options": [
+                "Nichts — das Problem löst sich von selbst.",
+                "Sich sofort abmelden und wieder anmelden.",
+                "Sich erst nach zwölf Uhr abmelden und wieder anmelden."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie reagiert die IT-Mitarbeiterin auf die Lage des Anrufers?",
+              "options": [
+                "Sie zeigt Verständnis, bleibt aber bei ihrer Anweisung.",
+                "Sie hält das Problem für unwichtig.",
+                "Sie macht dem Anrufer einen Vorwurf."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Das Problem liegt am Rechner des Anrufers.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum soll der Mitarbeiter mit dem Neustart warten?",
+              "options": [
+                "Weil bis dahin ein Update aufgespielt wird.",
+                "Weil die IT-Abteilung erst mittags erreichbar ist.",
+                "Weil das System vor zwölf Uhr gesperrt ist."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Am Telefon. Ein Mitarbeiter der Buchhaltung ruft die IT-Abteilung an. (2)",
+          "audio": "core2026b_v2_itstoerung.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Habe ich Sie richtig verstanden — vor zwölf gar nicht erst versuchen?“",
+              "options": [
+                "Verständnis zeigen",
+                "sich vergewissern",
+                "eine Ursache nennen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ich weiß, das ist ärgerlich, wenn Termine anstehen.“",
+              "options": [
+                "Verständnis zeigen",
+                "sich vergewissern",
+                "eine Ursache nennen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Es liegt nicht an Ihrem Rechner, sondern am Server.“",
+              "options": [
+                "Verständnis zeigen",
+                "sich vergewissern",
+                "eine Ursache nennen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, zu welchem Urteil der Autor des Forumsbeitrags über das neue System kommt und welcher Punkt für ihn offen bleibt.",
+              "word_limit": 40,
+              "expected_answer": "Der Autor kommt zu dem Schluss, dass das neue System insgesamt besser sei als zunächst angenommen. Allerdings bleibe für ihn offen, wie in der Praxis mit unvorhergesehenen Ausnahmen umgegangen werden solle."
+            },
+            {
+              "question": "Die IT schreibt Ihnen: „Das Update läuft heute, danach bitte einmal neu anmelden.“ Sie wissen nicht, ab wann genau das gilt und ob Sie bis dahin weiterarbeiten können. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Hallo, vielen Dank für die Info. Könnten Sie mir bitte sagen, ab wann genau das Update läuft? Und darf ich bis dahin noch ganz normal weiterarbeiten? Viele Grüße"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob Routineaufgaben künftig von Software übernommen werden sollen. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich bin der festen Überzeugung, dass die Übernahme von Routineaufgaben durch Software eine große Chance für uns ist. Einerseits würde sie uns von monotonen Tätigkeiten entlasten, sodass wir uns anspruchsvolleren Projekten widmen können. Andererseits sinkt dadurch die Fehlerquote, da Maschinen bei Standardprozessen präziser arbeiten. Allerdings muss man zugeben, dass dies auf Kosten der persönlichen Kontrolle gehen kann und manche Kollegen Sorge vor dem Verlust ihres Arbeitsplatzes haben. Daher schlage ich vor, eine Pilotphase mit einer Abteilung zu starten und parallel ein Weiterbildungsprogramm anzubieten, damit alle Mitarbeiter von der neuen Technologie profitieren.\n\nViele Grüße\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "In manchen Betrieben entscheidet die IT-Abteilung allein, welche Programme eingeführt werden; in anderen entscheiden die Fachabteilungen mit. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Ich bin der festen Überzeugung, dass die Fachabteilungen bei der Einführung neuer Programme unbedingt mitentscheiden sollten, weil sie die Software später täglich nutzen müssen. Ein wesentlicher Vorteil ist die Praxistauglichkeit. Die Mitarbeiter in den Fachabteilungen kennen ihre Arbeitsabläufe genau und wissen, welche Funktionen wirklich benötigt werden. Wenn die IT-Abteilung allein entscheidet, besteht die Gefahr, dass ein technisch perfektes Programm eingeführt wird, das aber in der Praxis völlig ungeeignet ist. Hinzu kommt die Akzeptanz der Mitarbeiter. Wenn sie von Anfang an in den Entscheidungsprozess einbezogen werden, fühlen sie sich ernst genommen und sind viel motivierter, sich mit der neuen Software auseinanderzusetzen. Allerdings muss ich einräumen, dass eine alleinige Entscheidung durch die IT-Abteilung den Vorteil der Schnelligkeit und einheitlicher Sicherheitsstandards hat. Wenn jede Fachabteilung eigene Wünsche durchsetzen will, kann das zu einem Wildwuchs an verschiedenen Programmen führen, was die Wartung extrem erschwert. Trotz dieses Nachteils halte ich die Mitbestimmung der Fachabteilungen für sinnvoller, denn das beste Programm nützt nichts, wenn es im Alltag nicht funktioniert oder boykottiert wird.",
+              "model_answer": "Ich bin der festen Überzeugung, dass die Fachabteilungen bei der Einführung neuer Programme unbedingt mitentscheiden sollten, weil sie die Software später täglich nutzen müssen. Ein wesentlicher Vorteil ist die Praxistauglichkeit. Die Mitarbeiter in den Fachabteilungen kennen ihre Arbeitsabläufe genau und wissen, welche Funktionen wirklich benötigt werden. Wenn die IT-Abteilung allein entscheidet, besteht die Gefahr, dass ein technisch perfektes Programm eingeführt wird, das aber in der Praxis völlig ungeeignet ist. Hinzu kommt die Akzeptanz der Mitarbeiter. Wenn sie von Anfang an in den Entscheidungsprozess einbezogen werden, fühlen sie sich ernst genommen und sind viel motivierter, sich mit der neuen Software auseinanderzusetzen. Allerdings muss ich einräumen, dass eine alleinige Entscheidung durch die IT-Abteilung den Vorteil der Schnelligkeit und einheitlicher Sicherheitsstandards hat. Wenn jede Fachabteilung eigene Wünsche durchsetzen will, kann das zu einem Wildwuchs an verschiedenen Programmen führen, was die Wartung extrem erschwert. Trotz dieses Nachteils halte ich die Mitbestimmung der Fachabteilungen für sinnvoller, denn das beste Programm nützt nichts, wenn es im Alltag nicht funktioniert oder boykottiert wird.",
+              "expected_answer": "Ich bin der festen Überzeugung, dass die Fachabteilungen bei der Einführung neuer Programme unbedingt mitentscheiden sollten, weil sie die Software später täglich nutzen müssen. Ein wesentlicher Vorteil ist die Praxistauglichkeit. Die Mitarbeiter in den Fachabteilungen kennen ihre Arbeitsabläufe genau und wissen, welche Funktionen wirklich benötigt werden. Wenn die IT-Abteilung allein entscheidet, besteht die Gefahr, dass ein technisch perfektes Programm eingeführt wird, das aber in der Praxis völlig ungeeignet ist. Hinzu kommt die Akzeptanz der Mitarbeiter. Wenn sie von Anfang an in den Entscheidungsprozess einbezogen werden, fühlen sie sich ernst genommen und sind viel motivierter, sich mit der neuen Software auseinanderzusetzen. Allerdings muss ich einräumen, dass eine alleinige Entscheidung durch die IT-Abteilung den Vorteil der Schnelligkeit und einheitlicher Sicherheitsstandards hat. Wenn jede Fachabteilung eigene Wünsche durchsetzen will, kann das zu einem Wildwuchs an verschiedenen Programmen führen, was die Wartung extrem erschwert. Trotz dieses Nachteils halte ich die Mitbestimmung der Fachabteilungen für sinnvoller, denn das beste Programm nützt nichts, wenn es im Alltag nicht funktioniert oder boykottiert wird."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

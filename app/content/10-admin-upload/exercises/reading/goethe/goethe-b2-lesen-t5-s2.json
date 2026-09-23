@@ -1,0 +1,62 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 2",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 15,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nHausordnung des Lernzentrums Lindenhof\n\nBeispiel: 0 Lösung g\n\n**Paragraph 0**\nTeilnehmende erhalten zu Kursbeginn einen persönlichen Zugangsausweis. Der Ausweis ist beim Betreten des Gebäudes sichtbar zu tragen und darf nicht an andere Personen weitergegeben werden. Bei Verlust wird eine Ersatzgebühr erhoben.\n\n**Paragraph 28**\nDie Anmeldung zu einem Kurs muss schriftlich oder über das Online-Portal erfolgen. Sie ist verbindlich, sobald die Teilnahmebestätigung versendet wurde. Gehen mehr Anmeldungen ein, als Plätze vorhanden sind, entscheidet die Reihenfolge des Eingangs; weitere Personen werden auf eine Warteliste gesetzt. Eine Ummeldung in einen Parallelkurs ist nur möglich, wenn dort noch Plätze frei sind und der Kurs noch nicht begonnen hat. Die Benachrichtigung erfolgt an die im Nutzerkonto gespeicherte Adresse.\n\n**Paragraph 29**\nWer an einem Kurstag verhindert ist, informiert die Kursleitung oder das Sekretariat möglichst vor Beginn der Veranstaltung. Bei berufsbezogenen Zertifikatskursen darf höchstens ein Fünftel der Unterrichtszeit versäumt werden. Wird diese Grenze überschritten, kann der Kurs zwar weiter besucht werden, die Ausstellung einer Bescheinigung ist jedoch ausgeschlossen. Bereits gezahlte Kursentgelte werden wegen einzelner Fehlzeiten nicht erstattet. Ausnahmen entscheidet die Leitung nur bei vorheriger schriftlicher Vereinbarung.\n\n**Paragraph 30**\nEine Teilnahmebescheinigung wird ausgestellt, wenn die Anwesenheitspflicht erfüllt ist und alle vorgesehenen Aufgaben abgegeben wurden. Die Bescheinigung enthält Kursumfang, Thema und Zeitraum, jedoch keine Einzelnoten. Sie wird in der Regel innerhalb von zehn Werktagen digital bereitgestellt. Ein gedrucktes Duplikat kann innerhalb eines Jahres gegen eine Verwaltungsgebühr beantragt werden. Bei Rückfragen zu digitalen Bescheinigungen ist die Verwaltung innerhalb von vier Wochen zu kontaktieren.",
+      "items": [
+        {
+          "question": "[Satz 2] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "answer": "H",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 2] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Kursanmeldung",
+            "B: Teilnahmebescheinigung",
+            "C: Hausrecht",
+            "D: Lernmaterial",
+            "E: Rücktritt",
+            "F: Datenschutz",
+            "G: Ausweis und Zugang",
+            "H: Fehlzeiten"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

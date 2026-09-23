@@ -1,0 +1,90 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Interview: Ein Jahr im betrieblichen Mentoring-Programm",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 29,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Interview: Ein Jahr im betrieblichen Mentoring-Programm",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nREDAKTION: Sie nehmen seit einem Jahr am Mentoring-Programm teil, zunächst als Mentee. Wie kam der Kontakt zustande?\n\nHERR OKONKWO: Zunächst musste ich mich für das Programm bewerben und ein kurzes Gespräch mit der Personalentwicklung führen, in dem meine Ziele besprochen wurden. Danach hat man mich mit einer Mentorin aus einer anderen Abteilung zusammengebracht — das war mir wichtig, weil ich einen Blick von außen auf mein Team wollte. Anschließend trafen wir uns die ersten Monate wöchentlich, dann alle zwei Wochen, sobald sich eine gewisse Routine eingespielt hatte.\n\nREDAKTION: Was hat Ihnen das Programm konkret gebracht?\n\nHERR OKONKWO: Vor allem eine ehrliche, aber wohlwollende Außenperspektive. Meine Mentorin hat mir zum Beispiel gezeigt, dass ich in Besprechungen oft zu schnell nachgab, wenn jemand widersprach — ein blinder Fleck, den mir sonst niemand so direkt gesagt hätte.\n\nREDAKTION: Würden Sie das Programm weiterempfehlen?\n\nHERR OKONKWO: Auf jeden Fall, allerdings nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen. Wer nur Bestätigung sucht, ist beim Mentoring an der falschen Adresse.",
+      "items": [
+        {
+          "question": "Warum war es Herrn Okonkwo wichtig, eine Mentorin aus einer anderen Abteilung zu bekommen?",
+          "options": [
+            "Weil es in seiner eigenen Abteilung keine Mentorin gab.",
+            "Weil das Programm das so vorschreibt.",
+            "Weil er einen Blick von außen auf sein Team wollte."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Treffen fanden das ganze Jahr über wöchentlich statt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Bringen Sie die Schritte, wie der Mentoring-Kontakt laut Herrn Okonkwo zustande kam, in die richtige Reihenfolge.\nWas steht an Stelle 1?",
+          "options": [
+            "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+            "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+            "Wöchentliche Treffen in den ersten Monaten",
+            "Übergang zu Treffen alle zwei Wochen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte, wie der Mentoring-Kontakt laut Herrn Okonkwo zustande kam, in die richtige Reihenfolge.\nWas steht an Stelle 2?",
+          "options": [
+            "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+            "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+            "Wöchentliche Treffen in den ersten Monaten",
+            "Übergang zu Treffen alle zwei Wochen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte, wie der Mentoring-Kontakt laut Herrn Okonkwo zustande kam, in die richtige Reihenfolge.\nWas steht an Stelle 3?",
+          "options": [
+            "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+            "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+            "Wöchentliche Treffen in den ersten Monaten",
+            "Übergang zu Treffen alle zwei Wochen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bringen Sie die Schritte, wie der Mentoring-Kontakt laut Herrn Okonkwo zustande kam, in die richtige Reihenfolge.\nWas steht an Stelle 4?",
+          "options": [
+            "Gespräch mit der Personalentwicklung über die eigenen Ziele",
+            "Zusammenbringen mit einer Mentorin aus einer anderen Abteilung",
+            "Wöchentliche Treffen in den ersten Monaten",
+            "Übergang zu Treffen alle zwei Wochen"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Unter welcher Bedingung empfiehlt Herr Okonkwo das Programm weiter?",
+          "options": [
+            "Nur für Mitarbeitende in Führungspositionen.",
+            "Nur, wenn man bereit ist, auch unbequemes Feedback anzunehmen.",
+            "Nur, wenn man bereits Erfahrung mit Mentoring hat."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

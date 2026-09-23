@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 27 — Stellungnahme: Kernarbeitszeiten",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 27,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihr Unternehmen erwägt, feste Kernarbeitszeiten (10–15 Uhr) einzuführen. Nehmen Sie dazu Stellung.\n• Nennen Sie Ihre Position klar am Anfang.\n• Stützen Sie sie mit mindestens einem Argument.\n• Gehen Sie kurz auf eine mögliche Gegenposition ein.",
+          "word_limit": 100,
+          "expected_answer": "Ich bin der festen Überzeugung, dass die Einführung fester Kernarbeitszeiten von 10 bis 15 Uhr für unser Unternehmen äußerst vorteilhaft wäre. Ein wesentlicher Vorteil liegt in der verbesserten internen Kommunikation: Wenn alle Kollegen zu diesen Zeiten anwesend sind, lassen sich Meetings problemlos planen und dringende Fragen können sofort geklärt werden, was die Effizienz unserer Projekte deutlich steigern würde. Natürlich könnte man einwenden, dass starre Vorgaben die Flexibilität der Mitarbeiter einschränken und die Work-Life-Balance beeinträchtigen. Allerdings bietet das Modell ja weiterhin genügend Spielraum, um die restliche Arbeitszeit individuell zu gestalten. Daher überwiegen aus meiner Sicht die klaren organisatorischen Vorteile, solange die Kernzeit nicht zu starr gehandhabt wird."
+        }
+      ]
+    }
+  ]
+}

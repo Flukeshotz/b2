@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 3 — Radiodiskussion mit mehreren Sprechern, Satz 3",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 11,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Radiodiskussion mit mehreren Sprechern",
+      "audio": "goethe-b2-listening-teil3-set3.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Lernen braucht nicht immer lange freie Abende.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Er/Sie begann beruflich und fand später persönliche Gründe.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Fehlerangst steht freiem Sprechen oft im Weg.",
+          "options": [
+            "Moderatorin",
+            "Dr. Roth",
+            "Frau Mertens"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

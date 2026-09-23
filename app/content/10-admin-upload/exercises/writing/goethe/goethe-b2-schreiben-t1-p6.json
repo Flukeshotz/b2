@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #6",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zum Kauf von Secondhand-Kleidung.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zum Kauf von Secondhand-Kleidung.\n• Äußern Sie Ihre Meinung zum Kauf gebrauchter Kleidung.\n• Nennen Sie Gründe, warum Secondhand-Kleidung beliebter geworden ist.\n• Nennen Sie andere Möglichkeiten, Kleidung nachhaltiger zu nutzen.\n• Nennen Sie Vorteile dieser Möglichkeiten.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nich finde das Thema sehr spannend, denn ich persönlich bin ein großer Fan von Secondhand-Kleidung. Meiner Meinung nach ist der Kauf gebrauchter Sachen eine hervorragende Möglichkeit, den eigenen Stil auszudrücken, ohne ständig den neuesten Trends der Fast-Fashion-Industrie hinterherzulaufen. Außerdem macht es einfach Spaß, in Secondhand-Läden nach besonderen Einzelstücken zu stöbern.\n\nIch denke, die wachsende Beliebtheit hat mehrere Gründe. Einerseits spielt das gestiegene Umweltbewusstsein eine große Rolle, denn durch den Kauf gebrauchter Kleidung werden Ressourcen geschont und Müllberge reduziert. Andererseits ist es natürlich auch eine Geldfrage: Hochwertige Markenkleidung wird so für viele Leute überhaupt erst erschwinglich. Nicht zu vergessen ist der Vintage-Trend, der Secondhand-Mode richtig cool gemacht hat.\n\nNeben dem Kauf gebrauchter Kleidung gibt es noch andere Wege, Mode nachhaltiger zu nutzen. Eine tolle Alternative sind Kleidertauschpartys, bei denen man im Freundeskreis ungetragene Stücke tauschen kann. Das ist nicht nur kostenlos, sondern stärkt auch die Gemeinschaft. Eine weitere Möglichkeit ist das Reparieren von Kleidung. Indem man kaputte Reißverschlüsse austauscht oder Löcher stopft, verlängert man die Lebensdauer eines Teils enorm und spart gleichzeitig Geld. Beide Alternativen haben den großen Vorteil, dass sie unsere Wertschätzung für Kleidung erhöhen und uns unabhängiger von der Wegwerfmentalität machen.\n\nWas sind eure Erfahrungen mit diesen Alternativen? Ich freue mich auf eure Beiträge!\n\nViele Grüße\nMarie"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — E-Mail-Wechsel: Terminverschiebung mit einem Kunden",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 27,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "E-Mail-Wechsel: Terminverschiebung mit einem Kunden",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nVon: r.demirci@baupartner-nord.de\nAn: projekte@handwerk-alsen.de\nBetreff: Bitte um Terminverschiebung — Bauabnahme\n\nSehr geehrte Damen und Herren,\n\nder für kommenden Mittwoch vereinbarte Termin zur Bauabnahme muss leider von unserer Seite verschoben werden, da der zuständige Statiker kurzfristig erkrankt ist und wir die Abnahme nicht ohne ihn durchführen möchten. Könnten wir stattdessen auf Freitag derselben Woche ausweichen, idealerweise zur gleichen Uhrzeit?\n\nFür die entstandenen Umstände möchten wir uns bereits jetzt entschuldigen.\n\nMit freundlichen Grüßen\nR. Demirci\n\n---\n\nVon: projekte@handwerk-alsen.de\nAn: r.demirci@baupartner-nord.de\nBetreff: AW: Bitte um Terminverschiebung — Bauabnahme\n\nSehr geehrter Herr Demirci,\n\nvielen Dank für die frühzeitige Information. Freitag zur gleichen Uhrzeit ist bei uns grundsätzlich möglich, allerdings ist unser Projektleiter an diesem Tag bereits ab 15 Uhr bei einem anderen Termin gebunden. Wir schlagen daher 9 Uhr statt der ursprünglichen 14 Uhr vor.\n\nBitte bestätigen Sie uns kurz, ob dieser neue Zeitpunkt für Sie und den Statiker machbar ist, damit wir den Termin verbindlich eintragen können.\n\nMit freundlichen Grüßen\nHandwerk Alsen GmbH",
+      "items": [
+        {
+          "question": "Warum bittet Herr Demirci um eine Terminverschiebung?",
+          "options": [
+            "Weil er selbst im Urlaub ist.",
+            "Weil die Baustelle noch nicht fertig ist.",
+            "Weil der zuständige Statiker kurzfristig erkrankt ist."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Firma Handwerk Alsen lehnt den vorgeschlagenen Freitagstermin komplett ab.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Warum schlägt Handwerk Alsen eine andere Uhrzeit als ursprünglich vor?",
+          "options": [
+            "Das Büro ist am Freitagnachmittag geschlossen.",
+            "Der Statiker kann erst am Nachmittag.",
+            "Der Projektleiter ist ab 15 Uhr bei einem anderen Termin gebunden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was wird von Herrn Demirci am Ende der zweiten E-Mail erwartet?",
+          "options": [
+            "Eine Bestätigung, ob 9 Uhr für ihn und den Statiker machbar ist.",
+            "Eine neue vollständige Terminanfrage.",
+            "Eine schriftliche Entschuldigung für die Verschiebung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

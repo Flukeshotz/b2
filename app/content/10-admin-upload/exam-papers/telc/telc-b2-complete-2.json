@@ -1,0 +1,233 @@
+{
+  "exam_type": "telc",
+  "paper": {
+    "title": "telc Deutsch B2 — Komplettes Übungspaket 2",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 71,
+    "order_index": 4
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Meinungsartikel: Brauchen wir noch Arbeitszeugnisse?",
+          "passage": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?\n\nIn kaum einem anderen Land wird dem Arbeitszeugnis so viel Bedeutung beigemessen wie in Deutschland. Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis — und viele prüfen jedes Wort darin mit derselben Sorgfalt, mit der ein Jurist einen Vertrag liest.\n\nBefürworter sagen, das Zeugnis schütze den Arbeitnehmer: Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige. Außerdem gebe es Bewerbern eine Möglichkeit, ihre Erfahrung gegenüber einem neuen Arbeitgeber zu belegen, ohne sich allein auf ein Vorstellungsgespräch verlassen zu müssen.\n\nKritiker halten dagegen, das System sei längst eine Formalität ohne echte Aussagekraft. Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten, und die Pflicht zur \"wohlwollenden\" Formulierung mache eine ehrliche Bewertung fast unmöglich. Einige große Technologieunternehmen sind deshalb dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\n\nEine endgültige Lösung zeichnet sich nicht ab. Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben — ob es gelesen wird, ist eine andere Frage.",
+          "items": [
+            {
+              "question": "In Deutschland hat jeder Arbeitnehmer nach dem Ausscheiden aus einem Unternehmen Anspruch auf ein qualifiziertes Arbeitszeugnis.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was sagen Befürworter über den Nutzen des Arbeitszeugnisses?",
+              "options": [
+                "Es dokumentiere Leistung und schütze den Arbeitnehmer.",
+                "Es ersetze das Vorstellungsgespräch vollständig.",
+                "Es sei wichtiger als ein Arbeitsvertrag."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Kritiker meinen, die Formulierungen in Arbeitszeugnissen seien leicht verständlich.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was haben einige große Technologieunternehmen verändert?",
+              "options": [
+                "Sie bieten statt Zeugnissen nur Referenzkontakte an.",
+                "Sie vergeben ausschließlich digitale Zeugnisse.",
+                "Sie haben das Vorstellungsgespräch abgeschafft."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Was sagt der Text über die Zukunft des Arbeitszeugnisses?",
+              "options": [
+                "Es wird abgeschafft, sobald das Arbeitsrecht geändert wird.",
+                "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben.",
+                "Alle Unternehmen werden auf Referenzkontakte umstellen."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Flexible Arbeitsmodelle",
+          "passage": "Wählen Sie für jede Lücke die richtige Lösung (a, b oder c).\n\nImmer mehr Betriebe bieten Modelle an, (1) ___ Beschäftigte ihre Arbeitszeit selbst einteilen können. Diese Modelle werden von vielen (2) ___ akzeptiert als noch vor einigen Jahren. Ein Vorteil solcher Modelle ist, dass sie sich (3) ___ jeder Lebensphase bewähren — ob mit kleinen Kindern oder pflegebedürftigen Angehörigen. Kritiker weisen (4) ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können. Manche Teams treffen sich deshalb einmal (5) ___ Woche persönlich, um Absprachen zu treffen. So bleibt der Kontakt bestehen, (6) ___ die Arbeitszeiten sich unterscheiden.",
+          "items": [
+            {
+              "question": "Lücke 1: \"…Modelle an, ___ Beschäftigte ihre Arbeitszeit selbst einteilen können.\"",
+              "options": [
+                "bei denen",
+                "die",
+                "wobei"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 2: \"Diese Modelle werden von vielen ___ akzeptiert als noch vor einigen Jahren.\"",
+              "options": [
+                "breiter",
+                "breit",
+                "am breitesten"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 3: \"…dass sie sich ___ jeder Lebensphase bewähren.\"",
+              "options": [
+                "in",
+                "an",
+                "auf"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 4: \"Kritiker weisen ___ hin, dass ohne klare Absprachen Missverständnisse entstehen können.\"",
+              "options": [
+                "darauf",
+                "davon",
+                "dabei"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 5: \"…treffen sich deshalb einmal ___ Woche persönlich.\"",
+              "options": [
+                "die",
+                "der",
+                "einer"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 6: \"So bleibt der Kontakt bestehen, ___ die Arbeitszeiten sich unterscheiden.\"",
+              "options": [
+                "auch wenn",
+                "sodass",
+                "weil"
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 7,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Gespräch: Ein neues Ablagesystem einführen",
+          "audio": "telc_hoeren_2_ablagesystem.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Aufgaben.",
+          "items": [
+            {
+              "question": "Worüber sprechen die beiden Kollegen?",
+              "options": [
+                "Wie Kundenunterlagen künftig abgelegt werden sollen.",
+                "Wie neue Kunden gewonnen werden können.",
+                "Wie ein Kundentermin verschoben werden kann."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Worauf einigen sich die beiden Kollegen am Ende?",
+              "options": [
+                "Hauptordner nach Kundennamen, Unterordner nach Projektart.",
+                "Ausschließlich alphabetisch nach Kundennamen.",
+                "Ausschließlich nach Projektart, ohne Kundenbezug."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Kollege 1 ist mit dem ersten Vorschlag (nur nach Kundennamen sortieren) sofort einverstanden.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Was schlägt Kollege 1 am Ende zusätzlich vor?",
+              "options": [
+                "Die Regelung schriftlich festzuhalten.",
+                "Ein neues Computerprogramm anzuschaffen.",
+                "Die Entscheidung noch einmal zu vertagen."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Halbformelle E-Mail: Fortbildungswunsch",
+          "passage": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+          "items": [
+            {
+              "question": "Sie möchten an einer beruflichen Fortbildung zum Thema Projektmanagement teilnehmen, die während Ihrer Arbeitszeit stattfindet. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.\n• Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.\n• Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.\n• Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden.",
+              "word_limit": 150,
+              "expected_answer": "Betreff: Anfrage für Fortbildung „Effizientes Projektmanagement“\n\nSehr geehrte Frau Müller,\n\nich hoffe, es geht Ihnen gut. Ich wende mich heute mit einer Bitte an Sie.\n\nVor Kurzem bin ich auf eine berufliche Fortbildung zum Thema „Effizientes Projektmanagement“ aufmerksam geworden, die von der Industrie- und Handelskammer angeboten wird. Der zweitägige Kurs findet am 15. und 16. Mai statt, leider jeweils ganztägig und somit während meiner regulären Arbeitszeit.\n\nDiese Fortbildung wäre für meine tägliche Arbeit äußerst nützlich. Da ich momentan mehrere Projekte gleichzeitig koordiniere, würde mir ein professioneller Methodenkoffer helfen, Abläufe besser zu strukturieren und Deadlines sicherer einzuhalten. Davon könnte letztlich das gesamte Team profitieren, weil wir effizienter zusammenarbeiten und Missverständnisse vermeiden könnten.\n\nDaher möchte ich Sie herzlich bitten, meine Teilnahme zu genehmigen. Wäre es außerdem möglich, dass die Firma die Kursgebühr in Höhe von 480 Euro übernimmt? Ich würde mich sehr freuen, wenn Sie mein Anliegen positiv prüfen könnten.\n\nVielen Dank für Ihre Zeit und Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 4,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Gemeinsam planen: Begrüßungsveranstaltung für neue Mitarbeitende",
+          "passage": "Sprechen Sie etwa 2 Minuten.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Ihre Abteilung bekommt nächste Woche drei neue Kolleginnen und Kollegen. Sie planen zusammen mit einer Kollegin/einem Kollegen eine kurze Begrüßungsveranstaltung. Machen Sie Vorschläge zu Ort, Programm und Zeitpunkt, und begründen Sie Ihre Ideen. Sprechen Sie etwa 2 Minuten.",
+              "speech_time_limit": 120,
+              "prompt_type": "text",
+              "reference_text": "Also, für die Begrüßung unserer drei neuen Kolleginnen und Kollegen nächste Woche habe ich mir schon ein paar Gedanken gemacht, die ich gerne mit dir teilen würde. Was den Ort betrifft, würde ich vorschlagen, nicht den großen Konferenzraum zu nehmen, sondern unsere kleine Kaffeeküche auf der Etage. Dafür spricht, dass die Atmosphäre dort viel lockerer und persönlicher ist als in einem sterilen Besprechungsraum. In einer entspannten Umgebung fällt das erste Kennenlernen einfach leichter, und die neuen Teammitglieder fühlen sich sofort willkommener. Zum Programm stelle ich mir einen ganz ungezwungenen Ablauf vor. Wir könnten mit einer kurzen Vorstellungsrunde starten, bei der nicht nur die Neuen etwas sagen, sondern auch wir uns alle noch einmal kurz mit Namen und Funktion vorstellen. Das ist wichtig, denn in den ersten Tagen prasseln so viele Informationen auf einen ein. Im Anschluss sollten wir ein kleines, informelles Beisammensein bei Kaffee und vielleicht ein paar Snacks wie belegten Brötchen oder Kuchen einplanen. Der Vorteil wäre, dass man so in kleinen Gruppen leichter ins Gespräch kommt und erste persönliche Kontakte knüpfen kann, ohne dass es zu formell wirkt. Was den Zeitpunkt angeht, wäre mein Vorschlag, die Veranstaltung direkt am ersten Arbeitstag um 10 Uhr morgens zu machen. Da ist man noch frisch, und die neuen Kollegen haben danach noch genug Zeit, um ihren Arbeitsplatz einzurichten und erste Aufgaben anzugehen. Ein Termin am Nachmittag wäre eher ungünstig, weil dann alle schon müde sind und die Gefahr besteht, dass es sich unnötig in die Länge zieht. Das sind meine Ideen. Was hältst du davon?",
+              "model_answer": "Also, für die Begrüßung unserer drei neuen Kolleginnen und Kollegen nächste Woche habe ich mir schon ein paar Gedanken gemacht, die ich gerne mit dir teilen würde. Was den Ort betrifft, würde ich vorschlagen, nicht den großen Konferenzraum zu nehmen, sondern unsere kleine Kaffeeküche auf der Etage. Dafür spricht, dass die Atmosphäre dort viel lockerer und persönlicher ist als in einem sterilen Besprechungsraum. In einer entspannten Umgebung fällt das erste Kennenlernen einfach leichter, und die neuen Teammitglieder fühlen sich sofort willkommener. Zum Programm stelle ich mir einen ganz ungezwungenen Ablauf vor. Wir könnten mit einer kurzen Vorstellungsrunde starten, bei der nicht nur die Neuen etwas sagen, sondern auch wir uns alle noch einmal kurz mit Namen und Funktion vorstellen. Das ist wichtig, denn in den ersten Tagen prasseln so viele Informationen auf einen ein. Im Anschluss sollten wir ein kleines, informelles Beisammensein bei Kaffee und vielleicht ein paar Snacks wie belegten Brötchen oder Kuchen einplanen. Der Vorteil wäre, dass man so in kleinen Gruppen leichter ins Gespräch kommt und erste persönliche Kontakte knüpfen kann, ohne dass es zu formell wirkt. Was den Zeitpunkt angeht, wäre mein Vorschlag, die Veranstaltung direkt am ersten Arbeitstag um 10 Uhr morgens zu machen. Da ist man noch frisch, und die neuen Kollegen haben danach noch genug Zeit, um ihren Arbeitsplatz einzurichten und erste Aufgaben anzugehen. Ein Termin am Nachmittag wäre eher ungünstig, weil dann alle schon müde sind und die Gefahr besteht, dass es sich unnötig in die Länge zieht. Das sind meine Ideen. Was hältst du davon?",
+              "expected_answer": "Also, für die Begrüßung unserer drei neuen Kolleginnen und Kollegen nächste Woche habe ich mir schon ein paar Gedanken gemacht, die ich gerne mit dir teilen würde. Was den Ort betrifft, würde ich vorschlagen, nicht den großen Konferenzraum zu nehmen, sondern unsere kleine Kaffeeküche auf der Etage. Dafür spricht, dass die Atmosphäre dort viel lockerer und persönlicher ist als in einem sterilen Besprechungsraum. In einer entspannten Umgebung fällt das erste Kennenlernen einfach leichter, und die neuen Teammitglieder fühlen sich sofort willkommener. Zum Programm stelle ich mir einen ganz ungezwungenen Ablauf vor. Wir könnten mit einer kurzen Vorstellungsrunde starten, bei der nicht nur die Neuen etwas sagen, sondern auch wir uns alle noch einmal kurz mit Namen und Funktion vorstellen. Das ist wichtig, denn in den ersten Tagen prasseln so viele Informationen auf einen ein. Im Anschluss sollten wir ein kleines, informelles Beisammensein bei Kaffee und vielleicht ein paar Snacks wie belegten Brötchen oder Kuchen einplanen. Der Vorteil wäre, dass man so in kleinen Gruppen leichter ins Gespräch kommt und erste persönliche Kontakte knüpfen kann, ohne dass es zu formell wirkt. Was den Zeitpunkt angeht, wäre mein Vorschlag, die Veranstaltung direkt am ersten Arbeitstag um 10 Uhr morgens zu machen. Da ist man noch frisch, und die neuen Kollegen haben danach noch genug Zeit, um ihren Arbeitsplatz einzurichten und erste Aufgaben anzugehen. Ein Termin am Nachmittag wäre eher ungünstig, weil dann alle schon müde sind und die Gefahr besteht, dass es sich unnötig in die Länge zieht. Das sind meine Ideen. Was hältst du davon?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

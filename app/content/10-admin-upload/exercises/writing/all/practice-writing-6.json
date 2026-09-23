@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 6 — Beschwerde: Wiederholt ausgefallene Pausen",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Hard",
+  "order_index": 6,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Schreiben Sie eine Beschwerde an Ihre Abteilungsleitung, weil Ihre Mittagspause in den letzten Wochen wiederholt ausgefallen ist. Schildern Sie das Problem sachlich und fordern Sie eine konkrete Lösung.\n• Beschreiben Sie das Problem konkret (wie oft, seit wann).\n• Bleiben Sie sachlich, auch wenn Sie unzufrieden sind.\n• Fordern Sie am Ende eine konkrete Lösung, keine allgemeine Klage.",
+          "word_limit": 110,
+          "expected_answer": "Betreff: Ausfall der Mittagspause in den letzten Wochen\n\nSehr geehrte Frau Müller,\n\nich möchte Sie auf ein wiederkehrendes Problem aufmerksam machen, das meine Arbeitsfähigkeit zunehmend beeinträchtigt. In den vergangenen vier Wochen ist meine reguläre Mittagspause an mindestens drei Tagen pro Woche vollständig ausgefallen. Grund dafür ist die anhaltend hohe Auftragslage in unserer Abteilung, die es mir nicht erlaubt, meinen Arbeitsplatz rechtzeitig zu verlassen.\n\nIch bin mir der aktuellen Belastung bewusst und engagiere mich gern für das Team. Dennoch ist eine regelmäßige Pause für meine Konzentration und Gesundheit unerlässlich. Daher bitte ich Sie um eine konkrete Lösung, beispielsweise eine feste Vertretungsregelung für die Mittagszeit. Ich wäre Ihnen dankbar, wenn wir zeitnah einen Termin vereinbaren könnten, um eine praktikable Absprache zu treffen.\n\nMit freundlichen Grüßen\nMaximilian Weber"
+        }
+      ]
+    }
+  ]
+}

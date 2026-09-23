@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #15",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 32,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie können an einem Prüfungstermin nicht teilnehmen, weil er mit einem verpflichtenden Termin Ihres Arbeitgebers zusammenfällt. Schreiben Sie eine Nachricht an die Prüfungsbeauftragte, Frau Becker.",
+      "items": [
+        {
+          "question": "Sie können an einem Prüfungstermin nicht teilnehmen, weil er mit einem verpflichtenden Termin Ihres Arbeitgebers zusammenfällt. Schreiben Sie eine Nachricht an die Prüfungsbeauftragte, Frau Becker.\n• Bieten Sie an, einen Nachweis einzureichen.\n• Beschreiben Sie den Terminkonflikt.\n• Bitten Sie um einen Ersatztermin.\n• Erklären Sie, warum die Prüfung wichtig ist.",
+          "word_limit": 120,
+          "expected_answer": "Sehr geehrte Frau Becker,\n\nleider muss ich Ihnen mitteilen, dass ich den Prüfungstermin am 15. Mai nicht wahrnehmen kann. Der Grund dafür ist ein unaufschiebbarer Konflikt mit meiner beruflichen Verpflichtung. Genau an diesem Tag hat mein Arbeitgeber eine ganztägige, verpflichtende Fortbildung angesetzt, von der ich mich leider nicht befreien lassen kann. Da mir diese Prüfung für meine berufliche Entwicklung äußerst wichtig ist, bitte ich Sie höflichst um einen Ersatztermin. Ich bin zeitlich sehr flexibel und könnte auch kurzfristig einspringen. Selbstverständlich kann ich Ihnen eine offizielle Bescheinigung meines Arbeitgebers als Nachweis für diesen Terminkonflikt zukommen lassen. Für Ihre Bemühungen danke ich Ihnen im Voraus herzlich.\n\nMit freundlichen Grüßen\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

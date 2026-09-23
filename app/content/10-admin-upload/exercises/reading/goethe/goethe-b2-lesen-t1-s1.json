@@ -1,0 +1,116 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 1 — Zuordnung (Meinungen & Personen), Satz 1",
+  "description": "Sie lesen in einem Forum, wie Menschen über den Umgang mit Stress im Alltag denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+  "difficulty_tag": "Medium",
+  "order_index": 3,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 1 — Zuordnung (Meinungen & Personen)",
+      "passage": "Sie lesen in einem Forum, wie Menschen über den Umgang mit Stress im Alltag denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.\n\n**a Miriam**\nIch arbeite in einer Arztpraxis am Empfang, und ruhige Tage gibt es dort eigentlich selten. Früher habe ich versucht, nach Dienstschluss sofort alles zu vergessen, aber das hat nicht funktioniert: Wenn ich zu Hause war, hörte ich innerlich noch das Telefon klingeln. Inzwischen schreibe ich mir am Ende des Tages drei Dinge auf, die erledigt sind, und zwei, die morgen warten können. Das klingt banal, hilft mir aber, nicht alles im Kopf mitzunehmen. Ganz stressfrei wird mein Beruf nie sein, denn Menschen kommen oft mit Sorgen oder Schmerzen zu uns. Deshalb finde ich es unrealistisch, jede Belastung vermeiden zu wollen. Wichtig ist für mich eher, freundlich zu bleiben und trotzdem Grenzen zu setzen. Nach der Arbeit koche ich meistens etwas Einfaches und rufe keine Kolleginnen mehr an. Am Wochenende übernehme ich manchmal einen Notdienst, aber nur, wenn ich rechtzeitig planen kann.\n\n**b Tobias**\nWenn Leute sagen, sie hätten ständig Stress, frage ich mich oft, ob sie ihren Alltag wirklich organisieren. Bei mir ist vieles durchgeplant: Einkäufe am Dienstag, Sport am Donnerstag, private Nachrichten erst abends. Das klingt streng, aber genau dadurch habe ich Freiheit. Ich arbeite als Projektassistent und weiß, dass Termine sich verschieben können. Trotzdem entsteht Panik meistens, weil jemand zu spät angefangen hat oder alles gleichzeitig machen will. Natürlich bin ich nicht immer gelassen. Wenn mein Zug ausfällt, ärgere ich mich auch. Aber ich plane Puffer ein und habe wichtige Unterlagen offline dabei. Was mich stresst, sind eher Menschen, die jede Kleinigkeit als Drama darstellen und dann erwarten, dass andere sie retten. Entspannung bedeutet für mich nicht, einfach nichts zu tun, sondern vorher kluge Entscheidungen zu treffen. Ein voller Kalender ist kein Problem, solange er realistisch bleibt.\n\n**c Lea**\nIch habe lange gedacht, Stress müsse man einfach aushalten, besonders im Studium und später im Beruf. Erst nach einer Phase mit Schlafproblemen habe ich gemerkt, dass mein Körper ziemlich deutlich reagiert. Seitdem gehe ich fast jeden Mittag zwanzig Minuten raus, auch wenn nur der Park hinter dem Büro drin ist. Bewegung ist für mich keine sportliche Leistung, sondern eine Art Schalter: Danach kann ich wieder klarer denken. Manchmal nehme ich Kolleginnen mit, manchmal will ich bewusst allein sein. Zuhause hilft mir Musik, aber nur, wenn ich nicht gleichzeitig Nachrichten lese. Meine Schwester meint, Meditation wäre besser, doch still sitzen macht mich eher nervös. Ich finde außerdem, dass man nicht jedes Angebot annehmen muss. Letztes Jahr habe ich ein Ehrenamt pausiert, obwohl es mir wichtig war. Das war kein Aufgeben, sondern eine Grenze. Seitdem sage ich früher, wenn mir etwas zu viel wird.\n\n**d Hakan**\nIn meiner Familie hieß es früher immer: Wer viel arbeitet, darf sich nicht beklagen. Ich habe diese Haltung lange übernommen, bis ich als Küchenleiter gemerkt habe, dass schlechte Stimmung ansteckend ist. Wenn ich hektisch werde, arbeitet das ganze Team unsauberer. Deshalb fange ich jede Schicht mit einer kurzen Besprechung an: Wer macht was, wo könnte es eng werden, was ist heute besonders wichtig? Das spart später Diskussionen. Stress verschwindet dadurch nicht, besonders wenn Gäste gleichzeitig kommen oder jemand krank ist. Aber er wird überschaubarer. Privat brauche ich dagegen keine festen Pläne. Meine Frau wundert sich, dass ich am freien Tag kaum Termine mache. Für mich ist gerade das erholsam: einkaufen, wenn ich Lust habe, mit den Kindern spontan zum See fahren oder einfach den Balkon bepflanzen. Ich glaube nicht, dass Stress immer schlecht ist. Er zeigt nur, dass etwas Aufmerksamkeit braucht. Dauerstress ist aber ein Warnsignal.",
+      "items": [
+        {
+          "question": "Wer hält Stress häufig für eine Folge schlechter Organisation?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Für wen hilft Bewegung beim Denken?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer vermeidet Gespräche über die Arbeit?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Bei wem beeinflusst die eigene Unruhe direkt die Arbeit anderer?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer zieht trotz Überzeugung eine Grenze?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Für wen schafft Planung Freiheit?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer sieht bestimmte Belastungen als unvermeidbaren Teil des Berufs?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer erholt sich ohne feste Pläne?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "D",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wer stört sich an Dramatisierung?",
+          "options": [
+            "A: Miriam",
+            "B: Tobias",
+            "C: Lea",
+            "D: Hakan"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

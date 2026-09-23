@@ -1,0 +1,66 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 1 — Alltagssituationen & Dialoge, Satz 2",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Alltagssituationen & Dialoge",
+      "audio": "goethe-b2-listening-teil1-q3.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Warum tauscht der Mann die Schicht?",
+          "options": [
+            "Weil sein Arzttermin doch am Freitag stattfindet.",
+            "Weil ein Kollege am Nachmittag sein Kind betreuen muss.",
+            "Weil die Übergabe bis halb zehn fertig sein muss."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Moderator berichtet über ein Projekt, das Lärm in der Stadt sichtbar machen soll.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welche Rolle haben Bürgerinnen und Bürger bei dem Projekt?",
+          "options": [
+            "Beobachtungen zu lauten und ruhigen Orten eintragen.",
+            "mit ihren Einträgen amtliche Messungen ersetzen.",
+            "nur besonders laute Hauptstraßen melden."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Treffen finden in einem offiziellen Sprachkurs statt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was fällt dem Mann beim Tandem schwer?",
+          "options": [
+            "beim Deutschlernen nicht zu viele Fehler zu verbessern.",
+            "die gemeinsamen Treffen regelmäßig zu organisieren.",
+            "bei fachlichen Themen den Zusammenhang zu behalten."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

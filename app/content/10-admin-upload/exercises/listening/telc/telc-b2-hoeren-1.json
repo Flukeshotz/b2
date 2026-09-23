@@ -1,0 +1,47 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Hören, Übungsset 1",
+  "description": "Hören Sie die Durchsage einmal und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Durchsage: Änderung der Kantinenöffnungszeiten",
+      "audio": "telc_hoeren_1_kantine.mp3",
+      "passage": "Hören Sie die Durchsage einmal und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Bis wann ist die Kantine künftig geöffnet?",
+          "options": [
+            "Bis 15:30 Uhr.",
+            "Bis 14:00 Uhr.",
+            "Bis 13:30 Uhr."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Das warme Mittagessen wird auch nach 13:30 Uhr noch ausgegeben.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Warum wurden die Öffnungszeiten geändert?",
+          "options": [
+            "Wegen Rückmeldungen von Kolleginnen und Kollegen aus dem Spätdienst.",
+            "Wegen gestiegener Kosten.",
+            "Wegen einer neuen gesetzlichen Vorschrift."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

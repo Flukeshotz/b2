@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #8",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 25,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nDu organisierst mit deiner Kollegin Lisa einen Infostand für neue Auszubildende. Du hast die Materialliste falsch verstanden und zu wenig Prospekte bestellt. Schreib eine Nachricht an Lisa.",
+      "items": [
+        {
+          "question": "Du organisierst mit deiner Kollegin Lisa einen Infostand für neue Auszubildende. Du hast die Materialliste falsch verstanden und zu wenig Prospekte bestellt. Schreib eine Nachricht an Lisa.\n• Bitte um Hilfe bei einer schnellen Lösung.\n• Erkläre das Missverständnis.\n• Entschuldige dich für den Fehler.\n• Schlage vor, was du jetzt übernimmst.",
+          "word_limit": 120,
+          "expected_answer": "Betreff: Infostand – Problem mit der Prospektbestellung\n\nHallo Lisa,\n\nich hoffe, es geht dir gut. Leider muss ich dir mitteilen, dass mir bei der Materialliste ein ärgerliches Missverständnis passiert ist. Ich dachte, die angegebene Zahl 10 bezieht sich auf die Gesamtzahl der Prospekte, nicht auf 10 Pakete. Deshalb habe ich nur 10 einzelne Exemplare bestellt, was natürlich viel zu wenig für unseren Infostand ist.\n\nEs tut mir aufrichtig leid, dass ich nicht genauer nachgefragt habe. Ich weiß, wie wichtig der Stand für die neuen Auszubildenden ist. Könntest du mir bitte schnell helfen, eine Lösung zu finden? Kennst du vielleicht einen Anbieter, der kurzfristig liefern kann?\n\nUm meinen Fehler wiedergutzumachen, würde ich vorschlagen, dass ich mich sofort um die Nachbestellung kümmere und auch die eventuell anfallenden Expresskosten übernehme. Sag mir einfach kurz Bescheid, ob das für dich in Ordnung ist.\n\nVielen Dank für dein Verständnis und liebe Grüße\n[Dein Name]"
+        }
+      ]
+    }
+  ]
+}

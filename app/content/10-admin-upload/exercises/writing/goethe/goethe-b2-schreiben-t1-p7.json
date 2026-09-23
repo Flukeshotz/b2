@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #7",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 9,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zu Lieferdiensten im Alltag.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zu Lieferdiensten im Alltag.\n• Äußern Sie Ihre Meinung zur Nutzung von Lieferdiensten für Essen und Einkäufe.\n• Nennen Sie Gründe, warum Lieferdienste so beliebt sind.\n• Nennen Sie mögliche Probleme, die durch häufiges Bestellen entstehen.\n• Nennen Sie Vorteile, wenn man Lieferdienste bewusster nutzt.",
+          "word_limit": 180,
+          "expected_answer": "Liebe Community,\n\nzum Thema Lieferdienste im Alltag möchte ich heute meine Gedanken teilen, da es mich selbst oft betrifft. Meiner Ansicht nach sind diese Dienste ein zweischneidiges Schwert: Sie bieten enormen Komfort, bergen aber auch Risiken.\n\nDie enorme Beliebtheit von Lieferdiensten für Essen und Einkäufe ist leicht zu erklären. Einerseits sparen sie uns viel Zeit und Mühe, besonders nach einem langen Arbeitstag, wenn man keine Energie mehr zum Kochen oder Einkaufen hat. Andererseits ermöglichen sie durch die riesige Auswahl an Restaurants und Produkten einen Luxus, den man sonst nicht hätte. Gerade in der Pandemie hat man zudem die kontaktlose Lieferung sehr zu schätzen gelernt.\n\nAllerdings sehe ich auch Probleme, die durch häufiges Bestellen entstehen. Ein großer Nachteil ist der immense Verpackungsmüll, der unsere Umwelt belastet. Hinzu kommt, dass man die Kontrolle über die Qualität und Frische der Zutaten verliert, was auf Dauer ungesund sein kann. Nicht zu vergessen sind die teils hohen Kosten, die sich unbemerkt summieren.\n\nWenn man Lieferdienste jedoch bewusster nutzt, ergeben sich klare Vorteile. Man kann sie gezielt als Genussmoment am Wochenende einplanen, anstatt sie gedankenlos zu konsumieren. So spart man nicht nur Geld, sondern schätzt die Bequemlichkeit viel mehr. Zudem könnte man bewusst Anbieter wählen, die auf nachhaltige Verpackungen setzen.\n\nWas sind eure Erfahrungen damit? Ich freue mich auf eine angeregte Diskussion!\n\nViele Grüße\nForumsfan"
+        }
+      ]
+    }
+  ]
+}

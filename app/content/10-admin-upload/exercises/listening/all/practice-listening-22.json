@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Planung einer Teamfeier",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 22,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Planung einer Teamfeier",
+      "audio": "practice_listening_22_teamfeier.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was war der erste Vorschlag von Kollegin 1?",
+          "options": [
+            "Die Feier im Büro selbst.",
+            "Die Feier draußen im Park.",
+            "Die Feier in einem Restaurant."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum spricht Kollege 2 gegen die Feier im Park?",
+          "options": [
+            "Weil der Park zu weit entfernt ist.",
+            "Wegen des Risikos schlechten Wetters.",
+            "Weil er lieber italienisch essen möchte."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kollegin 1 lehnt das Argument von Kollege 2 zum Wetterrisiko ab.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Wer übernimmt am Ende welche Aufgabe?",
+          "options": [
+            "Kollegin 1 bucht das Restaurant allein.",
+            "Beide kümmern sich gemeinsam nur um die Einladungen.",
+            "Kollege 2 fragt beim Restaurant an, Kollegin 1 kümmert sich um Einladungen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

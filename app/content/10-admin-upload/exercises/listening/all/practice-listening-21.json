@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Anruf beim Kundenservice wegen einer Rechnung",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 21,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Anruf beim Kundenservice wegen einer Rechnung",
+      "audio": "practice_listening_21_kundenservice.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Worüber beschwert sich der Kunde?",
+          "options": [
+            "Eine doppelte Zahlung.",
+            "Eine fehlende Rechnung.",
+            "Eine Rechnung, die höher ist als vertraglich vereinbart."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was ist laut Kundenservice der Grund für die höhere Rechnung?",
+          "options": [
+            "Eine Gebühr für ein zusätzlich aktiviertes Paket.",
+            "Eine allgemeine Preiserhöhung.",
+            "Ein Rechenfehler des Systems."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie löst der Kundenservice das Problem?",
+          "options": [
+            "Das Paket wird deaktiviert und die Gebühr storniert.",
+            "Der Kunde muss die volle Summe trotzdem zahlen.",
+            "Der Vertrag wird komplett gekündigt."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

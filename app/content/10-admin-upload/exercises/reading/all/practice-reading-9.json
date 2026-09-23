@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Ankündigung: Außerordentliche Betriebsversammlung",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 18,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Ankündigung: Außerordentliche Betriebsversammlung",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAnkündigung\n\nAufgrund der anstehenden Umstrukturierung der Logistikabteilung lädt die Geschäftsführung gemeinsam mit dem Betriebsrat zu einer außerordentlichen Betriebsversammlung ein.\n\nTermin: Donnerstag, 14 Uhr, Kantine (Haupthaus)\nDauer: voraussichtlich 90 Minuten\n\nAuf der Tagesordnung stehen:\n1. Information über die geplante Zusammenlegung der Standorte Nord und Ost\n2. Zeitplan der Umstrukturierung\n3. Fragen und Antworten mit der Geschäftsführung\n\nAlle Mitarbeitenden der Logistikabteilung sind zur Teilnahme eingeladen; die Anwesenheit ist freigestellt, wird aber ausdrücklich empfohlen, da keine gesonderte Information im Nachgang erfolgen wird. Für Mitarbeitende im Schichtdienst, die zum Termin nicht abkömmlich sind, wird im Anschluss ein schriftliches Protokoll im Intranet veröffentlicht.\n\nDer Betriebsrat weist darauf hin, dass Fragen auch vorab schriftlich eingereicht werden können, um in der Versammlung sicher berücksichtigt zu werden.",
+      "items": [
+        {
+          "question": "Warum wird die außerordentliche Betriebsversammlung einberufen?",
+          "options": [
+            "Wegen einer Gehaltserhöhung.",
+            "Wegen der geplanten Umstrukturierung der Logistikabteilung.",
+            "Wegen des Umzugs des Haupthauses."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Teilnahme an der Versammlung ist für alle Mitarbeitenden der Logistikabteilung verpflichtend.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was passiert für Mitarbeitende im Schichtdienst, die nicht teilnehmen können?",
+          "options": [
+            "Die Versammlung wird für sie wiederholt.",
+            "Sie erhalten eine persönliche Nachbesprechung.",
+            "Ein schriftliches Protokoll wird im Intranet veröffentlicht."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie können Mitarbeitende sicherstellen, dass ihre Frage in der Versammlung behandelt wird?",
+          "options": [
+            "Sie erst während der Versammlung laut stellen.",
+            "Sie vorab schriftlich einreichen.",
+            "Sie per Telefon an den Betriebsrat richten."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

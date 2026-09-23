@@ -1,0 +1,65 @@
+{
+  "module": "listening",
+  "tag": "goethe",
+  "title": "Goethe B2 — Hören Teil 1 — Alltagssituationen & Dialoge, Satz 3",
+  "description": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 5,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 1 — Alltagssituationen & Dialoge",
+      "audio": "goethe-b2-listening-teil1-set2-q1.mp3",
+      "passage": "Hören Sie die Audiospur und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Die Frau leiht in der Kleiderei vor allem günstige Alltagsshirts aus.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Warum nutzt sie die Kleiderei?",
+          "options": [
+            "weil sie Kleidung für seltene berufliche Termine nicht kaufen möchte.",
+            "weil die Reinigung und jede Reparatur kostenlos sind.",
+            "weil sie dort Alltagsshirts günstiger bekommt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der Mann braucht vor der Montage die Zustimmung der Nachbarn.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was muss der Mann vor der Montage tun?",
+          "options": [
+            "zuerst alle Nachbarn vom Projekt überzeugen.",
+            "zeigen, dass die Halterung sicher befestigt ist.",
+            "den Stromverbrauch am Tag vorher dokumentieren."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In dem Beitrag geht es darum, den Autoverkehr direkt vor Schulen zeitweise zu verringern.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

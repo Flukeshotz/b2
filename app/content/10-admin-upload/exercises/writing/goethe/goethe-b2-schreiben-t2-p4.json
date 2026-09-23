@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 2 — Nachricht / E-Mail #4",
+  "description": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 21,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 2 — Nachricht / E-Mail",
+      "passage": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte.\nBei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß.\nSchreiben Sie mindestens 100 Wörter.\n\nSie unterstützen in Ihrem Betrieb die Planung eines kleinen Gesundheitstags. Ihre Kollegin hat um Vorschläge für den Ablauf gebeten. Schreiben Sie eine Nachricht an die Organisatorin, Frau Keller.",
+      "items": [
+        {
+          "question": "Sie unterstützen in Ihrem Betrieb die Planung eines kleinen Gesundheitstags. Ihre Kollegin hat um Vorschläge für den Ablauf gebeten. Schreiben Sie eine Nachricht an die Organisatorin, Frau Keller.\n• Fragen Sie, welche Aufgaben noch offen sind.\n• Machen Sie einen Vorschlag für den Ablauf.\n• Bieten Sie Ihre Hilfe bei der Vorbereitung an.\n• Erklären Sie kurz, warum Ihr Vorschlag sinnvoll ist.",
+          "word_limit": 120,
+          "expected_answer": "Liebe Frau Keller,\n\nvielen Dank für Ihre Anfrage. Bevor ich meinen Vorschlag ausführe, würde mich interessieren, welche Aufgaben bei der Planung des Gesundheitstags noch offen sind. Könnten Sie mir dazu kurz Bescheid geben?\n\nFür den Ablauf schlage ich vor, den Tag mit einem gemeinsamen, gesunden Frühstück zu beginnen, da dies eine einladende Atmosphäre schafft und alle Teilnehmer motiviert. Anschließend könnten zwei parallele Workshops stattfinden, zum Beispiel „Rückenschule am Arbeitsplatz“ und „Stressbewältigung durch Achtsamkeit“. Dies hätte den Vorteil, dass die Kollegen je nach Interesse wählen können. Nach einer kurzen Pause wäre ein aktiver Teil, etwa ein geführter Spaziergang oder eine Yoga-Einheit, sinnvoll, um das Gelernte direkt in Bewegung umzusetzen. So wird der Tag abwechslungsreich und bietet sowohl Wissensvermittlung als auch praktische Entspannung.\n\nGerne unterstütze ich Sie bei der weiteren Vorbereitung, beispielsweise könnte ich die Räumlichkeiten reservieren oder die Referenten kontaktieren. Sagen Sie einfach Bescheid, wobei ich helfen kann.\n\nHerzliche Grüße\n[Ihr Name]"
+        }
+      ]
+    }
+  ]
+}

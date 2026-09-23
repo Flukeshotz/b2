@@ -1,0 +1,65 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Lesen, Übungsset 2",
+  "description": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Meinungsartikel: Brauchen wir noch Arbeitszeugnisse?",
+      "passage": "Lesen Sie den Text und entscheiden Sie: Richtig oder falsch?\n\nIn kaum einem anderen Land wird dem Arbeitszeugnis so viel Bedeutung beigemessen wie in Deutschland. Jeder Arbeitnehmer hat nach Beendigung eines Beschäftigungsverhältnisses Anspruch auf ein qualifiziertes Zeugnis — und viele prüfen jedes Wort darin mit derselben Sorgfalt, mit der ein Jurist einen Vertrag liest.\n\nBefürworter sagen, das Zeugnis schütze den Arbeitnehmer: Es dokumentiere, was jemand geleistet hat, und verhindere, dass eine Kündigung ohne nachvollziehbare Begründung die Karriere beschädige. Außerdem gebe es Bewerbern eine Möglichkeit, ihre Erfahrung gegenüber einem neuen Arbeitgeber zu belegen, ohne sich allein auf ein Vorstellungsgespräch verlassen zu müssen.\n\nKritiker halten dagegen, das System sei längst eine Formalität ohne echte Aussagekraft. Die Formulierungen seien so stark codiert, dass nur Eingeweihte sie richtig lesen könnten, und die Pflicht zur \"wohlwollenden\" Formulierung mache eine ehrliche Bewertung fast unmöglich. Einige große Technologieunternehmen sind deshalb dazu übergegangen, statt Zeugnissen nur noch Referenzkontakte anzubieten.\n\nEine endgültige Lösung zeichnet sich nicht ab. Solange das Arbeitsrecht den Anspruch auf ein Zeugnis garantiert, wird es weiterhin geschrieben — ob es gelesen wird, ist eine andere Frage.",
+      "items": [
+        {
+          "question": "In Deutschland hat jeder Arbeitnehmer nach dem Ausscheiden aus einem Unternehmen Anspruch auf ein qualifiziertes Arbeitszeugnis.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was sagen Befürworter über den Nutzen des Arbeitszeugnisses?",
+          "options": [
+            "Es dokumentiere Leistung und schütze den Arbeitnehmer.",
+            "Es ersetze das Vorstellungsgespräch vollständig.",
+            "Es sei wichtiger als ein Arbeitsvertrag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Kritiker meinen, die Formulierungen in Arbeitszeugnissen seien leicht verständlich.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was haben einige große Technologieunternehmen verändert?",
+          "options": [
+            "Sie bieten statt Zeugnissen nur Referenzkontakte an.",
+            "Sie vergeben ausschließlich digitale Zeugnisse.",
+            "Sie haben das Vorstellungsgespräch abgeschafft."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was sagt der Text über die Zukunft des Arbeitszeugnisses?",
+          "options": [
+            "Es wird abgeschafft, sobald das Arbeitsrecht geändert wird.",
+            "Solange der gesetzliche Anspruch besteht, wird es weiter geschrieben.",
+            "Alle Unternehmen werden auf Referenzkontakte umstellen."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

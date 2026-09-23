@@ -1,0 +1,62 @@
+{
+  "module": "reading",
+  "tag": "goethe",
+  "title": "Goethe B2 — Lesen Teil 5 — Richtlinien & Hausordnungen, Satz 1",
+  "description": "Lesen Sie die Texte und lösen Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 14,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 5 — Richtlinien & Hausordnungen",
+      "passage": "Lesen Sie die Texte und lösen Sie die Aufgaben.\n\nNutzungsordnung der Musikschule Hafenbogen\n\nBeispiel: 0 Lösung c\n\n**Paragraph 0**\nDie Jahresgebühr wird in zwei gleichen Raten erhoben. Familien mit mehreren angemeldeten Kindern können bis zum 15. Oktober eine Ermäßigung beantragen; ein später eingereichter Antrag wirkt erst für das folgende Halbjahr.\n\n**Paragraph 28**\nDie Musikschule kann Schülerinnen und Schülern Instrumente für höchstens ein Schulhalbjahr überlassen, sofern ein passendes Instrument vorhanden ist. Vor der Übergabe wird ein Zustandsprotokoll erstellt; zusätzlich ist eine Kaution von 80 Euro zu hinterlegen. Das Instrument darf nicht an Dritte weitergegeben werden. Schäden sind unverzüglich im Sekretariat zu melden. Bei verspäteter Rückgabe kann die Ausleihe für das nächste Halbjahr ausgeschlossen werden.\n\n**Paragraph 29**\nKann eine Schülerin oder ein Schüler nicht am Unterricht teilnehmen, ist das Sekretariat spätestens bis 12 Uhr am Unterrichtstag zu informieren. Bei mehr als drei aufeinanderfolgenden Fehlterminen kann eine schriftliche Begründung verlangt werden. Ein Anspruch auf Erstattung der Gebühr entsteht dadurch nicht. Ersatztermine werden nur angeboten, wenn der Unterricht aus Gründen ausfällt, die die Musikschule zu vertreten hat.\n\n**Paragraph 30**\nDie außerhalb des Unterrichts bereitgestellten Räume dürfen genutzt werden, wenn sie vorher online reserviert wurden. Eine Reservierung ist frühestens sieben Tage im Voraus möglich und gilt für maximal zwei Stunden. Essen und offene Getränke sind in den Räumen nicht erlaubt. Nach der Nutzung sind Fenster zu schließen, Notenständer zurückzustellen und der Schlüssel beim Hausdienst abzugeben. Gruppenproben müssen von einer Lehrkraft bestätigt werden. Bei wiederholten Verstößen kann die Reservierungsberechtigung vorübergehend entzogen werden.",
+      "items": [
+        {
+          "question": "[Satz 1] Welche Überschrift passt zu Paragraph 28?",
+          "options": [
+            "A: Anmeldung",
+            "B: Unterrichtszeiten",
+            "C: Gebühren und Ermäßigungen",
+            "D: Instrumentenausleihe",
+            "E: Kündigung",
+            "F: Aufsicht",
+            "G: Fehlzeiten",
+            "H: Raumnutzung"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Welche Überschrift passt zu Paragraph 29?",
+          "options": [
+            "A: Anmeldung",
+            "B: Unterrichtszeiten",
+            "C: Gebühren und Ermäßigungen",
+            "D: Instrumentenausleihe",
+            "E: Kündigung",
+            "F: Aufsicht",
+            "G: Fehlzeiten",
+            "H: Raumnutzung"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "[Satz 1] Welche Überschrift passt zu Paragraph 30?",
+          "options": [
+            "A: Anmeldung",
+            "B: Unterrichtszeiten",
+            "C: Gebühren und Ermäßigungen",
+            "D: Instrumentenausleihe",
+            "E: Kündigung",
+            "F: Aufsicht",
+            "G: Fehlzeiten",
+            "H: Raumnutzung"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Dienstanweisung: Aktualisierte Hygienevorschriften",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 26,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Dienstanweisung: Aktualisierte Hygienevorschriften",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nAn alle Mitarbeitenden der Stationen 2 und 3\n\nIm Rahmen der jährlichen Überprüfung wurden die Hygienevorschriften an zwei Punkten angepasst. Die Änderungen treten ab sofort in Kraft.\n\nErstens: Die Händedesinfektion vor UND nach jedem Patientenkontakt bleibt unverändert Pflicht, wird künftig aber zusätzlich vor dem Betreten des Medikamentenraums verlangt, auch wenn dort kein direkter Patientenkontakt stattfindet. Grund ist ein interner Vorfall, bei dem eine Kontamination auf diesem Weg nicht ausgeschlossen werden konnte.\n\nZweitens: Einweghandschuhe dürfen künftig nicht mehr für mehrere aufeinanderfolgende Tätigkeiten am selben Patienten verwendet werden, selbst wenn keine sichtbare Verschmutzung vorliegt. Zwischen unterschiedlichen Tätigkeiten — etwa Wundversorgung und anschließender Medikamentengabe — ist grundsätzlich ein Handschuhwechsel mit vorheriger Händedesinfektion vorzunehmen.\n\nDiese Anpassungen wurden mit der Hygienebeauftragten abgestimmt und sind ab dem heutigen Datum verbindlich. Schulungen zur praktischen Umsetzung finden in den kommenden zwei Wochen stationsintern statt; Termine werden über die Stationsleitung bekanntgegeben.",
+      "items": [
+        {
+          "question": "Was ist der Grund für die neue Regel zur Händedesinfektion vor dem Medikamentenraum?",
+          "options": [
+            "Eine neue gesetzliche Vorschrift von außen.",
+            "Eine allgemeine Erhöhung der Patientenzahlen.",
+            "Ein interner Vorfall, bei dem eine Kontamination nicht ausgeschlossen werden konnte."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Einweghandschuhe dürfen laut neuer Regel für mehrere Tätigkeiten am selben Patienten weiterverwendet werden, solange keine Verschmutzung sichtbar ist.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was muss laut Text zwischen Wundversorgung und Medikamentengabe geschehen?",
+          "options": [
+            "Ein Handschuhwechsel mit vorheriger Händedesinfektion.",
+            "Eine schriftliche Dokumentation beider Tätigkeiten.",
+            "Eine Rücksprache mit der Stationsleitung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Wie werden die Mitarbeitenden über die praktische Umsetzung informiert?",
+          "options": [
+            "Über Schulungen, deren Termine die Stationsleitung bekanntgibt.",
+            "Über eine verpflichtende Online-Prüfung.",
+            "Gar nicht, die Regel gilt ohne weitere Erklärung."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

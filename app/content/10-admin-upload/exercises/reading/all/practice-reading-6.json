@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — E-Mail-Wechsel: Rückfrage zur Gehaltsabrechnung",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 15,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "E-Mail-Wechsel: Rückfrage zur Gehaltsabrechnung",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nVon: b.ahrens@firma-extern.de\nAn: personal@klinikverbund.de\nBetreff: Rückfrage zur Abrechnung März\n\nGuten Tag,\n\nbei der Durchsicht meiner Märzabrechnung ist mir aufgefallen, dass die Zuschläge für die drei Nachtschichten in der letzten Woche nicht ausgewiesen sind. Laut meinem Dienstplan habe ich am 24., 25. und 28. März Nachtdienst gehabt. Können Sie das bitte prüfen und mir mitteilen, ob es sich um einen Erfassungsfehler handelt oder ob die Zuschläge erst mit der Aprilabrechnung nachgezahlt werden?\n\nMit freundlichen Grüßen\nB. Ahrens\n\n---\n\nVon: personal@klinikverbund.de\nAn: b.ahrens@firma-extern.de\nBetreff: AW: Rückfrage zur Abrechnung März\n\nGuten Tag Frau Ahrens,\n\nvielen Dank für den Hinweis. Wir haben den Fall geprüft: Es handelt sich tatsächlich um einen Erfassungsfehler in unserem System — die Schichten vom 24. und 25. wurden korrekt als Nachtdienst verbucht, die vom 28. jedoch versehentlich als regulärer Spätdienst. Die Korrektur ist bereits veranlasst und wird mit der Aprilabrechnung nachgeholt, zusammen mit einer kurzfristigen Ausgleichszahlung für die verzögerte Auszahlung.\n\nBei weiteren Fragen stehen wir gerne zur Verfügung.\n\nFreundliche Grüße\nPersonalabteilung",
+      "items": [
+        {
+          "question": "Worum bittet Frau Ahrens in ihrer E-Mail?",
+          "options": [
+            "Um eine Gehaltserhöhung.",
+            "Um Änderung ihres Dienstplans.",
+            "Um Prüfung fehlender Nachtschicht-Zuschläge."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Antwort war die Schicht vom 24. März korrekt verbucht.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Was war laut Personalabteilung bei der Schicht vom 28. März falsch?",
+          "options": [
+            "Sie wurde gar nicht erfasst.",
+            "Sie wurde doppelt bezahlt.",
+            "Sie wurde versehentlich als regulärer Spätdienst verbucht."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was bietet die Personalabteilung zusätzlich zur Korrektur an?",
+          "options": [
+            "Eine kurzfristige Ausgleichszahlung für die Verzögerung.",
+            "Eine schriftliche Entschuldigung per Post.",
+            "Einen zusätzlichen freien Tag."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

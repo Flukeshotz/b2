@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "goethe",
+  "title": "Goethe B2 — Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung) #2",
+  "description": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schreiben Teil 1 — Forumsbeitrag (Meinungsäußerung)",
+      "passage": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.\nSchreiben Sie mindestens 150 Wörter.\n\nSie schreiben einen Forumsbeitrag zum bargeldlosen Bezahlen.",
+      "items": [
+        {
+          "question": "Sie schreiben einen Forumsbeitrag zum bargeldlosen Bezahlen.\n• Äußern Sie Ihre Meinung zum bargeldlosen Bezahlen im Alltag.\n• Nennen Sie Gründe, warum immer mehr Menschen ohne Bargeld bezahlen.\n• Nennen Sie Schwierigkeiten, die mit dieser Entwicklung verbunden sein können.\n• Nennen Sie Vorteile, wenn verschiedene Zahlungsmöglichkeiten erhalten bleiben.",
+          "word_limit": 180,
+          "expected_answer": "Hallo zusammen,\n\nich finde das Thema sehr spannend, da ich selbst beobachte, wie schnell sich unser Bezahlverhalten verändert. Meiner Meinung nach ist bargeldloses Bezahlen eine enorme Erleichterung im Alltag, auch wenn ich nicht komplett auf Scheine und Münzen verzichten möchte.\n\nEin wesentlicher Grund für diesen Trend ist sicherlich die Bequemlichkeit. Man muss nicht ständig Geld abheben und hat an der Kasse einen schnelleren Ablauf, besonders bei kleinen Beträgen. Außerdem empfinden viele Menschen das kontaktlose Bezahlen als hygienischer und behalten durch Banking-Apps einen besseren Überblick über ihre Ausgaben.\n\nAllerdings sehe ich auch einige Schwierigkeiten. Ein großes Problem ist für mich der Datenschutz, denn jeder digitale Einkauf hinterlässt Spuren und erstellt ein genaues Profil unseres Konsumverhaltens. Zudem ist man bei technischen Störungen oder einem leeren Akku plötzlich zahlungsunfähig. Nicht zu vergessen sind ältere Menschen oder Obdachlose, die oft keinen Zugang zu digitalen Zahlungsmitteln haben und so vom gesellschaftlichen Leben ausgeschlossen werden könnten.\n\nDeshalb ist es entscheidend, dass verschiedene Zahlungsmöglichkeiten erhalten bleiben. Bargeld garantiert Anonymität und funktioniert auch bei einem Systemausfall zuverlässig. Diese Freiheit, selbst entscheiden zu können, ob ich mit Karte, Smartphone oder Bargeld bezahle, ist ein Stück Lebensqualität, das wir uns bewahren sollten.\n\nIch bin gespannt, wie ihr das seht. Verzichtet ihr schon völlig auf Bargeld?\n\nViele Grüße\nMarie"
+        }
+      ]
+    }
+  ]
+}

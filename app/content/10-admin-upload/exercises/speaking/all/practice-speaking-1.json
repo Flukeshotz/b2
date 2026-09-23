@@ -1,0 +1,58 @@
+{
+  "module": "speaking",
+  "tag": "all",
+  "title": "Sprechübung 1 — kurze Stellungnahmen",
+  "description": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurze Stellungnahmen (1)",
+      "passage": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+      "prompt_type": "text",
+      "items": [
+        {
+          "question": "Beschreiben Sie eine Situation aus Ihrem Berufsalltag, in der eine gute Kommunikation im Team einen Unterschied gemacht hat.",
+          "speech_time_limit": 90,
+          "prompt_type": "text",
+          "reference_text": "Ich möchte von einer Situation aus meinem alten Job in einem Marketingbüro erzählen. Wir hatten einen sehr wichtigen Kunden und mussten eine große Kampagne innerhalb von nur zwei Wochen vorbereiten. Die Stimmung war von Anfang an sehr angespannt, weil jeder dachte, dass die Deadline eigentlich unmöglich einzuhalten wäre. Das Hauptproblem war, dass zwei Kollegen aus der Grafikabteilung und dem Textteam aneinander vorbeigearbeitet haben. Es gab ständig Missverständnisse, weil sie ihre Fortschritte nicht miteinander geteilt haben. Daraufhin hat unsere Projektleiterin ein tägliches, aber nur fünfzehnminütiges Meeting eingeführt, in dem wirklich jeder ganz offen sagen musste, wo er gerade steht und welche Hindernisse es gibt. Dank dieser klaren und transparenten Kommunikation haben wir sofort gemerkt, dass wir Aufgaben viel besser verteilen können. Ein Kollege hatte zum Beispiel eine viel schnellere Software, wovon die anderen gar nichts wussten. Dadurch konnten wir den Prozess deutlich beschleunigen. Am Ende haben wir das Projekt nicht nur pünktlich, sondern sogar mit einem sehr zufriedenen Kunden abgeschlossen. Für mich war das eine wichtige Erfahrung, denn ohne diese offene Kommunikation wären wir garantiert gescheitert.",
+          "model_answer": "Ich möchte von einer Situation aus meinem alten Job in einem Marketingbüro erzählen. Wir hatten einen sehr wichtigen Kunden und mussten eine große Kampagne innerhalb von nur zwei Wochen vorbereiten. Die Stimmung war von Anfang an sehr angespannt, weil jeder dachte, dass die Deadline eigentlich unmöglich einzuhalten wäre. Das Hauptproblem war, dass zwei Kollegen aus der Grafikabteilung und dem Textteam aneinander vorbeigearbeitet haben. Es gab ständig Missverständnisse, weil sie ihre Fortschritte nicht miteinander geteilt haben. Daraufhin hat unsere Projektleiterin ein tägliches, aber nur fünfzehnminütiges Meeting eingeführt, in dem wirklich jeder ganz offen sagen musste, wo er gerade steht und welche Hindernisse es gibt. Dank dieser klaren und transparenten Kommunikation haben wir sofort gemerkt, dass wir Aufgaben viel besser verteilen können. Ein Kollege hatte zum Beispiel eine viel schnellere Software, wovon die anderen gar nichts wussten. Dadurch konnten wir den Prozess deutlich beschleunigen. Am Ende haben wir das Projekt nicht nur pünktlich, sondern sogar mit einem sehr zufriedenen Kunden abgeschlossen. Für mich war das eine wichtige Erfahrung, denn ohne diese offene Kommunikation wären wir garantiert gescheitert.",
+          "expected_answer": "Ich möchte von einer Situation aus meinem alten Job in einem Marketingbüro erzählen. Wir hatten einen sehr wichtigen Kunden und mussten eine große Kampagne innerhalb von nur zwei Wochen vorbereiten. Die Stimmung war von Anfang an sehr angespannt, weil jeder dachte, dass die Deadline eigentlich unmöglich einzuhalten wäre. Das Hauptproblem war, dass zwei Kollegen aus der Grafikabteilung und dem Textteam aneinander vorbeigearbeitet haben. Es gab ständig Missverständnisse, weil sie ihre Fortschritte nicht miteinander geteilt haben. Daraufhin hat unsere Projektleiterin ein tägliches, aber nur fünfzehnminütiges Meeting eingeführt, in dem wirklich jeder ganz offen sagen musste, wo er gerade steht und welche Hindernisse es gibt. Dank dieser klaren und transparenten Kommunikation haben wir sofort gemerkt, dass wir Aufgaben viel besser verteilen können. Ein Kollege hatte zum Beispiel eine viel schnellere Software, wovon die anderen gar nichts wussten. Dadurch konnten wir den Prozess deutlich beschleunigen. Am Ende haben wir das Projekt nicht nur pünktlich, sondern sogar mit einem sehr zufriedenen Kunden abgeschlossen. Für mich war das eine wichtige Erfahrung, denn ohne diese offene Kommunikation wären wir garantiert gescheitert."
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Kurze Stellungnahmen (2)",
+      "passage": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+      "prompt_type": "text",
+      "items": [
+        {
+          "question": "Ein Kollege bittet Sie kurzfristig, eine zusätzliche Schicht zu übernehmen. Sagen Sie höflich, ob Sie zustimmen oder ablehnen, und begründen Sie Ihre Antwort.",
+          "speech_time_limit": 90,
+          "prompt_type": "text",
+          "reference_text": "Vielen Dank, dass du an mich gedacht hast, aber leider muss ich deine Anfrage für die zusätzliche Schicht heute Abend ablehnen. Es tut mir wirklich leid, und normalerweise würde ich dir sehr gerne aushelfen, aber heute passt es zeitlich absolut nicht. Ich habe nämlich schon seit einer Woche einen wichtigen privaten Termin, den ich nicht verschieben kann. Es geht um eine handwerkliche Reparatur in meiner Wohnung, und der Handwerker kommt extra am Abend. Du weißt ja, wie schwer es heutzutage ist, überhaupt einen Termin zu bekommen. Ich hoffe, du verstehst meine Situation. Falls du jedoch in den nächsten Tagen oder nächste Woche noch einmal Unterstützung brauchst, kannst du gerne auf mich zukommen. Dann bin ich flexibler und übernehme die Schicht mit großer Wahrscheinlichkeit. Vielleicht findest du ja noch jemand anderen für heute Abend, oder ich kann beim nächsten Mal einspringen. Ich drücke dir die Daumen, dass es klappt!",
+          "model_answer": "Vielen Dank, dass du an mich gedacht hast, aber leider muss ich deine Anfrage für die zusätzliche Schicht heute Abend ablehnen. Es tut mir wirklich leid, und normalerweise würde ich dir sehr gerne aushelfen, aber heute passt es zeitlich absolut nicht. Ich habe nämlich schon seit einer Woche einen wichtigen privaten Termin, den ich nicht verschieben kann. Es geht um eine handwerkliche Reparatur in meiner Wohnung, und der Handwerker kommt extra am Abend. Du weißt ja, wie schwer es heutzutage ist, überhaupt einen Termin zu bekommen. Ich hoffe, du verstehst meine Situation. Falls du jedoch in den nächsten Tagen oder nächste Woche noch einmal Unterstützung brauchst, kannst du gerne auf mich zukommen. Dann bin ich flexibler und übernehme die Schicht mit großer Wahrscheinlichkeit. Vielleicht findest du ja noch jemand anderen für heute Abend, oder ich kann beim nächsten Mal einspringen. Ich drücke dir die Daumen, dass es klappt!",
+          "expected_answer": "Vielen Dank, dass du an mich gedacht hast, aber leider muss ich deine Anfrage für die zusätzliche Schicht heute Abend ablehnen. Es tut mir wirklich leid, und normalerweise würde ich dir sehr gerne aushelfen, aber heute passt es zeitlich absolut nicht. Ich habe nämlich schon seit einer Woche einen wichtigen privaten Termin, den ich nicht verschieben kann. Es geht um eine handwerkliche Reparatur in meiner Wohnung, und der Handwerker kommt extra am Abend. Du weißt ja, wie schwer es heutzutage ist, überhaupt einen Termin zu bekommen. Ich hoffe, du verstehst meine Situation. Falls du jedoch in den nächsten Tagen oder nächste Woche noch einmal Unterstützung brauchst, kannst du gerne auf mich zukommen. Dann bin ich flexibler und übernehme die Schicht mit großer Wahrscheinlichkeit. Vielleicht findest du ja noch jemand anderen für heute Abend, oder ich kann beim nächsten Mal einspringen. Ich drücke dir die Daumen, dass es klappt!"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "title": "Kurze Stellungnahmen (3)",
+      "passage": "Bereiten Sie sich kurz vor und sprechen Sie frei.",
+      "prompt_type": "text",
+      "items": [
+        {
+          "question": "Erklären Sie in eigenen Worten, warum klare Rückfragen bei unklaren Anweisungen wichtig sind.",
+          "speech_time_limit": 75,
+          "prompt_type": "text",
+          "reference_text": "Also, ich möchte gerne erklären, warum es so wichtig ist, bei unklaren Anweisungen sofort nachzufragen. Meiner Meinung nach ist das ein absolut zentraler Punkt, sowohl im Berufsleben als auch privat. Wenn man eine Aufgabe nicht richtig versteht und einfach anfängt, kann das nämlich gravierende Folgen haben. Man arbeitet vielleicht in die völlig falsche Richtung, und das kostet nicht nur wertvolle Zeit, sondern auch unnötig Energie. Ein konkretes Beispiel aus meinem Alltag: Stellen Sie sich vor, der Chef bittet um eine Präsentation, aber die Zielgruppe bleibt unklar. Wenn ich jetzt nicht nachfrage, ob es für Kunden oder interne Kollegen ist, könnte die ganze Arbeit umsonst sein. Daher ist eine kurze Rückfrage viel effizienter, als später alles zu korrigieren. Außerdem zeigt man durch gezieltes Nachfragen echtes Interesse und Verantwortungsbewusstsein. Es geht ja nicht um Unwissenheit, sondern darum, ein optimales Ergebnis zu erzielen. Aus diesen Gründen bin ich fest davon überzeugt, dass klare Rückfragen die Basis für eine erfolgreiche Zusammenarbeit sind.",
+          "model_answer": "Also, ich möchte gerne erklären, warum es so wichtig ist, bei unklaren Anweisungen sofort nachzufragen. Meiner Meinung nach ist das ein absolut zentraler Punkt, sowohl im Berufsleben als auch privat. Wenn man eine Aufgabe nicht richtig versteht und einfach anfängt, kann das nämlich gravierende Folgen haben. Man arbeitet vielleicht in die völlig falsche Richtung, und das kostet nicht nur wertvolle Zeit, sondern auch unnötig Energie. Ein konkretes Beispiel aus meinem Alltag: Stellen Sie sich vor, der Chef bittet um eine Präsentation, aber die Zielgruppe bleibt unklar. Wenn ich jetzt nicht nachfrage, ob es für Kunden oder interne Kollegen ist, könnte die ganze Arbeit umsonst sein. Daher ist eine kurze Rückfrage viel effizienter, als später alles zu korrigieren. Außerdem zeigt man durch gezieltes Nachfragen echtes Interesse und Verantwortungsbewusstsein. Es geht ja nicht um Unwissenheit, sondern darum, ein optimales Ergebnis zu erzielen. Aus diesen Gründen bin ich fest davon überzeugt, dass klare Rückfragen die Basis für eine erfolgreiche Zusammenarbeit sind.",
+          "expected_answer": "Also, ich möchte gerne erklären, warum es so wichtig ist, bei unklaren Anweisungen sofort nachzufragen. Meiner Meinung nach ist das ein absolut zentraler Punkt, sowohl im Berufsleben als auch privat. Wenn man eine Aufgabe nicht richtig versteht und einfach anfängt, kann das nämlich gravierende Folgen haben. Man arbeitet vielleicht in die völlig falsche Richtung, und das kostet nicht nur wertvolle Zeit, sondern auch unnötig Energie. Ein konkretes Beispiel aus meinem Alltag: Stellen Sie sich vor, der Chef bittet um eine Präsentation, aber die Zielgruppe bleibt unklar. Wenn ich jetzt nicht nachfrage, ob es für Kunden oder interne Kollegen ist, könnte die ganze Arbeit umsonst sein. Daher ist eine kurze Rückfrage viel effizienter, als später alles zu korrigieren. Außerdem zeigt man durch gezieltes Nachfragen echtes Interesse und Verantwortungsbewusstsein. Es geht ja nicht um Unwissenheit, sondern darum, ein optimales Ergebnis zu erzielen. Aus diesen Gründen bin ich fest davon überzeugt, dass klare Rückfragen die Basis für eine erfolgreiche Zusammenarbeit sind."
+        }
+      ]
+    }
+  ]
+}

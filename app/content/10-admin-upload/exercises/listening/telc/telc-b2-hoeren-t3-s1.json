@@ -1,0 +1,63 @@
+{
+  "module": "listening",
+  "tag": "telc",
+  "title": "telc B2 — Hören Teil 3 — Selektives Verstehen (Kurzberichte), Satz 1",
+  "description": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Hören Teil 3 — Selektives Verstehen (Kurzberichte)",
+      "audio": "teil3-q1.mp3",
+      "passage": "Hören Sie die Audiospur und entscheiden Sie: richtig oder falsch?",
+      "items": [
+        {
+          "question": "Wer Karten reserviert hat, kann sie noch während des Einlasses abholen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die technische Betreuung läuft weiter, obwohl der Tarifservice vorübergehend eingeschränkt ist.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Fahrgäste mit Fahrrad können auf die Ersatzbusse der Linie 4 ausweichen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Die Warnung betrifft vor allem das Baden; andere Angebote am Waldsee bleiben teilweise nutzbar.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        },
+        {
+          "question": "Wer keinen Termin hat, kann montags bis freitags vormittags ins Bürgerbüro kommen.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "A",
+          "type": "true_false"
+        }
+      ]
+    }
+  ]
+}

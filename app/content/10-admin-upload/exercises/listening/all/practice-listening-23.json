@@ -1,0 +1,48 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Kollegen uneinig über das Vorgehen bei einem Projekt",
+  "description": "Hören Sie und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 23,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kollegen uneinig über das Vorgehen bei einem Projekt",
+      "audio": "practice_listening_23_projektvorgehen.mp3",
+      "passage": "Hören Sie und beantworten Sie die Aufgaben.",
+      "items": [
+        {
+          "question": "Was schlägt Kollege 1 zuerst vor?",
+          "options": [
+            "Das Projekt in kleinen wöchentlichen Etappen mit frühem Kundenfeedback abarbeiten.",
+            "Das ganze Projekt auf einmal abzuschließen.",
+            "Das Projekt an eine andere Firma abzugeben."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Warum ist Kollege 2 zunächst skeptisch?",
+          "options": [
+            "Weil Rückmeldungen dieses Kunden erfahrungsgemäß lange dauern.",
+            "Weil ihm die Etappen zu klein sind.",
+            "Weil er das Projekt für unnötig hält."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Auf welchen Kompromiss einigen sich die beiden?",
+          "options": [
+            "In Etappen arbeiten, aber parallel weiterarbeiten statt auf jede Rückmeldung zu warten.",
+            "Komplett auf das Kundenfeedback zu verzichten.",
+            "Das Projekt zu verschieben, bis der Kunde schneller antwortet."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

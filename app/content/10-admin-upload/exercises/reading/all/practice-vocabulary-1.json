@@ -1,0 +1,137 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Gezielte Wortschatzübung 1 — Beruf & Register",
+  "description": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+  "difficulty_tag": "Medium",
+  "order_index": 40,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Wortschatz",
+      "passage": "Wählen Sie die richtige Bedeutung oder die passende Formulierung.",
+      "items": [
+        {
+          "question": "\"Er hat die Aufgabe termingerecht erledigt.\" — \"termingerecht\" bedeutet:",
+          "options": [
+            "pünktlich, innerhalb der Frist",
+            "ohne Hilfe",
+            "sehr sorgfältig"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welches Wort passt am besten: \"Für diese Aufgabe bin ich nicht ___.\"",
+          "options": [
+            "beschäftigt",
+            "verantwortlich für",
+            "zuständig"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die Beschwerde wurde umgehend bearbeitet.\" — \"umgehend\" heißt:",
+          "options": [
+            "eventuell",
+            "sofort",
+            "teilweise"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Formeller Ausdruck für \"Ich brauche mehr Infos\":",
+          "options": [
+            "Ich will das genauer wissen.",
+            "Gib mir mal mehr Infos.",
+            "Ich benötige weitere Informationen."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Die Kollegin hat mich vertreten, während ich im Urlaub war.\" — \"vertreten\" bedeutet hier:",
+          "options": [
+            "mir widersprechen",
+            "meine Aufgaben übernehmen",
+            "mich begleiten"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welches Wort ist hier ein falscher Freund für englische Muttersprachler? \"Ich bekomme ein Formular.\"",
+          "options": [
+            "bekommen (≠ to become)",
+            "Formular (≠ formula)",
+            "beide"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Der Dienstplan wurde kurzfristig geändert.\" — \"kurzfristig\" heißt:",
+          "options": [
+            "für kurze Zeit",
+            "sehr oft",
+            "mit wenig Vorlauf"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Passendes Verb: \"Wir müssen die neuen Vorschriften ___.\"",
+          "options": [
+            "einhalten",
+            "einsehen",
+            "einholen"
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Sie hat sich schnell in das neue Team eingelebt.\" — \"sich einleben\" bedeutet:",
+          "options": [
+            "ein neues Leben beginnen",
+            "einen neuen Wohnort finden",
+            "sich an eine neue Umgebung gewöhnen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Höflich-formelle Bitte am Telefon:",
+          "options": [
+            "Könnten Sie mir bitte kurz weiterhelfen?",
+            "Ich brauch Hilfe, jetzt gleich.",
+            "Hilf mir mal."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Der Arzt hat die Diagnose bestätigt.\" — Gegenteil von \"bestätigen\":",
+          "options": [
+            "wiederholen",
+            "widerlegen",
+            "erklären"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "\"Wir sind auf Ihre Rückmeldung angewiesen.\" — \"angewiesen sein auf\" bedeutet:",
+          "options": [
+            "etwas anordnen",
+            "etwas dringend brauchen",
+            "etwas ablehnen"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

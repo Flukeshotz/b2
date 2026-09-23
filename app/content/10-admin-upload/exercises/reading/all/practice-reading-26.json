@@ -1,0 +1,104 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 35,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende (1)",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nWillkommen im Unternehmen! Damit Ihr Einstieg reibungslos verläuft, orientieren sich die ersten vier Wochen an folgendem Ablauf.\n\nIn der ersten Woche stehen vor allem organisatorische Themen im Vordergrund: IT-Zugänge, Sicherheitsunterweisung und ein Rundgang durch alle relevanten Abteilungen, begleitet von Ihrer Patin oder Ihrem Paten — einer erfahrenen Kollegin oder einem erfahrenen Kollegen, die oder der Ihnen als erste Ansprechperson für alle Fragen zur Verfügung steht.\n\nAb der zweiten Woche übernehmen Sie erste eigenständige, aber überschaubare Aufgaben, während Ihre Führungskraft in wöchentlichen Kurzgesprächen prüft, ob Unterstützung nötig ist. In der dritten Woche folgt ein Zwischenfeedback-Gespräch, in dem beide Seiten offen ansprechen können, was gut läuft und wo es noch hakt.\n\nNach vier Wochen findet das eigentliche Onboarding-Abschlussgespräch statt, in dem gemeinsam die Ziele für die kommenden Monate festgelegt werden. Die Patenschaft endet formal mit diesem Gespräch, steht aber informell auch danach weiterhin zur Verfügung.",
+      "items": [
+        {
+          "question": "Welche Rolle hat die Patin oder der Pate in der ersten Woche?",
+          "options": [
+            "Erste Ansprechperson für alle Fragen.",
+            "Verantwortlich für die Gehaltsabrechnung.",
+            "Vertretung der Führungskraft bei Abwesenheit."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Neue Mitarbeitende übernehmen bereits in der ersten Woche eigenständige Aufgaben.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende (2)",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nWillkommen im Unternehmen! Damit Ihr Einstieg reibungslos verläuft, orientieren sich die ersten vier Wochen an folgendem Ablauf.\n\nIn der ersten Woche stehen vor allem organisatorische Themen im Vordergrund: IT-Zugänge, Sicherheitsunterweisung und ein Rundgang durch alle relevanten Abteilungen, begleitet von Ihrer Patin oder Ihrem Paten — einer erfahrenen Kollegin oder einem erfahrenen Kollegen, die oder der Ihnen als erste Ansprechperson für alle Fragen zur Verfügung steht.\n\nAb der zweiten Woche übernehmen Sie erste eigenständige, aber überschaubare Aufgaben, während Ihre Führungskraft in wöchentlichen Kurzgesprächen prüft, ob Unterstützung nötig ist. In der dritten Woche folgt ein Zwischenfeedback-Gespräch, in dem beide Seiten offen ansprechen können, was gut läuft und wo es noch hakt.\n\nNach vier Wochen findet das eigentliche Onboarding-Abschlussgespräch statt, in dem gemeinsam die Ziele für die kommenden Monate festgelegt werden. Die Patenschaft endet formal mit diesem Gespräch, steht aber informell auch danach weiterhin zur Verfügung.",
+      "items": [
+        {
+          "question": "Ordnen Sie jeden Zeitpunkt dem passenden Ereignis aus dem Onboarding-Ablauf zu.\nErste Woche",
+          "options": [
+            "Erste eigenständige, überschaubare Aufgaben",
+            "Zwischenfeedback-Gespräch",
+            "IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+            "Onboarding-Abschlussgespräch mit Zielfestlegung"
+          ],
+          "answer": "C",
+          "type": "matching_headers"
+        },
+        {
+          "question": "Ordnen Sie jeden Zeitpunkt dem passenden Ereignis aus dem Onboarding-Ablauf zu.\nZweite Woche",
+          "options": [
+            "Erste eigenständige, überschaubare Aufgaben",
+            "Zwischenfeedback-Gespräch",
+            "IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+            "Onboarding-Abschlussgespräch mit Zielfestlegung"
+          ],
+          "answer": "A",
+          "type": "matching_headers"
+        },
+        {
+          "question": "Ordnen Sie jeden Zeitpunkt dem passenden Ereignis aus dem Onboarding-Ablauf zu.\nDritte Woche",
+          "options": [
+            "Erste eigenständige, überschaubare Aufgaben",
+            "Zwischenfeedback-Gespräch",
+            "IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+            "Onboarding-Abschlussgespräch mit Zielfestlegung"
+          ],
+          "answer": "B",
+          "type": "matching_headers"
+        },
+        {
+          "question": "Ordnen Sie jeden Zeitpunkt dem passenden Ereignis aus dem Onboarding-Ablauf zu.\nNach vier Wochen",
+          "options": [
+            "Erste eigenständige, überschaubare Aufgaben",
+            "Zwischenfeedback-Gespräch",
+            "IT-Zugänge, Sicherheitsunterweisung, Rundgang",
+            "Onboarding-Abschlussgespräch mit Zielfestlegung"
+          ],
+          "answer": "D",
+          "type": "matching_headers"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "title": "Auszug aus dem Onboarding-Leitfaden für neue Mitarbeitende (3)",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nWillkommen im Unternehmen! Damit Ihr Einstieg reibungslos verläuft, orientieren sich die ersten vier Wochen an folgendem Ablauf.\n\nIn der ersten Woche stehen vor allem organisatorische Themen im Vordergrund: IT-Zugänge, Sicherheitsunterweisung und ein Rundgang durch alle relevanten Abteilungen, begleitet von Ihrer Patin oder Ihrem Paten — einer erfahrenen Kollegin oder einem erfahrenen Kollegen, die oder der Ihnen als erste Ansprechperson für alle Fragen zur Verfügung steht.\n\nAb der zweiten Woche übernehmen Sie erste eigenständige, aber überschaubare Aufgaben, während Ihre Führungskraft in wöchentlichen Kurzgesprächen prüft, ob Unterstützung nötig ist. In der dritten Woche folgt ein Zwischenfeedback-Gespräch, in dem beide Seiten offen ansprechen können, was gut läuft und wo es noch hakt.\n\nNach vier Wochen findet das eigentliche Onboarding-Abschlussgespräch statt, in dem gemeinsam die Ziele für die kommenden Monate festgelegt werden. Die Patenschaft endet formal mit diesem Gespräch, steht aber informell auch danach weiterhin zur Verfügung.",
+      "items": [
+        {
+          "question": "Was passiert formal mit der Patenschaft nach dem Abschlussgespräch?",
+          "options": [
+            "Sie endet vollständig und ohne weiteren Kontakt.",
+            "Sie wird automatisch um vier weitere Wochen verlängert.",
+            "Sie endet formal, bleibt aber informell verfügbar."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

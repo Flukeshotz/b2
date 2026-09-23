@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc Deutsch B2 — Schreiben, Übungsset 2",
+  "description": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+  "difficulty_tag": "Medium",
+  "order_index": 2,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Halbformelle E-Mail: Fortbildungswunsch",
+      "passage": "Schreiben Sie eine E-Mail. Gehen Sie auf alle Punkte ein.",
+      "items": [
+        {
+          "question": "Sie möchten an einer beruflichen Fortbildung zum Thema Projektmanagement teilnehmen, die während Ihrer Arbeitszeit stattfindet. Schreiben Sie eine E-Mail an Ihre Vorgesetzte.\n• Erklären Sie, um welche Fortbildung es geht und wann sie stattfindet.\n• Begründen Sie, warum die Fortbildung für Ihre Arbeit nützlich wäre.\n• Bitten Sie um Genehmigung und fragen Sie, ob die Kosten übernommen werden.",
+          "word_limit": 150,
+          "expected_answer": "Betreff: Anfrage für Fortbildung „Effizientes Projektmanagement“\n\nSehr geehrte Frau Müller,\n\nich hoffe, es geht Ihnen gut. Ich wende mich heute mit einer Bitte an Sie.\n\nIch habe die Möglichkeit, an einer beruflichen Fortbildung zum Thema „Effizientes Projektmanagement“ teilzunehmen. Der Kurs wird von der IHK angeboten und findet am 15. und 16. Juni, jeweils von 9 bis 17 Uhr, statt. Da die Termine in meine reguläre Arbeitszeit fallen, möchte ich Sie um Ihre Genehmigung bitten.\n\nDiese Fortbildung wäre für meine Arbeit sehr nützlich. In meiner Abteilung betreue ich derzeit mehrere komplexe Projekte, und ich bin überzeugt, dass ich durch neue Methoden die Planung und Koordination deutlich verbessern könnte. Das würde nicht nur mir, sondern dem gesamten Team helfen, effizienter zu arbeiten und Termine sicherer einzuhalten.\n\nIch würde mich sehr freuen, wenn Sie mir die Teilnahme ermöglichen könnten. Wäre es außerdem möglich, dass der Arbeitgeber die Kursgebühr in Höhe von 380 Euro übernimmt? Für ein kurzes Feedback oder ein persönliches Gespräch stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Schneider"
+        }
+      ]
+    }
+  ]
+}

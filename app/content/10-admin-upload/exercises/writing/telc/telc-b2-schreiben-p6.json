@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "telc",
+  "title": "telc B2 — Schriftlicher Ausdruck (Brief) #6",
+  "description": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.",
+  "difficulty_tag": "Medium",
+  "order_index": 8,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Schriftlicher Ausdruck — Formeller Brief (Aufgabe A oder B)",
+      "passage": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Schreiben Sie eine formelle oder halbformelle E-Mail mit mindestens 150 Wörtern. Sie haben 30 Minuten Zeit.\n\nAufgabe A: Beschwerde:\nSie haben das Coaching gebucht und Ihren Lebenslauf rechtzeitig hochgeladen. Der Kurs bestand jedoch überwiegend aus alten Aufzeichnungen, individuelles Feedback erhielten Sie nicht und die Hotline war am zweiten Tag nicht erreichbar.\n\nAufgabe B: Anmeldung:\nSie möchten sich anmelden, weil Sie in Besprechungen oft zu lange warten, bevor Sie etwas sagen. Gleichzeitig möchten Sie wissen, ob der Workshop auch für eher ruhige Personen geeignet ist.",
+      "items": [
+        {
+          "question": "Sie haben das Coaching gebucht und Ihren Lebenslauf rechtzeitig hochgeladen. Der Kurs bestand jedoch überwiegend aus alten Aufzeichnungen, individuelles Feedback erhielten Sie nicht und die Hotline war am zweiten Tag nicht erreichbar.\n• Nennen Sie die Leistungen, die Sie laut Anzeige erwartet hatten.\n• Beschreiben Sie, was im Kurs anders gelaufen ist.\n• Erklären Sie, warum Ihnen dadurch ein Nachteil entstanden ist.\n• Fordern Sie eine konkrete Nachleistung oder teilweise Erstattung.",
+          "word_limit": 180,
+          "expected_answer": "Betreff: Beschwerde über das Coaching „Bewerbungsoptimierung“ (Buchungsnr. 2024-0815)\n\nSehr geehrte Damen und Herren,\n\nam 15. Oktober habe ich Ihr Coaching-Seminar zum Thema Bewerbungsoptimierung gebucht und meinen Lebenslauf fristgerecht hochgeladen. Leider entsprach die Durchführung in mehreren zentralen Punkten nicht Ihren Werbeversprechen.\n\nLaut Ihrer Anzeige hatte ich ein interaktives Live-Coaching mit persönlicher Betreuung erwartet. Konkret versprachen Sie eine individuelle Analyse meines Lebenslaufs, ein ausführliches Feedback innerhalb des Kurses sowie eine durchgängig erreichbare Hotline für Rückfragen.\n\nTatsächlich bestand das Seminar jedoch überwiegend aus vorab aufgezeichneten Videos, die offenbar schon älter sind. Ein persönliches Feedback zu meinem hochgeladenen Lebenslauf habe ich zu keinem Zeitpunkt erhalten. Besonders ärgerlich war, dass die angegebene Hotline am zweiten Tag des Kurses durchgehend nicht erreichbar war, sodass ich dringende Fragen nicht klären konnte.\n\nDadurch ist mir ein erheblicher Nachteil entstanden. Da ich mich aktuell auf eine wichtige Stelle bewerbe, war ich dringend auf eine professionelle Optimierung meiner Unterlagen angewiesen. Wegen der fehlenden Rückmeldung konnte ich meine Bewerbung nicht wie geplant verbessern und habe wertvolle Zeit verloren.\n\nIch fordere Sie daher auf, mir entweder einen kostenfreien Platz im nächsten Live-Coaching mit garantiertem Einzelfeedback anzubieten oder mir 50 % der Kursgebühr zu erstatten. Bitte teilen Sie mir Ihre Entscheidung bis zum 10. November mit.\n\nMit freundlichen Grüßen\nMax Mustermann"
+        }
+      ]
+    }
+  ]
+}

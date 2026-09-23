@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 1 — Stellung nehmen",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "In Ihrem Team wird diskutiert, ob feste Pausenzeiten mit einer Vertretungsliste eingeführt werden sollen (siehe die Diskussion um Personalmangel und Pausenausfall). Nehmen Sie dazu kurz Stellung: Sind Sie dafür oder dagegen, und warum? Nennen Sie mindestens zwei Gründe.\n• Nennen Sie Ihre Position klar am Anfang.\n• Geben Sie mindestens zwei Gründe.\n• Nutzen Sie kausale Konnektoren (weil, da, deshalb).",
+          "word_limit": 100,
+          "expected_answer": "Ich bin klar für die Einführung fester Pausenzeiten mit einer Vertretungsliste. Erstens erhöht eine verbindliche Regelung die Planungssicherheit für alle, weil jeder Mitarbeiter genau weiß, wann er sich erholen kann und wann er Kollegen vertreten muss. Dies führt dazu, dass niemand aus falsch verstandener Rücksichtnahme auf seine Pause verzichtet. Zweitens wird die Arbeitsbelastung durch die Vertretungsliste gerechter verteilt, da nicht immer dieselben Personen einspringen müssen. Aus diesem Grund sinkt das Risiko von Überlastung und krankheitsbedingten Ausfällen. Insgesamt bin ich überzeugt, dass diese Lösung sowohl die Gesundheit des Einzelnen als auch die Teamatmosphäre stärkt."
+        }
+      ]
+    }
+  ]
+}

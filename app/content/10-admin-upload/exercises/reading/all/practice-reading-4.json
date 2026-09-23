@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Forum: Praktika — Erfahrung oder Ausnutzung?",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 13,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Forum: Praktika — Erfahrung oder Ausnutzung?",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nTAMARA_K: Ich habe letztes Jahr ein sechsmonatiges Praktikum gemacht und ehrlich gesagt mehr gelernt als in zwei Semestern Studium. Klar, bezahlt war es kaum, aber ich habe echte Aufgaben bekommen, nicht nur Kaffee gekocht.\n\nFELIX88: Das klingt nach Glück, Tamara. Bei mir war es das Gegenteil: sechs Monate Praktikum, am Ende hat die Firma jemand anderen mit fertigem Abschluss eingestellt, und ich stand wieder bei null. Für die Firma war ich einfach billige Arbeitskraft auf Zeit.\n\nTAMARA_K: Das tut mir leid zu hören. Ich glaube, es hängt wirklich stark davon ab, ob die Firma das Praktikum als Investition in eine mögliche Einstellung sieht oder nur als Lückenfüller.\n\nMOD_SUSANNE: Interessanter Punkt. Eine Studie der Handelskammer von letztem Jahr zeigt genau das: Firmen, die Praktikanten von Anfang an in echte Projekte einbinden, übernehmen sie später doppelt so häufig fest wie Firmen, die sie nur für Zuarbeit nutzen.\n\nFELIX88: Dann sollte man sich als Bewerber wohl genauer erkundigen, WAS man im Praktikum eigentlich machen wird, bevor man zusagt — nicht nur, ob es überhaupt eines gibt.",
+      "items": [
+        {
+          "question": "Wie beschreibt Tamara ihre eigene Praktikumserfahrung?",
+          "options": [
+            "Sie musste nur Kaffee kochen.",
+            "Sie wurde danach sofort fest angestellt.",
+            "Sie hat echte Aufgaben übernommen und viel gelernt."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Felix wurde nach seinem Praktikum von der Firma fest eingestellt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was zeigt die von MOD_SUSANNE zitierte Studie?",
+          "options": [
+            "Firmen mit echter Projekteinbindung übernehmen Praktikanten häufiger fest.",
+            "Die meisten Praktikanten kündigen selbst.",
+            "Praktika werden generell schlechter bezahlt als früher."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Worin sind sich Tamara und Felix am Ende einig?",
+          "options": [
+            "Es kommt darauf an, wie die Firma das Praktikum konkret gestaltet.",
+            "Man sollte nie ein unbezahltes Praktikum machen.",
+            "Praktika sind grundsätzlich nutzlos."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen praktischen Rat leitet Felix am Ende aus der Diskussion ab?",
+          "options": [
+            "Vor der Zusage genau erfragen, welche Aufgaben man bekommt.",
+            "Praktika grundsätzlich ablehnen.",
+            "Nur Praktika bei großen Firmen machen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

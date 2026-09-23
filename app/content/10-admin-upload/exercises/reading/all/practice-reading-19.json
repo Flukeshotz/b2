@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Elektromobilität im Firmenfuhrpark: eine nüchterne Bilanz",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 28,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Elektromobilität im Firmenfuhrpark: eine nüchterne Bilanz",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nVor zwei Jahren stellte ein mittelständischer Logistikdienstleister die Hälfte seines Fuhrparks auf Elektrofahrzeuge um. Die erste Zwischenbilanz fällt gemischt aus.\n\nPositiv: Die Wartungskosten sanken um etwa 30 Prozent, da Elektromotoren deutlich weniger verschleißanfällige Bauteile besitzen als Verbrennungsmotoren. Auch die Fahrer äußerten sich überwiegend positiv über den ruhigeren, vibrationsärmeren Fahrbetrieb.\n\nNegativ schlägt vor allem die Reichweite zu Buche: Auf längeren Routen, insbesondere im ländlichen Raum mit dünnem Ladenetz, mussten Fahrer wiederholt ungeplante Ladepausen einlegen, die den Zeitplan durcheinanderbrachten. In drei dokumentierten Fällen führte dies zu verspäteten Lieferungen, was in der Kundenzufriedenheit messbar spürbar war.\n\nDas Unternehmen zieht daraus keinen grundsätzlichen Schluss gegen Elektromobilität, sondern eine differenzierte Konsequenz: Elektrofahrzeuge werden künftig gezielt für Kurzstrecken im städtischen Raum eingesetzt, während Langstrecken vorerst weiterhin mit Verbrennungsfahrzeugen bedient werden. Eine vollständige Umstellung, so die Geschäftsführung, sei erst sinnvoll, wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert habe.",
+      "items": [
+        {
+          "question": "Was war laut Text ein positiver Effekt der Umstellung auf Elektrofahrzeuge?",
+          "options": [
+            "Die Anschaffungskosten sanken deutlich.",
+            "Die Wartungskosten sanken um etwa 30 Prozent.",
+            "Die Lieferzeiten verkürzten sich generell."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Laut Text traten die Reichweitenprobleme vor allem auf kurzen Strecken in der Stadt auf.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Welche Konsequenz zieht das Unternehmen aus den gemischten Erfahrungen?",
+          "options": [
+            "Vollständige Rückkehr zu Verbrennungsfahrzeugen.",
+            "Elektrofahrzeuge gezielt für Kurzstrecken einsetzen, Langstrecken weiter mit Verbrennern bedienen.",
+            "Sofortige vollständige Umstellung auf Elektrofahrzeuge."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Unter welcher Bedingung hält die Geschäftsführung eine vollständige Umstellung für sinnvoll?",
+          "options": [
+            "Wenn die Anschaffungspreise weiter sinken.",
+            "Wenn sich die Ladeinfrastruktur auf dem Land deutlich verbessert.",
+            "Wenn alle Fahrer damit einverstanden sind."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 3 — Zuordnung von Anzeigen, Satz 2",
+  "description": "Finden Sie für jede Situation die passende Anzeige.",
+  "difficulty_tag": "Medium",
+  "order_index": 10,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 3 — Zuordnung von Anzeigen",
+      "passage": "Finden Sie für jede Situation die passende Anzeige.\n\nEin Jugendlicher sucht einen bezahlten Praktikumsplatz bei Veranstaltungen und möchte danach bei großen Konzerten arbeiten.",
+      "items": [
+        {
+          "question": "Ein Jugendlicher sucht einen bezahlten Praktikumsplatz bei Veranstaltungen und möchte danach bei großen Konzerten arbeiten.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "F",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Tobias soll demnächst Vereinsabende strukturieren und sucht Training für Gesprächsleitung, nicht für Theater.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "G",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Mara möchte bei einem sozialen Essen helfen, hat aber keine Ausbildung in der Gastronomie und sucht kein Geld.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "H",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ein Freund will bei einem Viertelprojekt hinter der Szene Termine und Tonnotizen unterstützen, ohne aufzutreten.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "I",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Frau Kranz möchte mit ihrem eigenen Gerät Gespräche per Kamera und grundlegende Bedienung üben; eine technische Prüfung braucht sie nicht.",
+          "options": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "x (keine passende Anzeige)"
+          ],
+          "answer": "J",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Aushang: Zufahrtsänderung wegen Bauarbeiten",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 22,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Aushang: Zufahrtsänderung wegen Bauarbeiten",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nWICHTIGER HINWEIS FÜR ALLE BESCHÄFTIGTEN UND BESUCHER\n\nAb kommendem Montag beginnen die angekündigten Bauarbeiten am Haupteingang. Für die Dauer der Baumaßnahme (voraussichtlich sechs Wochen) gilt Folgendes:\n\n• Die Hauptzufahrt über die Bahnhofstraße ist gesperrt.\n• Die Einfahrt erfolgt ausschließlich über den Seiteneingang an der Werkstraße.\n• Der bisherige Besucherparkplatz entfällt vorübergehend; Ausweichparkplätze stehen auf dem Gelände der benachbarten Spedition zur Verfügung (Zufahrt über Werkstraße 12).\n• Mitarbeitende mit Fahrrad nutzen weiterhin den gewohnten Zugang über den Hinterhof.\n\nWir bitten alle Beschäftigten, mit zusätzlichen 10 bis 15 Minuten Fahrzeit einzuplanen, insbesondere in den ersten Tagen der Umstellung. Lieferungen für die Warenannahme sind ab Montag ausschließlich zwischen 7 und 9 Uhr über die Werkstraße möglich; abweichende Lieferzeiten sind vorab mit dem Facility Management abzustimmen.\n\nBei Fragen wenden Sie sich an das Facility Management, Durchwahl -420.",
+      "items": [
+        {
+          "question": "Wie lange sollen die Bauarbeiten voraussichtlich dauern?",
+          "options": [
+            "Sechs Tage",
+            "Sechs Monate",
+            "Sechs Wochen"
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Der bisherige Besucherparkplatz bleibt während der Bauarbeiten normal nutzbar.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Über welchen Zugang gelangen Mitarbeitende mit dem Fahrrad weiterhin zum Gelände?",
+          "options": [
+            "Über die Werkstraße wie Lieferfahrzeuge.",
+            "Über den gewohnten Zugang am Hinterhof.",
+            "Über den Parkplatz der Spedition."
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was muss bei Lieferungen außerhalb der Zeiten 7–9 Uhr beachtet werden?",
+          "options": [
+            "Sie erfolgen automatisch über den Seiteneingang.",
+            "Sie sind grundsätzlich nicht mehr möglich.",
+            "Sie müssen vorab mit dem Facility Management abgestimmt werden."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

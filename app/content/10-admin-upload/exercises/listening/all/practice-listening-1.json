@@ -1,0 +1,57 @@
+{
+  "module": "listening",
+  "tag": "all",
+  "title": "Hörverstehen — Team-Besprechung: Dienstplanänderung",
+  "description": "Hören Sie das Gespräch und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Medium",
+  "order_index": 1,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Team-Besprechung — Dienstplanänderung",
+      "audio": "practice_listening_1_dienstplan.mp3",
+      "passage": "Hören Sie das Gespräch und beantworten Sie die Aufgaben.\n\nTRANSKRIPT:\nSTATIONSLEITUNG: Ich wollte kurz mit euch besprechen, dass wir ab nächster Woche den Dienstplan anpassen müssen. Zwei Kolleginnen sind länger krankgeschrieben.\nPFLEGEKRAFT A: Heißt das, wir müssen mehr Nachtschichten übernehmen?\nSTATIONSLEITUNG: Nicht unbedingt mehr, aber wir verteilen sie anders. Ich schlage vor, dass wir eine rotierende Liste einführen, damit es nicht immer dieselben trifft.\nPFLEGEKRAFT B: Das finde ich gut, aber können wir das schriftlich festhalten? Sonst wird am Ende doch wieder improvisiert.\nSTATIONSLEITUNG: Ja, gute Idee. Ich hänge die Liste ab Montag im Dienstzimmer aus.\nPFLEGEKRAFT A: Und wenn jemand kurzfristig tauschen muss?\nSTATIONSLEITUNG: Dann bitte direkt mit mir absprechen, nicht nur untereinander — sonst habe ich keinen Überblick.",
+      "items": [
+        {
+          "question": "Warum muss der Dienstplan angepasst werden?",
+          "options": [
+            "Die Station wird geschlossen.",
+            "Es gibt zu viele Bewerbungen.",
+            "Zwei Kolleginnen sind länger krankgeschrieben."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Die Stationsleitung schlägt vor, dass es ab jetzt deutlich mehr Nachtschichten für alle gibt.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was fordert Pflegekraft B zusätzlich zur rotierenden Liste?",
+          "options": [
+            "dass es mehr Personal gibt",
+            "dass die Regelung schriftlich festgehalten wird",
+            "dass die Nachtschichten abgeschafft werden"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Was soll passieren, wenn jemand kurzfristig tauschen muss?",
+          "options": [
+            "gar nicht mehr tauschen",
+            "direkt mit der Stationsleitung absprechen",
+            "einfach untereinander regeln"
+          ],
+          "answer": "B",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

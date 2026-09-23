@@ -1,0 +1,56 @@
+{
+  "module": "reading",
+  "tag": "all",
+  "title": "Leseverstehen — Interview: Quereinstieg in die IT mit 42",
+  "description": "Lesen Sie den Text und beantworten Sie die Aufgaben.",
+  "difficulty_tag": "Easy",
+  "order_index": 17,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Interview: Quereinstieg in die IT mit 42",
+      "passage": "Lesen Sie den Text und beantworten Sie die Aufgaben.\n\nREDAKTION: Sie haben mit 42 Jahren Ihre Ausbildung als Bankkauffrau aufgegeben und sind in die IT-Branche gewechselt. Was hat den Ausschlag gegeben?\n\nFRAU MORAWEK: Ehrlich gesagt war es keine spontane Entscheidung, sondern ein schleichender Prozess. Ich habe in der Bank zunehmend gemerkt, dass mich genau die Prozesse interessierten, die im Hintergrund liefen — also die Software, nicht das Kundengespräch. Irgendwann habe ich abends angefangen, online Programmierkurse zu machen, erst aus Neugier, dann immer ernsthafter.\n\nREDAKTION: War der Umstieg schwierig?\n\nFRAU MORAWEK: Fachlich ja, menschlich noch mehr. Ich saß plötzlich in Kursen mit 22-Jährigen, die drei Jahre Informatikstudium hinter sich hatten, und ich mit meinen Excel-Kenntnissen. Am Anfang habe ich mich oft gefragt, ob ich zu alt für den Neuanfang bin.\n\nREDAKTION: Und heute?\n\nFRAU MORAWEK: Heute sehe ich es umgekehrt: Meine zwanzig Berufsjahre waren kein Nachteil, sondern ein Vorteil. Ich verstehe, wie ein Unternehmen tickt, wie man mit Kunden kommuniziert, wie man unter Druck ruhig bleibt. Das bringt kein Bootcamp bei. Jüngeren würde ich sagen: Unterschätzt nicht, was ihr aus einem ganz anderen Berufsleben mitbringt.",
+      "items": [
+        {
+          "question": "Wie beschreibt Frau Morawek ihre Entscheidung zum Berufswechsel?",
+          "options": [
+            "Als Entscheidung, die ihr aufgezwungen wurde.",
+            "Als spontanen, plötzlichen Entschluss.",
+            "Als schleichenden Prozess, nicht als spontane Entscheidung."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Frau Morawek fand den Umstieg nur fachlich, nicht aber menschlich schwierig.",
+          "options": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "B",
+          "type": "true_false"
+        },
+        {
+          "question": "Was sieht Frau Morawek heute als Vorteil ihres Quereinstiegs?",
+          "options": [
+            "Ihr jüngeres Alter im Vergleich zu Kollegen.",
+            "Ihre technischen Programmierkenntnisse von Anfang an.",
+            "Ihre bisherige Berufserfahrung mit Kunden und Druck."
+          ],
+          "answer": "C",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Welchen Rat gibt Frau Morawek jüngeren Quereinsteigern?",
+          "options": [
+            "Nicht unterschätzen, was man aus einem anderen Berufsleben mitbringt.",
+            "Sich nicht mit jüngeren Kollegen vergleichen.",
+            "Erst ein vollständiges Studium abschließen."
+          ],
+          "answer": "A",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

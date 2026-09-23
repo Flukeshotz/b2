@@ -1,0 +1,417 @@
+{
+  "exam_type": "skillcase",
+  "paper": {
+    "title": "Skillcase B2 — Einstufung V1",
+    "proficiency_level": "B2",
+    "difficulty_tag": "Medium",
+    "duration_minutes": 15,
+    "order_index": 1
+  },
+  "blocks": [
+    {
+      "type": "reading",
+      "duration_minutes": 6,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Forum: Müssen Besprechungen wirklich sein?",
+          "passage": "Lesen Sie den Forumsbeitrag und beantworten Sie die Fragen.\n\nBei uns im Betrieb gibt es seit Januar eine neue Regel: Jede Besprechung dauert\nhöchstens dreißig Minuten, und wer nichts beizutragen hat, muss nicht teilnehmen.\n\nIch war zunächst skeptisch. Meine Sorge war, dass Entscheidungen dann in kleinen Runden\nfallen und der Rest des Teams erst hinterher davon erfährt. Genau das ist an meiner\nfrüheren Stelle passiert.\n\nNach einem halben Jahr muss ich zugeben, dass ich mich geirrt habe — jedenfalls\nteilweise. Die Besprechungen sind tatsächlich kürzer geworden, ohne dass wir weniger\nklären. Das liegt aber nicht an der Zeitbegrenzung selbst, sondern daran, dass jetzt\nvorher jemand aufschreibt, worum es überhaupt geht. Ohne diese Tagesordnung wäre die\nhalbe Stunde einfach schneller vorbei, nicht produktiver.\n\nWas mich weiterhin stört, ist das Protokoll. Es wird zwar geschrieben, aber offenbar von\nniemandem gelesen. Wer in der Besprechung war, braucht es nicht; wer nicht da war, findet\ndarin nicht, was er wissen müsste. Solange das so ist, ersetzt es kein Gespräch.\n\nAbschaffen würde ich die Regel trotzdem nicht.",
+          "items": [
+            {
+              "question": "Wie beurteilt der Autor die neue Regel insgesamt?",
+              "options": [
+                "Er hält sie inzwischen für gescheitert.",
+                "Er hält sie für wirksam, sieht aber weiterhin ein Problem.",
+                "Er findet sie überflüssig, weil sich nichts geändert hat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Der Autor sagt, die Besprechungen seien kürzer geworden, ohne dass weniger geklärt wird.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "A",
+              "type": "true_false"
+            },
+            {
+              "question": "Was räumt der Autor ein?",
+              "options": [
+                "Dass seine ursprüngliche Befürchtung sich nicht bestätigt hat.",
+                "Dass das Protokoll inzwischen gut funktioniert.",
+                "Dass er selbst zu selten an Besprechungen teilnimmt."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Worauf führt der Autor die kürzeren Besprechungen zurück?",
+              "options": [
+                "Auf die Zeitbegrenzung von dreißig Minuten.",
+                "Auf die Tagesordnung, die vorher geschrieben wird.",
+                "Auf die kleinere Zahl der Teilnehmenden."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche zwei Aussagen treffen auf den Text zu?",
+              "options": [
+                "Der Autor hat an einer früheren Stelle schlechte Erfahrungen gemacht.",
+                "Das Protokoll wird nach Ansicht des Autors kaum genutzt.",
+                "Der Autor nimmt selbst nicht mehr an Besprechungen teil.",
+                "Die neue Regel gilt erst seit wenigen Wochen."
+              ],
+              "answer": [
+                "A",
+                "B"
+              ],
+              "type": "mcq_multi"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 1?",
+              "options": [
+                "Er nennt, was ihn weiterhin stört.",
+                "Er beschreibt die neue Regel.",
+                "Er räumt ein, dass er sich geirrt hat.",
+                "Er schildert seine anfängliche Sorge."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 2?",
+              "options": [
+                "Er nennt, was ihn weiterhin stört.",
+                "Er beschreibt die neue Regel.",
+                "Er räumt ein, dass er sich geirrt hat.",
+                "Er schildert seine anfängliche Sorge."
+              ],
+              "answer": "D",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 3?",
+              "options": [
+                "Er nennt, was ihn weiterhin stört.",
+                "Er beschreibt die neue Regel.",
+                "Er räumt ein, dass er sich geirrt hat.",
+                "Er schildert seine anfängliche Sorge."
+              ],
+              "answer": "C",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Bringen Sie die Gedankenschritte in die Reihenfolge des Textes.\nWas steht an Stelle 4?",
+              "options": [
+                "Er nennt, was ihn weiterhin stört.",
+                "Er beschreibt die neue Regel.",
+                "Er räumt ein, dass er sich geirrt hat.",
+                "Er schildert seine anfängliche Sorge."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Sprache im Kontext (1)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Der Plan kostet Zeit. Ich halte ihn für richtig.",
+                "Der Plan kostet zwar Zeit, ich halte ihn aber für richtig."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wir verschieben den Punkt auf nächste Woche.",
+                "Man könnte den Punkt auf nächste Woche verschieben."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Wegen des fehlenden Berichts verschieben wir die Besprechung.",
+                "Wegen dem fehlenden Bericht verschieben wir die Besprechung."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Der Punkt wurde vertagt, weil die Zahlen fehlten und eine Entscheidung ohne sie nicht möglich gewesen wäre.",
+                "Der Punkt wurde vertagt. Die Zahlen fehlten. Eine Entscheidung war nicht möglich."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Lücke 1: In der Besprechung wurde schließlich eine Entscheidung ___, nachdem alle Abteilungen ihre Bedenken (2) hatten.",
+              "answer": [
+                "getroffen",
+                "Getroffen"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: In der Besprechung wurde schließlich eine Entscheidung (1), nachdem alle Abteilungen ihre Bedenken ___ hatten.",
+              "answer": [
+                "geäußert",
+                "Geäußert",
+                "vorgebracht",
+                "Vorgebracht"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 1: Die ___ der neuen Regel hat die (2) der Besprechungen deutlich verkürzt.",
+              "answer": [
+                "Einführung",
+                "einführung"
+              ],
+              "type": "fill_blanks"
+            },
+            {
+              "question": "Lücke 2: Die (1) der neuen Regel hat die ___ der Besprechungen deutlich verkürzt.",
+              "answer": [
+                "Dauer",
+                "dauer"
+              ],
+              "type": "fill_blanks"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Sprache im Kontext (2)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\neine Entscheidung",
+              "options": [
+                "nehmen",
+                "treffen",
+                "kommen",
+                "stehen"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nRücksicht",
+              "options": [
+                "nehmen",
+                "treffen",
+                "kommen",
+                "stehen"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nzur Verfügung",
+              "options": [
+                "nehmen",
+                "treffen",
+                "kommen",
+                "stehen"
+              ],
+              "answer": "D",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welches Verb gehört zu welchem Nomen?\nin Frage",
+              "options": [
+                "nehmen",
+                "treffen",
+                "kommen",
+                "stehen"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Sprache im Kontext (3)",
+          "passage": "Welche Formulierung passt besser?",
+          "items": [
+            {
+              "question": "Welcher Satz passt besser?",
+              "options": [
+                "Ich wollte nur kurz Bescheid sagen, dass das Meeting geschoben wurde.",
+                "Ich möchte Sie darüber informieren, dass die Besprechung verschoben wurde."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Welche Reaktion ist auf B2-Niveau angemessen?",
+              "options": [
+                "Lassen Sie mich bitte ausreden — ich bin gleich fertig.",
+                "Ich war noch nicht fertig! Immer unterbrechen Sie mich.",
+                "Entschuldigung, dann höre ich auf."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "duration_minutes": 3,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Im Büro. Zwei Kolleginnen sprechen über die Teambesprechung. (1)",
+          "audio": "core2026b_v1_besprechung.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Wann findet die Besprechung statt?",
+              "options": [
+                "Am Dienstag um zehn.",
+                "Am Donnerstag um zehn.",
+                "Erst im nächsten Monat."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Wie bewertet Kollegin B, dass das Thema Homeoffice verschoben wurde?",
+              "options": [
+                "Sie ärgert sich darüber.",
+                "Sie hält es für vernünftig.",
+                "Sie hat dazu keine Meinung."
+              ],
+              "answer": "B",
+              "type": "mcq_single"
+            },
+            {
+              "question": "Die Tagesordnung ist noch nicht verfügbar.",
+              "options": [
+                "Richtig",
+                "Falsch"
+              ],
+              "answer": "B",
+              "type": "true_false"
+            },
+            {
+              "question": "Warum wurde die Besprechung verschoben?",
+              "options": [
+                "Weil Zahlen aus dem Vertrieb fehlen.",
+                "Weil die Tagesordnung nicht fertig war.",
+                "Weil zu wenige Kolleginnen Zeit hatten."
+              ],
+              "answer": "A",
+              "type": "mcq_single"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Im Büro. Zwei Kolleginnen sprechen über die Teambesprechung. (2)",
+          "audio": "core2026b_v1_besprechung.mp3",
+          "passage": "Hören Sie das Gespräch einmal und beantworten Sie die Fragen.",
+          "items": [
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Moment, habe ich das richtig verstanden …?“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "B",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Ehrlich gesagt finde ich das vernünftig.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "A",
+              "type": "matching_headers"
+            },
+            {
+              "question": "Welche Funktion hat welche Äußerung?\n„Sie hat nur einen Punkt gestrichen.“",
+              "options": [
+                "eine Meinung äußern",
+                "sich vergewissern",
+                "eine Information weitergeben"
+              ],
+              "answer": "C",
+              "type": "matching_headers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "writing",
+      "duration_minutes": 5,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Schreiben",
+          "passage": "Bearbeiten Sie die folgenden Aufgaben.",
+          "items": [
+            {
+              "question": "Fassen Sie in zwei bis drei Sätzen zusammen, was der Autor des Forumsbeitrags über die neue Besprechungsregel denkt. Nennen Sie auch, was er weiterhin kritisiert.",
+              "word_limit": 40,
+              "expected_answer": "Der Autor begrüßt die neue Besprechungsregel grundsätzlich, da sie für mehr Struktur sorgt. Er bemängelt jedoch weiterhin, dass das Protokoll oft zu spät verschickt wird und wichtige Entscheidungen nicht klar genug festhält."
+            },
+            {
+              "question": "Ihre Teamleiterin sagt: „Den Punkt schieben wir auf nächsten Monat.“ Sie sind nicht sicher, welchen Punkt sie meint und ob die Besprechung trotzdem stattfindet. Formulieren Sie zwei höfliche Rückfragen.",
+              "word_limit": 30,
+              "expected_answer": "Entschuldigung, könnten Sie mir bitte kurz sagen, welchen Punkt genau wir verschieben? Und findet unser morgiges Meeting trotzdem wie geplant statt?"
+            },
+            {
+              "question": "In Ihrem Betrieb wird diskutiert, ob Besprechungen durch schriftliche Updates ersetzt werden sollen. Schreiben Sie einen Beitrag für das Intranet-Forum.\n• Sagen Sie, was Sie davon halten.\n• Begründen Sie Ihre Position mit mindestens zwei Argumenten.\n• Gehen Sie auf einen Nachteil Ihrer eigenen Position ein.\n• Machen Sie einen konkreten Vorschlag.",
+              "word_limit": 90,
+              "expected_answer": "Liebe Kolleginnen und Kollegen,\n\nich halte die Idee, alle Besprechungen durch schriftliche Updates zu ersetzen, für problematisch. Erstens geht dabei der wertvolle persönliche Austausch verloren. Gerade bei komplexen Projekten lassen sich Missverständnisse im direkten Gespräch viel schneller klären als in langen E-Mail-Ketten. Zweitens leidet die Teamdynamik, weil kreatives Brainstorming und spontane Ideen in einem rein schriftlichen Format kaum entstehen können. Zugegebenermaßen kosten Meetings manchmal zu viel Zeit, und genau deshalb schlage ich einen Mittelweg vor: Wir könnten die wöchentliche Regelbesprechung auf 30 Minuten straffen und durch ein kurzes schriftliches Status-Update im Vorfeld ergänzen. So bleibt der persönliche Kontakt erhalten, ohne ineffizient zu sein.\n\nViele Grüße\nM. Weber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "speaking",
+      "duration_minutes": 2,
+      "questions": [
+        {
+          "order": 1,
+          "title": "Sprechen",
+          "passage": "Sprechen Sie etwa 60 bis 90 Sekunden.",
+          "prompt_type": "text",
+          "items": [
+            {
+              "question": "Manche Teams ersetzen ihre wöchentliche Besprechung durch ein kurzes schriftliches Update. Was halten Sie für sinnvoller? Begründen Sie Ihre Meinung und gehen Sie kurz auf einen Nachteil der anderen Möglichkeit ein.",
+              "speech_time_limit": 90,
+              "prompt_type": "text",
+              "reference_text": "Ich persönlich finde die Idee, ein wöchentliches Meeting durch ein schriftliches Update zu ersetzen, in den meisten Fällen deutlich sinnvoller. Ein großer Vorteil ist für mich die enorme Zeitersparnis. Oft dauern Besprechungen eine Stunde oder länger, und nicht alle Informationen sind für jeden Teilnehmer wirklich relevant. Ein schriftliches Update kann man viel effizienter lesen, und zwar genau dann, wenn man Zeit hat. Ein zweiter wichtiger Punkt ist die bessere Dokumentation. Wenn alles schriftlich festgehalten wird, gibt es später keine Missverständnisse, und man kann jederzeit nachlesen, was genau besprochen oder entschieden wurde. Natürlich muss man zugeben, dass bei einem schriftlichen Update der persönliche Austausch fehlt. Spontane Nachfragen oder kreative Diskussionen, die oft zu guten Ideen führen, sind so kaum möglich. Allerdings denke ich, dass man dieses Problem lösen kann, indem man das schriftliche Update mit einem kurzen, monatlichen Meeting kombiniert. Aus diesem Grund bin ich der Ansicht, dass das schriftliche Update die bessere Basis für die wöchentliche Kommunikation ist.",
+              "model_answer": "Ich persönlich finde die Idee, ein wöchentliches Meeting durch ein schriftliches Update zu ersetzen, in den meisten Fällen deutlich sinnvoller. Ein großer Vorteil ist für mich die enorme Zeitersparnis. Oft dauern Besprechungen eine Stunde oder länger, und nicht alle Informationen sind für jeden Teilnehmer wirklich relevant. Ein schriftliches Update kann man viel effizienter lesen, und zwar genau dann, wenn man Zeit hat. Ein zweiter wichtiger Punkt ist die bessere Dokumentation. Wenn alles schriftlich festgehalten wird, gibt es später keine Missverständnisse, und man kann jederzeit nachlesen, was genau besprochen oder entschieden wurde. Natürlich muss man zugeben, dass bei einem schriftlichen Update der persönliche Austausch fehlt. Spontane Nachfragen oder kreative Diskussionen, die oft zu guten Ideen führen, sind so kaum möglich. Allerdings denke ich, dass man dieses Problem lösen kann, indem man das schriftliche Update mit einem kurzen, monatlichen Meeting kombiniert. Aus diesem Grund bin ich der Ansicht, dass das schriftliche Update die bessere Basis für die wöchentliche Kommunikation ist.",
+              "expected_answer": "Ich persönlich finde die Idee, ein wöchentliches Meeting durch ein schriftliches Update zu ersetzen, in den meisten Fällen deutlich sinnvoller. Ein großer Vorteil ist für mich die enorme Zeitersparnis. Oft dauern Besprechungen eine Stunde oder länger, und nicht alle Informationen sind für jeden Teilnehmer wirklich relevant. Ein schriftliches Update kann man viel effizienter lesen, und zwar genau dann, wenn man Zeit hat. Ein zweiter wichtiger Punkt ist die bessere Dokumentation. Wenn alles schriftlich festgehalten wird, gibt es später keine Missverständnisse, und man kann jederzeit nachlesen, was genau besprochen oder entschieden wurde. Natürlich muss man zugeben, dass bei einem schriftlichen Update der persönliche Austausch fehlt. Spontane Nachfragen oder kreative Diskussionen, die oft zu guten Ideen führen, sind so kaum möglich. Allerdings denke ich, dass man dieses Problem lösen kann, indem man das schriftliche Update mit einem kurzen, monatlichen Meeting kombiniert. Aus diesem Grund bin ich der Ansicht, dass das schriftliche Update die bessere Basis für die wöchentliche Kommunikation ist."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

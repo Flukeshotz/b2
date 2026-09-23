@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 30 — Bitte um Handlung: Zusätzliche Softwareschulung",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Medium",
+  "order_index": 30,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihr Team arbeitet seit Kurzem mit einer neuen Software, aber die Einarbeitung war zu knapp. Schreiben Sie eine Nachricht an die zuständige Stelle mit der Bitte um eine zusätzliche Schulung.\n• Beschreiben Sie kurz, welche Schwierigkeiten entstanden sind.\n• Formulieren Sie eine konkrete Bitte um Schulung.\n• Schlagen Sie ggf. einen Zeitrahmen vor.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Bitte um zusätzliche Schulung für die neue Software\n\nSehr geehrte Damen und Herren,\n\nseit Kurzem arbeitet unser Team mit der neuen Software. Leider ist aufgefallen, dass die Einarbeitung zu knapp war. Im Alltag kommt es häufig zu Unsicherheiten, zum Beispiel bei der Dateneingabe und beim Erstellen von Berichten. Dadurch verlieren wir viel Zeit und es schleichen sich Fehler ein.\n\nIch möchte Sie daher bitten, eine zusätzliche Schulung für unser Team zu organisieren. Optimal wäre ein halbtägiger Workshop, in dem wir gezielt Fragen stellen und typische Arbeitsschritte üben können. Wäre ein Termin in der nächsten oder übernächsten Woche möglich, am besten vormittags?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n[Name]"
+        }
+      ]
+    }
+  ]
+}

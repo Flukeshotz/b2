@@ -1,0 +1,22 @@
+{
+  "module": "writing",
+  "tag": "all",
+  "title": "Kurzantwort-Übung 20 — Beschwerde: Verspätete Gehaltsabrechnung",
+  "description": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+  "difficulty_tag": "Hard",
+  "order_index": 20,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Kurzantwort",
+      "passage": "Schreiben Sie einen kurzen, zusammenhängenden Text.",
+      "items": [
+        {
+          "question": "Ihre Gehaltsabrechnung ist zum dritten Mal in Folge verspätet angekommen. Schreiben Sie eine sachliche Beschwerde an die Personalabteilung.\n• Beschreiben Sie das wiederholte Muster (dreimal in Folge).\n• Bleiben Sie sachlich und konkret.\n• Fordern Sie eine Erklärung und eine Lösung für die Zukunft.",
+          "word_limit": 100,
+          "expected_answer": "Betreff: Wiederholt verspätete Gehaltsabrechnung\n\nSehr geehrte Damen und Herren,\n\nhiermit möchte ich Sie auf ein wiederkehrendes Problem aufmerksam machen. Meine Gehaltsabrechnung ist nun bereits den dritten Monat in Folge verspätet eingetroffen, konkret in den Monaten März, April und Mai dieses Jahres. Stets erhielt ich die Unterlagen erst um den 10. des Folgemonats, was meine private Finanzplanung erheblich erschwert.\n\nIch bitte Sie daher um eine kurze Erklärung, worauf diese wiederholte Verzögerung zurückzuführen ist. Zudem wäre ich Ihnen dankbar, wenn Sie mir verbindlich mitteilen könnten, wie die pünktliche Zustellung künftig sichergestellt wird.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Vorname Nachname]"
+        }
+      ]
+    }
+  ]
+}

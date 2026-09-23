@@ -1,0 +1,102 @@
+{
+  "module": "reading",
+  "tag": "telc",
+  "title": "telc B2 — Lesen Teil 1 — Zuordnung von Überschriften, Satz 2",
+  "description": "Lesen Sie die Texte und wählen Sie die passende Überschrift.",
+  "difficulty_tag": "Medium",
+  "order_index": 4,
+  "blocks": [
+    {
+      "order": 1,
+      "title": "Lesen Teil 1 — Zuordnung von Überschriften",
+      "passage": "Lesen Sie die Texte und wählen Sie die passende Überschrift.\n\nIn Hitzesommern wird die Stadt für viele Menschen zur Belastung. Besonders ältere Personen, kleine Kinder und Menschen ohne Balkon spüren, dass Asphalt und enge Straßen Wärme lange speichern. Einige Kommunen öffnen deshalb tagsüber Bibliotheken, Gemeindesäle und Foyers öffentlicher Gebäude als Aufenthaltsorte. Dort kann man sitzen, Wasser trinken und sich ausruhen, ohne etwas kaufen zu müssen. Das klingt zunächst unspektakulär, verändert aber die Rolle solcher Einrichtungen: Sie sind nicht nur Orte für Bücher, Verwaltung oder Veranstaltungen, sondern Teil der Gesundheitsvorsorge. Kritiker fragen, warum nicht einfach mehr Bäume gepflanzt werden. Stadtplaner antworten, dass beides nötig sei. Bäume brauchen Jahre, kühle Innenräume können sofort helfen. Der Umgang mit Hitze wird damit zu einer dauerhaften Planungsaufgabe, nicht zu einer kurzfristigen Notlösung. Mehrere Städte testen inzwischen ähnliche Räume und sammeln Rückmeldungen dazu, welche Gruppen sie wirklich erreichen. Dabei zeigt sich, dass Vertrauen, gute Ausschilderung und lange Öffnungszeiten fast so wichtig sind wie die Temperatur im Raum. Die Stadt veröffentlicht zusätzlich Karten mit schattigen Wegen und Orten, an denen man sich ausruhen kann. Für Menschen ohne Internet liegen Ausdrucke in Arztpraxen und Apotheken aus. So wird Hitzevorsorge nicht nur als Umweltfrage, sondern als soziale Aufgabe verstanden.",
+      "items": [
+        {
+          "question": "In Hitzesommern wird die Stadt für viele Menschen zur Belastung. Besonders ältere Personen, kleine Kinder und Menschen ohne Balkon spüren, dass Asphalt und enge Straßen Wärme lange speichern. Einige K...",
+          "options": [
+            "A: Mehr Schatten für heiße Straßen",
+            "B: Reparieren wird zur sozialen Gewohnheit",
+            "C: Hitzeschutz wird zur kommunalen Daueraufgabe",
+            "D: Neue Wasserstellen in trockenen Sommern",
+            "E: Naturschutz beginnt auf kleinen Flächen",
+            "F: Reparierte Geräte kehren in den Alltag zurück",
+            "G: Zahlen machen Gewohnheiten veränderbar",
+            "H: Energieberatung für sanierte Mietshäuser",
+            "I: Städte lernen, mit weniger Regen zurechtzukommen",
+            "J: Kleine Grünflächen verändern das Stadtbild"
+          ],
+          "answer": "F",
+          "type": "mcq_single"
+        },
+        {
+          "question": "In einem Wohnblock in Kiel hängen seit einem Jahr kleine Anzeigen im Eingangsbereich. Sie zeigen nicht den Verbrauch einzelner Familien, sondern den gemeinsamen Strombedarf für Licht, Aufzug und Wasch...",
+          "options": [
+            "A: Mehr Schatten für heiße Straßen",
+            "B: Reparieren wird zur sozialen Gewohnheit",
+            "C: Hitzeschutz wird zur kommunalen Daueraufgabe",
+            "D: Neue Wasserstellen in trockenen Sommern",
+            "E: Naturschutz beginnt auf kleinen Flächen",
+            "F: Reparierte Geräte kehren in den Alltag zurück",
+            "G: Zahlen machen Gewohnheiten veränderbar",
+            "H: Energieberatung für sanierte Mietshäuser",
+            "I: Städte lernen, mit weniger Regen zurechtzukommen",
+            "J: Kleine Grünflächen verändern das Stadtbild"
+          ],
+          "answer": "G",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Ein defekter Toaster, ein lockerer Stuhl, ein Fahrradlicht ohne Kontakt: Früher landeten solche Dinge oft schnell im Müll. In mehreren Stadtteilen entstehen inzwischen offene Werkstattnachmittage, bei...",
+          "options": [
+            "A: Mehr Schatten für heiße Straßen",
+            "B: Reparieren wird zur sozialen Gewohnheit",
+            "C: Hitzeschutz wird zur kommunalen Daueraufgabe",
+            "D: Neue Wasserstellen in trockenen Sommern",
+            "E: Naturschutz beginnt auf kleinen Flächen",
+            "F: Reparierte Geräte kehren in den Alltag zurück",
+            "G: Zahlen machen Gewohnheiten veränderbar",
+            "H: Energieberatung für sanierte Mietshäuser",
+            "I: Städte lernen, mit weniger Regen zurechtzukommen",
+            "J: Kleine Grünflächen verändern das Stadtbild"
+          ],
+          "answer": "H",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Lange galt Starkregen als Hauptproblem der Stadtentwässerung. Inzwischen bereiten sich manche Gemeinden aber ebenso auf das Gegenteil vor: Wochen ohne Niederschlag. Eine Kleinstadt in Brandenburg samm...",
+          "options": [
+            "A: Mehr Schatten für heiße Straßen",
+            "B: Reparieren wird zur sozialen Gewohnheit",
+            "C: Hitzeschutz wird zur kommunalen Daueraufgabe",
+            "D: Neue Wasserstellen in trockenen Sommern",
+            "E: Naturschutz beginnt auf kleinen Flächen",
+            "F: Reparierte Geräte kehren in den Alltag zurück",
+            "G: Zahlen machen Gewohnheiten veränderbar",
+            "H: Energieberatung für sanierte Mietshäuser",
+            "I: Städte lernen, mit weniger Regen zurechtzukommen",
+            "J: Kleine Grünflächen verändern das Stadtbild"
+          ],
+          "answer": "I",
+          "type": "mcq_single"
+        },
+        {
+          "question": "Zwischen zwei Parkplätzen vor einem Supermarkt liegt ein schmaler Streifen Erde, der früher regelmäßig gemäht wurde. Seit eine lokale Umweltgruppe dort Wildblumen aussät und nur noch Wege freischneide...",
+          "options": [
+            "A: Mehr Schatten für heiße Straßen",
+            "B: Reparieren wird zur sozialen Gewohnheit",
+            "C: Hitzeschutz wird zur kommunalen Daueraufgabe",
+            "D: Neue Wasserstellen in trockenen Sommern",
+            "E: Naturschutz beginnt auf kleinen Flächen",
+            "F: Reparierte Geräte kehren in den Alltag zurück",
+            "G: Zahlen machen Gewohnheiten veränderbar",
+            "H: Energieberatung für sanierte Mietshäuser",
+            "I: Städte lernen, mit weniger Regen zurechtzukommen",
+            "J: Kleine Grünflächen verändern das Stadtbild"
+          ],
+          "answer": "J",
+          "type": "mcq_single"
+        }
+      ]
+    }
+  ]
+}

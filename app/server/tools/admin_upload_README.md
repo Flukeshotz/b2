@@ -42,14 +42,21 @@ before they are used for scoring.
 
 ## Audio
 
-`audio` holds a filename, which the uploader resolves against the attached ZIP.
-`_media-manifest.json` lists which files each upload needs. All source mp3s are in
-`app/server/public/b2/audio/`. To build every ZIP (flat, one per JSON that has audio),
-run this from `app/server`:
+Every upload that uses audio has its own folder with the JSON and its mp3 files side by side:
+
+```
+exercises/listening/goethe/goethe-b2-hoeren-1/
+├── goethe-b2-hoeren-1.json      "audio": "goethe_hoeren_1_mitarbeitergespraech.mp3"
+└── goethe_hoeren_1_mitarbeitergespraech.mp3
+```
+
+This applies to all listening exercises, the placement tests and the exam papers. The JSON's
+`audio` field names a file in the same folder. To upload, attach the JSON plus a flat ZIP of the
+mp3s in that folder. To build every ZIP at once, run this from `app/server`:
 
 ```bash
 node tools/export_admin_upload.js --zips
 ```
 
-The ZIPs are written to `app/content-upload-zips/`, which is gitignored.
-Files without audio (reading, writing, speaking) are uploaded as the JSON alone.
+The ZIPs go to `app/content-upload-zips/`, which is gitignored. Reading, writing and speaking
+exercises have no audio: each one is a single JSON file.

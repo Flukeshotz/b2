@@ -12,8 +12,10 @@
  * guide exactly — no extra fields — so every file can be uploaded as is:
  *
  *   exercises/<reading|listening|writing|speaking>/<goethe|telc|all>/<id>.json
- *   exam-papers/<goethe|telc>/<id>.json
- *   placement-tests/<id>.json            (exam-paper shape)
+ *   exam-papers/<goethe|telc>/<id>/<id>.json + its mp3s
+ *   placement-tests/<id>/<id>.json + its mp3s   (exam-paper shape)
+ * Anything with audio (all listening exercises, tests, exam papers) is a
+ * folder holding the JSON and the mp3s it references, side by side.
  *
  * Type conversion (our item_type → upload type):
  *   MCQ → mcq_single · TRUE_FALSE → true_false · MULTI_SELECT → mcq_multi
@@ -170,14 +172,28 @@ const load = (dir) => readDir(path.join(SRC, dir)).filter(f => f.endsWith(".json
   .sort((a, b) => a.id.localeCompare(b.id, "en", { numeric: true }));
 
 const written = [], media = {};
+/* A file that uses audio gets its own folder holding the JSON and every mp3
+   it names, so one folder = one upload (zip the mp3s, attach with the JSON).
+   Files without audio stay as a single JSON. */
 function write(rel, doc) {
+  const files = [...new Set(JSON.stringify(doc).match(/"audio":"([^"]+)"/g)?.map(m => m.slice(9, -1)) || [])];
+  if (files.length) rel = rel.replace(/([^/]+)\.json$/, "$1/$1.json");
   const f = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(f), { recursive: true });
   fs.writeFileSync(f, JSON.stringify(doc, null, 2) + "\n");
   written.push(rel);
-  const files = JSON.stringify(doc).match(/"audio":"([^"]+)"/g)?.map(m => m.slice(9, -1)) || [];
-  if (files.length) media[rel] = [...new Set(files)];
+  if (files.length) {
+    media[rel] = files;
+    for (const name of files) {
+      const src = findMedia(name);
+      if (!src) { missing.push(name); continue; }
+      fs.copyFileSync(src, path.join(path.dirname(f), name));
+      written.push(path.join(path.dirname(rel), name));
+    }
+  }
 }
+const missing = [];
+const findMedia = (name) => MEDIA_ROOTS.map(r => path.join(r, audioSource[name] || "")).find(f => audioSource[name] && fs.existsSync(f));
 
 fs.rmSync(OUT, { recursive: true, force: true });
 const counts = {};
@@ -203,10 +219,8 @@ for (const p of load("2-practice")) {
 
 /* Media: which audio files each upload needs in its ZIP. */
 const allMedia = [...new Set(Object.values(media).flat())].sort();
-const findMedia = (name) => MEDIA_ROOTS.map(r => path.join(r, audioSource[name] || "")).find(f => audioSource[name] && fs.existsSync(f));
-const missing = allMedia.filter(n => !findMedia(n));
 write("_media-manifest.json", {
-  note: "Each JSON below references these audio files by filename. Upload the JSON together with a flat ZIP of exactly these files. source_files gives where each one lives in the repo. `node tools/export_admin_upload.js --zips` builds every ZIP into app/content-upload-zips/.",
+  note: "Every upload that uses audio is a folder: the JSON plus the mp3s it names, side by side. To upload, attach the JSON and a flat ZIP of the mp3s in that folder (`node tools/export_admin_upload.js --zips` builds them all into app/content-upload-zips/).",
   source_files: Object.fromEntries(allMedia.map(n => [n, "app/server/public" + audioSource[n]])),
   files_per_upload: media,
 });

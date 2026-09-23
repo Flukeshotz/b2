@@ -1,5 +1,5 @@
 {
-  "note": "Each JSON below references these audio files by filename. Upload the JSON together with a flat ZIP of exactly these files. source_files gives where each one lives in the repo. `node tools/export_admin_upload.js --zips` builds every ZIP into app/content-upload-zips/.",
+  "note": "Every upload that uses audio is a folder: the JSON plus the mp3s it names, side by side. To upload, attach the JSON and a flat ZIP of the mp3s in that folder (`node tools/export_admin_upload.js --zips` builds them all into app/content-upload-zips/).",
   "source_files": {
     "core2026b_v10_dienstreise.mp3": "app/server/public/b2/audio/core2026b_v10_dienstreise.mp3",
     "core2026b_v1_besprechung.mp3": "app/server/public/b2/audio/core2026b_v1_besprechung.mp3",
@@ -66,205 +66,205 @@
     "telc_hoeren_2_ablagesystem.mp3": "app/server/public/b2/audio/telc_hoeren_2_ablagesystem.mp3"
   },
   "files_per_upload": {
-    "placement-tests/core-2026b-v1.json": [
+    "placement-tests/core-2026b-v1/core-2026b-v1.json": [
       "core2026b_v1_besprechung.mp3"
     ],
-    "placement-tests/core-2026b-v2.json": [
+    "placement-tests/core-2026b-v2/core-2026b-v2.json": [
       "core2026b_v2_itstoerung.mp3"
     ],
-    "placement-tests/core-2026b-v3.json": [
+    "placement-tests/core-2026b-v3/core-2026b-v3.json": [
       "core2026b_v3_teamtag.mp3"
     ],
-    "placement-tests/core-2026b-v4.json": [
+    "placement-tests/core-2026b-v4/core-2026b-v4.json": [
       "core2026b_v4_reklamation.mp3"
     ],
-    "placement-tests/core-2026b-v5.json": [
+    "placement-tests/core-2026b-v5/core-2026b-v5.json": [
       "core2026b_v5_homeoffice.mp3"
     ],
-    "placement-tests/core-2026b-v6.json": [
+    "placement-tests/core-2026b-v6/core-2026b-v6.json": [
       "core2026b_v6_schichttausch.mp3"
     ],
-    "placement-tests/core-2026b-v7.json": [
+    "placement-tests/core-2026b-v7/core-2026b-v7.json": [
       "core2026b_v7_weiterbildung.mp3"
     ],
-    "placement-tests/core-2026b-v8.json": [
+    "placement-tests/core-2026b-v8/core-2026b-v8.json": [
       "core2026b_v8_buerowechsel.mp3"
     ],
-    "placement-tests/core-2026b-v9.json": [
+    "placement-tests/core-2026b-v9/core-2026b-v9.json": [
       "core2026b_v9_mitarbeitergespraech.mp3"
     ],
-    "placement-tests/core-2026b-v10.json": [
+    "placement-tests/core-2026b-v10/core-2026b-v10.json": [
       "core2026b_v10_dienstreise.mp3"
     ],
-    "exam-papers/goethe/goethe-b2-complete-1.json": [
+    "exam-papers/goethe/goethe-b2-complete-1/goethe-b2-complete-1.json": [
       "goethe_hoeren_1_mitarbeitergespraech.mp3"
     ],
-    "exam-papers/goethe/goethe-b2-complete-2.json": [
+    "exam-papers/goethe/goethe-b2-complete-2/goethe-b2-complete-2.json": [
       "goethe_hoeren_2_selbststaendigkeit.mp3"
     ],
-    "exam-papers/telc/telc-b2-complete-1.json": [
+    "exam-papers/telc/telc-b2-complete-1/telc-b2-complete-1.json": [
       "telc_hoeren_1_kantine.mp3"
     ],
-    "exam-papers/telc/telc-b2-complete-2.json": [
+    "exam-papers/telc/telc-b2-complete-2/telc-b2-complete-2.json": [
       "telc_hoeren_2_ablagesystem.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-1.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-1/goethe-b2-hoeren-1.json": [
       "goethe_hoeren_1_mitarbeitergespraech.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-2.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-2/goethe-b2-hoeren-2.json": [
       "goethe_hoeren_2_selbststaendigkeit.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t1-s1.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t1-s1/goethe-b2-hoeren-t1-s1.json": [
       "goethe-b2-listening-teil1-q1.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t1-s2.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t1-s2/goethe-b2-hoeren-t1-s2.json": [
       "goethe-b2-listening-teil1-q3.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t1-s3.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t1-s3/goethe-b2-hoeren-t1-s3.json": [
       "goethe-b2-listening-teil1-set2-q1.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t2-s1.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t2-s1/goethe-b2-hoeren-t2-s1.json": [
       "goethe-b2-listening-teil2-set1.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t2-s2.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t2-s2/goethe-b2-hoeren-t2-s2.json": [
       "goethe-b2-listening-teil2-set2.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t2-s3.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t2-s3/goethe-b2-hoeren-t2-s3.json": [
       "goethe-b2-listening-teil2-set3.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t3-s1.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t3-s1/goethe-b2-hoeren-t3-s1.json": [
       "goethe-b2-listening-teil3-set1.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t3-s2.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t3-s2/goethe-b2-hoeren-t3-s2.json": [
       "goethe-b2-listening-teil3-set2.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t3-s3.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t3-s3/goethe-b2-hoeren-t3-s3.json": [
       "goethe-b2-listening-teil3-set3.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t4-s1.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t4-s1/goethe-b2-hoeren-t4-s1.json": [
       "goethe-b2-listening-teil4-set1.mp3"
     ],
-    "exercises/listening/goethe/goethe-b2-hoeren-t4-s2.json": [
+    "exercises/listening/goethe/goethe-b2-hoeren-t4-s2/goethe-b2-hoeren-t4-s2.json": [
       "goethe-b2-listening-teil4-set2.mp3"
     ],
-    "exercises/listening/all/practice-listening-1.json": [
+    "exercises/listening/all/practice-listening-1/practice-listening-1.json": [
       "practice_listening_1_dienstplan.mp3"
     ],
-    "exercises/listening/all/practice-listening-2.json": [
+    "exercises/listening/all/practice-listening-2/practice-listening-2.json": [
       "practice_listening_2_terminabsage.mp3"
     ],
-    "exercises/listening/all/practice-listening-3.json": [
+    "exercises/listening/all/practice-listening-3/practice-listening-3.json": [
       "practice_listening_3_reservierung.mp3"
     ],
-    "exercises/listening/all/practice-listening-4.json": [
+    "exercises/listening/all/practice-listening-4/practice-listening-4.json": [
       "practice_listening_4_physiotherapeutin.mp3"
     ],
-    "exercises/listening/all/practice-listening-5.json": [
+    "exercises/listening/all/practice-listening-5/practice-listening-5.json": [
       "practice_listening_5_fahrradverleih.mp3"
     ],
-    "exercises/listening/all/practice-listening-6.json": [
+    "exercises/listening/all/practice-listening-6/practice-listening-6.json": [
       "practice_listening_6_bahnhofsdurchsage.mp3"
     ],
-    "exercises/listening/all/practice-listening-7.json": [
+    "exercises/listening/all/practice-listening-7/practice-listening-7.json": [
       "practice_listening_7_umzugsplanung.mp3"
     ],
-    "exercises/listening/all/practice-listening-8.json": [
+    "exercises/listening/all/practice-listening-8/practice-listening-8.json": [
       "practice_listening_8_erbschaft.mp3"
     ],
-    "exercises/listening/all/practice-listening-9.json": [
+    "exercises/listening/all/practice-listening-9/practice-listening-9.json": [
       "practice_listening_9_wohnungskuendigung.mp3"
     ],
-    "exercises/listening/all/practice-listening-10.json": [
+    "exercises/listening/all/practice-listening-10/practice-listening-10.json": [
       "practice_listening_10_friseurtermin.mp3"
     ],
-    "exercises/listening/all/practice-listening-11.json": [
+    "exercises/listening/all/practice-listening-11/practice-listening-11.json": [
       "practice_listening_11_kundenproblem.mp3"
     ],
-    "exercises/listening/all/practice-listening-12.json": [
+    "exercises/listening/all/practice-listening-12/practice-listening-12.json": [
       "practice_listening_12_remotearbeit.mp3"
     ],
-    "exercises/listening/all/practice-listening-13.json": [
+    "exercises/listening/all/practice-listening-13/practice-listening-13.json": [
       "practice_listening_13_urlaubsplanung.mp3"
     ],
-    "exercises/listening/all/practice-listening-14.json": [
+    "exercises/listening/all/practice-listening-14/practice-listening-14.json": [
       "practice_listening_14_neues_tool.mp3"
     ],
-    "exercises/listening/all/practice-listening-15.json": [
+    "exercises/listening/all/practice-listening-15/practice-listening-15.json": [
       "practice_listening_15_uebergabe.mp3"
     ],
-    "exercises/listening/all/practice-listening-16.json": [
+    "exercises/listening/all/practice-listening-16/practice-listening-16.json": [
       "practice_listening_16_neue_software.mp3"
     ],
-    "exercises/listening/all/practice-listening-17.json": [
+    "exercises/listening/all/practice-listening-17/practice-listening-17.json": [
       "practice_listening_17_quereinstieg.mp3"
     ],
-    "exercises/listening/all/practice-listening-18.json": [
+    "exercises/listening/all/practice-listening-18/practice-listening-18.json": [
       "practice_listening_18_nachhaltigkeit.mp3"
     ],
-    "exercises/listening/all/practice-listening-19.json": [
+    "exercises/listening/all/practice-listening-19/practice-listening-19.json": [
       "practice_listening_19_besichtigung_absage.mp3"
     ],
-    "exercises/listening/all/practice-listening-20.json": [
+    "exercises/listening/all/practice-listening-20/practice-listening-20.json": [
       "practice_listening_20_produktrueckruf.mp3"
     ],
-    "exercises/listening/all/practice-listening-21.json": [
+    "exercises/listening/all/practice-listening-21/practice-listening-21.json": [
       "practice_listening_21_kundenservice.mp3"
     ],
-    "exercises/listening/all/practice-listening-22.json": [
+    "exercises/listening/all/practice-listening-22/practice-listening-22.json": [
       "practice_listening_22_teamfeier.mp3"
     ],
-    "exercises/listening/all/practice-listening-23.json": [
+    "exercises/listening/all/practice-listening-23/practice-listening-23.json": [
       "practice_listening_23_projektvorgehen.mp3"
     ],
-    "exercises/listening/all/practice-listening-24.json": [
+    "exercises/listening/all/practice-listening-24/practice-listening-24.json": [
       "practice_listening_24_berufswahl.mp3"
     ],
-    "exercises/listening/all/practice-listening-25.json": [
+    "exercises/listening/all/practice-listening-25/practice-listening-25.json": [
       "practice_listening_25_arzttermin.mp3"
     ],
-    "exercises/listening/all/practice-listening-26.json": [
+    "exercises/listening/all/practice-listening-26/practice-listening-26.json": [
       "practice_listening_26_medikamentenplan.mp3"
     ],
-    "exercises/listening/all/practice-listening-27.json": [
+    "exercises/listening/all/practice-listening-27/practice-listening-27.json": [
       "practice_listening_27_kantine.mp3"
     ],
-    "exercises/listening/all/practice-listening-28.json": [
+    "exercises/listening/all/practice-listening-28/practice-listening-28.json": [
       "practice_listening_28_laermbelaestigung.mp3"
     ],
-    "exercises/listening/all/practice-listening-29.json": [
+    "exercises/listening/all/practice-listening-29/practice-listening-29.json": [
       "practice_listening_29_pilotprojekt.mp3"
     ],
-    "exercises/listening/all/practice-listening-30.json": [
+    "exercises/listening/all/practice-listening-30/practice-listening-30.json": [
       "practice_listening_30_schichtwechsel.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-1.json": [
+    "exercises/listening/telc/telc-b2-hoeren-1/telc-b2-hoeren-1.json": [
       "telc_hoeren_1_kantine.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-2.json": [
+    "exercises/listening/telc/telc-b2-hoeren-2/telc-b2-hoeren-2.json": [
       "telc_hoeren_2_ablagesystem.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t1-s1.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t1-s1/telc-b2-hoeren-t1-s1.json": [
       "teil1-q1.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t1-s2.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t1-s2/telc-b2-hoeren-t1-s2.json": [
       "teil1-q6.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t1-s3.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t1-s3/telc-b2-hoeren-t1-s3.json": [
       "teil1-q11.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t2-s1.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t2-s1/telc-b2-hoeren-t2-s1.json": [
       "teil2-set1.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t2-s2.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t2-s2/telc-b2-hoeren-t2-s2.json": [
       "teil2-set2.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t3-s1.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t3-s1/telc-b2-hoeren-t3-s1.json": [
       "teil3-q1.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t3-s2.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t3-s2/telc-b2-hoeren-t3-s2.json": [
       "teil3-q6.mp3"
     ],
-    "exercises/listening/telc/telc-b2-hoeren-t3-s3.json": [
+    "exercises/listening/telc/telc-b2-hoeren-t3-s3/telc-b2-hoeren-t3-s3.json": [
       "teil3-q11.mp3"
     ]
   }

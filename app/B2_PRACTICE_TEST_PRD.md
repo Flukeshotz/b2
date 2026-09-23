@@ -4,7 +4,7 @@
 |---|---|
 | **Product** | Skillcase B2 — German B2 exam prep (Goethe-Zertifikat B2, telc Deutsch B2) |
 | **Status** | Screens built and running; handed over for engineering completion |
-| **Updated** | 2026-09-23 |
+| **Updated** | 2026-09-23 — product decisions D1–D5 recorded (§15) |
 | **Read with** | `HANDOVER.md` (how to run, code map) · `content/README.md` (content format) |
 
 This document says **what the product must do and why**, screen by screen,
@@ -27,8 +27,9 @@ practice that would fix it.
 
 ## 2. Goals
 
-1. **Measure** — a 15-minute test, taken first, that shows the learner
-   where she stands per skill.
+1. **Measure** — a 15-minute test, offered first (optional), that shows
+   the learner where she stands in all four skills: Reading, Listening,
+   Writing and Speaking.
 2. **Direct** — turn the result into specific practice suggestions.
 3. **Re-measure** — ten comparable test versions, so every retest is new
    content but the scores can be compared.
@@ -72,9 +73,14 @@ practice that would fix it.
 ### 5.1 Intended flow
 
 ```
-Sign up → Onboarding (3 questions) → Test 1 (15 min) → Result
+Sign up → Onboarding (3 questions) → Test 1 (15 min, skippable) → Result
        → Home → Practise suggested topics → Retest (Test 2…10) → compare
 ```
+
+The first test is **offered, not mandatory**: the learner can skip it and
+land on Home, where the "Take a test to check where you stand" banner stays
+until she takes one. How the skip is presented is an engineering/design
+call (Decision D1, §15).
 
 ### 5.2 Current build
 
@@ -90,7 +96,7 @@ Sign up → Home ──┬─ "Take a test…" banner → Test → Result → Ho
 on `home` and nothing navigates to `intro`. The onboarding also routes to
 the older `Check.jsx`, not the `core-2026b` test. To match the intended
 flow: first launch (no completed test) → `intro` → `onboarding` →
-`assessment` → `assessmentResult` → `home`; store the three onboarding
+`assessment` (with a visible Skip → `home`) → `assessmentResult` → `home`; store the three onboarding
 answers on the profile (the goal answer already selects the exam board —
 see `boardFor()` in `B2App.jsx`).
 
@@ -309,13 +315,22 @@ one recommended lesson.
 |---|---|---|
 | Overall test score | correct ÷ measured, over reading, listening, grammar, vocabulary items | `assessment_progress.js` |
 | Skipped item | not measured — never counted wrong | same |
-| Writing, speaking | excluded from the score (no answer key) | `isCore()` |
+| Writing, speaking | **today:** excluded (no auto-grading). **Required:** scored and included in the overall % (Decision D4) | `isCore()` |
 | Per-skill score | correct ÷ measured within that skill | `bySkill` |
 | Colour band — good (green) | ≥ 62 % | `profile.js` |
 | Colour band — developing (amber) | ≥ 42 % | `profile.js` |
 | Colour band — needs practice (red) | < 42 % | `profile.js` |
 | Change vs previous test | shown only if both tests are comparable versions and enough items were measured; under 5 points = "no clear change" | `assessment_progress.js` (`NOISE = 0.05`) |
 | Per-skill comparison | needs ≥ 3 measured items in that skill in both tests | `MIN_PER_SKILL` |
+
+**Required change (D4):** once writing and speaking are scored (§14 items
+2–3), they count toward the overall % and get real bars on the Test screen
+in place of "Not measured yet". How they are weighted against the objective
+items, and how a rubric/pronunciation score maps to a percentage, is the
+engineering team's decision — document it here when made. Note: adding them
+changes what the overall % means, so scores taken before the change are not
+directly comparable with scores after it; `assessment_progress.comparable()`
+must treat the two as different instruments.
 
 The one-line summary groups the test's skills by band: "X is good. Y is
 coming along. Z needs more practice."
@@ -425,7 +440,8 @@ When comparable: `delta = { value, direction: "up"|"down"|"flat", basis, claim }
 badge. Tapping shows: *"A deeper, item-by-item report is planned but not
 yet available to buy — this screen doesn't process payments."*
 
-To make it real:
+To make it real (what Premium unlocks and the price model are the
+engineering/business team's call — Decision D2):
 1. Decide what Premium unlocks (item-level report for all tests? only
    older tests?) and whether it is a subscription or per-report.
 2. Add a payment provider and an entitlement flag on the user.
@@ -458,22 +474,24 @@ None is implemented. Proposed events to support §2 metrics:
 | # | Item | Why |
 |---|---|---|
 | 1 | Wire onboarding → first test → home (GAP 1) | the intended test-first flow |
-| 2 | Speaking recorder + scoring in test and papers (GAP 3) | Speaking tile's 66 papers and test item are unanswerable |
-| 3 | Score writing in the test (GAP 4) | Writing bar reads "Not measured yet" |
+| 2 | Speaking recorder + scoring in test and papers (GAP 3); include in overall % (D4) | Speaking tile's 66 papers and test item are unanswerable |
+| 3 | Score writing in the test (GAP 4); include in overall % (D4) | Writing bar reads "Not measured yet" |
 | 4 | Practice mode for skill-list papers (GAP 2) | audio should replay in practice |
 | 5 | Native-speaker review of all content + AI model answers | nothing is SME-reviewed |
 | 6 | Premium entitlement + payments (§11) | monetisation |
 | 7 | Analytics (§13) | measure the goals |
 | 8 | German Jobs / German Classes tabs | currently inert |
+| 9 | More test versions beyond v1–v10 (D3) | when usage justifies it |
 
-## 15. Open questions for product
+## 15. Product decisions
 
-1. Should the first test be mandatory before Home, or skippable?
-2. What exactly does Premium unlock, and at what price model?
-3. After all 10 tests: recycle versions, or stop retesting?
-4. Should Writing/Speaking scores (once built) count toward the overall %,
-   or stay separate?
-5. Should the Detailed report stay reachable for free right after a test?
+| # | Question | Decision |
+|---|---|---|
+| D1 | Is the first test mandatory before Home? | **No — optional and skippable.** How it is offered is the engineering team's call. |
+| D2 | What does Premium unlock, and at what price model? | **Engineering/business team decides.** |
+| D3 | What happens after all 10 tests? | **Add more test versions once usage rates grow.** Until then the hero hides after Test 10. New versions must follow the same blueprint and pass `tools/audit_b2_core_2026b.js`. |
+| D4 | Do Writing/Speaking scores count toward the overall %? | **Yes — both must be scored and count toward the overall %.** Weighting and score mapping: engineering team decides. |
+| D5 | Is the Detailed report free right after a test? | **Engineering team decides.** |
 
 ## 16. Done checklist (this handover)
 
@@ -483,4 +501,4 @@ None is implemented. Proposed events to support §2 metrics:
 - [x] 10 comparable placement tests with answers (§9)
 - [x] Guidance + expected answers for all writing/speaking tasks (unreviewed)
 - [x] Full content export + database dump (`content/`)
-- [ ] GAP 1–4, Premium, analytics, content review (§14)
+- [ ] GAP 1–4, writing/speaking in the overall % (D4), Premium, analytics, content review (§14)
